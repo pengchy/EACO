@@ -1,0 +1,14 @@
+Package: org.Lmigratoria.eg.db
+Title: Genome wide annotation for Locusta migratoria
+Description: Genome wide annotation for Locusta migratoria, primarily based on mapping using Entrez Gene identifiers.
+Version: 0.1
+Author: Pengcheng Yang <yangpc@mail.biols.ac.cn>
+Maintainer: Pengcheng Yang <yangpc@mail.biols.ac.cn>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.28.1)
+Suggests: annotate, RUnit
+Imports: methods, AnnotationDbi
+License: Artistic-2.0
+organism: Locusta migratoria
+species: Locusta migratoria
+biocViews: OrgDb, annotation
+

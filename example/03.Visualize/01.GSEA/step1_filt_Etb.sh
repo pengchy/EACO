@@ -1,0 +1,1 @@
+R CMD BATCH /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/03.Visualize/01.GSEA/enrich.gsea.padj.tb.sig.R /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/03.Visualize/01.GSEA/enrich.gsea.padj.tb.sig.Rout

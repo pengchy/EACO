@@ -1,0 +1,7 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI16049	LOCMI16049	vacuolar H[+] ATPase 16kD subunit, isoform A	LOCMI16049	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16094	LOCMI16094	CG12859	LOCMI16094	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16008	LOCMI16008	D6WXE2_TRICA Putative uncharacterized protein	LOCMI16008	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI06328	LOCMI06328	NADH dehydrogenase subunit 5	LOCMI06328	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15775	LOCMI15775	PREDICTED: NADH dehydrogenase	LOCMI15775	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190

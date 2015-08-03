@@ -1,0 +1,45 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI16024	LOCMI16024	GH10285	4	0.444444444444	LOCMI16024	cytoplasm // intracellular // oxidation-reduction process // oxidoreductase activity
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	4	0.444444444444	LOCMI15980	cytoplasm // intracellular // oxidation-reduction process // oxidoreductase activity
+LOCMI15895	LOCMI15895	cytochrome c oxidase subunit VIIA putative	4	0.444444444444	LOCMI15895	cytoplasm // electron carrier activity // intracellular // oxidoreductase activity
+LOCMI15205	LOCMI15205	60S ribosomal protein L38	4	0.444444444444	LOCMI15205	cytoplasm // structural constituent of ribosome // intracellular // translation
+LOCMI12178	LOCMI12178	PREDICTED: ADP-ribosylation factor-like 6 interacting protein	4	0.444444444444	LOCMI12178	cytoplasm // structural constituent of ribosome // intracellular // translation
+LOCMI12177	LOCMI12177	40S ribosomal protein S15a	4	0.444444444444	LOCMI12177	cytoplasm // structural constituent of ribosome // intracellular // translation
+LOCMI11744	LOCMI11744	RecName: Full=40S ribosomal protein S13 gb|AAK92182.1|AF400210_1 ribosomal protein S13	4	0.444444444444	LOCMI11744	cytoplasm // structural constituent of ribosome // intracellular // translation
+LOCMI08036	LOCMI08036	PREDICTED: similar to ribosomal protein L37e	4	0.444444444444	LOCMI08036	cytoplasm // structural constituent of ribosome // intracellular // translation
+LOCMI08029	LOCMI08029	60S ribosomal protein L38	4	0.444444444444	LOCMI08029	cytoplasm // structural constituent of ribosome // intracellular // translation
+LOCMI05642	LOCMI05642	putative ribosomal protein S23e	4	0.444444444444	LOCMI05642	cytoplasm // structural constituent of ribosome // intracellular // translation
+LOCMI04634	LOCMI04634	40S ribosomal protein S13	4	0.444444444444	LOCMI04634	cytoplasm // structural constituent of ribosome // intracellular // translation
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	3	0.333333333333	LOCMI16195	electron carrier activity // oxidation-reduction process // oxidoreductase activity
+LOCMI15981	LOCMI15981	CG12859	3	0.333333333333	LOCMI15981	cytoplasm // intracellular // oxidoreductase activity
+LOCMI09430	LOCMI09430	xanthine dehydrogenase/oxidase	3	0.333333333333	LOCMI09430	electron carrier activity // oxidation-reduction process // oxidoreductase activity
+LOCMI07932	LOCMI07932	Q0E8V7_DROME CG34132	3	0.333333333333	LOCMI07932	cytoplasm // protein targeting // intracellular
+LOCMI03203	LOCMI03203	PREDICTED: importin subunit alpha-2-like	3	0.333333333333	LOCMI03203	cytoplasm // protein targeting // intracellular
+LOCMI00586	LOCMI00586	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	3	0.333333333333	LOCMI00586	cytoplasm // protein targeting // intracellular
+LOCMI00585	LOCMI00585	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	3	0.333333333333	LOCMI00585	cytoplasm // protein targeting // intracellular
+LOCMI16357	LOCMI16357	thioredoxin-like protein	2	0.222222222222	LOCMI16357	electron carrier activity // oxidoreductase activity
+LOCMI16101	LOCMI16101	Q17M16_AEDAE Fatty acid synthase	2	0.222222222222	LOCMI16101	oxidation-reduction process // oxidoreductase activity
+LOCMI15934	LOCMI15934	ATP-citrate synthase	2	0.222222222222	LOCMI15934	cytoplasm // intracellular
+LOCMI15880	LOCMI15880	Q7QDK4_ANOGA AGAP003408-PA	2	0.222222222222	LOCMI15880	oxidation-reduction process // oxidoreductase activity
+LOCMI15867	LOCMI15867	aldose reductase, putative	2	0.222222222222	LOCMI15867	oxidation-reduction process // oxidoreductase activity
+LOCMI12279	LOCMI12279	Q1HPY0_BOMMO Zinc-containing alcohol dehydrogenase	2	0.222222222222	LOCMI12279	oxidation-reduction process // oxidoreductase activity
+LOCMI09478	LOCMI09478	L-xylulose reductase	2	0.222222222222	LOCMI09478	oxidation-reduction process // oxidoreductase activity
+LOCMI05622	LOCMI05622	Q1HQU9_AEDAE Protein disulfide isomerase	2	0.222222222222	LOCMI05622	electron carrier activity // oxidoreductase activity
+LOCMI03739	LOCMI03739	AGAP006221-PA	2	0.222222222222	LOCMI03739	oxidation-reduction process // oxidoreductase activity
+LOCMI03230	LOCMI03230	PREDICTED: ribonucleotide reductase M2 polypeptide-like	2	0.222222222222	LOCMI03230	oxidation-reduction process // oxidoreductase activity
+LOCMI16352	LOCMI16352	heat shock protein 20	1	0.111111111111	LOCMI16352	response to abiotic stimulus
+LOCMI16279	LOCMI16279	Peroxiredoxin 1	1	0.111111111111	LOCMI16279	oxidoreductase activity
+LOCMI16273	LOCMI16273	peroxiredoxin	1	0.111111111111	LOCMI16273	oxidoreductase activity
+LOCMI16263	LOCMI16263	E9IID8_SOLIN Putative uncharacterized protein (Fragment)	1	0.111111111111	LOCMI16263	oxidoreductase activity
+LOCMI15512	LOCMI15512	heat shock protein 20.7	1	0.111111111111	LOCMI15512	response to abiotic stimulus
+LOCMI15510	LOCMI15510	heat shock protein 20.5	1	0.111111111111	LOCMI15510	response to abiotic stimulus
+LOCMI11649	LOCMI11649	mitosis protein dim1	1	0.111111111111	LOCMI11649	intracellular
+LOCMI09659	LOCMI09659	B0G0U7_MONAT Beta1-tubulin	1	0.111111111111	LOCMI09659	intracellular
+LOCMI07885	LOCMI07885	H2A	1	0.111111111111	LOCMI07885	intracellular
+LOCMI06735	LOCMI06735	Recombination repair protein, putative	1	0.111111111111	LOCMI06735	intracellular
+LOCMI06586	LOCMI06586	PREDICTED: protein max-like	1	0.111111111111	LOCMI06586	intracellular
+LOCMI06175	LOCMI06175	heat shock protein 20.7	1	0.111111111111	LOCMI06175	response to abiotic stimulus
+LOCMI05827	LOCMI05827	protein lethal, putative	1	0.111111111111	LOCMI05827	response to abiotic stimulus
+LOCMI01686	LOCMI01686	Histone H2B	1	0.111111111111	LOCMI01686	intracellular
+LOCMI01539	LOCMI01539	Short-chain dehydrogenase/reductase SDR	1	0.111111111111	LOCMI01539	oxidoreductase activity
+LOCMI00142	LOCMI00142	heat shock protein 20.5	1	0.111111111111	LOCMI00142	response to abiotic stimulus

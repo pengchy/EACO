@@ -1,0 +1,4 @@
+after filt, the gset number is:
+265 /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt.filt.gmt
+after filt, the distinct gene number is:
+7235

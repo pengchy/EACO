@@ -1,0 +1,11 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI15206	LOCMI15206	aquaporin	1	0.333333333333	LOCMI15206	Major intrinsic protein:IPR000425
+LOCMI14139	LOCMI14139	Aquaporin AQPAe.a, putative	1	0.333333333333	LOCMI14139	Major intrinsic protein:IPR000425
+LOCMI13304	LOCMI13304	PREDICTED: glucose dehydrogenase	1	0.333333333333	LOCMI13304	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI06430	LOCMI06430	PREDICTED: aquaporin AQPAn.G-like	1	0.333333333333	LOCMI06430	Major intrinsic protein:IPR000425
+LOCMI06277	LOCMI06277	sodium-dependent nutrient amino acid transporter, putative	1	0.333333333333	LOCMI06277	Sodium:neurotransmitter symporter:IPR000175
+LOCMI04029	LOCMI04029	glucose dehydrogenase precursor, putative	1	0.333333333333	LOCMI04029	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03486	LOCMI03486	B4L259_DROMO GI15372	1	0.333333333333	LOCMI03486	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03329	LOCMI03329	B3MXJ9_DROAN GF19436	1	0.333333333333	LOCMI03329	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI02454	LOCMI02454	sodium-dependent nutrient amino acid transporter, putative	1	0.333333333333	LOCMI02454	Sodium:neurotransmitter symporter:IPR000175
+LOCMI01723	LOCMI01723	sodium-dependent nutrient amino acid transporter, putative	1	0.333333333333	LOCMI01723	Sodium:neurotransmitter symporter:IPR000175

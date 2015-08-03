@@ -1,0 +1,13 @@
+
+#!/bin/bash
+#PBS -N eaco_5.pbs
+#PBS -l nodes=1:ppn=1
+#PBS -l mem=3gb
+#PBS -l walltime=1000:00:00
+#PBS -j oe
+#PBS -q dawningCB60
+cd  $PBS_O_WORKDIR
+
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/bin/run_piano.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/01.prep/Kappa/gSets.gmt.filt.gmt.filtkappa.gmt --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/02.Enrich//GSEA//Gadult_VS_Sadult.enrich --glevel /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/02.Enrich/00.gstat//Gadult_VS_Sadult --method gsea --minG 4 --maxG 3000
+
+echo This-Work-Completed!

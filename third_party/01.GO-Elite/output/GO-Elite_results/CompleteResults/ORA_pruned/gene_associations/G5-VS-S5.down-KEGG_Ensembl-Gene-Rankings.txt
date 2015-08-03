@@ -1,0 +1,105 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI15985	LOCMI15985	GF22728	13	0.448275862069	LOCMI15985	beta-Alanine metabolism:map00410 // Pentose and glucuronate interconversions:map00040 // Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Glycolysis / Gluconeogenesis:map00010 // Histidine metabolism:map00340 // Tryptophan metabolism:map00380 // Arginine and proline metabolism:map00330 // Glycerolipid metabolism:map00561 // Pyruvate metabolism:map00620 // Propanoate metabolism:map00640 // Ascorbate and aldarate metabolism:map00053 // Lysine degradation:map00310
+LOCMI15907	LOCMI15907	Retinal dehydrogenase 1	13	0.448275862069	LOCMI15907	beta-Alanine metabolism:map00410 // Pentose and glucuronate interconversions:map00040 // Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Glycolysis / Gluconeogenesis:map00010 // Histidine metabolism:map00340 // Tryptophan metabolism:map00380 // Arginine and proline metabolism:map00330 // Glycerolipid metabolism:map00561 // Pyruvate metabolism:map00620 // Propanoate metabolism:map00640 // Ascorbate and aldarate metabolism:map00053 // Lysine degradation:map00310
+LOCMI15896	LOCMI15896	E3WQ18_ANODA Putative uncharacterized protein	13	0.448275862069	LOCMI15896	beta-Alanine metabolism:map00410 // Pentose and glucuronate interconversions:map00040 // Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Glycolysis / Gluconeogenesis:map00010 // Histidine metabolism:map00340 // Tryptophan metabolism:map00380 // Arginine and proline metabolism:map00330 // Glycerolipid metabolism:map00561 // Pyruvate metabolism:map00620 // Propanoate metabolism:map00640 // Ascorbate and aldarate metabolism:map00053 // Lysine degradation:map00310
+LOCMI15851	LOCMI15851	B0W5G6_CULQU Aldehyde dehydrogenase	13	0.448275862069	LOCMI15851	beta-Alanine metabolism:map00410 // Pentose and glucuronate interconversions:map00040 // Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Glycolysis / Gluconeogenesis:map00010 // Histidine metabolism:map00340 // Tryptophan metabolism:map00380 // Arginine and proline metabolism:map00330 // Glycerolipid metabolism:map00561 // Pyruvate metabolism:map00620 // Propanoate metabolism:map00640 // Ascorbate and aldarate metabolism:map00053 // Lysine degradation:map00310
+LOCMI15912	LOCMI15912	C3YPZ0_BRAFL Putative uncharacterized protein	12	0.413793103448	LOCMI15912	beta-Alanine metabolism:map00410 // Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Glycolysis / Gluconeogenesis:map00010 // Histidine metabolism:map00340 // Tryptophan metabolism:map00380 // Arginine and proline metabolism:map00330 // Glycerolipid metabolism:map00561 // Pyruvate metabolism:map00620 // Propanoate metabolism:map00640 // Ascorbate and aldarate metabolism:map00053 // Lysine degradation:map00310
+LOCMI17046	LOCMI17046	GJ23340	8	0.275862068966	LOCMI17046	Drug metabolism - cytochrome P450:map00982 // Pentose and glucuronate interconversions:map00040 // Drug metabolism - other enzymes:map00983 // Metabolism of xenobiotics by cytochrome P450:map00980 // Porphyrin and chlorophyll metabolism:map00860 // Starch and sucrose metabolism:map00500 // Retinol metabolism:map00830 // Ascorbate and aldarate metabolism:map00053
+LOCMI17045	LOCMI17045	PREDICTED: UDP-glucuronosyltransferase 2B10-like	8	0.275862068966	LOCMI17045	Drug metabolism - cytochrome P450:map00982 // Pentose and glucuronate interconversions:map00040 // Drug metabolism - other enzymes:map00983 // Metabolism of xenobiotics by cytochrome P450:map00980 // Porphyrin and chlorophyll metabolism:map00860 // Starch and sucrose metabolism:map00500 // Retinol metabolism:map00830 // Ascorbate and aldarate metabolism:map00053
+LOCMI17036	LOCMI17036	UDP-glucuronosyltransferase 1-8 precursor, putative	8	0.275862068966	LOCMI17036	Drug metabolism - cytochrome P450:map00982 // Pentose and glucuronate interconversions:map00040 // Drug metabolism - other enzymes:map00983 // Metabolism of xenobiotics by cytochrome P450:map00980 // Porphyrin and chlorophyll metabolism:map00860 // Starch and sucrose metabolism:map00500 // Retinol metabolism:map00830 // Ascorbate and aldarate metabolism:map00053
+LOCMI17032	LOCMI17032	UDP-glucuronosyltransferase 1-8 precursor, putative	8	0.275862068966	LOCMI17032	Drug metabolism - cytochrome P450:map00982 // Pentose and glucuronate interconversions:map00040 // Drug metabolism - other enzymes:map00983 // Metabolism of xenobiotics by cytochrome P450:map00980 // Porphyrin and chlorophyll metabolism:map00860 // Starch and sucrose metabolism:map00500 // Retinol metabolism:map00830 // Ascorbate and aldarate metabolism:map00053
+LOCMI16992	LOCMI16992	PREDICTED: similar to glucosyl/glucuronosyl transferases	8	0.275862068966	LOCMI16992	Drug metabolism - cytochrome P450:map00982 // Pentose and glucuronate interconversions:map00040 // Drug metabolism - other enzymes:map00983 // Metabolism of xenobiotics by cytochrome P450:map00980 // Porphyrin and chlorophyll metabolism:map00860 // Starch and sucrose metabolism:map00500 // Retinol metabolism:map00830 // Ascorbate and aldarate metabolism:map00053
+LOCMI16955	LOCMI16955	enoyl-CoA hydratase	8	0.275862068966	LOCMI16955	beta-Alanine metabolism:map00410 // Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Tryptophan metabolism:map00380 // Butanoate metabolism:map00650 // Fatty acid metabolism:map01212 // Propanoate metabolism:map00640 // Lysine degradation:map00310
+LOCMI16371	LOCMI16371	GL16175	8	0.275862068966	LOCMI16371	Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Tryptophan metabolism:map00380 // Butanoate metabolism:map00650 // Pyruvate metabolism:map00620 // Fatty acid metabolism:map01212 // Propanoate metabolism:map00640 // Lysine degradation:map00310
+LOCMI16298	LOCMI16298	Acetyl-CoA acetyltransferase, mitochondrial	8	0.275862068966	LOCMI16298	Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Tryptophan metabolism:map00380 // Butanoate metabolism:map00650 // Pyruvate metabolism:map00620 // Fatty acid metabolism:map01212 // Propanoate metabolism:map00640 // Lysine degradation:map00310
+LOCMI15940	LOCMI15940	PREDICTED: probable enoyl-CoA hydratase, mitochondrial-like	8	0.275862068966	LOCMI15940	beta-Alanine metabolism:map00410 // Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Tryptophan metabolism:map00380 // Butanoate metabolism:map00650 // Fatty acid metabolism:map01212 // Propanoate metabolism:map00640 // Lysine degradation:map00310
+LOCMI03958	LOCMI03958	Q28WJ8_DROPS GA13505	6	0.206896551724	LOCMI03958	Pentose and glucuronate interconversions:map00040 // Lysosome:map04142 // Glycosaminoglycan degradation:map00531 // Drug metabolism - other enzymes:map00983 // Porphyrin and chlorophyll metabolism:map00860 // Starch and sucrose metabolism:map00500
+LOCMI16007	LOCMI16007	PREDICTED: alcohol dehydrogenase class-3-like	5	0.172413793103	LOCMI16007	Drug metabolism - cytochrome P450:map00982 // Fatty acid degradation:map00071 // Metabolism of xenobiotics by cytochrome P450:map00980 // Glycolysis / Gluconeogenesis:map00010 // Retinol metabolism:map00830
+LOCMI15961	LOCMI15961	PREDICTED: peroxisomal acyl-coenzyme A oxidase 3-like isoform 3	4	0.137931034483	LOCMI15961	Biosynthesis of unsaturated fatty acids:map01040 // Fatty acid degradation:map00071 // Fatty acid metabolism:map01212 // alpha-Linolenic acid metabolism:map00592
+LOCMI15882	LOCMI15882	aldose reductase, putative	4	0.137931034483	LOCMI15882	Pentose and glucuronate interconversions:map00040 // Galactose metabolism:map00052 // Glycerolipid metabolism:map00561 // Pyruvate metabolism:map00620
+LOCMI15853	LOCMI15853	Probable peroxisomal acyl-coenzyme A oxidase 1	4	0.137931034483	LOCMI15853	Biosynthesis of unsaturated fatty acids:map01040 // Fatty acid degradation:map00071 // Fatty acid metabolism:map01212 // alpha-Linolenic acid metabolism:map00592
+LOCMI15834	LOCMI15834	phosphoglucomutase	4	0.137931034483	LOCMI15834	Amino sugar and nucleotide sugar metabolism:map00520 // Galactose metabolism:map00052 // Glycolysis / Gluconeogenesis:map00010 // Starch and sucrose metabolism:map00500
+LOCMI15814	LOCMI15814	D6WBY0_TRICA Putative uncharacterized protein	4	0.137931034483	LOCMI15814	Pentose and glucuronate interconversions:map00040 // Galactose metabolism:map00052 // Glycerolipid metabolism:map00561 // Pyruvate metabolism:map00620
+LOCMI15809	LOCMI15809	E9IZQ4_SOLIN Putative uncharacterized protein (Fragment)	4	0.137931034483	LOCMI15809	Biosynthesis of unsaturated fatty acids:map01040 // Fatty acid degradation:map00071 // Fatty acid metabolism:map01212 // alpha-Linolenic acid metabolism:map00592
+LOCMI09283	LOCMI09283	beta-hexosaminidase beta chain precursor, putative	4	0.137931034483	LOCMI09283	Amino sugar and nucleotide sugar metabolism:map00520 // Lysosome:map04142 // Glycosaminoglycan degradation:map00531 // Other glycan degradation:map00511
+LOCMI16046	LOCMI16046	PREDICTED: 3-ketoacyl-CoA thiolase, mitochondrial-like	3	0.103448275862	LOCMI16046	Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Fatty acid metabolism:map01212
+LOCMI16027	LOCMI16027	GK21691	3	0.103448275862	LOCMI16027	Lysosome:map04142 // Galactose metabolism:map00052 // Glycerolipid metabolism:map00561
+LOCMI15923	LOCMI15923	Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial	3	0.103448275862	LOCMI15923	Fatty acid degradation:map00071 // Valine, leucine and isoleucine degradation:map00280 // Fatty acid metabolism:map01212
+LOCMI09621	LOCMI09621	Q7QJQ9_ANOGA AGAP007619-PA	3	0.103448275862	LOCMI09621	beta-Alanine metabolism:map00410 // Histidine metabolism:map00340 // Arginine and proline metabolism:map00330
+LOCMI16875	LOCMI16875	B6RHH4_LITVA Pyruvate kinase	2	0.0689655172414	LOCMI16875	Glycolysis / Gluconeogenesis:map00010 // Pyruvate metabolism:map00620
+LOCMI15933	LOCMI15933	PREDICTED: similar to O-Glycosyl hydrolase family 30 protein	2	0.0689655172414	LOCMI15933	Lysosome:map04142 // Other glycan degradation:map00511
+LOCMI15872	LOCMI15872	delta-9 desaturase 1	2	0.0689655172414	LOCMI15872	Biosynthesis of unsaturated fatty acids:map01040 // Fatty acid metabolism:map01212
+LOCMI15703	LOCMI15703	glutathione S-transferase	2	0.0689655172414	LOCMI15703	Drug metabolism - cytochrome P450:map00982 // Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15701	LOCMI15701	glutathione S-transferase sigma 6	2	0.0689655172414	LOCMI15701	Drug metabolism - cytochrome P450:map00982 // Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15698	LOCMI15698	glutathione S-transferase sigma 3	2	0.0689655172414	LOCMI15698	Drug metabolism - cytochrome P450:map00982 // Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15696	LOCMI15696	glutathione S-transferase sigma 1	2	0.0689655172414	LOCMI15696	Drug metabolism - cytochrome P450:map00982 // Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI13816	LOCMI13816	C3XYY9_BRAFL Putative uncharacterized protein	2	0.0689655172414	LOCMI13816	Amino sugar and nucleotide sugar metabolism:map00520 // Galactose metabolism:map00052
+LOCMI11868	LOCMI11868	AGAP012261-PA	2	0.0689655172414	LOCMI11868	Amino sugar and nucleotide sugar metabolism:map00520 // Galactose metabolism:map00052
+LOCMI10636	LOCMI10636	N-acetylglucosamine-6-sulfatase precursor, putative	2	0.0689655172414	LOCMI10636	Lysosome:map04142 // Glycosaminoglycan degradation:map00531
+LOCMI09697	LOCMI09697	PREDICTED: galactose-1-phosphate uridylyltransferase-like	2	0.0689655172414	LOCMI09697	Amino sugar and nucleotide sugar metabolism:map00520 // Galactose metabolism:map00052
+LOCMI08143	LOCMI08143	A7RV33_NEMVE Predicted protein	2	0.0689655172414	LOCMI08143	Drug metabolism - cytochrome P450:map00982 // Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI05976	LOCMI05976	alpha-glucosidase	2	0.0689655172414	LOCMI05976	Galactose metabolism:map00052 // Starch and sucrose metabolism:map00500
+LOCMI05942	LOCMI05942	PREDICTED: similar to lysosomal alpha-mannosidase (mannosidase alpha class 2b member 1)	2	0.0689655172414	LOCMI05942	Lysosome:map04142 // Other glycan degradation:map00511
+LOCMI04276	LOCMI04276	PREDICTED: similar to alpha-N-acetyl glucosaminidase	2	0.0689655172414	LOCMI04276	Lysosome:map04142 // Glycosaminoglycan degradation:map00531
+LOCMI03726	LOCMI03726	alpha-amylase	2	0.0689655172414	LOCMI03726	Galactose metabolism:map00052 // Starch and sucrose metabolism:map00500
+LOCMI01253	LOCMI01253	aspartylglucosaminidase	2	0.0689655172414	LOCMI01253	Lysosome:map04142 // Other glycan degradation:map00511
+LOCMI17173	LOCMI17173	PREDICTED: similar to niemann-pick C1	1	0.0344827586207	LOCMI17173	Lysosome:map04142
+LOCMI17138	LOCMI17138	midgut chitinase	1	0.0344827586207	LOCMI17138	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI16091	LOCMI16091	E0VQN5_PEDHC Putative uncharacterized protein	1	0.0344827586207	LOCMI16091	Glycolysis / Gluconeogenesis:map00010
+LOCMI16066	LOCMI16066	vacuolar ATP synthase subunit S1, putative	1	0.0344827586207	LOCMI16066	Lysosome:map04142
+LOCMI16049	LOCMI16049	vacuolar H[+] ATPase 16kD subunit, isoform A	1	0.0344827586207	LOCMI16049	Lysosome:map04142
+LOCMI15964	LOCMI15964	E9FY81_DAPPU Putative uncharacterized protein	1	0.0344827586207	LOCMI15964	Propanoate metabolism:map00640
+LOCMI15948	LOCMI15948	PREDICTED: acylglycerol kinase, mitochondrial-like	1	0.0344827586207	LOCMI15948	Glycerolipid metabolism:map00561
+LOCMI15816	LOCMI15816	GI21278	1	0.0344827586207	LOCMI15816	Lysosome:map04142
+LOCMI15808	LOCMI15808	PREDICTED: 1-acyl-sn-glycerol-3-phosphate acyltransferase gamma-like	1	0.0344827586207	LOCMI15808	Glycerolipid metabolism:map00561
+LOCMI15639	LOCMI15639	esterase 1	1	0.0344827586207	LOCMI15639	Drug metabolism - other enzymes:map00983
+LOCMI15586	LOCMI15586	beta-esterase 2 precursor	1	0.0344827586207	LOCMI15586	Drug metabolism - other enzymes:map00983
+LOCMI15492	LOCMI15492	ER protein gp78	1	0.0344827586207	LOCMI15492	Protein processing in endoplasmic reticulum:map04141
+LOCMI15491	LOCMI15491	endoplasmin	1	0.0344827586207	LOCMI15491	Protein processing in endoplasmic reticulum:map04141
+LOCMI14699	LOCMI14699	PREDICTED: eukaryotic translation initiation factor 2 subunit 1-like	1	0.0344827586207	LOCMI14699	Protein processing in endoplasmic reticulum:map04141
+LOCMI14640	LOCMI14640	protein transport protein sec13, putative	1	0.0344827586207	LOCMI14640	Protein processing in endoplasmic reticulum:map04141
+LOCMI14420	LOCMI14420	dolichyl-diphosphooligosaccharide protein glycotransferase	1	0.0344827586207	LOCMI14420	Protein processing in endoplasmic reticulum:map04141
+LOCMI14150	LOCMI14150	PREDICTED: similar to Dihydrodipicolinate synthase-like, mitochondrial precursor (DHDPS-like protein)	1	0.0344827586207	LOCMI14150	Arginine and proline metabolism:map00330
+LOCMI14147	LOCMI14147	PREDICTED: RING-box protein 1A-like	1	0.0344827586207	LOCMI14147	Protein processing in endoplasmic reticulum:map04141
+LOCMI14086	LOCMI14086	A7RKI7_NEMVE Predicted protein	1	0.0344827586207	LOCMI14086	Pyruvate metabolism:map00620
+LOCMI13965	LOCMI13965	chitin synthase 1 variant B	1	0.0344827586207	LOCMI13965	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13862	LOCMI13862	PREDICTED: similar to N-acetyl neuraminate lyase	1	0.0344827586207	LOCMI13862	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13812	LOCMI13812	PREDICTED: l-xylulose reductase-like	1	0.0344827586207	LOCMI13812	Pentose and glucuronate interconversions:map00040
+LOCMI13620	LOCMI13620	PREDICTED: RING-box protein 1A-like	1	0.0344827586207	LOCMI13620	Protein processing in endoplasmic reticulum:map04141
+LOCMI13553	LOCMI13553	Q2F5V9_BOMMO Signal sequence receptor beta subunit	1	0.0344827586207	LOCMI13553	Protein processing in endoplasmic reticulum:map04141
+LOCMI13438	LOCMI13438	Protein disulfide-isomerase	1	0.0344827586207	LOCMI13438	Protein processing in endoplasmic reticulum:map04141
+LOCMI13396	LOCMI13396	PREDICTED: lambda-crystallin homolog	1	0.0344827586207	LOCMI13396	Pentose and glucuronate interconversions:map00040
+LOCMI13010	LOCMI13010	Q0IF52_AEDAE Cytidine deaminase, putative	1	0.0344827586207	LOCMI13010	Drug metabolism - other enzymes:map00983
+LOCMI12559	LOCMI12559	PREDICTED: translocon-associated protein subunit gamma-like	1	0.0344827586207	LOCMI12559	Protein processing in endoplasmic reticulum:map04141
+LOCMI11950	LOCMI11950	glucosidase 2 subunit beta precursor, putative	1	0.0344827586207	LOCMI11950	Protein processing in endoplasmic reticulum:map04141
+LOCMI11763	LOCMI11763	PREDICTED: translocon-associated protein subunit alpha-like	1	0.0344827586207	LOCMI11763	Protein processing in endoplasmic reticulum:map04141
+LOCMI11660	LOCMI11660	GTP-binding protein SAR1B, putative	1	0.0344827586207	LOCMI11660	Protein processing in endoplasmic reticulum:map04141
+LOCMI10612	LOCMI10612	RecName: Full=Protein transport protein Sec61 subunit gamma gb|AAP47228.1| Sec61p gamma subunit	1	0.0344827586207	LOCMI10612	Protein processing in endoplasmic reticulum:map04141
+LOCMI10153	LOCMI10153	Q16QR2_AEDAE Aminoacylase, putative	1	0.0344827586207	LOCMI10153	Arginine and proline metabolism:map00330
+LOCMI09622	LOCMI09622	Q16S75_AEDAE Alpha-l-fucosidase	1	0.0344827586207	LOCMI09622	Other glycan degradation:map00511
+LOCMI09249	LOCMI09249	protein disulfide-isomerase	1	0.0344827586207	LOCMI09249	Protein processing in endoplasmic reticulum:map04141
+LOCMI08740	LOCMI08740	Thymidine phosphorylase	1	0.0344827586207	LOCMI08740	Drug metabolism - other enzymes:map00983
+LOCMI08493	LOCMI08493	C3XVS7_BRAFL Putative uncharacterized protein Thop1.1	1	0.0344827586207	LOCMI08493	Protein processing in endoplasmic reticulum:map04141
+LOCMI08345	LOCMI08345	PREDICTED: uroporphyrinogen decarboxylase-like	1	0.0344827586207	LOCMI08345	Porphyrin and chlorophyll metabolism:map00860
+LOCMI07828	LOCMI07828	PREDICTED: E3 ubiquitin-protein ligase CHIP-like	1	0.0344827586207	LOCMI07828	Protein processing in endoplasmic reticulum:map04141
+LOCMI07568	LOCMI07568	AGAP007475-PA	1	0.0344827586207	LOCMI07568	Retinol metabolism:map00830
+LOCMI07478	LOCMI07478	PREDICTED: protein NPC2 homolog	1	0.0344827586207	LOCMI07478	Lysosome:map04142
+LOCMI07298	LOCMI07298	Q86DU5_PHOPY Luciferin-regenerating enzyme	1	0.0344827586207	LOCMI07298	Ascorbate and aldarate metabolism:map00053
+LOCMI06643	LOCMI06643	Mannose-1-phosphate guanyltransferase beta	1	0.0344827586207	LOCMI06643	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI05827	LOCMI05827	protein lethal, putative	1	0.0344827586207	LOCMI05827	Protein processing in endoplasmic reticulum:map04141
+LOCMI05702	LOCMI05702	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	1	0.0344827586207	LOCMI05702	Lysine degradation:map00310
+LOCMI05700	LOCMI05700	GI14867	1	0.0344827586207	LOCMI05700	Lysine degradation:map00310
+LOCMI05296	LOCMI05296	Glutamate dehydrogenase, mitochondrial	1	0.0344827586207	LOCMI05296	Arginine and proline metabolism:map00330
+LOCMI05244	LOCMI05244	GF12587	1	0.0344827586207	LOCMI05244	Starch and sucrose metabolism:map00500
+LOCMI04477	LOCMI04477	PREDICTED: similar to cathepsin C	1	0.0344827586207	LOCMI04477	Lysosome:map04142
+LOCMI04416	LOCMI04416	Endoplasmic reticulum protein ERp29, putative	1	0.0344827586207	LOCMI04416	Protein processing in endoplasmic reticulum:map04141
+LOCMI04338	LOCMI04338	alpha-amylase	1	0.0344827586207	LOCMI04338	Starch and sucrose metabolism:map00500
+LOCMI03834	LOCMI03834	PREDICTED: UDP-N-acetylhexosamine pyrophosphorylase-like	1	0.0344827586207	LOCMI03834	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI03766	LOCMI03766	alpha-amylase	1	0.0344827586207	LOCMI03766	Starch and sucrose metabolism:map00500
+LOCMI03103	LOCMI03103	AP-1 complex subunit sigma-2	1	0.0344827586207	LOCMI03103	Lysosome:map04142
+LOCMI02150	LOCMI02150	ferritin-like precursor	1	0.0344827586207	LOCMI02150	Porphyrin and chlorophyll metabolism:map00860
+LOCMI01606	LOCMI01606	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1	1	0.0344827586207	LOCMI01606	Protein processing in endoplasmic reticulum:map04141
+LOCMI01517	LOCMI01517	Endoplasmic reticulum protein ERp29, putative	1	0.0344827586207	LOCMI01517	Protein processing in endoplasmic reticulum:map04141
+LOCMI00611	LOCMI00611	calreticulin	1	0.0344827586207	LOCMI00611	Protein processing in endoplasmic reticulum:map04141
+LOCMI00274	LOCMI00274	B4L296_DROMO GI14682	1	0.0344827586207	LOCMI00274	Valine, leucine and isoleucine degradation:map00280
+LOCMI00230	LOCMI00230	translocon-associated protein subunit delta precursor, putative	1	0.0344827586207	LOCMI00230	Protein processing in endoplasmic reticulum:map04141

@@ -1,0 +1,40 @@
+
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-unknown-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> date()
+[1] "Mon Jan 12 13:24:36 2015"
+> source("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/bin/EnrichSGA.R")
+> source("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/bin/sort.data.frame.R")
+> source("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/bin/Fisher.Chi.test.R")
+> supplyID <- scan("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/02.Enrich/00.gstat/Gegg-VS-Segg.up",what="character",sep="\n")
+Read 69 items
+> if(identical("NullFile","NullFile")){
++ 	res.dt <- EnrichSGA(gmt="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/01.prep/Kappa/gSets.gmt.filt.gmt.filtkappa.gmt",supplyID=supplyID,p.adjust.methods="fdr",
++ 			test.method="FisherChiSquare",enrichFile="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/02.Enrich//SGA///Gegg-VS-Segg.up.difsga")
++ }else{
++ 	univerID <- scan("NullFile",what="character",sep="\n")
++ 	res.dt <- EnrichSGA(gmt="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/01.prep/Kappa/gSets.gmt.filt.gmt.filtkappa.gmt",supplyID=supplyID,univerID=univerID,p.adjust.methods="fdr",
++ 			test.method="FisherChiSquare",enrichFile="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/02.Enrich//SGA///Gegg-VS-Segg.up.difsga")
++ }
+Read 430 items
+> date()
+[1] "Mon Jan 12 13:24:37 2015"
+> q('no')
+> proc.time()
+   user  system elapsed 
+  0.697   0.082   4.072 

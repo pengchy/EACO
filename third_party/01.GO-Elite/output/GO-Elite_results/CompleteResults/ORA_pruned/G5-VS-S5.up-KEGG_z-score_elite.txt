@@ -1,0 +1,4 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols
+ECM-receptor interaction:map04512	5	21	21	23.8095238095	100.0	6.45349120555	0.0015	0.1935	 	 	LOCMI03316|LOCMI04186|LOCMI08289|LOCMI10699|LOCMI12038
+MAPK signaling pathway - fly:map04013	3	15	15	20.0	100.0	4.47858031357	0.0245	1.0	 	 	LOCMI15745|LOCMI15746|LOCMI15755
+Phototransduction - fly:map04745	3	19	19	15.7894736842	100.0	3.83850423915	0.038	1.0	 	 	LOCMI01353|LOCMI14740|LOCMI16321

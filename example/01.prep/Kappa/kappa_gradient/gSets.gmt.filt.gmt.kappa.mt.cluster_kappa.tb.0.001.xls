@@ -1,0 +1,38 @@
+gSets	cluster	gNum	setDes
+GO:0003689	7	5	DNA clamp loader activity
+GO:0004298	24	22	threonine-type endopeptidase activity
+GO:0004383	25	10	guanylate cyclase activity
+GO:0004550	28	6	nucleoside diphosphate kinase activity
+GO:0005097	35	29	Rab GTPase activator activity
+GO:0005328	39	19	neurotransmitter:sodium symporter activity
+GO:0005663	7	5	DNA replication factor C complex
+GO:0005839	24	22	proteasome core complex
+GO:0006182	25	10	cGMP biosynthetic process
+GO:0006183	28	6	GTP biosynthetic process
+GO:0006228	28	6	UTP biosynthetic process
+GO:0006241	28	6	CTP biosynthetic process
+GO:0006865	89	10	amino acid transport
+GO:0006879	90	7	cellular iron ion homeostasis
+GO:0008138	107	13	protein tyrosine/serine/threonine phosphatase activity
+GO:0008199	90	7	ferric iron binding
+GO:0009127	118	77	purine nucleoside monophosphate biosynthetic process
+GO:0009156	118	77	ribonucleoside monophosphate biosynthetic process
+GO:0009167	118	77	purine ribonucleoside monophosphate metabolic process
+GO:0015171	89	10	amino acid transmembrane transporter activity
+GO:0019773	165	8	proteasome core complex, alpha-subunit complex
+GO:0032313	35	29	regulation of Rab GTPase activity
+GO:0032550	179	1000	purine ribonucleoside binding
+GO:0032555	179	1000	purine ribonucleotide binding
+GO:0035639	179	1000	purine ribonucleoside triphosphate binding
+GO:0036094	187	1121	small molecule binding
+GO:0044248	203	107	cellular catabolic process
+GO:0044249	204	681	cellular biosynthetic process
+GO:0044711	217	106	single-organism biosynthetic process
+GO:0090407	217	106	organophosphate biosynthetic process
+GO:1901265	187	1121	nucleoside phosphate binding
+GO:1901575	203	107	organic substance catabolic process
+GO:1901576	204	681	organic substance biosynthetic process
+IPR000175	39	19	Sodium:neurotransmitter symporter
+IPR000195	35	29	Rab-GAP/TBC domain
+IPR000340	107	13	Dual specificity phosphatase, catalytic domain
+IPR000426	165	8	Proteasome, alpha-subunit, conserved site

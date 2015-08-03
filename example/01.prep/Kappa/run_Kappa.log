@@ -1,0 +1,18 @@
+#test the influence of maxG cutoff on distinct gene number
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/bin/maxG_and_DistinctGeneNum.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep/gSets.gmt --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/
+
+cat /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.gNum.tb |awk '$2>= && $2<=' |cut -f1 |join -t $'\t' <(sort -) <(sort /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep/gSets.gmt) > /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt
+
+echo "after minG and maxG filt, the gset number is:" > /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt.stat
+wc -l /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt >> /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt.stat
+echo "the distinct gene number is:" >> /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt.stat
+cat /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt |perl -ne 'chomp;@info=split /\t/;print join("\n",@info[2..$#info]),"\n"'|sort -u |wc -l >> /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt.stat
+
+#calculate kappa statistics for all gene sets pairs
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/bin/calculate.cohen.kappa.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/
+
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/bin/three_column_to_matrix.pl --dt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt.kappa.tb --mt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.kappa.mt
+
+#filtering gene sets based on the kappa statistics
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/bin/filt_gsets_based_on_kappa.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt --kap /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt.kappa.tb --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/
+

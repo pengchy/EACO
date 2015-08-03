@@ -1,0 +1,57 @@
+Ensembl	symbol	KEGG
+LOCMI15867	LOCMI15867	Fructose and mannose metabolism:map00051
+LOCMI14325	LOCMI14325	Fructose and mannose metabolism:map00051
+LOCMI15981	LOCMI15981	Oxidative phosphorylation:map00190
+LOCMI15980	LOCMI15980	Oxidative phosphorylation:map00190
+LOCMI15895	LOCMI15895	Oxidative phosphorylation:map00190
+LOCMI16024	LOCMI16024	Oxidative phosphorylation:map00190
+LOCMI15716	LOCMI15716	Drug metabolism - cytochrome P450:map00982
+LOCMI04442	LOCMI04442	Drug metabolism - cytochrome P450:map00982
+LOCMI04776	LOCMI04776	Cysteine and methionine metabolism:map00270
+LOCMI04776	LOCMI04776	Selenocompound metabolism:map00450
+LOCMI05622	LOCMI05622	Protein processing in endoplasmic reticulum:map04141
+LOCMI15512	LOCMI15512	Protein processing in endoplasmic reticulum:map04141
+LOCMI05827	LOCMI05827	Protein processing in endoplasmic reticulum:map04141
+LOCMI05642	LOCMI05642	Ribosome:map03010
+LOCMI15205	LOCMI15205	Ribosome:map03010
+LOCMI08036	LOCMI08036	Ribosome:map03010
+LOCMI08029	LOCMI08029	Ribosome:map03010
+LOCMI15867	LOCMI15867	Pentose and glucuronate interconversions:map00040
+LOCMI09478	LOCMI09478	Pentose and glucuronate interconversions:map00040
+LOCMI14004	LOCMI14004	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI09659	LOCMI09659	Phagosome:map04145
+LOCMI10187	LOCMI10187	Neuroactive ligand-receptor interaction:map04080
+LOCMI17071	LOCMI17071	Spliceosome:map03040
+LOCMI11649	LOCMI11649	Spliceosome:map03040
+LOCMI17269	LOCMI17269	Spliceosome:map03040
+LOCMI17326	LOCMI17326	Spliceosome:map03040
+LOCMI17234	LOCMI17234	Spliceosome:map03040
+LOCMI14004	LOCMI14004	Glycine, serine and threonine metabolism:map00260
+LOCMI04776	LOCMI04776	Glycine, serine and threonine metabolism:map00260
+LOCMI15867	LOCMI15867	Galactose metabolism:map00052
+LOCMI14004	LOCMI14004	Peroxisome:map04146
+LOCMI15716	LOCMI15716	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI04442	LOCMI04442	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI03230	LOCMI03230	Pyrimidine metabolism:map00240
+LOCMI10439	LOCMI10439	Pyrimidine metabolism:map00240
+LOCMI16101	LOCMI16101	Fatty acid biosynthesis:map00061
+LOCMI15716	LOCMI15716	Glutathione metabolism:map00480
+LOCMI03230	LOCMI03230	Glutathione metabolism:map00480
+LOCMI04442	LOCMI04442	Glutathione metabolism:map00480
+LOCMI05410	LOCMI05410	Endocytosis:map04144
+LOCMI14004	LOCMI14004	Carbon metabolism:map01200
+LOCMI12445	LOCMI12445	Purine metabolism:map00230
+LOCMI03230	LOCMI03230	Purine metabolism:map00230
+LOCMI08702	LOCMI08702	Purine metabolism:map00230
+LOCMI10439	LOCMI10439	Purine metabolism:map00230
+LOCMI00691	LOCMI00691	mRNA surveillance pathway:map03015
+LOCMI06735	LOCMI06735	Base excision repair:map03410
+LOCMI15867	LOCMI15867	Glycerolipid metabolism:map00561
+LOCMI14004	LOCMI14004	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI15867	LOCMI15867	Pyruvate metabolism:map00620
+LOCMI16101	LOCMI16101	Fatty acid metabolism:map01212
+LOCMI04776	LOCMI04776	Biosynthesis of amino acids:map01230
+LOCMI17234	LOCMI17234	RNA degradation:map03018
+LOCMI15934	LOCMI15934	Citrate cycle (TCA cycle):map00020
+LOCMI10439	LOCMI10439	RNA polymerase:map03020
+LOCMI00691	LOCMI00691	RNA transport:map03013

@@ -1,0 +1,10 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI14216	LOCMI14216	A7S7S1_NEMVE Predicted protein	1	0.5	LOCMI14216	Protease inhibitor I4, serpin:IPR000215
+LOCMI14212	LOCMI14212	PREDICTED: plasminogen activator inhibitor 1-like	1	0.5	LOCMI14212	Protease inhibitor I4, serpin:IPR000215
+LOCMI12984	LOCMI12984	B3NUX9_DROER GG19440	1	0.5	LOCMI12984	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI07407	LOCMI07407	GF11037	1	0.5	LOCMI07407	Protease inhibitor I4, serpin:IPR000215
+LOCMI05133	LOCMI05133	serine protease inhibitor, serpin	1	0.5	LOCMI05133	Protease inhibitor I4, serpin:IPR000215
+LOCMI03770	LOCMI03770	B3P2V7_DROER Glucose dehydrogenase	1	0.5	LOCMI03770	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03329	LOCMI03329	B3MXJ9_DROAN GF19436	1	0.5	LOCMI03329	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI02405	LOCMI02405	PREDICTED: glucose dehydrogenase	1	0.5	LOCMI02405	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI01756	LOCMI01756	proteinase inhibitor I4 serpin	1	0.5	LOCMI01756	Protease inhibitor I4, serpin:IPR000215

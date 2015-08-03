@@ -1,0 +1,13 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI15981	LOCMI15981	CG12859	LOCMI15981	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15895	LOCMI15895	cytochrome c oxidase subunit VIIA putative	LOCMI15895	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16024	LOCMI16024	GH10285	LOCMI16024	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI03230	LOCMI03230	PREDICTED: ribonucleotide reductase M2 polypeptide-like	LOCMI03230	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI04442	LOCMI04442	microsomal glutathione transferase	LOCMI04442	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI15716	LOCMI15716	glutathione S-transferase sigma 1	LOCMI15716	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI17326	LOCMI17326	Q1HQ74_BOMMO Small nuclear ribonucleoprotein E	LOCMI17326	Spliceosome:map03040	Spliceosome:map03040
+LOCMI17071	LOCMI17071	Probable small nuclear ribonucleoprotein E	LOCMI17071	Spliceosome:map03040	Spliceosome:map03040
+LOCMI11649	LOCMI11649	mitosis protein dim1	LOCMI11649	Spliceosome:map03040	Spliceosome:map03040
+LOCMI17234	LOCMI17234	membrane-associated protein, putative	LOCMI17234	Spliceosome:map03040	Spliceosome:map03040
+LOCMI17269	LOCMI17269	Probable small nuclear ribonucleoprotein G	LOCMI17269	Spliceosome:map03040	Spliceosome:map03040

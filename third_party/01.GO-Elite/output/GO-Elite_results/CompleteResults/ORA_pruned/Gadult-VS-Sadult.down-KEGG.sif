@@ -1,0 +1,109 @@
+Glycosaminoglycan degradation:map00531	pr	LOCMI03958:LOCMI03958
+Glycosaminoglycan degradation:map00531	pr	LOCMI09283:LOCMI09283
+Glycosaminoglycan degradation:map00531	pr	LOCMI04276:LOCMI04276
+Glycosaminoglycan degradation:map00531	pr	LOCMI10636:LOCMI10636
+Pyruvate metabolism:map00620	pr	LOCMI05791:LOCMI05791
+Pyruvate metabolism:map00620	pr	LOCMI15907:LOCMI15907
+Pyruvate metabolism:map00620	pr	LOCMI15882:LOCMI15882
+Pyruvate metabolism:map00620	pr	LOCMI15918:LOCMI15918
+Pyruvate metabolism:map00620	pr	LOCMI16875:LOCMI16875
+Pyruvate metabolism:map00620	pr	LOCMI15896:LOCMI15896
+Pyruvate metabolism:map00620	pr	LOCMI06696:LOCMI06696
+Spliceosome:map03040	pr	LOCMI17261:LOCMI17261
+Spliceosome:map03040	pr	LOCMI17308:LOCMI17308
+Spliceosome:map03040	pr	LOCMI15442:LOCMI15442
+Spliceosome:map03040	pr	LOCMI17239:LOCMI17239
+Spliceosome:map03040	pr	LOCMI17317:LOCMI17317
+Spliceosome:map03040	pr	LOCMI17234:LOCMI17234
+Spliceosome:map03040	pr	LOCMI17058:LOCMI17058
+Spliceosome:map03040	pr	LOCMI17197:LOCMI17197
+Spliceosome:map03040	pr	LOCMI17129:LOCMI17129
+Spliceosome:map03040	pr	LOCMI17126:LOCMI17126
+Spliceosome:map03040	pr	LOCMI17279:LOCMI17279
+Spliceosome:map03040	pr	LOCMI17113:LOCMI17113
+Spliceosome:map03040	pr	LOCMI16810:LOCMI16810
+Spliceosome:map03040	pr	LOCMI17202:LOCMI17202
+Spliceosome:map03040	pr	LOCMI17330:LOCMI17330
+Spliceosome:map03040	pr	LOCMI17116:LOCMI17116
+Spliceosome:map03040	pr	LOCMI08265:LOCMI08265
+Spliceosome:map03040	pr	LOCMI17142:LOCMI17142
+Glutathione metabolism:map00480	pr	LOCMI04119:LOCMI04119
+Glutathione metabolism:map00480	pr	LOCMI15716:LOCMI15716
+Glutathione metabolism:map00480	pr	LOCMI15698:LOCMI15698
+Glutathione metabolism:map00480	pr	LOCMI15707:LOCMI15707
+Glutathione metabolism:map00480	pr	LOCMI15070:LOCMI15070
+Glutathione metabolism:map00480	pr	LOCMI08995:LOCMI08995
+Glutathione metabolism:map00480	pr	LOCMI08143:LOCMI08143
+Glutathione metabolism:map00480	pr	LOCMI07468:LOCMI07468
+SNARE interactions in vesicular transport:map04130	pr	LOCMI04203:LOCMI04203
+SNARE interactions in vesicular transport:map04130	pr	LOCMI01016:LOCMI01016
+SNARE interactions in vesicular transport:map04130	pr	LOCMI14159:LOCMI14159
+SNARE interactions in vesicular transport:map04130	pr	LOCMI14621:LOCMI14621
+SNARE interactions in vesicular transport:map04130	pr	LOCMI01645:LOCMI01645
+Proteasome:map03050	pr	LOCMI14671:LOCMI14671
+Proteasome:map03050	pr	LOCMI00924:LOCMI00924
+Proteasome:map03050	pr	LOCMI01611:LOCMI01611
+Proteasome:map03050	pr	LOCMI13695:LOCMI13695
+Proteasome:map03050	pr	LOCMI10127:LOCMI10127
+Proteasome:map03050	pr	LOCMI15125:LOCMI15125
+Proteasome:map03050	pr	LOCMI02745:LOCMI02745
+Proteasome:map03050	pr	LOCMI03019:LOCMI03019
+Proteasome:map03050	pr	LOCMI01417:LOCMI01417
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI01936:LOCMI01936
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI16459:LOCMI16459
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI14553:LOCMI14553
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI05600:LOCMI05600
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI04416:LOCMI04416
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI15493:LOCMI15493
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI15492:LOCMI15492
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI15491:LOCMI15491
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI04087:LOCMI04087
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI10612:LOCMI10612
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI04618:LOCMI04618
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI05622:LOCMI05622
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI15512:LOCMI15512
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI11950:LOCMI11950
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI01517:LOCMI01517
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI01606:LOCMI01606
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI17354:LOCMI17354
+Protein processing in endoplasmic reticulum:map04141	pr	LOCMI08663:LOCMI08663
+Ribosome:map03010	pr	LOCMI05551:LOCMI05551
+Ribosome:map03010	pr	LOCMI06804:LOCMI06804
+Ribosome:map03010	pr	LOCMI13842:LOCMI13842
+Ribosome:map03010	pr	LOCMI08559:LOCMI08559
+Ribosome:map03010	pr	LOCMI15205:LOCMI15205
+Ribosome:map03010	pr	LOCMI13569:LOCMI13569
+Ribosome:map03010	pr	LOCMI07012:LOCMI07012
+Ribosome:map03010	pr	LOCMI13315:LOCMI13315
+Ribosome:map03010	pr	LOCMI09731:LOCMI09731
+Ribosome:map03010	pr	LOCMI09637:LOCMI09637
+Ribosome:map03010	pr	LOCMI14132:LOCMI14132
+Ribosome:map03010	pr	LOCMI14819:LOCMI14819
+Ribosome:map03010	pr	LOCMI10304:LOCMI10304
+Ribosome:map03010	pr	LOCMI03696:LOCMI03696
+Ribosome:map03010	pr	LOCMI10621:LOCMI10621
+Ribosome:map03010	pr	LOCMI01789:LOCMI01789
+Ribosome:map03010	pr	LOCMI09539:LOCMI09539
+Ribosome:map03010	pr	LOCMI04006:LOCMI04006
+Ribosome:map03010	pr	LOCMI08029:LOCMI08029
+Ribosome:map03010	pr	LOCMI00130:LOCMI00130
+Ribosome:map03010	pr	LOCMI13545:LOCMI13545
+Ribosome:map03010	pr	LOCMI07886:LOCMI07886
+Ribosome:map03010	pr	LOCMI11190:LOCMI11190
+Ribosome:map03010	pr	LOCMI11617:LOCMI11617
+Ribosome:map03010	pr	LOCMI05114:LOCMI05114
+Ribosome:map03010	pr	LOCMI13370:LOCMI13370
+Pentose and glucuronate interconversions:map00040	pr	LOCMI15907:LOCMI15907
+Pentose and glucuronate interconversions:map00040	pr	LOCMI03958:LOCMI03958
+Pentose and glucuronate interconversions:map00040	pr	LOCMI17046:LOCMI17046
+Pentose and glucuronate interconversions:map00040	pr	LOCMI17032:LOCMI17032
+Pentose and glucuronate interconversions:map00040	pr	LOCMI13812:LOCMI13812
+Pentose and glucuronate interconversions:map00040	pr	LOCMI15882:LOCMI15882
+Pentose and glucuronate interconversions:map00040	pr	LOCMI08865:LOCMI08865
+Pentose and glucuronate interconversions:map00040	pr	LOCMI13396:LOCMI13396
+Pentose and glucuronate interconversions:map00040	pr	LOCMI15896:LOCMI15896
+Pentose and glucuronate interconversions:map00040	pr	LOCMI09478:LOCMI09478
+Protein export:map03060	pr	LOCMI15493:LOCMI15493
+Protein export:map03060	pr	LOCMI15492:LOCMI15492
+Protein export:map03060	pr	LOCMI07265:LOCMI07265
+Protein export:map03060	pr	LOCMI10612:LOCMI10612

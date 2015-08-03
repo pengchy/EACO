@@ -1,0 +1,4043 @@
+GeneID	EACO	Pathway
+LOCMI04306	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI06423	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI07493	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI09995	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15766	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15779	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15780	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15802	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15822	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15833	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15834	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15839	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15850	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15851	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15855	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15871	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15874	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15878	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15879	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15891	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15896	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15907	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15912	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15918	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15924	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15978	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15985	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15993	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15994	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI15995	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16007	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16040	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16048	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16055	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16061	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16063	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16068	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16069	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16081	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16091	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI16875	Ea	Glycolysis / Gluconeogenesis:map00010
+LOCMI05605	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI07462	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI09995	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI11413	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15766	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15768	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15796	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15803	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15819	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15850	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15871	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15876	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15878	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15879	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15908	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15918	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15927	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15934	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15947	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15957	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15962	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15964	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15965	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15967	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15982	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15989	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI15995	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI16000	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI16012	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI16039	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI16075	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI16077	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI16081	Ea	Citrate cycle (TCA cycle):map00020
+LOCMI03491	Ea	Pentose phosphate pathway:map00030
+LOCMI04080	Ea	Pentose phosphate pathway:map00030
+LOCMI07298	Ea	Pentose phosphate pathway:map00030
+LOCMI07493	Ea	Pentose phosphate pathway:map00030
+LOCMI08995	Ea	Pentose phosphate pathway:map00030
+LOCMI15769	Ea	Pentose phosphate pathway:map00030
+LOCMI15789	Ea	Pentose phosphate pathway:map00030
+LOCMI15802	Ea	Pentose phosphate pathway:map00030
+LOCMI15817	Ea	Pentose phosphate pathway:map00030
+LOCMI15822	Ea	Pentose phosphate pathway:map00030
+LOCMI15834	Ea	Pentose phosphate pathway:map00030
+LOCMI15889	Ea	Pentose phosphate pathway:map00030
+LOCMI15903	Ea	Pentose phosphate pathway:map00030
+LOCMI15975	Ea	Pentose phosphate pathway:map00030
+LOCMI15978	Ea	Pentose phosphate pathway:map00030
+LOCMI16016	Ea	Pentose phosphate pathway:map00030
+LOCMI16031	Ea	Pentose phosphate pathway:map00030
+LOCMI16033	Ea	Pentose phosphate pathway:map00030
+LOCMI16043	Ea	Pentose phosphate pathway:map00030
+LOCMI16063	Ea	Pentose phosphate pathway:map00030
+LOCMI00063	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI02534	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI03958	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI04896	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI07111	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI08291	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI08865	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI09478	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI10694	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI13201	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI13396	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI13812	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15489	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15814	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15839	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15851	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15867	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15882	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15891	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15896	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15903	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15907	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI15985	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16979	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16983	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16984	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16990	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16992	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16994	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16996	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16997	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16998	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI16999	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17001	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17012	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17015	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17023	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17030	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17032	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17034	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17035	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17036	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17039	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17043	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17044	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17045	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI17046	Ea	Pentose and glucuronate interconversions:map00040
+LOCMI01471	Ea	Fructose and mannose metabolism:map00051
+LOCMI01954	Ea	Fructose and mannose metabolism:map00051
+LOCMI02041	Ea	Fructose and mannose metabolism:map00051
+LOCMI03567	Ea	Fructose and mannose metabolism:map00051
+LOCMI04167	Ea	Fructose and mannose metabolism:map00051
+LOCMI04896	Ea	Fructose and mannose metabolism:map00051
+LOCMI05849	Ea	Fructose and mannose metabolism:map00051
+LOCMI05915	Ea	Fructose and mannose metabolism:map00051
+LOCMI06643	Ea	Fructose and mannose metabolism:map00051
+LOCMI08614	Ea	Fructose and mannose metabolism:map00051
+LOCMI12268	Ea	Fructose and mannose metabolism:map00051
+LOCMI12464	Ea	Fructose and mannose metabolism:map00051
+LOCMI12827	Ea	Fructose and mannose metabolism:map00051
+LOCMI14321	Ea	Fructose and mannose metabolism:map00051
+LOCMI14322	Ea	Fructose and mannose metabolism:map00051
+LOCMI14323	Ea	Fructose and mannose metabolism:map00051
+LOCMI14325	Ea	Fructose and mannose metabolism:map00051
+LOCMI15802	Ea	Fructose and mannose metabolism:map00051
+LOCMI15814	Ea	Fructose and mannose metabolism:map00051
+LOCMI15833	Ea	Fructose and mannose metabolism:map00051
+LOCMI15867	Ea	Fructose and mannose metabolism:map00051
+LOCMI15882	Ea	Fructose and mannose metabolism:map00051
+LOCMI15978	Ea	Fructose and mannose metabolism:map00051
+LOCMI16055	Ea	Fructose and mannose metabolism:map00051
+LOCMI16063	Ea	Fructose and mannose metabolism:map00051
+LOCMI00063	Ea	Galactose metabolism:map00052
+LOCMI03726	Ea	Galactose metabolism:map00052
+LOCMI04593	Ea	Galactose metabolism:map00052
+LOCMI05976	Ea	Galactose metabolism:map00052
+LOCMI06197	Ea	Galactose metabolism:map00052
+LOCMI07493	Ea	Galactose metabolism:map00052
+LOCMI09105	Ea	Galactose metabolism:map00052
+LOCMI09697	Ea	Galactose metabolism:map00052
+LOCMI11868	Ea	Galactose metabolism:map00052
+LOCMI13201	Ea	Galactose metabolism:map00052
+LOCMI13623	Ea	Galactose metabolism:map00052
+LOCMI13816	Ea	Galactose metabolism:map00052
+LOCMI14855	Ea	Galactose metabolism:map00052
+LOCMI15489	Ea	Galactose metabolism:map00052
+LOCMI15802	Ea	Galactose metabolism:map00052
+LOCMI15814	Ea	Galactose metabolism:map00052
+LOCMI15833	Ea	Galactose metabolism:map00052
+LOCMI15834	Ea	Galactose metabolism:map00052
+LOCMI15855	Ea	Galactose metabolism:map00052
+LOCMI15867	Ea	Galactose metabolism:map00052
+LOCMI15882	Ea	Galactose metabolism:map00052
+LOCMI16027	Ea	Galactose metabolism:map00052
+LOCMI16036	Ea	Galactose metabolism:map00052
+LOCMI16055	Ea	Galactose metabolism:map00052
+LOCMI02005	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI03491	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI07298	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI08865	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI13444	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI13445	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI13447	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI13448	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI15839	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI15851	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI15874	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI15891	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI15896	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI15907	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI15912	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI15985	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16979	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16983	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16984	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16990	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16992	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16994	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16996	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16997	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16998	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI16999	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17001	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17012	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17015	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17023	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17030	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17032	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17034	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17035	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17036	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17039	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17043	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17044	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17045	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI17046	Ea	Ascorbate and aldarate metabolism:map00053
+LOCMI15764	Ea	Fatty acid biosynthesis:map00061
+LOCMI15937	Ea	Fatty acid biosynthesis:map00061
+LOCMI15987	Ea	Fatty acid biosynthesis:map00061
+LOCMI16005	Ea	Fatty acid biosynthesis:map00061
+LOCMI16095	Ea	Fatty acid biosynthesis:map00061
+LOCMI16101	Ea	Fatty acid biosynthesis:map00061
+LOCMI15806	Ea	Fatty acid elongation:map00062
+LOCMI15900	Ea	Fatty acid elongation:map00062
+LOCMI15940	Ea	Fatty acid elongation:map00062
+LOCMI15944	Ea	Fatty acid elongation:map00062
+LOCMI15945	Ea	Fatty acid elongation:map00062
+LOCMI15972	Ea	Fatty acid elongation:map00062
+LOCMI15991	Ea	Fatty acid elongation:map00062
+LOCMI16015	Ea	Fatty acid elongation:map00062
+LOCMI16041	Ea	Fatty acid elongation:map00062
+LOCMI16045	Ea	Fatty acid elongation:map00062
+LOCMI16046	Ea	Fatty acid elongation:map00062
+LOCMI16047	Ea	Fatty acid elongation:map00062
+LOCMI16050	Ea	Fatty acid elongation:map00062
+LOCMI16955	Ea	Fatty acid elongation:map00062
+LOCMI15806	Ea	Fatty acid degradation:map00071
+LOCMI15809	Ea	Fatty acid degradation:map00071
+LOCMI15821	Ea	Fatty acid degradation:map00071
+LOCMI15827	Ea	Fatty acid degradation:map00071
+LOCMI15828	Ea	Fatty acid degradation:map00071
+LOCMI15839	Ea	Fatty acid degradation:map00071
+LOCMI15841	Ea	Fatty acid degradation:map00071
+LOCMI15851	Ea	Fatty acid degradation:map00071
+LOCMI15853	Ea	Fatty acid degradation:map00071
+LOCMI15857	Ea	Fatty acid degradation:map00071
+LOCMI15874	Ea	Fatty acid degradation:map00071
+LOCMI15891	Ea	Fatty acid degradation:map00071
+LOCMI15896	Ea	Fatty acid degradation:map00071
+LOCMI15897	Ea	Fatty acid degradation:map00071
+LOCMI15898	Ea	Fatty acid degradation:map00071
+LOCMI15899	Ea	Fatty acid degradation:map00071
+LOCMI15900	Ea	Fatty acid degradation:map00071
+LOCMI15907	Ea	Fatty acid degradation:map00071
+LOCMI15912	Ea	Fatty acid degradation:map00071
+LOCMI15923	Ea	Fatty acid degradation:map00071
+LOCMI15926	Ea	Fatty acid degradation:map00071
+LOCMI15935	Ea	Fatty acid degradation:map00071
+LOCMI15939	Ea	Fatty acid degradation:map00071
+LOCMI15940	Ea	Fatty acid degradation:map00071
+LOCMI15944	Ea	Fatty acid degradation:map00071
+LOCMI15961	Ea	Fatty acid degradation:map00071
+LOCMI15985	Ea	Fatty acid degradation:map00071
+LOCMI15997	Ea	Fatty acid degradation:map00071
+LOCMI16007	Ea	Fatty acid degradation:map00071
+LOCMI16020	Ea	Fatty acid degradation:map00071
+LOCMI16025	Ea	Fatty acid degradation:map00071
+LOCMI16046	Ea	Fatty acid degradation:map00071
+LOCMI16047	Ea	Fatty acid degradation:map00071
+LOCMI16298	Ea	Fatty acid degradation:map00071
+LOCMI16324	Ea	Fatty acid degradation:map00071
+LOCMI16359	Ea	Fatty acid degradation:map00071
+LOCMI16371	Ea	Fatty acid degradation:map00071
+LOCMI16955	Ea	Fatty acid degradation:map00071
+LOCMI15765	Ea	Synthesis and degradation of ketone bodies:map00072
+LOCMI15805	Ea	Synthesis and degradation of ketone bodies:map00072
+LOCMI15906	Ea	Synthesis and degradation of ketone bodies:map00072
+LOCMI16092	Ea	Synthesis and degradation of ketone bodies:map00072
+LOCMI16298	Ea	Synthesis and degradation of ketone bodies:map00072
+LOCMI16359	Ea	Synthesis and degradation of ketone bodies:map00072
+LOCMI16371	Ea	Synthesis and degradation of ketone bodies:map00072
+LOCMI00700	Ea	Steroid biosynthesis:map00100
+LOCMI11812	Ea	Steroid biosynthesis:map00100
+LOCMI15888	Ea	Steroid biosynthesis:map00100
+LOCMI15998	Ea	Steroid biosynthesis:map00100
+LOCMI16140	Ea	Steroid biosynthesis:map00100
+LOCMI16149	Ea	Steroid biosynthesis:map00100
+LOCMI16161	Ea	Steroid biosynthesis:map00100
+LOCMI16200	Ea	Steroid biosynthesis:map00100
+LOCMI01211	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI03395	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI07176	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI07254	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI08078	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI09590	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI09826	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI11619	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI12565	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI13919	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI13973	Ea	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+LOCMI00304	Ea	Oxidative phosphorylation:map00190
+LOCMI05605	Ea	Oxidative phosphorylation:map00190
+LOCMI06328	Ea	Oxidative phosphorylation:map00190
+LOCMI07462	Ea	Oxidative phosphorylation:map00190
+LOCMI08818	Ea	Oxidative phosphorylation:map00190
+LOCMI11065	Ea	Oxidative phosphorylation:map00190
+LOCMI11413	Ea	Oxidative phosphorylation:map00190
+LOCMI11556	Ea	Oxidative phosphorylation:map00190
+LOCMI13033	Ea	Oxidative phosphorylation:map00190
+LOCMI13780	Ea	Oxidative phosphorylation:map00190
+LOCMI13781	Ea	Oxidative phosphorylation:map00190
+LOCMI15760	Ea	Oxidative phosphorylation:map00190
+LOCMI15775	Ea	Oxidative phosphorylation:map00190
+LOCMI15777	Ea	Oxidative phosphorylation:map00190
+LOCMI15778	Ea	Oxidative phosphorylation:map00190
+LOCMI15786	Ea	Oxidative phosphorylation:map00190
+LOCMI15787	Ea	Oxidative phosphorylation:map00190
+LOCMI15790	Ea	Oxidative phosphorylation:map00190
+LOCMI15795	Ea	Oxidative phosphorylation:map00190
+LOCMI15796	Ea	Oxidative phosphorylation:map00190
+LOCMI15804	Ea	Oxidative phosphorylation:map00190
+LOCMI15807	Ea	Oxidative phosphorylation:map00190
+LOCMI15810	Ea	Oxidative phosphorylation:map00190
+LOCMI15812	Ea	Oxidative phosphorylation:map00190
+LOCMI15816	Ea	Oxidative phosphorylation:map00190
+LOCMI15818	Ea	Oxidative phosphorylation:map00190
+LOCMI15826	Ea	Oxidative phosphorylation:map00190
+LOCMI15830	Ea	Oxidative phosphorylation:map00190
+LOCMI15835	Ea	Oxidative phosphorylation:map00190
+LOCMI15837	Ea	Oxidative phosphorylation:map00190
+LOCMI15838	Ea	Oxidative phosphorylation:map00190
+LOCMI15847	Ea	Oxidative phosphorylation:map00190
+LOCMI15852	Ea	Oxidative phosphorylation:map00190
+LOCMI15858	Ea	Oxidative phosphorylation:map00190
+LOCMI15861	Ea	Oxidative phosphorylation:map00190
+LOCMI15863	Ea	Oxidative phosphorylation:map00190
+LOCMI15865	Ea	Oxidative phosphorylation:map00190
+LOCMI15869	Ea	Oxidative phosphorylation:map00190
+LOCMI15884	Ea	Oxidative phosphorylation:map00190
+LOCMI15885	Ea	Oxidative phosphorylation:map00190
+LOCMI15890	Ea	Oxidative phosphorylation:map00190
+LOCMI15892	Ea	Oxidative phosphorylation:map00190
+LOCMI15894	Ea	Oxidative phosphorylation:map00190
+LOCMI15895	Ea	Oxidative phosphorylation:map00190
+LOCMI15909	Ea	Oxidative phosphorylation:map00190
+LOCMI15910	Ea	Oxidative phosphorylation:map00190
+LOCMI15911	Ea	Oxidative phosphorylation:map00190
+LOCMI15914	Ea	Oxidative phosphorylation:map00190
+LOCMI15915	Ea	Oxidative phosphorylation:map00190
+LOCMI15917	Ea	Oxidative phosphorylation:map00190
+LOCMI15919	Ea	Oxidative phosphorylation:map00190
+LOCMI15921	Ea	Oxidative phosphorylation:map00190
+LOCMI15925	Ea	Oxidative phosphorylation:map00190
+LOCMI15931	Ea	Oxidative phosphorylation:map00190
+LOCMI15938	Ea	Oxidative phosphorylation:map00190
+LOCMI15952	Ea	Oxidative phosphorylation:map00190
+LOCMI15958	Ea	Oxidative phosphorylation:map00190
+LOCMI15959	Ea	Oxidative phosphorylation:map00190
+LOCMI15966	Ea	Oxidative phosphorylation:map00190
+LOCMI15970	Ea	Oxidative phosphorylation:map00190
+LOCMI15971	Ea	Oxidative phosphorylation:map00190
+LOCMI15973	Ea	Oxidative phosphorylation:map00190
+LOCMI15977	Ea	Oxidative phosphorylation:map00190
+LOCMI15979	Ea	Oxidative phosphorylation:map00190
+LOCMI15980	Ea	Oxidative phosphorylation:map00190
+LOCMI15981	Ea	Oxidative phosphorylation:map00190
+LOCMI15986	Ea	Oxidative phosphorylation:map00190
+LOCMI15990	Ea	Oxidative phosphorylation:map00190
+LOCMI15992	Ea	Oxidative phosphorylation:map00190
+LOCMI15996	Ea	Oxidative phosphorylation:map00190
+LOCMI15999	Ea	Oxidative phosphorylation:map00190
+LOCMI16001	Ea	Oxidative phosphorylation:map00190
+LOCMI16006	Ea	Oxidative phosphorylation:map00190
+LOCMI16008	Ea	Oxidative phosphorylation:map00190
+LOCMI16009	Ea	Oxidative phosphorylation:map00190
+LOCMI16022	Ea	Oxidative phosphorylation:map00190
+LOCMI16023	Ea	Oxidative phosphorylation:map00190
+LOCMI16024	Ea	Oxidative phosphorylation:map00190
+LOCMI16028	Ea	Oxidative phosphorylation:map00190
+LOCMI16030	Ea	Oxidative phosphorylation:map00190
+LOCMI16032	Ea	Oxidative phosphorylation:map00190
+LOCMI16037	Ea	Oxidative phosphorylation:map00190
+LOCMI16039	Ea	Oxidative phosphorylation:map00190
+LOCMI16044	Ea	Oxidative phosphorylation:map00190
+LOCMI16049	Ea	Oxidative phosphorylation:map00190
+LOCMI16051	Ea	Oxidative phosphorylation:map00190
+LOCMI16058	Ea	Oxidative phosphorylation:map00190
+LOCMI16062	Ea	Oxidative phosphorylation:map00190
+LOCMI16065	Ea	Oxidative phosphorylation:map00190
+LOCMI16066	Ea	Oxidative phosphorylation:map00190
+LOCMI16072	Ea	Oxidative phosphorylation:map00190
+LOCMI16074	Ea	Oxidative phosphorylation:map00190
+LOCMI16075	Ea	Oxidative phosphorylation:map00190
+LOCMI16078	Ea	Oxidative phosphorylation:map00190
+LOCMI16082	Ea	Oxidative phosphorylation:map00190
+LOCMI16083	Ea	Oxidative phosphorylation:map00190
+LOCMI16084	Ea	Oxidative phosphorylation:map00190
+LOCMI16086	Ea	Oxidative phosphorylation:map00190
+LOCMI16093	Ea	Oxidative phosphorylation:map00190
+LOCMI16094	Ea	Oxidative phosphorylation:map00190
+LOCMI16102	Ea	Oxidative phosphorylation:map00190
+LOCMI16957	Ea	Oxidative phosphorylation:map00190
+LOCMI00001	Ea	Purine metabolism:map00230
+LOCMI00021	Ea	Purine metabolism:map00230
+LOCMI00179	Ea	Purine metabolism:map00230
+LOCMI00207	Ea	Purine metabolism:map00230
+LOCMI00252	Ea	Purine metabolism:map00230
+LOCMI00422	Ea	Purine metabolism:map00230
+LOCMI00523	Ea	Purine metabolism:map00230
+LOCMI00525	Ea	Purine metabolism:map00230
+LOCMI00601	Ea	Purine metabolism:map00230
+LOCMI00863	Ea	Purine metabolism:map00230
+LOCMI01087	Ea	Purine metabolism:map00230
+LOCMI01328	Ea	Purine metabolism:map00230
+LOCMI01339	Ea	Purine metabolism:map00230
+LOCMI01524	Ea	Purine metabolism:map00230
+LOCMI01920	Ea	Purine metabolism:map00230
+LOCMI01934	Ea	Purine metabolism:map00230
+LOCMI02157	Ea	Purine metabolism:map00230
+LOCMI02740	Ea	Purine metabolism:map00230
+LOCMI02908	Ea	Purine metabolism:map00230
+LOCMI03230	Ea	Purine metabolism:map00230
+LOCMI03421	Ea	Purine metabolism:map00230
+LOCMI03478	Ea	Purine metabolism:map00230
+LOCMI03637	Ea	Purine metabolism:map00230
+LOCMI03761	Ea	Purine metabolism:map00230
+LOCMI03855	Ea	Purine metabolism:map00230
+LOCMI03873	Ea	Purine metabolism:map00230
+LOCMI03973	Ea	Purine metabolism:map00230
+LOCMI04007	Ea	Purine metabolism:map00230
+LOCMI04249	Ea	Purine metabolism:map00230
+LOCMI04257	Ea	Purine metabolism:map00230
+LOCMI04450	Ea	Purine metabolism:map00230
+LOCMI04482	Ea	Purine metabolism:map00230
+LOCMI04598	Ea	Purine metabolism:map00230
+LOCMI04645	Ea	Purine metabolism:map00230
+LOCMI04852	Ea	Purine metabolism:map00230
+LOCMI05195	Ea	Purine metabolism:map00230
+LOCMI05408	Ea	Purine metabolism:map00230
+LOCMI05424	Ea	Purine metabolism:map00230
+LOCMI05478	Ea	Purine metabolism:map00230
+LOCMI05553	Ea	Purine metabolism:map00230
+LOCMI05695	Ea	Purine metabolism:map00230
+LOCMI05728	Ea	Purine metabolism:map00230
+LOCMI05744	Ea	Purine metabolism:map00230
+LOCMI05985	Ea	Purine metabolism:map00230
+LOCMI06149	Ea	Purine metabolism:map00230
+LOCMI06409	Ea	Purine metabolism:map00230
+LOCMI06919	Ea	Purine metabolism:map00230
+LOCMI06930	Ea	Purine metabolism:map00230
+LOCMI07029	Ea	Purine metabolism:map00230
+LOCMI07085	Ea	Purine metabolism:map00230
+LOCMI07493	Ea	Purine metabolism:map00230
+LOCMI07686	Ea	Purine metabolism:map00230
+LOCMI07847	Ea	Purine metabolism:map00230
+LOCMI07858	Ea	Purine metabolism:map00230
+LOCMI07879	Ea	Purine metabolism:map00230
+LOCMI08111	Ea	Purine metabolism:map00230
+LOCMI08182	Ea	Purine metabolism:map00230
+LOCMI08183	Ea	Purine metabolism:map00230
+LOCMI08192	Ea	Purine metabolism:map00230
+LOCMI08295	Ea	Purine metabolism:map00230
+LOCMI08300	Ea	Purine metabolism:map00230
+LOCMI08328	Ea	Purine metabolism:map00230
+LOCMI08603	Ea	Purine metabolism:map00230
+LOCMI08630	Ea	Purine metabolism:map00230
+LOCMI08702	Ea	Purine metabolism:map00230
+LOCMI08826	Ea	Purine metabolism:map00230
+LOCMI09089	Ea	Purine metabolism:map00230
+LOCMI09110	Ea	Purine metabolism:map00230
+LOCMI09182	Ea	Purine metabolism:map00230
+LOCMI09384	Ea	Purine metabolism:map00230
+LOCMI09808	Ea	Purine metabolism:map00230
+LOCMI10140	Ea	Purine metabolism:map00230
+LOCMI10439	Ea	Purine metabolism:map00230
+LOCMI10444	Ea	Purine metabolism:map00230
+LOCMI10663	Ea	Purine metabolism:map00230
+LOCMI10894	Ea	Purine metabolism:map00230
+LOCMI10902	Ea	Purine metabolism:map00230
+LOCMI11198	Ea	Purine metabolism:map00230
+LOCMI11370	Ea	Purine metabolism:map00230
+LOCMI11424	Ea	Purine metabolism:map00230
+LOCMI11553	Ea	Purine metabolism:map00230
+LOCMI11849	Ea	Purine metabolism:map00230
+LOCMI11954	Ea	Purine metabolism:map00230
+LOCMI12275	Ea	Purine metabolism:map00230
+LOCMI12441	Ea	Purine metabolism:map00230
+LOCMI12445	Ea	Purine metabolism:map00230
+LOCMI12468	Ea	Purine metabolism:map00230
+LOCMI12768	Ea	Purine metabolism:map00230
+LOCMI12823	Ea	Purine metabolism:map00230
+LOCMI12958	Ea	Purine metabolism:map00230
+LOCMI13140	Ea	Purine metabolism:map00230
+LOCMI13169	Ea	Purine metabolism:map00230
+LOCMI13754	Ea	Purine metabolism:map00230
+LOCMI13810	Ea	Purine metabolism:map00230
+LOCMI13968	Ea	Purine metabolism:map00230
+LOCMI14102	Ea	Purine metabolism:map00230
+LOCMI14190	Ea	Purine metabolism:map00230
+LOCMI14200	Ea	Purine metabolism:map00230
+LOCMI14604	Ea	Purine metabolism:map00230
+LOCMI14641	Ea	Purine metabolism:map00230
+LOCMI14674	Ea	Purine metabolism:map00230
+LOCMI14719	Ea	Purine metabolism:map00230
+LOCMI14720	Ea	Purine metabolism:map00230
+LOCMI14842	Ea	Purine metabolism:map00230
+LOCMI14909	Ea	Purine metabolism:map00230
+LOCMI15817	Ea	Purine metabolism:map00230
+LOCMI15834	Ea	Purine metabolism:map00230
+LOCMI15924	Ea	Purine metabolism:map00230
+LOCMI15994	Ea	Purine metabolism:map00230
+LOCMI16281	Ea	Purine metabolism:map00230
+LOCMI16287	Ea	Purine metabolism:map00230
+LOCMI16395	Ea	Purine metabolism:map00230
+LOCMI16483	Ea	Purine metabolism:map00230
+LOCMI16539	Ea	Purine metabolism:map00230
+LOCMI16545	Ea	Purine metabolism:map00230
+LOCMI16875	Ea	Purine metabolism:map00230
+LOCMI16876	Ea	Purine metabolism:map00230
+LOCMI17133	Ea	Purine metabolism:map00230
+LOCMI17256	Ea	Purine metabolism:map00230
+LOCMI03761	Ea	Caffeine metabolism:map00232
+LOCMI16287	Ea	Caffeine metabolism:map00232
+LOCMI00021	Ea	Pyrimidine metabolism:map00240
+LOCMI00179	Ea	Pyrimidine metabolism:map00240
+LOCMI00207	Ea	Pyrimidine metabolism:map00240
+LOCMI00252	Ea	Pyrimidine metabolism:map00240
+LOCMI00426	Ea	Pyrimidine metabolism:map00240
+LOCMI00507	Ea	Pyrimidine metabolism:map00240
+LOCMI00523	Ea	Pyrimidine metabolism:map00240
+LOCMI00525	Ea	Pyrimidine metabolism:map00240
+LOCMI00601	Ea	Pyrimidine metabolism:map00240
+LOCMI01328	Ea	Pyrimidine metabolism:map00240
+LOCMI01524	Ea	Pyrimidine metabolism:map00240
+LOCMI01582	Ea	Pyrimidine metabolism:map00240
+LOCMI01920	Ea	Pyrimidine metabolism:map00240
+LOCMI02157	Ea	Pyrimidine metabolism:map00240
+LOCMI02287	Ea	Pyrimidine metabolism:map00240
+LOCMI02908	Ea	Pyrimidine metabolism:map00240
+LOCMI03230	Ea	Pyrimidine metabolism:map00240
+LOCMI03421	Ea	Pyrimidine metabolism:map00240
+LOCMI03637	Ea	Pyrimidine metabolism:map00240
+LOCMI03855	Ea	Pyrimidine metabolism:map00240
+LOCMI03873	Ea	Pyrimidine metabolism:map00240
+LOCMI03973	Ea	Pyrimidine metabolism:map00240
+LOCMI04128	Ea	Pyrimidine metabolism:map00240
+LOCMI04129	Ea	Pyrimidine metabolism:map00240
+LOCMI04164	Ea	Pyrimidine metabolism:map00240
+LOCMI04450	Ea	Pyrimidine metabolism:map00240
+LOCMI04598	Ea	Pyrimidine metabolism:map00240
+LOCMI04645	Ea	Pyrimidine metabolism:map00240
+LOCMI04852	Ea	Pyrimidine metabolism:map00240
+LOCMI05195	Ea	Pyrimidine metabolism:map00240
+LOCMI05408	Ea	Pyrimidine metabolism:map00240
+LOCMI05424	Ea	Pyrimidine metabolism:map00240
+LOCMI05553	Ea	Pyrimidine metabolism:map00240
+LOCMI05728	Ea	Pyrimidine metabolism:map00240
+LOCMI05744	Ea	Pyrimidine metabolism:map00240
+LOCMI05985	Ea	Pyrimidine metabolism:map00240
+LOCMI06016	Ea	Pyrimidine metabolism:map00240
+LOCMI06149	Ea	Pyrimidine metabolism:map00240
+LOCMI06391	Ea	Pyrimidine metabolism:map00240
+LOCMI06409	Ea	Pyrimidine metabolism:map00240
+LOCMI06930	Ea	Pyrimidine metabolism:map00240
+LOCMI07554	Ea	Pyrimidine metabolism:map00240
+LOCMI07555	Ea	Pyrimidine metabolism:map00240
+LOCMI07858	Ea	Pyrimidine metabolism:map00240
+LOCMI07879	Ea	Pyrimidine metabolism:map00240
+LOCMI08111	Ea	Pyrimidine metabolism:map00240
+LOCMI08146	Ea	Pyrimidine metabolism:map00240
+LOCMI08182	Ea	Pyrimidine metabolism:map00240
+LOCMI08183	Ea	Pyrimidine metabolism:map00240
+LOCMI08192	Ea	Pyrimidine metabolism:map00240
+LOCMI08295	Ea	Pyrimidine metabolism:map00240
+LOCMI08630	Ea	Pyrimidine metabolism:map00240
+LOCMI08740	Ea	Pyrimidine metabolism:map00240
+LOCMI09166	Ea	Pyrimidine metabolism:map00240
+LOCMI09384	Ea	Pyrimidine metabolism:map00240
+LOCMI09732	Ea	Pyrimidine metabolism:map00240
+LOCMI09785	Ea	Pyrimidine metabolism:map00240
+LOCMI09956	Ea	Pyrimidine metabolism:map00240
+LOCMI10439	Ea	Pyrimidine metabolism:map00240
+LOCMI10444	Ea	Pyrimidine metabolism:map00240
+LOCMI10663	Ea	Pyrimidine metabolism:map00240
+LOCMI10789	Ea	Pyrimidine metabolism:map00240
+LOCMI10902	Ea	Pyrimidine metabolism:map00240
+LOCMI11198	Ea	Pyrimidine metabolism:map00240
+LOCMI12275	Ea	Pyrimidine metabolism:map00240
+LOCMI12441	Ea	Pyrimidine metabolism:map00240
+LOCMI13010	Ea	Pyrimidine metabolism:map00240
+LOCMI13140	Ea	Pyrimidine metabolism:map00240
+LOCMI13169	Ea	Pyrimidine metabolism:map00240
+LOCMI13754	Ea	Pyrimidine metabolism:map00240
+LOCMI13810	Ea	Pyrimidine metabolism:map00240
+LOCMI14102	Ea	Pyrimidine metabolism:map00240
+LOCMI14194	Ea	Pyrimidine metabolism:map00240
+LOCMI14200	Ea	Pyrimidine metabolism:map00240
+LOCMI14382	Ea	Pyrimidine metabolism:map00240
+LOCMI14641	Ea	Pyrimidine metabolism:map00240
+LOCMI14842	Ea	Pyrimidine metabolism:map00240
+LOCMI14909	Ea	Pyrimidine metabolism:map00240
+LOCMI15048	Ea	Pyrimidine metabolism:map00240
+LOCMI15049	Ea	Pyrimidine metabolism:map00240
+LOCMI15060	Ea	Pyrimidine metabolism:map00240
+LOCMI15409	Ea	Pyrimidine metabolism:map00240
+LOCMI16281	Ea	Pyrimidine metabolism:map00240
+LOCMI02211	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI03210	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI04133	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI04249	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI04601	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI05252	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI05296	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI05806	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI06263	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI06391	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI07002	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI07085	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI08638	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI08798	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI09293	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI09667	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI10311	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI10941	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI11040	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI12343	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI12689	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI12811	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI14004	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI14497	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI14719	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI14899	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI16443	Ea	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI01947	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI02016	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI02552	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI04029	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI04601	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI04776	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI05554	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI05791	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI06013	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI06889	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI07108	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI08123	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI08798	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI09897	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI10291	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI10500	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI11494	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI12133	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI12984	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI12988	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI12989	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI13091	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI13330	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI13350	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI13743	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI14004	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI15831	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI15878	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI15912	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI16069	Ea	Glycine, serine and threonine metabolism:map00260
+LOCMI02112	Ea	Cysteine and methionine metabolism:map00270
+LOCMI02211	Ea	Cysteine and methionine metabolism:map00270
+LOCMI02552	Ea	Cysteine and methionine metabolism:map00270
+LOCMI04776	Ea	Cysteine and methionine metabolism:map00270
+LOCMI04940	Ea	Cysteine and methionine metabolism:map00270
+LOCMI05456	Ea	Cysteine and methionine metabolism:map00270
+LOCMI05806	Ea	Cysteine and methionine metabolism:map00270
+LOCMI06060	Ea	Cysteine and methionine metabolism:map00270
+LOCMI06806	Ea	Cysteine and methionine metabolism:map00270
+LOCMI06873	Ea	Cysteine and methionine metabolism:map00270
+LOCMI07270	Ea	Cysteine and methionine metabolism:map00270
+LOCMI09043	Ea	Cysteine and methionine metabolism:map00270
+LOCMI09044	Ea	Cysteine and methionine metabolism:map00270
+LOCMI10278	Ea	Cysteine and methionine metabolism:map00270
+LOCMI10569	Ea	Cysteine and methionine metabolism:map00270
+LOCMI10825	Ea	Cysteine and methionine metabolism:map00270
+LOCMI10932	Ea	Cysteine and methionine metabolism:map00270
+LOCMI11494	Ea	Cysteine and methionine metabolism:map00270
+LOCMI11534	Ea	Cysteine and methionine metabolism:map00270
+LOCMI12565	Ea	Cysteine and methionine metabolism:map00270
+LOCMI12690	Ea	Cysteine and methionine metabolism:map00270
+LOCMI13091	Ea	Cysteine and methionine metabolism:map00270
+LOCMI14595	Ea	Cysteine and methionine metabolism:map00270
+LOCMI14899	Ea	Cysteine and methionine metabolism:map00270
+LOCMI15876	Ea	Cysteine and methionine metabolism:map00270
+LOCMI15982	Ea	Cysteine and methionine metabolism:map00270
+LOCMI16061	Ea	Cysteine and methionine metabolism:map00270
+LOCMI16068	Ea	Cysteine and methionine metabolism:map00270
+LOCMI17543	Ea	Cysteine and methionine metabolism:map00270
+LOCMI00274	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI02165	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI03647	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI03707	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI05233	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI05381	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI06553	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI07116	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI10671	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI11659	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI12631	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15368	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15765	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15805	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15806	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15839	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15841	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15851	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15874	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15878	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15891	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15896	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15899	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15900	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15907	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15912	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15923	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15939	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15940	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15944	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15956	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI15985	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI16046	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI16047	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI16092	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI16298	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI16359	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI16371	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI16955	Ea	Valine, leucine and isoleucine degradation:map00280
+LOCMI02165	Ea	Valine, leucine and isoleucine biosynthesis:map00290
+LOCMI02552	Ea	Valine, leucine and isoleucine biosynthesis:map00290
+LOCMI08123	Ea	Valine, leucine and isoleucine biosynthesis:map00290
+LOCMI08549	Ea	Lysine biosynthesis:map00300
+LOCMI15912	Ea	Lysine biosynthesis:map00300
+LOCMI00117	Ea	Lysine degradation:map00310
+LOCMI00662	Ea	Lysine degradation:map00310
+LOCMI01103	Ea	Lysine degradation:map00310
+LOCMI02447	Ea	Lysine degradation:map00310
+LOCMI03117	Ea	Lysine degradation:map00310
+LOCMI03446	Ea	Lysine degradation:map00310
+LOCMI03758	Ea	Lysine degradation:map00310
+LOCMI04519	Ea	Lysine degradation:map00310
+LOCMI04755	Ea	Lysine degradation:map00310
+LOCMI05398	Ea	Lysine degradation:map00310
+LOCMI05700	Ea	Lysine degradation:map00310
+LOCMI05702	Ea	Lysine degradation:map00310
+LOCMI05868	Ea	Lysine degradation:map00310
+LOCMI06517	Ea	Lysine degradation:map00310
+LOCMI06593	Ea	Lysine degradation:map00310
+LOCMI07997	Ea	Lysine degradation:map00310
+LOCMI08077	Ea	Lysine degradation:map00310
+LOCMI08240	Ea	Lysine degradation:map00310
+LOCMI09053	Ea	Lysine degradation:map00310
+LOCMI09235	Ea	Lysine degradation:map00310
+LOCMI10213	Ea	Lysine degradation:map00310
+LOCMI10966	Ea	Lysine degradation:map00310
+LOCMI13527	Ea	Lysine degradation:map00310
+LOCMI15806	Ea	Lysine degradation:map00310
+LOCMI15839	Ea	Lysine degradation:map00310
+LOCMI15851	Ea	Lysine degradation:map00310
+LOCMI15874	Ea	Lysine degradation:map00310
+LOCMI15891	Ea	Lysine degradation:map00310
+LOCMI15896	Ea	Lysine degradation:map00310
+LOCMI15907	Ea	Lysine degradation:map00310
+LOCMI15912	Ea	Lysine degradation:map00310
+LOCMI15927	Ea	Lysine degradation:map00310
+LOCMI15935	Ea	Lysine degradation:map00310
+LOCMI15940	Ea	Lysine degradation:map00310
+LOCMI15944	Ea	Lysine degradation:map00310
+LOCMI15985	Ea	Lysine degradation:map00310
+LOCMI16077	Ea	Lysine degradation:map00310
+LOCMI16298	Ea	Lysine degradation:map00310
+LOCMI16339	Ea	Lysine degradation:map00310
+LOCMI16359	Ea	Lysine degradation:map00310
+LOCMI16371	Ea	Lysine degradation:map00310
+LOCMI16575	Ea	Lysine degradation:map00310
+LOCMI16955	Ea	Lysine degradation:map00310
+LOCMI17358	Ea	Lysine degradation:map00310
+LOCMI01947	Ea	Arginine and proline metabolism:map00330
+LOCMI02029	Ea	Arginine and proline metabolism:map00330
+LOCMI02099	Ea	Arginine and proline metabolism:map00330
+LOCMI02112	Ea	Arginine and proline metabolism:map00330
+LOCMI02211	Ea	Arginine and proline metabolism:map00330
+LOCMI02564	Ea	Arginine and proline metabolism:map00330
+LOCMI03033	Ea	Arginine and proline metabolism:map00330
+LOCMI03210	Ea	Arginine and proline metabolism:map00330
+LOCMI03848	Ea	Arginine and proline metabolism:map00330
+LOCMI03980	Ea	Arginine and proline metabolism:map00330
+LOCMI04133	Ea	Arginine and proline metabolism:map00330
+LOCMI04940	Ea	Arginine and proline metabolism:map00330
+LOCMI05296	Ea	Arginine and proline metabolism:map00330
+LOCMI05439	Ea	Arginine and proline metabolism:map00330
+LOCMI05456	Ea	Arginine and proline metabolism:map00330
+LOCMI05771	Ea	Arginine and proline metabolism:map00330
+LOCMI05806	Ea	Arginine and proline metabolism:map00330
+LOCMI06263	Ea	Arginine and proline metabolism:map00330
+LOCMI08638	Ea	Arginine and proline metabolism:map00330
+LOCMI09621	Ea	Arginine and proline metabolism:map00330
+LOCMI10153	Ea	Arginine and proline metabolism:map00330
+LOCMI10181	Ea	Arginine and proline metabolism:map00330
+LOCMI10839	Ea	Arginine and proline metabolism:map00330
+LOCMI10941	Ea	Arginine and proline metabolism:map00330
+LOCMI11040	Ea	Arginine and proline metabolism:map00330
+LOCMI13869	Ea	Arginine and proline metabolism:map00330
+LOCMI13870	Ea	Arginine and proline metabolism:map00330
+LOCMI13871	Ea	Arginine and proline metabolism:map00330
+LOCMI14150	Ea	Arginine and proline metabolism:map00330
+LOCMI14497	Ea	Arginine and proline metabolism:map00330
+LOCMI14899	Ea	Arginine and proline metabolism:map00330
+LOCMI15514	Ea	Arginine and proline metabolism:map00330
+LOCMI15839	Ea	Arginine and proline metabolism:map00330
+LOCMI15851	Ea	Arginine and proline metabolism:map00330
+LOCMI15874	Ea	Arginine and proline metabolism:map00330
+LOCMI15891	Ea	Arginine and proline metabolism:map00330
+LOCMI15896	Ea	Arginine and proline metabolism:map00330
+LOCMI15907	Ea	Arginine and proline metabolism:map00330
+LOCMI15912	Ea	Arginine and proline metabolism:map00330
+LOCMI15985	Ea	Arginine and proline metabolism:map00330
+LOCMI01448	Ea	Histidine metabolism:map00340
+LOCMI01947	Ea	Histidine metabolism:map00340
+LOCMI06264	Ea	Histidine metabolism:map00340
+LOCMI07149	Ea	Histidine metabolism:map00340
+LOCMI08225	Ea	Histidine metabolism:map00340
+LOCMI09621	Ea	Histidine metabolism:map00340
+LOCMI10574	Ea	Histidine metabolism:map00340
+LOCMI13172	Ea	Histidine metabolism:map00340
+LOCMI15839	Ea	Histidine metabolism:map00340
+LOCMI15851	Ea	Histidine metabolism:map00340
+LOCMI15874	Ea	Histidine metabolism:map00340
+LOCMI15891	Ea	Histidine metabolism:map00340
+LOCMI15896	Ea	Histidine metabolism:map00340
+LOCMI15907	Ea	Histidine metabolism:map00340
+LOCMI15912	Ea	Histidine metabolism:map00340
+LOCMI15985	Ea	Histidine metabolism:map00340
+LOCMI16306	Ea	Histidine metabolism:map00340
+LOCMI16335	Ea	Histidine metabolism:map00340
+LOCMI17284	Ea	Histidine metabolism:map00340
+LOCMI00197	Ea	Tyrosine metabolism:map00350
+LOCMI01030	Ea	Tyrosine metabolism:map00350
+LOCMI01947	Ea	Tyrosine metabolism:map00350
+LOCMI02211	Ea	Tyrosine metabolism:map00350
+LOCMI03087	Ea	Tyrosine metabolism:map00350
+LOCMI04979	Ea	Tyrosine metabolism:map00350
+LOCMI05806	Ea	Tyrosine metabolism:map00350
+LOCMI08225	Ea	Tyrosine metabolism:map00350
+LOCMI09826	Ea	Tyrosine metabolism:map00350
+LOCMI10574	Ea	Tyrosine metabolism:map00350
+LOCMI12565	Ea	Tyrosine metabolism:map00350
+LOCMI14899	Ea	Tyrosine metabolism:map00350
+LOCMI15691	Ea	Tyrosine metabolism:map00350
+LOCMI16007	Ea	Tyrosine metabolism:map00350
+LOCMI16307	Ea	Tyrosine metabolism:map00350
+LOCMI16335	Ea	Tyrosine metabolism:map00350
+LOCMI17284	Ea	Tyrosine metabolism:map00350
+LOCMI01947	Ea	Phenylalanine metabolism:map00360
+LOCMI02211	Ea	Phenylalanine metabolism:map00360
+LOCMI03087	Ea	Phenylalanine metabolism:map00360
+LOCMI03395	Ea	Phenylalanine metabolism:map00360
+LOCMI05806	Ea	Phenylalanine metabolism:map00360
+LOCMI09826	Ea	Phenylalanine metabolism:map00360
+LOCMI10574	Ea	Phenylalanine metabolism:map00360
+LOCMI12565	Ea	Phenylalanine metabolism:map00360
+LOCMI14899	Ea	Phenylalanine metabolism:map00360
+LOCMI16266	Ea	Phenylalanine metabolism:map00360
+LOCMI16267	Ea	Phenylalanine metabolism:map00360
+LOCMI16268	Ea	Phenylalanine metabolism:map00360
+LOCMI16274	Ea	Phenylalanine metabolism:map00360
+LOCMI16275	Ea	Phenylalanine metabolism:map00360
+LOCMI16276	Ea	Phenylalanine metabolism:map00360
+LOCMI16335	Ea	Phenylalanine metabolism:map00360
+LOCMI16397	Ea	Phenylalanine metabolism:map00360
+LOCMI17284	Ea	Phenylalanine metabolism:map00360
+LOCMI00751	Ea	Tryptophan metabolism:map00380
+LOCMI01947	Ea	Tryptophan metabolism:map00380
+LOCMI10574	Ea	Tryptophan metabolism:map00380
+LOCMI11548	Ea	Tryptophan metabolism:map00380
+LOCMI13106	Ea	Tryptophan metabolism:map00380
+LOCMI15806	Ea	Tryptophan metabolism:map00380
+LOCMI15839	Ea	Tryptophan metabolism:map00380
+LOCMI15851	Ea	Tryptophan metabolism:map00380
+LOCMI15874	Ea	Tryptophan metabolism:map00380
+LOCMI15891	Ea	Tryptophan metabolism:map00380
+LOCMI15896	Ea	Tryptophan metabolism:map00380
+LOCMI15907	Ea	Tryptophan metabolism:map00380
+LOCMI15912	Ea	Tryptophan metabolism:map00380
+LOCMI15935	Ea	Tryptophan metabolism:map00380
+LOCMI15940	Ea	Tryptophan metabolism:map00380
+LOCMI15944	Ea	Tryptophan metabolism:map00380
+LOCMI15985	Ea	Tryptophan metabolism:map00380
+LOCMI16077	Ea	Tryptophan metabolism:map00380
+LOCMI16298	Ea	Tryptophan metabolism:map00380
+LOCMI16335	Ea	Tryptophan metabolism:map00380
+LOCMI16343	Ea	Tryptophan metabolism:map00380
+LOCMI16359	Ea	Tryptophan metabolism:map00380
+LOCMI16371	Ea	Tryptophan metabolism:map00380
+LOCMI16955	Ea	Tryptophan metabolism:map00380
+LOCMI17064	Ea	Tryptophan metabolism:map00380
+LOCMI17073	Ea	Tryptophan metabolism:map00380
+LOCMI17123	Ea	Tryptophan metabolism:map00380
+LOCMI17284	Ea	Tryptophan metabolism:map00380
+LOCMI17355	Ea	Tryptophan metabolism:map00380
+LOCMI02211	Ea	Phenylalanine, tyrosine and tryptophan biosynthesis:map00400
+LOCMI05806	Ea	Phenylalanine, tyrosine and tryptophan biosynthesis:map00400
+LOCMI12565	Ea	Phenylalanine, tyrosine and tryptophan biosynthesis:map00400
+LOCMI14899	Ea	Phenylalanine, tyrosine and tryptophan biosynthesis:map00400
+LOCMI16397	Ea	Phenylalanine, tyrosine and tryptophan biosynthesis:map00400
+LOCMI03647	Ea	beta-Alanine metabolism:map00410
+LOCMI04940	Ea	beta-Alanine metabolism:map00410
+LOCMI05456	Ea	beta-Alanine metabolism:map00410
+LOCMI07391	Ea	beta-Alanine metabolism:map00410
+LOCMI09166	Ea	beta-Alanine metabolism:map00410
+LOCMI09621	Ea	beta-Alanine metabolism:map00410
+LOCMI11659	Ea	beta-Alanine metabolism:map00410
+LOCMI12689	Ea	beta-Alanine metabolism:map00410
+LOCMI15048	Ea	beta-Alanine metabolism:map00410
+LOCMI15049	Ea	beta-Alanine metabolism:map00410
+LOCMI15409	Ea	beta-Alanine metabolism:map00410
+LOCMI15806	Ea	beta-Alanine metabolism:map00410
+LOCMI15839	Ea	beta-Alanine metabolism:map00410
+LOCMI15851	Ea	beta-Alanine metabolism:map00410
+LOCMI15874	Ea	beta-Alanine metabolism:map00410
+LOCMI15891	Ea	beta-Alanine metabolism:map00410
+LOCMI15896	Ea	beta-Alanine metabolism:map00410
+LOCMI15899	Ea	beta-Alanine metabolism:map00410
+LOCMI15907	Ea	beta-Alanine metabolism:map00410
+LOCMI15912	Ea	beta-Alanine metabolism:map00410
+LOCMI15940	Ea	beta-Alanine metabolism:map00410
+LOCMI15985	Ea	beta-Alanine metabolism:map00410
+LOCMI16443	Ea	beta-Alanine metabolism:map00410
+LOCMI16955	Ea	beta-Alanine metabolism:map00410
+LOCMI06060	Ea	Taurine and hypotaurine metabolism:map00430
+LOCMI06647	Ea	Taurine and hypotaurine metabolism:map00430
+LOCMI08394	Ea	Taurine and hypotaurine metabolism:map00430
+LOCMI10926	Ea	Taurine and hypotaurine metabolism:map00430
+LOCMI12689	Ea	Taurine and hypotaurine metabolism:map00430
+LOCMI15774	Ea	Taurine and hypotaurine metabolism:map00430
+LOCMI16080	Ea	Taurine and hypotaurine metabolism:map00430
+LOCMI16443	Ea	Taurine and hypotaurine metabolism:map00430
+LOCMI04776	Ea	Selenocompound metabolism:map00450
+LOCMI06919	Ea	Selenocompound metabolism:map00450
+LOCMI06923	Ea	Selenocompound metabolism:map00450
+LOCMI09956	Ea	Selenocompound metabolism:map00450
+LOCMI10218	Ea	Selenocompound metabolism:map00450
+LOCMI10741	Ea	Selenocompound metabolism:map00450
+LOCMI10881	Ea	Selenocompound metabolism:map00450
+LOCMI12085	Ea	Selenocompound metabolism:map00450
+LOCMI13106	Ea	Selenocompound metabolism:map00450
+LOCMI15060	Ea	Selenocompound metabolism:map00450
+LOCMI06647	Ea	Cyanoamino acid metabolism:map00460
+LOCMI06889	Ea	Cyanoamino acid metabolism:map00460
+LOCMI10291	Ea	Cyanoamino acid metabolism:map00460
+LOCMI10926	Ea	Cyanoamino acid metabolism:map00460
+LOCMI13330	Ea	Cyanoamino acid metabolism:map00460
+LOCMI15774	Ea	Cyanoamino acid metabolism:map00460
+LOCMI16080	Ea	Cyanoamino acid metabolism:map00460
+LOCMI04133	Ea	D-Glutamine and D-glutamate metabolism:map00471
+LOCMI05296	Ea	D-Glutamine and D-glutamate metabolism:map00471
+LOCMI10941	Ea	D-Glutamine and D-glutamate metabolism:map00471
+LOCMI02926	Ea	Glutathione metabolism:map00480
+LOCMI03230	Ea	Glutathione metabolism:map00480
+LOCMI04119	Ea	Glutathione metabolism:map00480
+LOCMI04442	Ea	Glutathione metabolism:map00480
+LOCMI04940	Ea	Glutathione metabolism:map00480
+LOCMI05456	Ea	Glutathione metabolism:map00480
+LOCMI06647	Ea	Glutathione metabolism:map00480
+LOCMI06842	Ea	Glutathione metabolism:map00480
+LOCMI07468	Ea	Glutathione metabolism:map00480
+LOCMI07562	Ea	Glutathione metabolism:map00480
+LOCMI07575	Ea	Glutathione metabolism:map00480
+LOCMI07887	Ea	Glutathione metabolism:map00480
+LOCMI08143	Ea	Glutathione metabolism:map00480
+LOCMI08526	Ea	Glutathione metabolism:map00480
+LOCMI08995	Ea	Glutathione metabolism:map00480
+LOCMI10926	Ea	Glutathione metabolism:map00480
+LOCMI11363	Ea	Glutathione metabolism:map00480
+LOCMI12152	Ea	Glutathione metabolism:map00480
+LOCMI12891	Ea	Glutathione metabolism:map00480
+LOCMI13838	Ea	Glutathione metabolism:map00480
+LOCMI13869	Ea	Glutathione metabolism:map00480
+LOCMI13870	Ea	Glutathione metabolism:map00480
+LOCMI13871	Ea	Glutathione metabolism:map00480
+LOCMI15070	Ea	Glutathione metabolism:map00480
+LOCMI15689	Ea	Glutathione metabolism:map00480
+LOCMI15694	Ea	Glutathione metabolism:map00480
+LOCMI15696	Ea	Glutathione metabolism:map00480
+LOCMI15698	Ea	Glutathione metabolism:map00480
+LOCMI15701	Ea	Glutathione metabolism:map00480
+LOCMI15702	Ea	Glutathione metabolism:map00480
+LOCMI15703	Ea	Glutathione metabolism:map00480
+LOCMI15707	Ea	Glutathione metabolism:map00480
+LOCMI15713	Ea	Glutathione metabolism:map00480
+LOCMI15716	Ea	Glutathione metabolism:map00480
+LOCMI15774	Ea	Glutathione metabolism:map00480
+LOCMI15819	Ea	Glutathione metabolism:map00480
+LOCMI15908	Ea	Glutathione metabolism:map00480
+LOCMI15975	Ea	Glutathione metabolism:map00480
+LOCMI16080	Ea	Glutathione metabolism:map00480
+LOCMI16258	Ea	Glutathione metabolism:map00480
+LOCMI16260	Ea	Glutathione metabolism:map00480
+LOCMI16265	Ea	Glutathione metabolism:map00480
+LOCMI16281	Ea	Glutathione metabolism:map00480
+LOCMI16688	Ea	Glutathione metabolism:map00480
+LOCMI00063	Ea	Starch and sucrose metabolism:map00500
+LOCMI02534	Ea	Starch and sucrose metabolism:map00500
+LOCMI03726	Ea	Starch and sucrose metabolism:map00500
+LOCMI03766	Ea	Starch and sucrose metabolism:map00500
+LOCMI03958	Ea	Starch and sucrose metabolism:map00500
+LOCMI04338	Ea	Starch and sucrose metabolism:map00500
+LOCMI04593	Ea	Starch and sucrose metabolism:map00500
+LOCMI05244	Ea	Starch and sucrose metabolism:map00500
+LOCMI05976	Ea	Starch and sucrose metabolism:map00500
+LOCMI07493	Ea	Starch and sucrose metabolism:map00500
+LOCMI08313	Ea	Starch and sucrose metabolism:map00500
+LOCMI08410	Ea	Starch and sucrose metabolism:map00500
+LOCMI08521	Ea	Starch and sucrose metabolism:map00500
+LOCMI08865	Ea	Starch and sucrose metabolism:map00500
+LOCMI09105	Ea	Starch and sucrose metabolism:map00500
+LOCMI09799	Ea	Starch and sucrose metabolism:map00500
+LOCMI12541	Ea	Starch and sucrose metabolism:map00500
+LOCMI12862	Ea	Starch and sucrose metabolism:map00500
+LOCMI13201	Ea	Starch and sucrose metabolism:map00500
+LOCMI15055	Ea	Starch and sucrose metabolism:map00500
+LOCMI15058	Ea	Starch and sucrose metabolism:map00500
+LOCMI15483	Ea	Starch and sucrose metabolism:map00500
+LOCMI15488	Ea	Starch and sucrose metabolism:map00500
+LOCMI15489	Ea	Starch and sucrose metabolism:map00500
+LOCMI15490	Ea	Starch and sucrose metabolism:map00500
+LOCMI15822	Ea	Starch and sucrose metabolism:map00500
+LOCMI15833	Ea	Starch and sucrose metabolism:map00500
+LOCMI15834	Ea	Starch and sucrose metabolism:map00500
+LOCMI16055	Ea	Starch and sucrose metabolism:map00500
+LOCMI16979	Ea	Starch and sucrose metabolism:map00500
+LOCMI16983	Ea	Starch and sucrose metabolism:map00500
+LOCMI16984	Ea	Starch and sucrose metabolism:map00500
+LOCMI16990	Ea	Starch and sucrose metabolism:map00500
+LOCMI16992	Ea	Starch and sucrose metabolism:map00500
+LOCMI16994	Ea	Starch and sucrose metabolism:map00500
+LOCMI16996	Ea	Starch and sucrose metabolism:map00500
+LOCMI16997	Ea	Starch and sucrose metabolism:map00500
+LOCMI16998	Ea	Starch and sucrose metabolism:map00500
+LOCMI16999	Ea	Starch and sucrose metabolism:map00500
+LOCMI17001	Ea	Starch and sucrose metabolism:map00500
+LOCMI17012	Ea	Starch and sucrose metabolism:map00500
+LOCMI17015	Ea	Starch and sucrose metabolism:map00500
+LOCMI17023	Ea	Starch and sucrose metabolism:map00500
+LOCMI17030	Ea	Starch and sucrose metabolism:map00500
+LOCMI17032	Ea	Starch and sucrose metabolism:map00500
+LOCMI17034	Ea	Starch and sucrose metabolism:map00500
+LOCMI17035	Ea	Starch and sucrose metabolism:map00500
+LOCMI17036	Ea	Starch and sucrose metabolism:map00500
+LOCMI17039	Ea	Starch and sucrose metabolism:map00500
+LOCMI17043	Ea	Starch and sucrose metabolism:map00500
+LOCMI17044	Ea	Starch and sucrose metabolism:map00500
+LOCMI17045	Ea	Starch and sucrose metabolism:map00500
+LOCMI17046	Ea	Starch and sucrose metabolism:map00500
+LOCMI00315	Ea	N-Glycan biosynthesis:map00510
+LOCMI00649	Ea	N-Glycan biosynthesis:map00510
+LOCMI01606	Ea	N-Glycan biosynthesis:map00510
+LOCMI02130	Ea	N-Glycan biosynthesis:map00510
+LOCMI02337	Ea	N-Glycan biosynthesis:map00510
+LOCMI02376	Ea	N-Glycan biosynthesis:map00510
+LOCMI03301	Ea	N-Glycan biosynthesis:map00510
+LOCMI05658	Ea	N-Glycan biosynthesis:map00510
+LOCMI05660	Ea	N-Glycan biosynthesis:map00510
+LOCMI05661	Ea	N-Glycan biosynthesis:map00510
+LOCMI05823	Ea	N-Glycan biosynthesis:map00510
+LOCMI06280	Ea	N-Glycan biosynthesis:map00510
+LOCMI07211	Ea	N-Glycan biosynthesis:map00510
+LOCMI07731	Ea	N-Glycan biosynthesis:map00510
+LOCMI07823	Ea	N-Glycan biosynthesis:map00510
+LOCMI08172	Ea	N-Glycan biosynthesis:map00510
+LOCMI08663	Ea	N-Glycan biosynthesis:map00510
+LOCMI08824	Ea	N-Glycan biosynthesis:map00510
+LOCMI08899	Ea	N-Glycan biosynthesis:map00510
+LOCMI08913	Ea	N-Glycan biosynthesis:map00510
+LOCMI09407	Ea	N-Glycan biosynthesis:map00510
+LOCMI09467	Ea	N-Glycan biosynthesis:map00510
+LOCMI09628	Ea	N-Glycan biosynthesis:map00510
+LOCMI09824	Ea	N-Glycan biosynthesis:map00510
+LOCMI09899	Ea	N-Glycan biosynthesis:map00510
+LOCMI11341	Ea	N-Glycan biosynthesis:map00510
+LOCMI13417	Ea	N-Glycan biosynthesis:map00510
+LOCMI13450	Ea	N-Glycan biosynthesis:map00510
+LOCMI14093	Ea	N-Glycan biosynthesis:map00510
+LOCMI14420	Ea	N-Glycan biosynthesis:map00510
+LOCMI14696	Ea	N-Glycan biosynthesis:map00510
+LOCMI14962	Ea	N-Glycan biosynthesis:map00510
+LOCMI01253	Ea	Other glycan degradation:map00511
+LOCMI01711	Ea	Other glycan degradation:map00511
+LOCMI03697	Ea	Other glycan degradation:map00511
+LOCMI05942	Ea	Other glycan degradation:map00511
+LOCMI08085	Ea	Other glycan degradation:map00511
+LOCMI08750	Ea	Other glycan degradation:map00511
+LOCMI09283	Ea	Other glycan degradation:map00511
+LOCMI09622	Ea	Other glycan degradation:map00511
+LOCMI09883	Ea	Other glycan degradation:map00511
+LOCMI11681	Ea	Other glycan degradation:map00511
+LOCMI12212	Ea	Other glycan degradation:map00511
+LOCMI15467	Ea	Other glycan degradation:map00511
+LOCMI15933	Ea	Other glycan degradation:map00511
+LOCMI16036	Ea	Other glycan degradation:map00511
+LOCMI03807	Ea	Mucin type O-glycan biosynthesis:map00512
+LOCMI04504	Ea	Mucin type O-glycan biosynthesis:map00512
+LOCMI06323	Ea	Mucin type O-glycan biosynthesis:map00512
+LOCMI06636	Ea	Mucin type O-glycan biosynthesis:map00512
+LOCMI08625	Ea	Mucin type O-glycan biosynthesis:map00512
+LOCMI10550	Ea	Mucin type O-glycan biosynthesis:map00512
+LOCMI13146	Ea	Mucin type O-glycan biosynthesis:map00512
+LOCMI15135	Ea	Mucin type O-glycan biosynthesis:map00512
+LOCMI02541	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI05333	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI06517	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI07726	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI08913	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI09650	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI10247	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI10322	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI10905	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI13894	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI14007	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI15034	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI16103	Ea	Other types of O-glycan biosynthesis:map00514
+LOCMI00063	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI01471	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI01475	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI01954	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI02041	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI03567	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI03834	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI04167	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI05295	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI05688	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI06197	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI06643	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI06935	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI07002	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI07493	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI07550	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI07958	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI08084	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI08614	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI08865	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI09283	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI09697	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI09799	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI11868	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13201	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13211	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13600	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13623	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13816	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13862	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13965	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI15467	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI15489	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI15497	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI15822	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI15833	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI15834	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI16055	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI16589	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI17048	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI17138	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI17267	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI17331	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI17356	Ea	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI01556	Ea	Glycosaminoglycan degradation:map00531
+LOCMI02520	Ea	Glycosaminoglycan degradation:map00531
+LOCMI02534	Ea	Glycosaminoglycan degradation:map00531
+LOCMI03958	Ea	Glycosaminoglycan degradation:map00531
+LOCMI03991	Ea	Glycosaminoglycan degradation:map00531
+LOCMI04276	Ea	Glycosaminoglycan degradation:map00531
+LOCMI04672	Ea	Glycosaminoglycan degradation:map00531
+LOCMI09283	Ea	Glycosaminoglycan degradation:map00531
+LOCMI10556	Ea	Glycosaminoglycan degradation:map00531
+LOCMI10635	Ea	Glycosaminoglycan degradation:map00531
+LOCMI10636	Ea	Glycosaminoglycan degradation:map00531
+LOCMI11195	Ea	Glycosaminoglycan degradation:map00531
+LOCMI13319	Ea	Glycosaminoglycan degradation:map00531
+LOCMI14050	Ea	Glycosaminoglycan degradation:map00531
+LOCMI15467	Ea	Glycosaminoglycan degradation:map00531
+LOCMI16036	Ea	Glycosaminoglycan degradation:map00531
+LOCMI01346	Ea	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate:map00532
+LOCMI05814	Ea	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate:map00532
+LOCMI13756	Ea	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate:map00532
+LOCMI13910	Ea	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate:map00532
+LOCMI15417	Ea	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate:map00532
+LOCMI07581	Ea	Glycosaminoglycan biosynthesis - keratan sulfate:map00533
+LOCMI10000	Ea	Glycosaminoglycan biosynthesis - keratan sulfate:map00533
+LOCMI01042	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI01346	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI02332	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI03945	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI03983	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI05225	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI05945	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI10603	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI11458	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI13756	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI15417	Ea	Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534
+LOCMI00784	Ea	Glycerolipid metabolism:map00561
+LOCMI00814	Ea	Glycerolipid metabolism:map00561
+LOCMI01949	Ea	Glycerolipid metabolism:map00561
+LOCMI12587	Ea	Glycerolipid metabolism:map00561
+LOCMI12950	Ea	Glycerolipid metabolism:map00561
+LOCMI15792	Ea	Glycerolipid metabolism:map00561
+LOCMI15798	Ea	Glycerolipid metabolism:map00561
+LOCMI15799	Ea	Glycerolipid metabolism:map00561
+LOCMI15808	Ea	Glycerolipid metabolism:map00561
+LOCMI15814	Ea	Glycerolipid metabolism:map00561
+LOCMI15831	Ea	Glycerolipid metabolism:map00561
+LOCMI15839	Ea	Glycerolipid metabolism:map00561
+LOCMI15851	Ea	Glycerolipid metabolism:map00561
+LOCMI15867	Ea	Glycerolipid metabolism:map00561
+LOCMI15874	Ea	Glycerolipid metabolism:map00561
+LOCMI15882	Ea	Glycerolipid metabolism:map00561
+LOCMI15887	Ea	Glycerolipid metabolism:map00561
+LOCMI15891	Ea	Glycerolipid metabolism:map00561
+LOCMI15896	Ea	Glycerolipid metabolism:map00561
+LOCMI15901	Ea	Glycerolipid metabolism:map00561
+LOCMI15902	Ea	Glycerolipid metabolism:map00561
+LOCMI15907	Ea	Glycerolipid metabolism:map00561
+LOCMI15912	Ea	Glycerolipid metabolism:map00561
+LOCMI15948	Ea	Glycerolipid metabolism:map00561
+LOCMI15950	Ea	Glycerolipid metabolism:map00561
+LOCMI15953	Ea	Glycerolipid metabolism:map00561
+LOCMI15984	Ea	Glycerolipid metabolism:map00561
+LOCMI15985	Ea	Glycerolipid metabolism:map00561
+LOCMI16002	Ea	Glycerolipid metabolism:map00561
+LOCMI16027	Ea	Glycerolipid metabolism:map00561
+LOCMI16034	Ea	Glycerolipid metabolism:map00561
+LOCMI16035	Ea	Glycerolipid metabolism:map00561
+LOCMI16038	Ea	Glycerolipid metabolism:map00561
+LOCMI16067	Ea	Glycerolipid metabolism:map00561
+LOCMI16079	Ea	Glycerolipid metabolism:map00561
+LOCMI00272	Ea	Inositol phosphate metabolism:map00562
+LOCMI01053	Ea	Inositol phosphate metabolism:map00562
+LOCMI01112	Ea	Inositol phosphate metabolism:map00562
+LOCMI01215	Ea	Inositol phosphate metabolism:map00562
+LOCMI01217	Ea	Inositol phosphate metabolism:map00562
+LOCMI02886	Ea	Inositol phosphate metabolism:map00562
+LOCMI03434	Ea	Inositol phosphate metabolism:map00562
+LOCMI03457	Ea	Inositol phosphate metabolism:map00562
+LOCMI03647	Ea	Inositol phosphate metabolism:map00562
+LOCMI03842	Ea	Inositol phosphate metabolism:map00562
+LOCMI04048	Ea	Inositol phosphate metabolism:map00562
+LOCMI04050	Ea	Inositol phosphate metabolism:map00562
+LOCMI05238	Ea	Inositol phosphate metabolism:map00562
+LOCMI05397	Ea	Inositol phosphate metabolism:map00562
+LOCMI05536	Ea	Inositol phosphate metabolism:map00562
+LOCMI06182	Ea	Inositol phosphate metabolism:map00562
+LOCMI06194	Ea	Inositol phosphate metabolism:map00562
+LOCMI06195	Ea	Inositol phosphate metabolism:map00562
+LOCMI07075	Ea	Inositol phosphate metabolism:map00562
+LOCMI07087	Ea	Inositol phosphate metabolism:map00562
+LOCMI07809	Ea	Inositol phosphate metabolism:map00562
+LOCMI08547	Ea	Inositol phosphate metabolism:map00562
+LOCMI09726	Ea	Inositol phosphate metabolism:map00562
+LOCMI09787	Ea	Inositol phosphate metabolism:map00562
+LOCMI10669	Ea	Inositol phosphate metabolism:map00562
+LOCMI12074	Ea	Inositol phosphate metabolism:map00562
+LOCMI12853	Ea	Inositol phosphate metabolism:map00562
+LOCMI13444	Ea	Inositol phosphate metabolism:map00562
+LOCMI13445	Ea	Inositol phosphate metabolism:map00562
+LOCMI13447	Ea	Inositol phosphate metabolism:map00562
+LOCMI13448	Ea	Inositol phosphate metabolism:map00562
+LOCMI13806	Ea	Inositol phosphate metabolism:map00562
+LOCMI13904	Ea	Inositol phosphate metabolism:map00562
+LOCMI15825	Ea	Inositol phosphate metabolism:map00562
+LOCMI16332	Ea	Inositol phosphate metabolism:map00562
+LOCMI16511	Ea	Inositol phosphate metabolism:map00562
+LOCMI16523	Ea	Inositol phosphate metabolism:map00562
+LOCMI17160	Ea	Inositol phosphate metabolism:map00562
+LOCMI00416	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI01104	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI02604	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI03426	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI04184	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI04409	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI04678	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI05077	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI07497	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI09651	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI10803	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI11004	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI12752	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI13613	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI15116	Ea	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563
+LOCMI00784	Ea	Glycerophospholipid metabolism:map00564
+LOCMI00814	Ea	Glycerophospholipid metabolism:map00564
+LOCMI01949	Ea	Glycerophospholipid metabolism:map00564
+LOCMI07602	Ea	Glycerophospholipid metabolism:map00564
+LOCMI12950	Ea	Glycerophospholipid metabolism:map00564
+LOCMI13293	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15781	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15782	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15785	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15791	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15792	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15794	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15798	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15799	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15808	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15825	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15829	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15832	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15836	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15856	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15860	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15886	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15887	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15893	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15920	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15922	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15929	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15950	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15953	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15960	Ea	Glycerophospholipid metabolism:map00564
+LOCMI15968	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16013	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16018	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16021	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16034	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16035	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16042	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16054	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16056	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16070	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16073	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16076	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16079	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16087	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16090	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16096	Ea	Glycerophospholipid metabolism:map00564
+LOCMI16334	Ea	Glycerophospholipid metabolism:map00564
+LOCMI04704	Ea	Ether lipid metabolism:map00565
+LOCMI07602	Ea	Ether lipid metabolism:map00565
+LOCMI15188	Ea	Ether lipid metabolism:map00565
+LOCMI15759	Ea	Ether lipid metabolism:map00565
+LOCMI15791	Ea	Ether lipid metabolism:map00565
+LOCMI15848	Ea	Ether lipid metabolism:map00565
+LOCMI15877	Ea	Ether lipid metabolism:map00565
+LOCMI15893	Ea	Ether lipid metabolism:map00565
+LOCMI16013	Ea	Ether lipid metabolism:map00565
+LOCMI16018	Ea	Ether lipid metabolism:map00565
+LOCMI16035	Ea	Ether lipid metabolism:map00565
+LOCMI16054	Ea	Ether lipid metabolism:map00565
+LOCMI16070	Ea	Ether lipid metabolism:map00565
+LOCMI16073	Ea	Ether lipid metabolism:map00565
+LOCMI16076	Ea	Ether lipid metabolism:map00565
+LOCMI16079	Ea	Ether lipid metabolism:map00565
+LOCMI16087	Ea	Ether lipid metabolism:map00565
+LOCMI03247	Ea	Arachidonic acid metabolism:map00590
+LOCMI04694	Ea	Arachidonic acid metabolism:map00590
+LOCMI06647	Ea	Arachidonic acid metabolism:map00590
+LOCMI08915	Ea	Arachidonic acid metabolism:map00590
+LOCMI09009	Ea	Arachidonic acid metabolism:map00590
+LOCMI10926	Ea	Arachidonic acid metabolism:map00590
+LOCMI13707	Ea	Arachidonic acid metabolism:map00590
+LOCMI15708	Ea	Arachidonic acid metabolism:map00590
+LOCMI15774	Ea	Arachidonic acid metabolism:map00590
+LOCMI15791	Ea	Arachidonic acid metabolism:map00590
+LOCMI15893	Ea	Arachidonic acid metabolism:map00590
+LOCMI16003	Ea	Arachidonic acid metabolism:map00590
+LOCMI16054	Ea	Arachidonic acid metabolism:map00590
+LOCMI16070	Ea	Arachidonic acid metabolism:map00590
+LOCMI16073	Ea	Arachidonic acid metabolism:map00590
+LOCMI16080	Ea	Arachidonic acid metabolism:map00590
+LOCMI16134	Ea	Arachidonic acid metabolism:map00590
+LOCMI16258	Ea	Arachidonic acid metabolism:map00590
+LOCMI16260	Ea	Arachidonic acid metabolism:map00590
+LOCMI16265	Ea	Arachidonic acid metabolism:map00590
+LOCMI16688	Ea	Arachidonic acid metabolism:map00590
+LOCMI16954	Ea	Arachidonic acid metabolism:map00590
+LOCMI15791	Ea	Linoleic acid metabolism:map00591
+LOCMI15893	Ea	Linoleic acid metabolism:map00591
+LOCMI16054	Ea	Linoleic acid metabolism:map00591
+LOCMI16070	Ea	Linoleic acid metabolism:map00591
+LOCMI16073	Ea	Linoleic acid metabolism:map00591
+LOCMI16134	Ea	Linoleic acid metabolism:map00591
+LOCMI16148	Ea	Linoleic acid metabolism:map00591
+LOCMI16158	Ea	Linoleic acid metabolism:map00591
+LOCMI15791	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI15809	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI15827	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI15828	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI15841	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI15853	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI15893	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI15898	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI15961	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI16054	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI16070	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI16073	Ea	alpha-Linolenic acid metabolism:map00592
+LOCMI01657	Ea	Sphingolipid metabolism:map00600
+LOCMI02837	Ea	Sphingolipid metabolism:map00600
+LOCMI03697	Ea	Sphingolipid metabolism:map00600
+LOCMI05503	Ea	Sphingolipid metabolism:map00600
+LOCMI07262	Ea	Sphingolipid metabolism:map00600
+LOCMI07901	Ea	Sphingolipid metabolism:map00600
+LOCMI12511	Ea	Sphingolipid metabolism:map00600
+LOCMI15419	Ea	Sphingolipid metabolism:map00600
+LOCMI15767	Ea	Sphingolipid metabolism:map00600
+LOCMI15773	Ea	Sphingolipid metabolism:map00600
+LOCMI15797	Ea	Sphingolipid metabolism:map00600
+LOCMI15824	Ea	Sphingolipid metabolism:map00600
+LOCMI15843	Ea	Sphingolipid metabolism:map00600
+LOCMI15933	Ea	Sphingolipid metabolism:map00600
+LOCMI15983	Ea	Sphingolipid metabolism:map00600
+LOCMI16011	Ea	Sphingolipid metabolism:map00600
+LOCMI16019	Ea	Sphingolipid metabolism:map00600
+LOCMI16026	Ea	Sphingolipid metabolism:map00600
+LOCMI16027	Ea	Sphingolipid metabolism:map00600
+LOCMI16035	Ea	Sphingolipid metabolism:map00600
+LOCMI16036	Ea	Sphingolipid metabolism:map00600
+LOCMI16052	Ea	Sphingolipid metabolism:map00600
+LOCMI16057	Ea	Sphingolipid metabolism:map00600
+LOCMI16079	Ea	Sphingolipid metabolism:map00600
+LOCMI07581	Ea	Glycosphingolipid biosynthesis - lacto and neolacto series:map00601
+LOCMI09729	Ea	Glycosphingolipid biosynthesis - lacto and neolacto series:map00601
+LOCMI10000	Ea	Glycosphingolipid biosynthesis - lacto and neolacto series:map00601
+LOCMI10220	Ea	Glycosphingolipid biosynthesis - lacto and neolacto series:map00601
+LOCMI02781	Ea	Glycosphingolipid biosynthesis - globo series:map00603
+LOCMI09283	Ea	Glycosphingolipid biosynthesis - globo series:map00603
+LOCMI10220	Ea	Glycosphingolipid biosynthesis - globo series:map00603
+LOCMI11632	Ea	Glycosphingolipid biosynthesis - globo series:map00603
+LOCMI15467	Ea	Glycosphingolipid biosynthesis - globo series:map00603
+LOCMI16027	Ea	Glycosphingolipid biosynthesis - globo series:map00603
+LOCMI09283	Ea	Glycosphingolipid biosynthesis - ganglio series:map00604
+LOCMI14833	Ea	Glycosphingolipid biosynthesis - ganglio series:map00604
+LOCMI15467	Ea	Glycosphingolipid biosynthesis - ganglio series:map00604
+LOCMI16036	Ea	Glycosphingolipid biosynthesis - ganglio series:map00604
+LOCMI00304	Ea	Pyruvate metabolism:map00620
+LOCMI03752	Ea	Pyruvate metabolism:map00620
+LOCMI05791	Ea	Pyruvate metabolism:map00620
+LOCMI06609	Ea	Pyruvate metabolism:map00620
+LOCMI06696	Ea	Pyruvate metabolism:map00620
+LOCMI09995	Ea	Pyruvate metabolism:map00620
+LOCMI11781	Ea	Pyruvate metabolism:map00620
+LOCMI14086	Ea	Pyruvate metabolism:map00620
+LOCMI15764	Ea	Pyruvate metabolism:map00620
+LOCMI15766	Ea	Pyruvate metabolism:map00620
+LOCMI15803	Ea	Pyruvate metabolism:map00620
+LOCMI15814	Ea	Pyruvate metabolism:map00620
+LOCMI15839	Ea	Pyruvate metabolism:map00620
+LOCMI15850	Ea	Pyruvate metabolism:map00620
+LOCMI15851	Ea	Pyruvate metabolism:map00620
+LOCMI15867	Ea	Pyruvate metabolism:map00620
+LOCMI15871	Ea	Pyruvate metabolism:map00620
+LOCMI15874	Ea	Pyruvate metabolism:map00620
+LOCMI15876	Ea	Pyruvate metabolism:map00620
+LOCMI15878	Ea	Pyruvate metabolism:map00620
+LOCMI15879	Ea	Pyruvate metabolism:map00620
+LOCMI15882	Ea	Pyruvate metabolism:map00620
+LOCMI15891	Ea	Pyruvate metabolism:map00620
+LOCMI15896	Ea	Pyruvate metabolism:map00620
+LOCMI15907	Ea	Pyruvate metabolism:map00620
+LOCMI15912	Ea	Pyruvate metabolism:map00620
+LOCMI15918	Ea	Pyruvate metabolism:map00620
+LOCMI15924	Ea	Pyruvate metabolism:map00620
+LOCMI15947	Ea	Pyruvate metabolism:map00620
+LOCMI15982	Ea	Pyruvate metabolism:map00620
+LOCMI15985	Ea	Pyruvate metabolism:map00620
+LOCMI15993	Ea	Pyruvate metabolism:map00620
+LOCMI15994	Ea	Pyruvate metabolism:map00620
+LOCMI15995	Ea	Pyruvate metabolism:map00620
+LOCMI16061	Ea	Pyruvate metabolism:map00620
+LOCMI16068	Ea	Pyruvate metabolism:map00620
+LOCMI16081	Ea	Pyruvate metabolism:map00620
+LOCMI16298	Ea	Pyruvate metabolism:map00620
+LOCMI16359	Ea	Pyruvate metabolism:map00620
+LOCMI16371	Ea	Pyruvate metabolism:map00620
+LOCMI16875	Ea	Pyruvate metabolism:map00620
+LOCMI00470	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI00751	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI04601	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI05791	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI06889	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI08638	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI10291	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI11548	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI13330	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI14004	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI14150	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI15259	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI15831	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI15876	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI15965	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI15982	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI15989	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI16000	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI16298	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI16359	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI16371	Ea	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI00428	Ea	Propanoate metabolism:map00640
+LOCMI03647	Ea	Propanoate metabolism:map00640
+LOCMI07391	Ea	Propanoate metabolism:map00640
+LOCMI09643	Ea	Propanoate metabolism:map00640
+LOCMI11659	Ea	Propanoate metabolism:map00640
+LOCMI15764	Ea	Propanoate metabolism:map00640
+LOCMI15806	Ea	Propanoate metabolism:map00640
+LOCMI15839	Ea	Propanoate metabolism:map00640
+LOCMI15851	Ea	Propanoate metabolism:map00640
+LOCMI15874	Ea	Propanoate metabolism:map00640
+LOCMI15891	Ea	Propanoate metabolism:map00640
+LOCMI15896	Ea	Propanoate metabolism:map00640
+LOCMI15899	Ea	Propanoate metabolism:map00640
+LOCMI15907	Ea	Propanoate metabolism:map00640
+LOCMI15912	Ea	Propanoate metabolism:map00640
+LOCMI15940	Ea	Propanoate metabolism:map00640
+LOCMI15962	Ea	Propanoate metabolism:map00640
+LOCMI15964	Ea	Propanoate metabolism:map00640
+LOCMI15967	Ea	Propanoate metabolism:map00640
+LOCMI15985	Ea	Propanoate metabolism:map00640
+LOCMI15993	Ea	Propanoate metabolism:map00640
+LOCMI16061	Ea	Propanoate metabolism:map00640
+LOCMI16068	Ea	Propanoate metabolism:map00640
+LOCMI16298	Ea	Propanoate metabolism:map00640
+LOCMI16359	Ea	Propanoate metabolism:map00640
+LOCMI16371	Ea	Propanoate metabolism:map00640
+LOCMI16955	Ea	Propanoate metabolism:map00640
+LOCMI09667	Ea	Butanoate metabolism:map00650
+LOCMI12689	Ea	Butanoate metabolism:map00650
+LOCMI14764	Ea	Butanoate metabolism:map00650
+LOCMI15765	Ea	Butanoate metabolism:map00650
+LOCMI15796	Ea	Butanoate metabolism:map00650
+LOCMI15805	Ea	Butanoate metabolism:map00650
+LOCMI15806	Ea	Butanoate metabolism:map00650
+LOCMI15906	Ea	Butanoate metabolism:map00650
+LOCMI15939	Ea	Butanoate metabolism:map00650
+LOCMI15940	Ea	Butanoate metabolism:map00650
+LOCMI15944	Ea	Butanoate metabolism:map00650
+LOCMI16092	Ea	Butanoate metabolism:map00650
+LOCMI16298	Ea	Butanoate metabolism:map00650
+LOCMI16359	Ea	Butanoate metabolism:map00650
+LOCMI16371	Ea	Butanoate metabolism:map00650
+LOCMI16443	Ea	Butanoate metabolism:map00650
+LOCMI16955	Ea	Butanoate metabolism:map00650
+LOCMI02016	Ea	One carbon pool by folate:map00670
+LOCMI02793	Ea	One carbon pool by folate:map00670
+LOCMI03838	Ea	One carbon pool by folate:map00670
+LOCMI04128	Ea	One carbon pool by folate:map00670
+LOCMI06264	Ea	One carbon pool by folate:map00670
+LOCMI06478	Ea	One carbon pool by folate:map00670
+LOCMI06557	Ea	One carbon pool by folate:map00670
+LOCMI06889	Ea	One carbon pool by folate:map00670
+LOCMI08110	Ea	One carbon pool by folate:map00670
+LOCMI08228	Ea	One carbon pool by folate:map00670
+LOCMI09110	Ea	One carbon pool by folate:map00670
+LOCMI09902	Ea	One carbon pool by folate:map00670
+LOCMI10291	Ea	One carbon pool by folate:map00670
+LOCMI11424	Ea	One carbon pool by folate:map00670
+LOCMI13330	Ea	One carbon pool by folate:map00670
+LOCMI02233	Ea	Thiamine metabolism:map00730
+LOCMI09677	Ea	Thiamine metabolism:map00730
+LOCMI14190	Ea	Thiamine metabolism:map00730
+LOCMI00449	Ea	Riboflavin metabolism:map00740
+LOCMI05172	Ea	Riboflavin metabolism:map00740
+LOCMI14157	Ea	Riboflavin metabolism:map00740
+LOCMI15054	Ea	Riboflavin metabolism:map00740
+LOCMI09327	Ea	Vitamin B6 metabolism:map00750
+LOCMI09428	Ea	Vitamin B6 metabolism:map00750
+LOCMI09897	Ea	Vitamin B6 metabolism:map00750
+LOCMI01178	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI03637	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI03855	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI05267	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI05728	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI07437	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI07484	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI07509	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI07848	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI08630	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI11198	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI12062	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI12441	Ea	Nicotinate and nicotinamide metabolism:map00760
+LOCMI00228	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI02165	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI05087	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI05812	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI07690	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI09166	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI12517	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI15048	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI15049	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI15409	Ea	Pantothenate and CoA biosynthesis:map00770
+LOCMI11262	Ea	Biotin metabolism:map00780
+LOCMI15937	Ea	Biotin metabolism:map00780
+LOCMI04484	Ea	Lipoic acid metabolism:map00785
+LOCMI06868	Ea	Lipoic acid metabolism:map00785
+LOCMI13719	Ea	Lipoic acid metabolism:map00785
+LOCMI00246	Ea	Folate biosynthesis:map00790
+LOCMI03068	Ea	Folate biosynthesis:map00790
+LOCMI03098	Ea	Folate biosynthesis:map00790
+LOCMI03838	Ea	Folate biosynthesis:map00790
+LOCMI05848	Ea	Folate biosynthesis:map00790
+LOCMI07015	Ea	Folate biosynthesis:map00790
+LOCMI07360	Ea	Folate biosynthesis:map00790
+LOCMI07361	Ea	Folate biosynthesis:map00790
+LOCMI08110	Ea	Folate biosynthesis:map00790
+LOCMI08691	Ea	Folate biosynthesis:map00790
+LOCMI09250	Ea	Folate biosynthesis:map00790
+LOCMI10099	Ea	Folate biosynthesis:map00790
+LOCMI12866	Ea	Folate biosynthesis:map00790
+LOCMI15332	Ea	Folate biosynthesis:map00790
+LOCMI16467	Ea	Folate biosynthesis:map00790
+LOCMI07568	Ea	Retinol metabolism:map00830
+LOCMI08954	Ea	Retinol metabolism:map00830
+LOCMI16007	Ea	Retinol metabolism:map00830
+LOCMI16067	Ea	Retinol metabolism:map00830
+LOCMI16148	Ea	Retinol metabolism:map00830
+LOCMI16158	Ea	Retinol metabolism:map00830
+LOCMI16979	Ea	Retinol metabolism:map00830
+LOCMI16983	Ea	Retinol metabolism:map00830
+LOCMI16984	Ea	Retinol metabolism:map00830
+LOCMI16990	Ea	Retinol metabolism:map00830
+LOCMI16992	Ea	Retinol metabolism:map00830
+LOCMI16994	Ea	Retinol metabolism:map00830
+LOCMI16996	Ea	Retinol metabolism:map00830
+LOCMI16997	Ea	Retinol metabolism:map00830
+LOCMI16998	Ea	Retinol metabolism:map00830
+LOCMI16999	Ea	Retinol metabolism:map00830
+LOCMI17001	Ea	Retinol metabolism:map00830
+LOCMI17012	Ea	Retinol metabolism:map00830
+LOCMI17015	Ea	Retinol metabolism:map00830
+LOCMI17023	Ea	Retinol metabolism:map00830
+LOCMI17030	Ea	Retinol metabolism:map00830
+LOCMI17032	Ea	Retinol metabolism:map00830
+LOCMI17034	Ea	Retinol metabolism:map00830
+LOCMI17035	Ea	Retinol metabolism:map00830
+LOCMI17036	Ea	Retinol metabolism:map00830
+LOCMI17039	Ea	Retinol metabolism:map00830
+LOCMI17043	Ea	Retinol metabolism:map00830
+LOCMI17044	Ea	Retinol metabolism:map00830
+LOCMI17045	Ea	Retinol metabolism:map00830
+LOCMI17046	Ea	Retinol metabolism:map00830
+LOCMI00119	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI00361	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI00372	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI00676	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI02150	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI02534	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI02588	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI03864	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI03958	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI07760	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI08345	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI08588	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI09128	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI12086	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI13266	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI13350	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI14118	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI15810	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI15996	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16979	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16983	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16984	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16990	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16992	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16994	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16996	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16997	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16998	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16999	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17001	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17012	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17015	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17023	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17030	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17032	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17034	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17035	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17036	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17039	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17043	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17044	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17045	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17046	Ea	Porphyrin and chlorophyll metabolism:map00860
+LOCMI01164	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI02945	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI03890	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI05655	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI05712	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI05762	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI06465	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI06507	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI06734	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI07451	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI07473	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI08117	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI10595	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI15077	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI15132	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI15805	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI16298	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI16309	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI16337	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI16359	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI16371	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI16436	Ea	Terpenoid backbone biosynthesis:map00900
+LOCMI02075	Ea	Nitrogen metabolism:map00910
+LOCMI05252	Ea	Nitrogen metabolism:map00910
+LOCMI05296	Ea	Nitrogen metabolism:map00910
+LOCMI05527	Ea	Nitrogen metabolism:map00910
+LOCMI08638	Ea	Nitrogen metabolism:map00910
+LOCMI09767	Ea	Nitrogen metabolism:map00910
+LOCMI10941	Ea	Nitrogen metabolism:map00910
+LOCMI01217	Ea	Sulfur metabolism:map00920
+LOCMI02373	Ea	Sulfur metabolism:map00920
+LOCMI04246	Ea	Sulfur metabolism:map00920
+LOCMI04665	Ea	Sulfur metabolism:map00920
+LOCMI06830	Ea	Sulfur metabolism:map00920
+LOCMI06919	Ea	Sulfur metabolism:map00920
+LOCMI10443	Ea	Sulfur metabolism:map00920
+LOCMI12626	Ea	Sulfur metabolism:map00920
+LOCMI00190	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI00227	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI01152	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI01205	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI01236	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI01884	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI01897	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI02101	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI02232	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI02588	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI02732	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI03864	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI05182	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI06285	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI06429	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI06695	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI06819	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI07180	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI07369	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI07498	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI07595	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI08507	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI08527	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI08768	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI09049	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI09902	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI10414	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI10741	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI10804	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI10881	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI10944	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI11340	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI11459	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI11535	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI11745	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI11995	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI12085	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI12227	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI12576	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI13712	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI14733	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI15150	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI15165	Ea	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI02926	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI04442	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI07111	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI08143	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI08915	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI09009	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI10694	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI11363	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15689	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15694	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15696	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15698	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15701	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15702	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15703	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15707	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15713	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15716	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16007	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16979	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16983	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16984	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16990	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16992	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16994	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16996	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16997	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16998	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16999	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17001	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17012	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17015	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17023	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17030	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17032	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17034	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17035	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17036	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17039	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17043	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17044	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17045	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17046	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17136	Ea	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI00790	Ea	Insect hormone biosynthesis:map00981
+LOCMI01015	Ea	Insect hormone biosynthesis:map00981
+LOCMI04730	Ea	Insect hormone biosynthesis:map00981
+LOCMI15548	Ea	Insect hormone biosynthesis:map00981
+LOCMI16124	Ea	Insect hormone biosynthesis:map00981
+LOCMI16125	Ea	Insect hormone biosynthesis:map00981
+LOCMI16168	Ea	Insect hormone biosynthesis:map00981
+LOCMI16177	Ea	Insect hormone biosynthesis:map00981
+LOCMI16206	Ea	Insect hormone biosynthesis:map00981
+LOCMI16227	Ea	Insect hormone biosynthesis:map00981
+LOCMI16234	Ea	Insect hormone biosynthesis:map00981
+LOCMI16699	Ea	Insect hormone biosynthesis:map00981
+LOCMI17120	Ea	Insect hormone biosynthesis:map00981
+LOCMI17134	Ea	Insect hormone biosynthesis:map00981
+LOCMI17143	Ea	Insect hormone biosynthesis:map00981
+LOCMI17167	Ea	Insect hormone biosynthesis:map00981
+LOCMI01947	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI02926	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI04442	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI08143	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI11363	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15689	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15694	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15696	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15698	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15701	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15702	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15703	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15707	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15713	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI15716	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16007	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16979	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16983	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16984	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16990	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16992	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16994	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16996	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16997	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16998	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI16999	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17001	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17012	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17015	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17023	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17030	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17032	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17034	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17035	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17036	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17039	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17043	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17044	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17045	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI17046	Ea	Drug metabolism - cytochrome P450:map00982
+LOCMI00426	Ea	Drug metabolism - other enzymes:map00983
+LOCMI02534	Ea	Drug metabolism - other enzymes:map00983
+LOCMI03958	Ea	Drug metabolism - other enzymes:map00983
+LOCMI04164	Ea	Drug metabolism - other enzymes:map00983
+LOCMI06016	Ea	Drug metabolism - other enzymes:map00983
+LOCMI08740	Ea	Drug metabolism - other enzymes:map00983
+LOCMI09166	Ea	Drug metabolism - other enzymes:map00983
+LOCMI09732	Ea	Drug metabolism - other enzymes:map00983
+LOCMI09785	Ea	Drug metabolism - other enzymes:map00983
+LOCMI11370	Ea	Drug metabolism - other enzymes:map00983
+LOCMI13010	Ea	Drug metabolism - other enzymes:map00983
+LOCMI14674	Ea	Drug metabolism - other enzymes:map00983
+LOCMI15048	Ea	Drug metabolism - other enzymes:map00983
+LOCMI15049	Ea	Drug metabolism - other enzymes:map00983
+LOCMI15409	Ea	Drug metabolism - other enzymes:map00983
+LOCMI15579	Ea	Drug metabolism - other enzymes:map00983
+LOCMI15586	Ea	Drug metabolism - other enzymes:map00983
+LOCMI15588	Ea	Drug metabolism - other enzymes:map00983
+LOCMI15639	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16287	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16979	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16983	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16984	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16990	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16992	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16994	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16996	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16997	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16998	Ea	Drug metabolism - other enzymes:map00983
+LOCMI16999	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17001	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17012	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17015	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17023	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17030	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17032	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17034	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17035	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17036	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17039	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17043	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17044	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17045	Ea	Drug metabolism - other enzymes:map00983
+LOCMI17046	Ea	Drug metabolism - other enzymes:map00983
+LOCMI15806	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15809	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15813	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15827	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15828	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15841	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15844	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15853	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15872	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15881	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15898	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15961	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15991	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI16015	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI16041	Ea	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI00304	Ea	Carbon metabolism:map01200
+LOCMI02016	Ea	Carbon metabolism:map01200
+LOCMI02211	Ea	Carbon metabolism:map01200
+LOCMI02552	Ea	Carbon metabolism:map01200
+LOCMI03491	Ea	Carbon metabolism:map01200
+LOCMI03647	Ea	Carbon metabolism:map01200
+LOCMI03752	Ea	Carbon metabolism:map01200
+LOCMI03862	Ea	Carbon metabolism:map01200
+LOCMI04080	Ea	Carbon metabolism:map01200
+LOCMI04306	Ea	Carbon metabolism:map01200
+LOCMI04601	Ea	Carbon metabolism:map01200
+LOCMI05605	Ea	Carbon metabolism:map01200
+LOCMI05806	Ea	Carbon metabolism:map01200
+LOCMI06609	Ea	Carbon metabolism:map01200
+LOCMI06889	Ea	Carbon metabolism:map01200
+LOCMI07298	Ea	Carbon metabolism:map01200
+LOCMI07462	Ea	Carbon metabolism:map01200
+LOCMI08123	Ea	Carbon metabolism:map01200
+LOCMI08995	Ea	Carbon metabolism:map01200
+LOCMI09897	Ea	Carbon metabolism:map01200
+LOCMI09995	Ea	Carbon metabolism:map01200
+LOCMI10291	Ea	Carbon metabolism:map01200
+LOCMI10311	Ea	Carbon metabolism:map01200
+LOCMI11413	Ea	Carbon metabolism:map01200
+LOCMI11659	Ea	Carbon metabolism:map01200
+LOCMI12133	Ea	Carbon metabolism:map01200
+LOCMI12587	Ea	Carbon metabolism:map01200
+LOCMI13330	Ea	Carbon metabolism:map01200
+LOCMI14004	Ea	Carbon metabolism:map01200
+LOCMI14899	Ea	Carbon metabolism:map01200
+LOCMI15766	Ea	Carbon metabolism:map01200
+LOCMI15768	Ea	Carbon metabolism:map01200
+LOCMI15779	Ea	Carbon metabolism:map01200
+LOCMI15780	Ea	Carbon metabolism:map01200
+LOCMI15789	Ea	Carbon metabolism:map01200
+LOCMI15796	Ea	Carbon metabolism:map01200
+LOCMI15802	Ea	Carbon metabolism:map01200
+LOCMI15803	Ea	Carbon metabolism:map01200
+LOCMI15806	Ea	Carbon metabolism:map01200
+LOCMI15817	Ea	Carbon metabolism:map01200
+LOCMI15819	Ea	Carbon metabolism:map01200
+LOCMI15822	Ea	Carbon metabolism:map01200
+LOCMI15833	Ea	Carbon metabolism:map01200
+LOCMI15850	Ea	Carbon metabolism:map01200
+LOCMI15876	Ea	Carbon metabolism:map01200
+LOCMI15878	Ea	Carbon metabolism:map01200
+LOCMI15879	Ea	Carbon metabolism:map01200
+LOCMI15889	Ea	Carbon metabolism:map01200
+LOCMI15899	Ea	Carbon metabolism:map01200
+LOCMI15903	Ea	Carbon metabolism:map01200
+LOCMI15908	Ea	Carbon metabolism:map01200
+LOCMI15918	Ea	Carbon metabolism:map01200
+LOCMI15924	Ea	Carbon metabolism:map01200
+LOCMI15927	Ea	Carbon metabolism:map01200
+LOCMI15939	Ea	Carbon metabolism:map01200
+LOCMI15940	Ea	Carbon metabolism:map01200
+LOCMI15947	Ea	Carbon metabolism:map01200
+LOCMI15957	Ea	Carbon metabolism:map01200
+LOCMI15962	Ea	Carbon metabolism:map01200
+LOCMI15964	Ea	Carbon metabolism:map01200
+LOCMI15965	Ea	Carbon metabolism:map01200
+LOCMI15967	Ea	Carbon metabolism:map01200
+LOCMI15975	Ea	Carbon metabolism:map01200
+LOCMI15978	Ea	Carbon metabolism:map01200
+LOCMI15982	Ea	Carbon metabolism:map01200
+LOCMI15989	Ea	Carbon metabolism:map01200
+LOCMI15993	Ea	Carbon metabolism:map01200
+LOCMI15994	Ea	Carbon metabolism:map01200
+LOCMI15995	Ea	Carbon metabolism:map01200
+LOCMI16000	Ea	Carbon metabolism:map01200
+LOCMI16007	Ea	Carbon metabolism:map01200
+LOCMI16012	Ea	Carbon metabolism:map01200
+LOCMI16016	Ea	Carbon metabolism:map01200
+LOCMI16031	Ea	Carbon metabolism:map01200
+LOCMI16039	Ea	Carbon metabolism:map01200
+LOCMI16040	Ea	Carbon metabolism:map01200
+LOCMI16048	Ea	Carbon metabolism:map01200
+LOCMI16055	Ea	Carbon metabolism:map01200
+LOCMI16063	Ea	Carbon metabolism:map01200
+LOCMI16069	Ea	Carbon metabolism:map01200
+LOCMI16075	Ea	Carbon metabolism:map01200
+LOCMI16077	Ea	Carbon metabolism:map01200
+LOCMI16081	Ea	Carbon metabolism:map01200
+LOCMI16298	Ea	Carbon metabolism:map01200
+LOCMI16359	Ea	Carbon metabolism:map01200
+LOCMI16371	Ea	Carbon metabolism:map01200
+LOCMI16875	Ea	Carbon metabolism:map01200
+LOCMI16955	Ea	Carbon metabolism:map01200
+LOCMI02165	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI02211	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI05806	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI10153	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI10311	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI14899	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI15768	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI15819	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI15908	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI15957	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI15965	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI15989	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI16000	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI16012	Ea	2-Oxocarboxylic acid metabolism:map01210
+LOCMI15764	Ea	Fatty acid metabolism:map01212
+LOCMI15806	Ea	Fatty acid metabolism:map01212
+LOCMI15809	Ea	Fatty acid metabolism:map01212
+LOCMI15813	Ea	Fatty acid metabolism:map01212
+LOCMI15821	Ea	Fatty acid metabolism:map01212
+LOCMI15827	Ea	Fatty acid metabolism:map01212
+LOCMI15828	Ea	Fatty acid metabolism:map01212
+LOCMI15841	Ea	Fatty acid metabolism:map01212
+LOCMI15844	Ea	Fatty acid metabolism:map01212
+LOCMI15853	Ea	Fatty acid metabolism:map01212
+LOCMI15857	Ea	Fatty acid metabolism:map01212
+LOCMI15872	Ea	Fatty acid metabolism:map01212
+LOCMI15881	Ea	Fatty acid metabolism:map01212
+LOCMI15897	Ea	Fatty acid metabolism:map01212
+LOCMI15898	Ea	Fatty acid metabolism:map01212
+LOCMI15899	Ea	Fatty acid metabolism:map01212
+LOCMI15900	Ea	Fatty acid metabolism:map01212
+LOCMI15923	Ea	Fatty acid metabolism:map01212
+LOCMI15937	Ea	Fatty acid metabolism:map01212
+LOCMI15939	Ea	Fatty acid metabolism:map01212
+LOCMI15940	Ea	Fatty acid metabolism:map01212
+LOCMI15944	Ea	Fatty acid metabolism:map01212
+LOCMI15945	Ea	Fatty acid metabolism:map01212
+LOCMI15961	Ea	Fatty acid metabolism:map01212
+LOCMI15972	Ea	Fatty acid metabolism:map01212
+LOCMI15987	Ea	Fatty acid metabolism:map01212
+LOCMI15991	Ea	Fatty acid metabolism:map01212
+LOCMI16005	Ea	Fatty acid metabolism:map01212
+LOCMI16015	Ea	Fatty acid metabolism:map01212
+LOCMI16020	Ea	Fatty acid metabolism:map01212
+LOCMI16025	Ea	Fatty acid metabolism:map01212
+LOCMI16041	Ea	Fatty acid metabolism:map01212
+LOCMI16046	Ea	Fatty acid metabolism:map01212
+LOCMI16047	Ea	Fatty acid metabolism:map01212
+LOCMI16050	Ea	Fatty acid metabolism:map01212
+LOCMI16095	Ea	Fatty acid metabolism:map01212
+LOCMI16101	Ea	Fatty acid metabolism:map01212
+LOCMI16298	Ea	Fatty acid metabolism:map01212
+LOCMI16324	Ea	Fatty acid metabolism:map01212
+LOCMI16359	Ea	Fatty acid metabolism:map01212
+LOCMI16371	Ea	Fatty acid metabolism:map01212
+LOCMI16955	Ea	Fatty acid metabolism:map01212
+LOCMI03491	Ea	Degradation of aromatic compounds:map01220
+LOCMI07298	Ea	Degradation of aromatic compounds:map01220
+LOCMI16007	Ea	Degradation of aromatic compounds:map01220
+LOCMI02099	Ea	Biosynthesis of amino acids:map01230
+LOCMI02165	Ea	Biosynthesis of amino acids:map01230
+LOCMI02211	Ea	Biosynthesis of amino acids:map01230
+LOCMI02552	Ea	Biosynthesis of amino acids:map01230
+LOCMI03210	Ea	Biosynthesis of amino acids:map01230
+LOCMI03848	Ea	Biosynthesis of amino acids:map01230
+LOCMI03980	Ea	Biosynthesis of amino acids:map01230
+LOCMI04776	Ea	Biosynthesis of amino acids:map01230
+LOCMI05252	Ea	Biosynthesis of amino acids:map01230
+LOCMI05554	Ea	Biosynthesis of amino acids:map01230
+LOCMI05771	Ea	Biosynthesis of amino acids:map01230
+LOCMI05806	Ea	Biosynthesis of amino acids:map01230
+LOCMI06263	Ea	Biosynthesis of amino acids:map01230
+LOCMI06889	Ea	Biosynthesis of amino acids:map01230
+LOCMI08123	Ea	Biosynthesis of amino acids:map01230
+LOCMI08549	Ea	Biosynthesis of amino acids:map01230
+LOCMI08638	Ea	Biosynthesis of amino acids:map01230
+LOCMI09897	Ea	Biosynthesis of amino acids:map01230
+LOCMI10153	Ea	Biosynthesis of amino acids:map01230
+LOCMI10181	Ea	Biosynthesis of amino acids:map01230
+LOCMI10291	Ea	Biosynthesis of amino acids:map01230
+LOCMI10311	Ea	Biosynthesis of amino acids:map01230
+LOCMI10825	Ea	Biosynthesis of amino acids:map01230
+LOCMI10932	Ea	Biosynthesis of amino acids:map01230
+LOCMI11494	Ea	Biosynthesis of amino acids:map01230
+LOCMI12565	Ea	Biosynthesis of amino acids:map01230
+LOCMI13330	Ea	Biosynthesis of amino acids:map01230
+LOCMI14899	Ea	Biosynthesis of amino acids:map01230
+LOCMI15768	Ea	Biosynthesis of amino acids:map01230
+LOCMI15779	Ea	Biosynthesis of amino acids:map01230
+LOCMI15780	Ea	Biosynthesis of amino acids:map01230
+LOCMI15789	Ea	Biosynthesis of amino acids:map01230
+LOCMI15802	Ea	Biosynthesis of amino acids:map01230
+LOCMI15817	Ea	Biosynthesis of amino acids:map01230
+LOCMI15819	Ea	Biosynthesis of amino acids:map01230
+LOCMI15903	Ea	Biosynthesis of amino acids:map01230
+LOCMI15908	Ea	Biosynthesis of amino acids:map01230
+LOCMI15912	Ea	Biosynthesis of amino acids:map01230
+LOCMI15924	Ea	Biosynthesis of amino acids:map01230
+LOCMI15947	Ea	Biosynthesis of amino acids:map01230
+LOCMI15957	Ea	Biosynthesis of amino acids:map01230
+LOCMI15965	Ea	Biosynthesis of amino acids:map01230
+LOCMI15989	Ea	Biosynthesis of amino acids:map01230
+LOCMI15994	Ea	Biosynthesis of amino acids:map01230
+LOCMI16000	Ea	Biosynthesis of amino acids:map01230
+LOCMI16012	Ea	Biosynthesis of amino acids:map01230
+LOCMI16016	Ea	Biosynthesis of amino acids:map01230
+LOCMI16031	Ea	Biosynthesis of amino acids:map01230
+LOCMI16040	Ea	Biosynthesis of amino acids:map01230
+LOCMI16048	Ea	Biosynthesis of amino acids:map01230
+LOCMI16063	Ea	Biosynthesis of amino acids:map01230
+LOCMI16069	Ea	Biosynthesis of amino acids:map01230
+LOCMI16397	Ea	Biosynthesis of amino acids:map01230
+LOCMI16875	Ea	Biosynthesis of amino acids:map01230
+LOCMI04335	Ea	ABC transporters:map02010
+LOCMI04392	Ea	ABC transporters:map02010
+LOCMI04741	Ea	ABC transporters:map02010
+LOCMI04910	Ea	ABC transporters:map02010
+LOCMI05436	Ea	ABC transporters:map02010
+LOCMI05757	Ea	ABC transporters:map02010
+LOCMI06158	Ea	ABC transporters:map02010
+LOCMI06922	Ea	ABC transporters:map02010
+LOCMI07427	Ea	ABC transporters:map02010
+LOCMI07908	Ea	ABC transporters:map02010
+LOCMI09550	Ea	ABC transporters:map02010
+LOCMI09691	Ea	ABC transporters:map02010
+LOCMI10509	Ea	ABC transporters:map02010
+LOCMI13212	Ea	ABC transporters:map02010
+LOCMI13213	Ea	ABC transporters:map02010
+LOCMI13215	Ea	ABC transporters:map02010
+LOCMI13217	Ea	ABC transporters:map02010
+LOCMI13654	Ea	ABC transporters:map02010
+LOCMI15545	Ea	ABC transporters:map02010
+LOCMI17172	Ea	ABC transporters:map02010
+LOCMI00350	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI00505	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI00706	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI00918	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI01644	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI02264	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI02415	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI02889	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI03764	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI04311	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI04507	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI04788	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI05604	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI05914	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI05944	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI06145	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI06180	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI06505	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI06579	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI06666	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI06717	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI06867	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI07008	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI07259	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI07318	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI07700	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI07761	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI08055	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI08574	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI08627	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI08646	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI08902	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI08961	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI09161	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI09247	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI09418	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI09448	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI09982	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI10078	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI10417	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI10705	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI11048	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI11621	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI11692	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI11986	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI12333	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI12558	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI13003	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI13567	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI13747	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI13900	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI14275	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI14370	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI14938	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI15020	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI15286	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI17080	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI17137	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI17163	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI17183	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI17184	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI17201	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI17254	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI17264	Ea	Ribosome biogenesis in eukaryotes:map03008
+LOCMI00031	Ea	Ribosome:map03010
+LOCMI00130	Ea	Ribosome:map03010
+LOCMI00132	Ea	Ribosome:map03010
+LOCMI00147	Ea	Ribosome:map03010
+LOCMI00151	Ea	Ribosome:map03010
+LOCMI00296	Ea	Ribosome:map03010
+LOCMI00363	Ea	Ribosome:map03010
+LOCMI00394	Ea	Ribosome:map03010
+LOCMI00502	Ea	Ribosome:map03010
+LOCMI00562	Ea	Ribosome:map03010
+LOCMI00680	Ea	Ribosome:map03010
+LOCMI01005	Ea	Ribosome:map03010
+LOCMI01110	Ea	Ribosome:map03010
+LOCMI01159	Ea	Ribosome:map03010
+LOCMI01183	Ea	Ribosome:map03010
+LOCMI01241	Ea	Ribosome:map03010
+LOCMI01249	Ea	Ribosome:map03010
+LOCMI01469	Ea	Ribosome:map03010
+LOCMI01674	Ea	Ribosome:map03010
+LOCMI01789	Ea	Ribosome:map03010
+LOCMI01797	Ea	Ribosome:map03010
+LOCMI01847	Ea	Ribosome:map03010
+LOCMI02068	Ea	Ribosome:map03010
+LOCMI02121	Ea	Ribosome:map03010
+LOCMI02239	Ea	Ribosome:map03010
+LOCMI02278	Ea	Ribosome:map03010
+LOCMI02563	Ea	Ribosome:map03010
+LOCMI02613	Ea	Ribosome:map03010
+LOCMI02643	Ea	Ribosome:map03010
+LOCMI02690	Ea	Ribosome:map03010
+LOCMI02717	Ea	Ribosome:map03010
+LOCMI02771	Ea	Ribosome:map03010
+LOCMI03012	Ea	Ribosome:map03010
+LOCMI03069	Ea	Ribosome:map03010
+LOCMI03146	Ea	Ribosome:map03010
+LOCMI03326	Ea	Ribosome:map03010
+LOCMI03469	Ea	Ribosome:map03010
+LOCMI03696	Ea	Ribosome:map03010
+LOCMI03768	Ea	Ribosome:map03010
+LOCMI03823	Ea	Ribosome:map03010
+LOCMI04006	Ea	Ribosome:map03010
+LOCMI04171	Ea	Ribosome:map03010
+LOCMI04549	Ea	Ribosome:map03010
+LOCMI04669	Ea	Ribosome:map03010
+LOCMI04836	Ea	Ribosome:map03010
+LOCMI04863	Ea	Ribosome:map03010
+LOCMI05114	Ea	Ribosome:map03010
+LOCMI05261	Ea	Ribosome:map03010
+LOCMI05430	Ea	Ribosome:map03010
+LOCMI05511	Ea	Ribosome:map03010
+LOCMI05551	Ea	Ribosome:map03010
+LOCMI05567	Ea	Ribosome:map03010
+LOCMI05642	Ea	Ribosome:map03010
+LOCMI05902	Ea	Ribosome:map03010
+LOCMI05931	Ea	Ribosome:map03010
+LOCMI06222	Ea	Ribosome:map03010
+LOCMI06257	Ea	Ribosome:map03010
+LOCMI06296	Ea	Ribosome:map03010
+LOCMI06322	Ea	Ribosome:map03010
+LOCMI06498	Ea	Ribosome:map03010
+LOCMI06694	Ea	Ribosome:map03010
+LOCMI06804	Ea	Ribosome:map03010
+LOCMI06878	Ea	Ribosome:map03010
+LOCMI07012	Ea	Ribosome:map03010
+LOCMI07242	Ea	Ribosome:map03010
+LOCMI07300	Ea	Ribosome:map03010
+LOCMI07458	Ea	Ribosome:map03010
+LOCMI07471	Ea	Ribosome:map03010
+LOCMI07483	Ea	Ribosome:map03010
+LOCMI07502	Ea	Ribosome:map03010
+LOCMI07539	Ea	Ribosome:map03010
+LOCMI07717	Ea	Ribosome:map03010
+LOCMI07867	Ea	Ribosome:map03010
+LOCMI07886	Ea	Ribosome:map03010
+LOCMI08029	Ea	Ribosome:map03010
+LOCMI08031	Ea	Ribosome:map03010
+LOCMI08036	Ea	Ribosome:map03010
+LOCMI08050	Ea	Ribosome:map03010
+LOCMI08247	Ea	Ribosome:map03010
+LOCMI08528	Ea	Ribosome:map03010
+LOCMI08559	Ea	Ribosome:map03010
+LOCMI08723	Ea	Ribosome:map03010
+LOCMI09201	Ea	Ribosome:map03010
+LOCMI09269	Ea	Ribosome:map03010
+LOCMI09316	Ea	Ribosome:map03010
+LOCMI09378	Ea	Ribosome:map03010
+LOCMI09539	Ea	Ribosome:map03010
+LOCMI09605	Ea	Ribosome:map03010
+LOCMI09637	Ea	Ribosome:map03010
+LOCMI09674	Ea	Ribosome:map03010
+LOCMI09731	Ea	Ribosome:map03010
+LOCMI09740	Ea	Ribosome:map03010
+LOCMI09756	Ea	Ribosome:map03010
+LOCMI10036	Ea	Ribosome:map03010
+LOCMI10146	Ea	Ribosome:map03010
+LOCMI10169	Ea	Ribosome:map03010
+LOCMI10170	Ea	Ribosome:map03010
+LOCMI10197	Ea	Ribosome:map03010
+LOCMI10269	Ea	Ribosome:map03010
+LOCMI10292	Ea	Ribosome:map03010
+LOCMI10304	Ea	Ribosome:map03010
+LOCMI10394	Ea	Ribosome:map03010
+LOCMI10478	Ea	Ribosome:map03010
+LOCMI10485	Ea	Ribosome:map03010
+LOCMI10600	Ea	Ribosome:map03010
+LOCMI10621	Ea	Ribosome:map03010
+LOCMI11068	Ea	Ribosome:map03010
+LOCMI11142	Ea	Ribosome:map03010
+LOCMI11190	Ea	Ribosome:map03010
+LOCMI11278	Ea	Ribosome:map03010
+LOCMI11304	Ea	Ribosome:map03010
+LOCMI11493	Ea	Ribosome:map03010
+LOCMI11496	Ea	Ribosome:map03010
+LOCMI11617	Ea	Ribosome:map03010
+LOCMI12059	Ea	Ribosome:map03010
+LOCMI12147	Ea	Ribosome:map03010
+LOCMI12288	Ea	Ribosome:map03010
+LOCMI12362	Ea	Ribosome:map03010
+LOCMI12399	Ea	Ribosome:map03010
+LOCMI13315	Ea	Ribosome:map03010
+LOCMI13355	Ea	Ribosome:map03010
+LOCMI13370	Ea	Ribosome:map03010
+LOCMI13397	Ea	Ribosome:map03010
+LOCMI13492	Ea	Ribosome:map03010
+LOCMI13545	Ea	Ribosome:map03010
+LOCMI13563	Ea	Ribosome:map03010
+LOCMI13569	Ea	Ribosome:map03010
+LOCMI13597	Ea	Ribosome:map03010
+LOCMI13626	Ea	Ribosome:map03010
+LOCMI13842	Ea	Ribosome:map03010
+LOCMI14132	Ea	Ribosome:map03010
+LOCMI14188	Ea	Ribosome:map03010
+LOCMI14244	Ea	Ribosome:map03010
+LOCMI14272	Ea	Ribosome:map03010
+LOCMI14780	Ea	Ribosome:map03010
+LOCMI14819	Ea	Ribosome:map03010
+LOCMI15205	Ea	Ribosome:map03010
+LOCMI15434	Ea	Ribosome:map03010
+LOCMI16282	Ea	Ribosome:map03010
+LOCMI00229	Ea	RNA transport:map03013
+LOCMI00503	Ea	RNA transport:map03013
+LOCMI00691	Ea	RNA transport:map03013
+LOCMI00734	Ea	RNA transport:map03013
+LOCMI01203	Ea	RNA transport:map03013
+LOCMI01347	Ea	RNA transport:map03013
+LOCMI01978	Ea	RNA transport:map03013
+LOCMI02669	Ea	RNA transport:map03013
+LOCMI02948	Ea	RNA transport:map03013
+LOCMI02969	Ea	RNA transport:map03013
+LOCMI03485	Ea	RNA transport:map03013
+LOCMI03565	Ea	RNA transport:map03013
+LOCMI03646	Ea	RNA transport:map03013
+LOCMI03764	Ea	RNA transport:map03013
+LOCMI04027	Ea	RNA transport:map03013
+LOCMI04042	Ea	RNA transport:map03013
+LOCMI04290	Ea	RNA transport:map03013
+LOCMI04547	Ea	RNA transport:map03013
+LOCMI04658	Ea	RNA transport:map03013
+LOCMI05054	Ea	RNA transport:map03013
+LOCMI05106	Ea	RNA transport:map03013
+LOCMI05218	Ea	RNA transport:map03013
+LOCMI05324	Ea	RNA transport:map03013
+LOCMI05716	Ea	RNA transport:map03013
+LOCMI05872	Ea	RNA transport:map03013
+LOCMI05948	Ea	RNA transport:map03013
+LOCMI06065	Ea	RNA transport:map03013
+LOCMI06068	Ea	RNA transport:map03013
+LOCMI06180	Ea	RNA transport:map03013
+LOCMI06244	Ea	RNA transport:map03013
+LOCMI06342	Ea	RNA transport:map03013
+LOCMI06493	Ea	RNA transport:map03013
+LOCMI06505	Ea	RNA transport:map03013
+LOCMI06742	Ea	RNA transport:map03013
+LOCMI06824	Ea	RNA transport:map03013
+LOCMI07125	Ea	RNA transport:map03013
+LOCMI07133	Ea	RNA transport:map03013
+LOCMI07237	Ea	RNA transport:map03013
+LOCMI07313	Ea	RNA transport:map03013
+LOCMI07350	Ea	RNA transport:map03013
+LOCMI07368	Ea	RNA transport:map03013
+LOCMI07431	Ea	RNA transport:map03013
+LOCMI07480	Ea	RNA transport:map03013
+LOCMI07700	Ea	RNA transport:map03013
+LOCMI07818	Ea	RNA transport:map03013
+LOCMI07860	Ea	RNA transport:map03013
+LOCMI08080	Ea	RNA transport:map03013
+LOCMI08132	Ea	RNA transport:map03013
+LOCMI08385	Ea	RNA transport:map03013
+LOCMI08609	Ea	RNA transport:map03013
+LOCMI08616	Ea	RNA transport:map03013
+LOCMI08637	Ea	RNA transport:map03013
+LOCMI08703	Ea	RNA transport:map03013
+LOCMI08879	Ea	RNA transport:map03013
+LOCMI08890	Ea	RNA transport:map03013
+LOCMI09017	Ea	RNA transport:map03013
+LOCMI09094	Ea	RNA transport:map03013
+LOCMI09216	Ea	RNA transport:map03013
+LOCMI09448	Ea	RNA transport:map03013
+LOCMI09460	Ea	RNA transport:map03013
+LOCMI09542	Ea	RNA transport:map03013
+LOCMI09546	Ea	RNA transport:map03013
+LOCMI09710	Ea	RNA transport:map03013
+LOCMI09866	Ea	RNA transport:map03013
+LOCMI09901	Ea	RNA transport:map03013
+LOCMI09982	Ea	RNA transport:map03013
+LOCMI10029	Ea	RNA transport:map03013
+LOCMI10087	Ea	RNA transport:map03013
+LOCMI10130	Ea	RNA transport:map03013
+LOCMI10275	Ea	RNA transport:map03013
+LOCMI10398	Ea	RNA transport:map03013
+LOCMI10440	Ea	RNA transport:map03013
+LOCMI10495	Ea	RNA transport:map03013
+LOCMI10670	Ea	RNA transport:map03013
+LOCMI10828	Ea	RNA transport:map03013
+LOCMI10852	Ea	RNA transport:map03013
+LOCMI11404	Ea	RNA transport:map03013
+LOCMI11431	Ea	RNA transport:map03013
+LOCMI11616	Ea	RNA transport:map03013
+LOCMI11690	Ea	RNA transport:map03013
+LOCMI11692	Ea	RNA transport:map03013
+LOCMI11760	Ea	RNA transport:map03013
+LOCMI11986	Ea	RNA transport:map03013
+LOCMI12282	Ea	RNA transport:map03013
+LOCMI12347	Ea	RNA transport:map03013
+LOCMI12655	Ea	RNA transport:map03013
+LOCMI12722	Ea	RNA transport:map03013
+LOCMI12851	Ea	RNA transport:map03013
+LOCMI12894	Ea	RNA transport:map03013
+LOCMI12967	Ea	RNA transport:map03013
+LOCMI13502	Ea	RNA transport:map03013
+LOCMI14096	Ea	RNA transport:map03013
+LOCMI14274	Ea	RNA transport:map03013
+LOCMI14512	Ea	RNA transport:map03013
+LOCMI14640	Ea	RNA transport:map03013
+LOCMI14649	Ea	RNA transport:map03013
+LOCMI14667	Ea	RNA transport:map03013
+LOCMI14699	Ea	RNA transport:map03013
+LOCMI15072	Ea	RNA transport:map03013
+LOCMI15131	Ea	RNA transport:map03013
+LOCMI15171	Ea	RNA transport:map03013
+LOCMI15356	Ea	RNA transport:map03013
+LOCMI15462	Ea	RNA transport:map03013
+LOCMI15498	Ea	RNA transport:map03013
+LOCMI16388	Ea	RNA transport:map03013
+LOCMI16779	Ea	RNA transport:map03013
+LOCMI16809	Ea	RNA transport:map03013
+LOCMI16849	Ea	RNA transport:map03013
+LOCMI17072	Ea	RNA transport:map03013
+LOCMI17090	Ea	RNA transport:map03013
+LOCMI17101	Ea	RNA transport:map03013
+LOCMI17191	Ea	RNA transport:map03013
+LOCMI17197	Ea	RNA transport:map03013
+LOCMI17288	Ea	RNA transport:map03013
+LOCMI17304	Ea	RNA transport:map03013
+LOCMI17327	Ea	RNA transport:map03013
+LOCMI17335	Ea	RNA transport:map03013
+LOCMI00127	Ea	mRNA surveillance pathway:map03015
+LOCMI00648	Ea	mRNA surveillance pathway:map03015
+LOCMI00691	Ea	mRNA surveillance pathway:map03015
+LOCMI01122	Ea	mRNA surveillance pathway:map03015
+LOCMI01319	Ea	mRNA surveillance pathway:map03015
+LOCMI02249	Ea	mRNA surveillance pathway:map03015
+LOCMI02353	Ea	mRNA surveillance pathway:map03015
+LOCMI02616	Ea	mRNA surveillance pathway:map03015
+LOCMI04146	Ea	mRNA surveillance pathway:map03015
+LOCMI04290	Ea	mRNA surveillance pathway:map03015
+LOCMI04399	Ea	mRNA surveillance pathway:map03015
+LOCMI05417	Ea	mRNA surveillance pathway:map03015
+LOCMI05766	Ea	mRNA surveillance pathway:map03015
+LOCMI05815	Ea	mRNA surveillance pathway:map03015
+LOCMI06244	Ea	mRNA surveillance pathway:map03015
+LOCMI06293	Ea	mRNA surveillance pathway:map03015
+LOCMI06505	Ea	mRNA surveillance pathway:map03015
+LOCMI07078	Ea	mRNA surveillance pathway:map03015
+LOCMI07092	Ea	mRNA surveillance pathway:map03015
+LOCMI07133	Ea	mRNA surveillance pathway:map03015
+LOCMI07431	Ea	mRNA surveillance pathway:map03015
+LOCMI07527	Ea	mRNA surveillance pathway:map03015
+LOCMI08081	Ea	mRNA surveillance pathway:map03015
+LOCMI08144	Ea	mRNA surveillance pathway:map03015
+LOCMI08343	Ea	mRNA surveillance pathway:map03015
+LOCMI08703	Ea	mRNA surveillance pathway:map03015
+LOCMI08789	Ea	mRNA surveillance pathway:map03015
+LOCMI09017	Ea	mRNA surveillance pathway:map03015
+LOCMI09051	Ea	mRNA surveillance pathway:map03015
+LOCMI09064	Ea	mRNA surveillance pathway:map03015
+LOCMI09484	Ea	mRNA surveillance pathway:map03015
+LOCMI09632	Ea	mRNA surveillance pathway:map03015
+LOCMI09797	Ea	mRNA surveillance pathway:map03015
+LOCMI10077	Ea	mRNA surveillance pathway:map03015
+LOCMI10151	Ea	mRNA surveillance pathway:map03015
+LOCMI10208	Ea	mRNA surveillance pathway:map03015
+LOCMI10358	Ea	mRNA surveillance pathway:map03015
+LOCMI10413	Ea	mRNA surveillance pathway:map03015
+LOCMI10481	Ea	mRNA surveillance pathway:map03015
+LOCMI11760	Ea	mRNA surveillance pathway:map03015
+LOCMI11996	Ea	mRNA surveillance pathway:map03015
+LOCMI12347	Ea	mRNA surveillance pathway:map03015
+LOCMI12365	Ea	mRNA surveillance pathway:map03015
+LOCMI12529	Ea	mRNA surveillance pathway:map03015
+LOCMI12745	Ea	mRNA surveillance pathway:map03015
+LOCMI12798	Ea	mRNA surveillance pathway:map03015
+LOCMI12831	Ea	mRNA surveillance pathway:map03015
+LOCMI14082	Ea	mRNA surveillance pathway:map03015
+LOCMI14274	Ea	mRNA surveillance pathway:map03015
+LOCMI14318	Ea	mRNA surveillance pathway:map03015
+LOCMI14342	Ea	mRNA surveillance pathway:map03015
+LOCMI14550	Ea	mRNA surveillance pathway:map03015
+LOCMI15031	Ea	mRNA surveillance pathway:map03015
+LOCMI15171	Ea	mRNA surveillance pathway:map03015
+LOCMI15462	Ea	mRNA surveillance pathway:map03015
+LOCMI16453	Ea	mRNA surveillance pathway:map03015
+LOCMI16779	Ea	mRNA surveillance pathway:map03015
+LOCMI16809	Ea	mRNA surveillance pathway:map03015
+LOCMI17090	Ea	mRNA surveillance pathway:map03015
+LOCMI17191	Ea	mRNA surveillance pathway:map03015
+LOCMI17197	Ea	mRNA surveillance pathway:map03015
+LOCMI17281	Ea	mRNA surveillance pathway:map03015
+LOCMI17288	Ea	mRNA surveillance pathway:map03015
+LOCMI17304	Ea	mRNA surveillance pathway:map03015
+LOCMI17327	Ea	mRNA surveillance pathway:map03015
+LOCMI00350	Ea	RNA degradation:map03018
+LOCMI00422	Ea	RNA degradation:map03018
+LOCMI01607	Ea	RNA degradation:map03018
+LOCMI02310	Ea	RNA degradation:map03018
+LOCMI03271	Ea	RNA degradation:map03018
+LOCMI03680	Ea	RNA degradation:map03018
+LOCMI03907	Ea	RNA degradation:map03018
+LOCMI04125	Ea	RNA degradation:map03018
+LOCMI04174	Ea	RNA degradation:map03018
+LOCMI04176	Ea	RNA degradation:map03018
+LOCMI04788	Ea	RNA degradation:map03018
+LOCMI04889	Ea	RNA degradation:map03018
+LOCMI05596	Ea	RNA degradation:map03018
+LOCMI05717	Ea	RNA degradation:map03018
+LOCMI05995	Ea	RNA degradation:map03018
+LOCMI06091	Ea	RNA degradation:map03018
+LOCMI06579	Ea	RNA degradation:map03018
+LOCMI06951	Ea	RNA degradation:map03018
+LOCMI07755	Ea	RNA degradation:map03018
+LOCMI08183	Ea	RNA degradation:map03018
+LOCMI08703	Ea	RNA degradation:map03018
+LOCMI08975	Ea	RNA degradation:map03018
+LOCMI09214	Ea	RNA degradation:map03018
+LOCMI09468	Ea	RNA degradation:map03018
+LOCMI09498	Ea	RNA degradation:map03018
+LOCMI09656	Ea	RNA degradation:map03018
+LOCMI09807	Ea	RNA degradation:map03018
+LOCMI10578	Ea	RNA degradation:map03018
+LOCMI10605	Ea	RNA degradation:map03018
+LOCMI10801	Ea	RNA degradation:map03018
+LOCMI10947	Ea	RNA degradation:map03018
+LOCMI12568	Ea	RNA degradation:map03018
+LOCMI12602	Ea	RNA degradation:map03018
+LOCMI12830	Ea	RNA degradation:map03018
+LOCMI12915	Ea	RNA degradation:map03018
+LOCMI12933	Ea	RNA degradation:map03018
+LOCMI13507	Ea	RNA degradation:map03018
+LOCMI13839	Ea	RNA degradation:map03018
+LOCMI14001	Ea	RNA degradation:map03018
+LOCMI14385	Ea	RNA degradation:map03018
+LOCMI14463	Ea	RNA degradation:map03018
+LOCMI14521	Ea	RNA degradation:map03018
+LOCMI14691	Ea	RNA degradation:map03018
+LOCMI15226	Ea	RNA degradation:map03018
+LOCMI15298	Ea	RNA degradation:map03018
+LOCMI15431	Ea	RNA degradation:map03018
+LOCMI15779	Ea	RNA degradation:map03018
+LOCMI15780	Ea	RNA degradation:map03018
+LOCMI16341	Ea	RNA degradation:map03018
+LOCMI16527	Ea	RNA degradation:map03018
+LOCMI16793	Ea	RNA degradation:map03018
+LOCMI17098	Ea	RNA degradation:map03018
+LOCMI17126	Ea	RNA degradation:map03018
+LOCMI17153	Ea	RNA degradation:map03018
+LOCMI17156	Ea	RNA degradation:map03018
+LOCMI17234	Ea	RNA degradation:map03018
+LOCMI17317	Ea	RNA degradation:map03018
+LOCMI00525	Ea	RNA polymerase:map03020
+LOCMI00601	Ea	RNA polymerase:map03020
+LOCMI01328	Ea	RNA polymerase:map03020
+LOCMI01524	Ea	RNA polymerase:map03020
+LOCMI02157	Ea	RNA polymerase:map03020
+LOCMI03421	Ea	RNA polymerase:map03020
+LOCMI03873	Ea	RNA polymerase:map03020
+LOCMI03973	Ea	RNA polymerase:map03020
+LOCMI04645	Ea	RNA polymerase:map03020
+LOCMI04852	Ea	RNA polymerase:map03020
+LOCMI05195	Ea	RNA polymerase:map03020
+LOCMI05553	Ea	RNA polymerase:map03020
+LOCMI05744	Ea	RNA polymerase:map03020
+LOCMI05985	Ea	RNA polymerase:map03020
+LOCMI06149	Ea	RNA polymerase:map03020
+LOCMI06409	Ea	RNA polymerase:map03020
+LOCMI06930	Ea	RNA polymerase:map03020
+LOCMI07879	Ea	RNA polymerase:map03020
+LOCMI08182	Ea	RNA polymerase:map03020
+LOCMI08192	Ea	RNA polymerase:map03020
+LOCMI09384	Ea	RNA polymerase:map03020
+LOCMI10439	Ea	RNA polymerase:map03020
+LOCMI10444	Ea	RNA polymerase:map03020
+LOCMI10663	Ea	RNA polymerase:map03020
+LOCMI10902	Ea	RNA polymerase:map03020
+LOCMI13140	Ea	RNA polymerase:map03020
+LOCMI13169	Ea	RNA polymerase:map03020
+LOCMI13754	Ea	RNA polymerase:map03020
+LOCMI13810	Ea	RNA polymerase:map03020
+LOCMI14102	Ea	RNA polymerase:map03020
+LOCMI14200	Ea	RNA polymerase:map03020
+LOCMI14909	Ea	RNA polymerase:map03020
+LOCMI00273	Ea	Basal transcription factors:map03022
+LOCMI01394	Ea	Basal transcription factors:map03022
+LOCMI02340	Ea	Basal transcription factors:map03022
+LOCMI02622	Ea	Basal transcription factors:map03022
+LOCMI03045	Ea	Basal transcription factors:map03022
+LOCMI03057	Ea	Basal transcription factors:map03022
+LOCMI03538	Ea	Basal transcription factors:map03022
+LOCMI03965	Ea	Basal transcription factors:map03022
+LOCMI04104	Ea	Basal transcription factors:map03022
+LOCMI04938	Ea	Basal transcription factors:map03022
+LOCMI05357	Ea	Basal transcription factors:map03022
+LOCMI05686	Ea	Basal transcription factors:map03022
+LOCMI05864	Ea	Basal transcription factors:map03022
+LOCMI06153	Ea	Basal transcription factors:map03022
+LOCMI06737	Ea	Basal transcription factors:map03022
+LOCMI06855	Ea	Basal transcription factors:map03022
+LOCMI06911	Ea	Basal transcription factors:map03022
+LOCMI07168	Ea	Basal transcription factors:map03022
+LOCMI08073	Ea	Basal transcription factors:map03022
+LOCMI08264	Ea	Basal transcription factors:map03022
+LOCMI08498	Ea	Basal transcription factors:map03022
+LOCMI08755	Ea	Basal transcription factors:map03022
+LOCMI09247	Ea	Basal transcription factors:map03022
+LOCMI09882	Ea	Basal transcription factors:map03022
+LOCMI10150	Ea	Basal transcription factors:map03022
+LOCMI10253	Ea	Basal transcription factors:map03022
+LOCMI10558	Ea	Basal transcription factors:map03022
+LOCMI12588	Ea	Basal transcription factors:map03022
+LOCMI12746	Ea	Basal transcription factors:map03022
+LOCMI13040	Ea	Basal transcription factors:map03022
+LOCMI13672	Ea	Basal transcription factors:map03022
+LOCMI13673	Ea	Basal transcription factors:map03022
+LOCMI14103	Ea	Basal transcription factors:map03022
+LOCMI14799	Ea	Basal transcription factors:map03022
+LOCMI17251	Ea	Basal transcription factors:map03022
+LOCMI00207	Ea	DNA replication:map03030
+LOCMI00252	Ea	DNA replication:map03030
+LOCMI00890	Ea	DNA replication:map03030
+LOCMI00912	Ea	DNA replication:map03030
+LOCMI01129	Ea	DNA replication:map03030
+LOCMI01583	Ea	DNA replication:map03030
+LOCMI01682	Ea	DNA replication:map03030
+LOCMI01920	Ea	DNA replication:map03030
+LOCMI02525	Ea	DNA replication:map03030
+LOCMI02855	Ea	DNA replication:map03030
+LOCMI02908	Ea	DNA replication:map03030
+LOCMI03322	Ea	DNA replication:map03030
+LOCMI04450	Ea	DNA replication:map03030
+LOCMI04598	Ea	DNA replication:map03030
+LOCMI04664	Ea	DNA replication:map03030
+LOCMI05032	Ea	DNA replication:map03030
+LOCMI05424	Ea	DNA replication:map03030
+LOCMI07858	Ea	DNA replication:map03030
+LOCMI07939	Ea	DNA replication:map03030
+LOCMI08026	Ea	DNA replication:map03030
+LOCMI08111	Ea	DNA replication:map03030
+LOCMI08757	Ea	DNA replication:map03030
+LOCMI09890	Ea	DNA replication:map03030
+LOCMI10171	Ea	DNA replication:map03030
+LOCMI11880	Ea	DNA replication:map03030
+LOCMI12275	Ea	DNA replication:map03030
+LOCMI12438	Ea	DNA replication:map03030
+LOCMI12584	Ea	DNA replication:map03030
+LOCMI14116	Ea	DNA replication:map03030
+LOCMI14641	Ea	DNA replication:map03030
+LOCMI14842	Ea	DNA replication:map03030
+LOCMI16330	Ea	DNA replication:map03030
+LOCMI16336	Ea	DNA replication:map03030
+LOCMI16389	Ea	DNA replication:map03030
+LOCMI16407	Ea	DNA replication:map03030
+LOCMI16422	Ea	DNA replication:map03030
+LOCMI01197	Ea	Spliceosome:map03040
+LOCMI01484	Ea	Spliceosome:map03040
+LOCMI05188	Ea	Spliceosome:map03040
+LOCMI06015	Ea	Spliceosome:map03040
+LOCMI08121	Ea	Spliceosome:map03040
+LOCMI08265	Ea	Spliceosome:map03040
+LOCMI08793	Ea	Spliceosome:map03040
+LOCMI09768	Ea	Spliceosome:map03040
+LOCMI10679	Ea	Spliceosome:map03040
+LOCMI11252	Ea	Spliceosome:map03040
+LOCMI11649	Ea	Spliceosome:map03040
+LOCMI11679	Ea	Spliceosome:map03040
+LOCMI15442	Ea	Spliceosome:map03040
+LOCMI15505	Ea	Spliceosome:map03040
+LOCMI16289	Ea	Spliceosome:map03040
+LOCMI16468	Ea	Spliceosome:map03040
+LOCMI16479	Ea	Spliceosome:map03040
+LOCMI16517	Ea	Spliceosome:map03040
+LOCMI16527	Ea	Spliceosome:map03040
+LOCMI16543	Ea	Spliceosome:map03040
+LOCMI16548	Ea	Spliceosome:map03040
+LOCMI16549	Ea	Spliceosome:map03040
+LOCMI16550	Ea	Spliceosome:map03040
+LOCMI16551	Ea	Spliceosome:map03040
+LOCMI16561	Ea	Spliceosome:map03040
+LOCMI16570	Ea	Spliceosome:map03040
+LOCMI16578	Ea	Spliceosome:map03040
+LOCMI16580	Ea	Spliceosome:map03040
+LOCMI16623	Ea	Spliceosome:map03040
+LOCMI16631	Ea	Spliceosome:map03040
+LOCMI16707	Ea	Spliceosome:map03040
+LOCMI16758	Ea	Spliceosome:map03040
+LOCMI16762	Ea	Spliceosome:map03040
+LOCMI16764	Ea	Spliceosome:map03040
+LOCMI16778	Ea	Spliceosome:map03040
+LOCMI16779	Ea	Spliceosome:map03040
+LOCMI16780	Ea	Spliceosome:map03040
+LOCMI16788	Ea	Spliceosome:map03040
+LOCMI16793	Ea	Spliceosome:map03040
+LOCMI16796	Ea	Spliceosome:map03040
+LOCMI16803	Ea	Spliceosome:map03040
+LOCMI16804	Ea	Spliceosome:map03040
+LOCMI16805	Ea	Spliceosome:map03040
+LOCMI16806	Ea	Spliceosome:map03040
+LOCMI16809	Ea	Spliceosome:map03040
+LOCMI16810	Ea	Spliceosome:map03040
+LOCMI16817	Ea	Spliceosome:map03040
+LOCMI16846	Ea	Spliceosome:map03040
+LOCMI16849	Ea	Spliceosome:map03040
+LOCMI16961	Ea	Spliceosome:map03040
+LOCMI17055	Ea	Spliceosome:map03040
+LOCMI17058	Ea	Spliceosome:map03040
+LOCMI17059	Ea	Spliceosome:map03040
+LOCMI17065	Ea	Spliceosome:map03040
+LOCMI17066	Ea	Spliceosome:map03040
+LOCMI17067	Ea	Spliceosome:map03040
+LOCMI17068	Ea	Spliceosome:map03040
+LOCMI17069	Ea	Spliceosome:map03040
+LOCMI17071	Ea	Spliceosome:map03040
+LOCMI17072	Ea	Spliceosome:map03040
+LOCMI17074	Ea	Spliceosome:map03040
+LOCMI17076	Ea	Spliceosome:map03040
+LOCMI17078	Ea	Spliceosome:map03040
+LOCMI17079	Ea	Spliceosome:map03040
+LOCMI17080	Ea	Spliceosome:map03040
+LOCMI17082	Ea	Spliceosome:map03040
+LOCMI17085	Ea	Spliceosome:map03040
+LOCMI17086	Ea	Spliceosome:map03040
+LOCMI17088	Ea	Spliceosome:map03040
+LOCMI17090	Ea	Spliceosome:map03040
+LOCMI17092	Ea	Spliceosome:map03040
+LOCMI17093	Ea	Spliceosome:map03040
+LOCMI17098	Ea	Spliceosome:map03040
+LOCMI17100	Ea	Spliceosome:map03040
+LOCMI17113	Ea	Spliceosome:map03040
+LOCMI17116	Ea	Spliceosome:map03040
+LOCMI17119	Ea	Spliceosome:map03040
+LOCMI17121	Ea	Spliceosome:map03040
+LOCMI17122	Ea	Spliceosome:map03040
+LOCMI17126	Ea	Spliceosome:map03040
+LOCMI17129	Ea	Spliceosome:map03040
+LOCMI17130	Ea	Spliceosome:map03040
+LOCMI17142	Ea	Spliceosome:map03040
+LOCMI17151	Ea	Spliceosome:map03040
+LOCMI17153	Ea	Spliceosome:map03040
+LOCMI17154	Ea	Spliceosome:map03040
+LOCMI17156	Ea	Spliceosome:map03040
+LOCMI17171	Ea	Spliceosome:map03040
+LOCMI17174	Ea	Spliceosome:map03040
+LOCMI17175	Ea	Spliceosome:map03040
+LOCMI17191	Ea	Spliceosome:map03040
+LOCMI17197	Ea	Spliceosome:map03040
+LOCMI17198	Ea	Spliceosome:map03040
+LOCMI17202	Ea	Spliceosome:map03040
+LOCMI17215	Ea	Spliceosome:map03040
+LOCMI17226	Ea	Spliceosome:map03040
+LOCMI17234	Ea	Spliceosome:map03040
+LOCMI17235	Ea	Spliceosome:map03040
+LOCMI17236	Ea	Spliceosome:map03040
+LOCMI17238	Ea	Spliceosome:map03040
+LOCMI17239	Ea	Spliceosome:map03040
+LOCMI17257	Ea	Spliceosome:map03040
+LOCMI17261	Ea	Spliceosome:map03040
+LOCMI17269	Ea	Spliceosome:map03040
+LOCMI17279	Ea	Spliceosome:map03040
+LOCMI17285	Ea	Spliceosome:map03040
+LOCMI17286	Ea	Spliceosome:map03040
+LOCMI17287	Ea	Spliceosome:map03040
+LOCMI17288	Ea	Spliceosome:map03040
+LOCMI17289	Ea	Spliceosome:map03040
+LOCMI17294	Ea	Spliceosome:map03040
+LOCMI17300	Ea	Spliceosome:map03040
+LOCMI17301	Ea	Spliceosome:map03040
+LOCMI17304	Ea	Spliceosome:map03040
+LOCMI17308	Ea	Spliceosome:map03040
+LOCMI17317	Ea	Spliceosome:map03040
+LOCMI17326	Ea	Spliceosome:map03040
+LOCMI17327	Ea	Spliceosome:map03040
+LOCMI17330	Ea	Spliceosome:map03040
+LOCMI17335	Ea	Spliceosome:map03040
+LOCMI17342	Ea	Spliceosome:map03040
+LOCMI17344	Ea	Spliceosome:map03040
+LOCMI17348	Ea	Spliceosome:map03040
+LOCMI00131	Ea	Proteasome:map03050
+LOCMI00573	Ea	Proteasome:map03050
+LOCMI00654	Ea	Proteasome:map03050
+LOCMI00788	Ea	Proteasome:map03050
+LOCMI00894	Ea	Proteasome:map03050
+LOCMI00924	Ea	Proteasome:map03050
+LOCMI01417	Ea	Proteasome:map03050
+LOCMI01611	Ea	Proteasome:map03050
+LOCMI01873	Ea	Proteasome:map03050
+LOCMI02056	Ea	Proteasome:map03050
+LOCMI02241	Ea	Proteasome:map03050
+LOCMI02419	Ea	Proteasome:map03050
+LOCMI02554	Ea	Proteasome:map03050
+LOCMI02745	Ea	Proteasome:map03050
+LOCMI02940	Ea	Proteasome:map03050
+LOCMI03019	Ea	Proteasome:map03050
+LOCMI03252	Ea	Proteasome:map03050
+LOCMI03806	Ea	Proteasome:map03050
+LOCMI04525	Ea	Proteasome:map03050
+LOCMI04681	Ea	Proteasome:map03050
+LOCMI05007	Ea	Proteasome:map03050
+LOCMI09520	Ea	Proteasome:map03050
+LOCMI09640	Ea	Proteasome:map03050
+LOCMI09728	Ea	Proteasome:map03050
+LOCMI10122	Ea	Proteasome:map03050
+LOCMI10127	Ea	Proteasome:map03050
+LOCMI10141	Ea	Proteasome:map03050
+LOCMI10483	Ea	Proteasome:map03050
+LOCMI10952	Ea	Proteasome:map03050
+LOCMI11422	Ea	Proteasome:map03050
+LOCMI11441	Ea	Proteasome:map03050
+LOCMI11447	Ea	Proteasome:map03050
+LOCMI12605	Ea	Proteasome:map03050
+LOCMI13089	Ea	Proteasome:map03050
+LOCMI13150	Ea	Proteasome:map03050
+LOCMI13671	Ea	Proteasome:map03050
+LOCMI13695	Ea	Proteasome:map03050
+LOCMI14671	Ea	Proteasome:map03050
+LOCMI14959	Ea	Proteasome:map03050
+LOCMI14991	Ea	Proteasome:map03050
+LOCMI15125	Ea	Proteasome:map03050
+LOCMI15334	Ea	Proteasome:map03050
+LOCMI00915	Ea	Protein export:map03060
+LOCMI01952	Ea	Protein export:map03060
+LOCMI04853	Ea	Protein export:map03060
+LOCMI05611	Ea	Protein export:map03060
+LOCMI06027	Ea	Protein export:map03060
+LOCMI06634	Ea	Protein export:map03060
+LOCMI07265	Ea	Protein export:map03060
+LOCMI08190	Ea	Protein export:map03060
+LOCMI09429	Ea	Protein export:map03060
+LOCMI10612	Ea	Protein export:map03060
+LOCMI10960	Ea	Protein export:map03060
+LOCMI11145	Ea	Protein export:map03060
+LOCMI11426	Ea	Protein export:map03060
+LOCMI12956	Ea	Protein export:map03060
+LOCMI14850	Ea	Protein export:map03060
+LOCMI15161	Ea	Protein export:map03060
+LOCMI15492	Ea	Protein export:map03060
+LOCMI15493	Ea	Protein export:map03060
+LOCMI00252	Ea	Base excision repair:map03410
+LOCMI00510	Ea	Base excision repair:map03410
+LOCMI02540	Ea	Base excision repair:map03410
+LOCMI02908	Ea	Base excision repair:map03410
+LOCMI04598	Ea	Base excision repair:map03410
+LOCMI05365	Ea	Base excision repair:map03410
+LOCMI05424	Ea	Base excision repair:map03410
+LOCMI05739	Ea	Base excision repair:map03410
+LOCMI06203	Ea	Base excision repair:map03410
+LOCMI06735	Ea	Base excision repair:map03410
+LOCMI07245	Ea	Base excision repair:map03410
+LOCMI07340	Ea	Base excision repair:map03410
+LOCMI07682	Ea	Base excision repair:map03410
+LOCMI07858	Ea	Base excision repair:map03410
+LOCMI07939	Ea	Base excision repair:map03410
+LOCMI08653	Ea	Base excision repair:map03410
+LOCMI09117	Ea	Base excision repair:map03410
+LOCMI10246	Ea	Base excision repair:map03410
+LOCMI12275	Ea	Base excision repair:map03410
+LOCMI12301	Ea	Base excision repair:map03410
+LOCMI12438	Ea	Base excision repair:map03410
+LOCMI14047	Ea	Base excision repair:map03410
+LOCMI14116	Ea	Base excision repair:map03410
+LOCMI14641	Ea	Base excision repair:map03410
+LOCMI14842	Ea	Base excision repair:map03410
+LOCMI00252	Ea	Nucleotide excision repair:map03420
+LOCMI00835	Ea	Nucleotide excision repair:map03420
+LOCMI01583	Ea	Nucleotide excision repair:map03420
+LOCMI02340	Ea	Nucleotide excision repair:map03420
+LOCMI02525	Ea	Nucleotide excision repair:map03420
+LOCMI02622	Ea	Nucleotide excision repair:map03420
+LOCMI02908	Ea	Nucleotide excision repair:map03420
+LOCMI03322	Ea	Nucleotide excision repair:map03420
+LOCMI03965	Ea	Nucleotide excision repair:map03420
+LOCMI03970	Ea	Nucleotide excision repair:map03420
+LOCMI04104	Ea	Nucleotide excision repair:map03420
+LOCMI04598	Ea	Nucleotide excision repair:map03420
+LOCMI04664	Ea	Nucleotide excision repair:map03420
+LOCMI04938	Ea	Nucleotide excision repair:map03420
+LOCMI05032	Ea	Nucleotide excision repair:map03420
+LOCMI05140	Ea	Nucleotide excision repair:map03420
+LOCMI05424	Ea	Nucleotide excision repair:map03420
+LOCMI05520	Ea	Nucleotide excision repair:map03420
+LOCMI05788	Ea	Nucleotide excision repair:map03420
+LOCMI07168	Ea	Nucleotide excision repair:map03420
+LOCMI07858	Ea	Nucleotide excision repair:map03420
+LOCMI07939	Ea	Nucleotide excision repair:map03420
+LOCMI08026	Ea	Nucleotide excision repair:map03420
+LOCMI09882	Ea	Nucleotide excision repair:map03420
+LOCMI09890	Ea	Nucleotide excision repair:map03420
+LOCMI09934	Ea	Nucleotide excision repair:map03420
+LOCMI10253	Ea	Nucleotide excision repair:map03420
+LOCMI10558	Ea	Nucleotide excision repair:map03420
+LOCMI12275	Ea	Nucleotide excision repair:map03420
+LOCMI12584	Ea	Nucleotide excision repair:map03420
+LOCMI12804	Ea	Nucleotide excision repair:map03420
+LOCMI13620	Ea	Nucleotide excision repair:map03420
+LOCMI14103	Ea	Nucleotide excision repair:map03420
+LOCMI14116	Ea	Nucleotide excision repair:map03420
+LOCMI14147	Ea	Nucleotide excision repair:map03420
+LOCMI14218	Ea	Nucleotide excision repair:map03420
+LOCMI14641	Ea	Nucleotide excision repair:map03420
+LOCMI14799	Ea	Nucleotide excision repair:map03420
+LOCMI14842	Ea	Nucleotide excision repair:map03420
+LOCMI16372	Ea	Nucleotide excision repair:map03420
+LOCMI01129	Ea	Mismatch repair:map03430
+LOCMI01583	Ea	Mismatch repair:map03430
+LOCMI02525	Ea	Mismatch repair:map03430
+LOCMI03322	Ea	Mismatch repair:map03430
+LOCMI04598	Ea	Mismatch repair:map03430
+LOCMI04664	Ea	Mismatch repair:map03430
+LOCMI05032	Ea	Mismatch repair:map03430
+LOCMI06985	Ea	Mismatch repair:map03430
+LOCMI07858	Ea	Mismatch repair:map03430
+LOCMI07939	Ea	Mismatch repair:map03430
+LOCMI08026	Ea	Mismatch repair:map03430
+LOCMI09890	Ea	Mismatch repair:map03430
+LOCMI11180	Ea	Mismatch repair:map03430
+LOCMI11880	Ea	Mismatch repair:map03430
+LOCMI12275	Ea	Mismatch repair:map03430
+LOCMI12584	Ea	Mismatch repair:map03430
+LOCMI12772	Ea	Mismatch repair:map03430
+LOCMI13231	Ea	Mismatch repair:map03430
+LOCMI13457	Ea	Mismatch repair:map03430
+LOCMI13648	Ea	Mismatch repair:map03430
+LOCMI14116	Ea	Mismatch repair:map03430
+LOCMI14345	Ea	Mismatch repair:map03430
+LOCMI00252	Ea	Homologous recombination:map03440
+LOCMI01129	Ea	Homologous recombination:map03440
+LOCMI02525	Ea	Homologous recombination:map03440
+LOCMI03412	Ea	Homologous recombination:map03440
+LOCMI03836	Ea	Homologous recombination:map03440
+LOCMI04598	Ea	Homologous recombination:map03440
+LOCMI04766	Ea	Homologous recombination:map03440
+LOCMI05032	Ea	Homologous recombination:map03440
+LOCMI05830	Ea	Homologous recombination:map03440
+LOCMI06816	Ea	Homologous recombination:map03440
+LOCMI07268	Ea	Homologous recombination:map03440
+LOCMI07371	Ea	Homologous recombination:map03440
+LOCMI07858	Ea	Homologous recombination:map03440
+LOCMI07868	Ea	Homologous recombination:map03440
+LOCMI08026	Ea	Homologous recombination:map03440
+LOCMI09874	Ea	Homologous recombination:map03440
+LOCMI10962	Ea	Homologous recombination:map03440
+LOCMI11066	Ea	Homologous recombination:map03440
+LOCMI11880	Ea	Homologous recombination:map03440
+LOCMI12275	Ea	Homologous recombination:map03440
+LOCMI14020	Ea	Homologous recombination:map03440
+LOCMI14077	Ea	Homologous recombination:map03440
+LOCMI15429	Ea	Homologous recombination:map03440
+LOCMI15546	Ea	Homologous recombination:map03440
+LOCMI01299	Ea	Non-homologous end-joining:map03450
+LOCMI01412	Ea	Non-homologous end-joining:map03450
+LOCMI04967	Ea	Non-homologous end-joining:map03450
+LOCMI07268	Ea	Non-homologous end-joining:map03450
+LOCMI08996	Ea	Non-homologous end-joining:map03450
+LOCMI10246	Ea	Non-homologous end-joining:map03450
+LOCMI10909	Ea	Non-homologous end-joining:map03450
+LOCMI12438	Ea	Non-homologous end-joining:map03450
+LOCMI15546	Ea	Non-homologous end-joining:map03450
+LOCMI02392	Ea	Fanconi anemia pathway:map03460
+LOCMI02525	Ea	Fanconi anemia pathway:map03460
+LOCMI03333	Ea	Fanconi anemia pathway:map03460
+LOCMI03412	Ea	Fanconi anemia pathway:map03460
+LOCMI03836	Ea	Fanconi anemia pathway:map03460
+LOCMI04286	Ea	Fanconi anemia pathway:map03460
+LOCMI04839	Ea	Fanconi anemia pathway:map03460
+LOCMI05032	Ea	Fanconi anemia pathway:map03460
+LOCMI05520	Ea	Fanconi anemia pathway:map03460
+LOCMI05830	Ea	Fanconi anemia pathway:map03460
+LOCMI06816	Ea	Fanconi anemia pathway:map03460
+LOCMI07204	Ea	Fanconi anemia pathway:map03460
+LOCMI07793	Ea	Fanconi anemia pathway:map03460
+LOCMI08026	Ea	Fanconi anemia pathway:map03460
+LOCMI08310	Ea	Fanconi anemia pathway:map03460
+LOCMI09308	Ea	Fanconi anemia pathway:map03460
+LOCMI09934	Ea	Fanconi anemia pathway:map03460
+LOCMI10388	Ea	Fanconi anemia pathway:map03460
+LOCMI10493	Ea	Fanconi anemia pathway:map03460
+LOCMI11066	Ea	Fanconi anemia pathway:map03460
+LOCMI11347	Ea	Fanconi anemia pathway:map03460
+LOCMI12780	Ea	Fanconi anemia pathway:map03460
+LOCMI13231	Ea	Fanconi anemia pathway:map03460
+LOCMI13310	Ea	Fanconi anemia pathway:map03460
+LOCMI13457	Ea	Fanconi anemia pathway:map03460
+LOCMI13589	Ea	Fanconi anemia pathway:map03460
+LOCMI14077	Ea	Fanconi anemia pathway:map03460
+LOCMI14675	Ea	Fanconi anemia pathway:map03460
+LOCMI14990	Ea	Fanconi anemia pathway:map03460
+LOCMI15429	Ea	Fanconi anemia pathway:map03460
+LOCMI17479	Ea	Fanconi anemia pathway:map03460
+LOCMI03051	Ea	MAPK signaling pathway - fly:map04013
+LOCMI06691	Ea	MAPK signaling pathway - fly:map04013
+LOCMI09530	Ea	MAPK signaling pathway - fly:map04013
+LOCMI13588	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15270	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15745	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15746	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15747	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15748	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15749	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15751	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15755	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15756	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15757	Ea	MAPK signaling pathway - fly:map04013
+LOCMI15758	Ea	MAPK signaling pathway - fly:map04013
+LOCMI00751	Ea	FoxO signaling pathway:map04068
+LOCMI01555	Ea	FoxO signaling pathway:map04068
+LOCMI03051	Ea	FoxO signaling pathway:map04068
+LOCMI03303	Ea	FoxO signaling pathway:map04068
+LOCMI04526	Ea	FoxO signaling pathway:map04068
+LOCMI06370	Ea	FoxO signaling pathway:map04068
+LOCMI06521	Ea	FoxO signaling pathway:map04068
+LOCMI06714	Ea	FoxO signaling pathway:map04068
+LOCMI06770	Ea	FoxO signaling pathway:map04068
+LOCMI07316	Ea	FoxO signaling pathway:map04068
+LOCMI07418	Ea	FoxO signaling pathway:map04068
+LOCMI07824	Ea	FoxO signaling pathway:map04068
+LOCMI07919	Ea	FoxO signaling pathway:map04068
+LOCMI09477	Ea	FoxO signaling pathway:map04068
+LOCMI09760	Ea	FoxO signaling pathway:map04068
+LOCMI10305	Ea	FoxO signaling pathway:map04068
+LOCMI10487	Ea	FoxO signaling pathway:map04068
+LOCMI10943	Ea	FoxO signaling pathway:map04068
+LOCMI11487	Ea	FoxO signaling pathway:map04068
+LOCMI11756	Ea	FoxO signaling pathway:map04068
+LOCMI12803	Ea	FoxO signaling pathway:map04068
+LOCMI12808	Ea	FoxO signaling pathway:map04068
+LOCMI13558	Ea	FoxO signaling pathway:map04068
+LOCMI13588	Ea	FoxO signaling pathway:map04068
+LOCMI13806	Ea	FoxO signaling pathway:map04068
+LOCMI15748	Ea	FoxO signaling pathway:map04068
+LOCMI15749	Ea	FoxO signaling pathway:map04068
+LOCMI15751	Ea	FoxO signaling pathway:map04068
+LOCMI15755	Ea	FoxO signaling pathway:map04068
+LOCMI15756	Ea	FoxO signaling pathway:map04068
+LOCMI15871	Ea	FoxO signaling pathway:map04068
+LOCMI16291	Ea	FoxO signaling pathway:map04068
+LOCMI16297	Ea	FoxO signaling pathway:map04068
+LOCMI16332	Ea	FoxO signaling pathway:map04068
+LOCMI16333	Ea	FoxO signaling pathway:map04068
+LOCMI16364	Ea	FoxO signaling pathway:map04068
+LOCMI16396	Ea	FoxO signaling pathway:map04068
+LOCMI16417	Ea	FoxO signaling pathway:map04068
+LOCMI16419	Ea	FoxO signaling pathway:map04068
+LOCMI16420	Ea	FoxO signaling pathway:map04068
+LOCMI16427	Ea	FoxO signaling pathway:map04068
+LOCMI16455	Ea	FoxO signaling pathway:map04068
+LOCMI16460	Ea	FoxO signaling pathway:map04068
+LOCMI16514	Ea	FoxO signaling pathway:map04068
+LOCMI16584	Ea	FoxO signaling pathway:map04068
+LOCMI16790	Ea	FoxO signaling pathway:map04068
+LOCMI16792	Ea	FoxO signaling pathway:map04068
+LOCMI16863	Ea	FoxO signaling pathway:map04068
+LOCMI17118	Ea	FoxO signaling pathway:map04068
+LOCMI17204	Ea	FoxO signaling pathway:map04068
+LOCMI17223	Ea	FoxO signaling pathway:map04068
+LOCMI17278	Ea	FoxO signaling pathway:map04068
+LOCMI17307	Ea	FoxO signaling pathway:map04068
+LOCMI17345	Ea	FoxO signaling pathway:map04068
+LOCMI00272	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI01053	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI01215	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI01217	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI01949	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI02886	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI03434	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI03457	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI03842	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI04048	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI04050	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI04328	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI05238	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI05397	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI05536	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI06182	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI06194	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI06195	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI07075	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI07087	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI07824	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI08547	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI09726	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI09787	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI10669	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI12853	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI13806	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI13904	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI15362	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI15792	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI15798	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI15799	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI15825	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI15856	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI15887	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI16332	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI16511	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI16523	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI17110	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI17160	Ea	Phosphatidylinositol signaling system:map04070
+LOCMI00975	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI01452	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI04444	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI05490	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI05535	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI07053	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI07812	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI09217	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI09683	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI09723	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI10187	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI11320	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI11373	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI11438	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI11731	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI12430	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI12964	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI14510	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI14760	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI15035	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI15074	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI15127	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI15724	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI15741	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI15744	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI16500	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI16649	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI16723	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI16730	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI16734	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI16776	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17049	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17103	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17480	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17481	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17482	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17489	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17494	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17499	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17501	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17508	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17512	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17513	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17514	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17516	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17530	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17533	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI17540	Ea	Neuroactive ligand-receptor interaction:map04080
+LOCMI00033	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI00042	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI00096	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI00187	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI00282	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI00295	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI00415	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI00835	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI01268	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI01809	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI01886	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI01933	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI01936	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI02169	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI02291	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI02372	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI02446	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI02685	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI02948	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI02999	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI03160	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI03303	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI03664	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI03740	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI04073	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI04124	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI04314	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI05140	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI05142	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI05496	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI05687	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI05932	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI05987	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI06270	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI06637	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI06652	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI07481	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI07828	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI07891	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI07946	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI07978	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI08002	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI08115	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI08308	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI08445	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI08658	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI08886	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI09060	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI09091	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI09239	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI09241	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI09419	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI09681	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI09708	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI10031	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI10048	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI10185	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI10267	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI10388	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI10493	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI10534	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI10848	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI10978	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI11003	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI11185	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI11311	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI11622	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI11711	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI11867	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI12209	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI12226	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI12836	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI13549	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI13620	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI13939	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14072	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14092	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14142	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14147	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14185	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14234	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14243	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14495	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14499	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14539	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14700	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14755	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14879	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI14884	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI15084	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI15114	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI15185	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI15254	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI16305	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI16372	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI16386	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI16391	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI16393	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI16442	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI16459	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI17087	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI17122	Ea	Ubiquitin mediated proteolysis:map04120
+LOCMI00521	Ea	Sulfur relay system:map04122
+LOCMI00543	Ea	Sulfur relay system:map04122
+LOCMI01577	Ea	Sulfur relay system:map04122
+LOCMI05848	Ea	Sulfur relay system:map04122
+LOCMI07360	Ea	Sulfur relay system:map04122
+LOCMI07361	Ea	Sulfur relay system:map04122
+LOCMI09677	Ea	Sulfur relay system:map04122
+LOCMI13359	Ea	Sulfur relay system:map04122
+LOCMI15332	Ea	Sulfur relay system:map04122
+LOCMI01016	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI01645	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI04203	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI05568	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI06738	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI06747	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI09851	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI11618	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI11848	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI11985	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI12799	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI13017	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI13109	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI13501	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI13572	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI13644	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI14159	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI14391	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI14502	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI14621	Ea	SNARE interactions in vesicular transport:map04130
+LOCMI03630	Ea	Regulation of autophagy:map04140
+LOCMI04050	Ea	Regulation of autophagy:map04140
+LOCMI04526	Ea	Regulation of autophagy:map04140
+LOCMI05388	Ea	Regulation of autophagy:map04140
+LOCMI05397	Ea	Regulation of autophagy:map04140
+LOCMI06370	Ea	Regulation of autophagy:map04140
+LOCMI06714	Ea	Regulation of autophagy:map04140
+LOCMI07418	Ea	Regulation of autophagy:map04140
+LOCMI09913	Ea	Regulation of autophagy:map04140
+LOCMI09976	Ea	Regulation of autophagy:map04140
+LOCMI12734	Ea	Regulation of autophagy:map04140
+LOCMI12822	Ea	Regulation of autophagy:map04140
+LOCMI13456	Ea	Regulation of autophagy:map04140
+LOCMI13606	Ea	Regulation of autophagy:map04140
+LOCMI14352	Ea	Regulation of autophagy:map04140
+LOCMI14542	Ea	Regulation of autophagy:map04140
+LOCMI17050	Ea	Regulation of autophagy:map04140
+LOCMI17252	Ea	Regulation of autophagy:map04140
+LOCMI17329	Ea	Regulation of autophagy:map04140
+LOCMI17345	Ea	Regulation of autophagy:map04140
+LOCMI00171	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI00178	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI00230	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI00611	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI00874	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI01212	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI01517	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI01606	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI01613	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI01936	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI02079	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI02337	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI02376	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI03331	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI03347	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI03662	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI03956	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI04081	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI04087	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI04123	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI04416	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI04617	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI04618	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI05356	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI05372	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI05470	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI05600	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI05622	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI05658	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI05827	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI05940	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI06027	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI06280	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI06324	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI06552	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI07014	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI07213	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI07731	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI07823	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI07828	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI07978	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI08002	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI08115	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI08404	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI08493	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI08566	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI08600	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI08663	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI08664	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI08824	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI09060	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI09244	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI09249	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI09337	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI09467	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI10072	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI10249	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI10543	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI10544	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI10564	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI10612	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI10848	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI10850	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI11206	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI11259	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI11426	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI11622	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI11660	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI11763	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI11950	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI12151	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI12339	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI12544	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI12559	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI12664	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI12803	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI12804	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI12836	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI12956	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI13218	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI13438	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI13549	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI13553	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI13620	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI13828	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14044	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14147	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14420	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14495	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14553	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14562	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14616	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14640	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14699	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14715	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14850	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI14962	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI15013	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI15056	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI15114	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI15491	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI15492	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI15493	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI15501	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI15505	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI15512	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI16304	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI16406	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI16459	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI16711	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI16724	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI16763	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI16961	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI17248	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI17250	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI17346	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI17354	Ea	Protein processing in endoplasmic reticulum:map04141
+LOCMI00421	Ea	Lysosome:map04142
+LOCMI01253	Ea	Lysosome:map04142
+LOCMI01556	Ea	Lysosome:map04142
+LOCMI02520	Ea	Lysosome:map04142
+LOCMI02534	Ea	Lysosome:map04142
+LOCMI02756	Ea	Lysosome:map04142
+LOCMI02896	Ea	Lysosome:map04142
+LOCMI03103	Ea	Lysosome:map04142
+LOCMI03958	Ea	Lysosome:map04142
+LOCMI03991	Ea	Lysosome:map04142
+LOCMI04276	Ea	Lysosome:map04142
+LOCMI04477	Ea	Lysosome:map04142
+LOCMI04672	Ea	Lysosome:map04142
+LOCMI04779	Ea	Lysosome:map04142
+LOCMI04870	Ea	Lysosome:map04142
+LOCMI04950	Ea	Lysosome:map04142
+LOCMI05256	Ea	Lysosome:map04142
+LOCMI05833	Ea	Lysosome:map04142
+LOCMI05942	Ea	Lysosome:map04142
+LOCMI06039	Ea	Lysosome:map04142
+LOCMI06373	Ea	Lysosome:map04142
+LOCMI06913	Ea	Lysosome:map04142
+LOCMI07398	Ea	Lysosome:map04142
+LOCMI07401	Ea	Lysosome:map04142
+LOCMI07478	Ea	Lysosome:map04142
+LOCMI07774	Ea	Lysosome:map04142
+LOCMI07896	Ea	Lysosome:map04142
+LOCMI08177	Ea	Lysosome:map04142
+LOCMI08407	Ea	Lysosome:map04142
+LOCMI08619	Ea	Lysosome:map04142
+LOCMI08750	Ea	Lysosome:map04142
+LOCMI09105	Ea	Lysosome:map04142
+LOCMI09283	Ea	Lysosome:map04142
+LOCMI09883	Ea	Lysosome:map04142
+LOCMI10635	Ea	Lysosome:map04142
+LOCMI10636	Ea	Lysosome:map04142
+LOCMI10660	Ea	Lysosome:map04142
+LOCMI11195	Ea	Lysosome:map04142
+LOCMI11632	Ea	Lysosome:map04142
+LOCMI11812	Ea	Lysosome:map04142
+LOCMI12231	Ea	Lysosome:map04142
+LOCMI12262	Ea	Lysosome:map04142
+LOCMI13604	Ea	Lysosome:map04142
+LOCMI13780	Ea	Lysosome:map04142
+LOCMI13781	Ea	Lysosome:map04142
+LOCMI14050	Ea	Lysosome:map04142
+LOCMI14488	Ea	Lysosome:map04142
+LOCMI15147	Ea	Lysosome:map04142
+LOCMI15253	Ea	Lysosome:map04142
+LOCMI15467	Ea	Lysosome:map04142
+LOCMI15777	Ea	Lysosome:map04142
+LOCMI15778	Ea	Lysosome:map04142
+LOCMI15794	Ea	Lysosome:map04142
+LOCMI15797	Ea	Lysosome:map04142
+LOCMI15816	Ea	Lysosome:map04142
+LOCMI15818	Ea	Lysosome:map04142
+LOCMI15847	Ea	Lysosome:map04142
+LOCMI15909	Ea	Lysosome:map04142
+LOCMI15933	Ea	Lysosome:map04142
+LOCMI15938	Ea	Lysosome:map04142
+LOCMI15945	Ea	Lysosome:map04142
+LOCMI16027	Ea	Lysosome:map04142
+LOCMI16036	Ea	Lysosome:map04142
+LOCMI16049	Ea	Lysosome:map04142
+LOCMI16050	Ea	Lysosome:map04142
+LOCMI16066	Ea	Lysosome:map04142
+LOCMI16285	Ea	Lysosome:map04142
+LOCMI16361	Ea	Lysosome:map04142
+LOCMI16401	Ea	Lysosome:map04142
+LOCMI17084	Ea	Lysosome:map04142
+LOCMI17173	Ea	Lysosome:map04142
+LOCMI17190	Ea	Lysosome:map04142
+LOCMI17194	Ea	Lysosome:map04142
+LOCMI17232	Ea	Lysosome:map04142
+LOCMI00123	Ea	Endocytosis:map04144
+LOCMI00295	Ea	Endocytosis:map04144
+LOCMI01282	Ea	Endocytosis:map04144
+LOCMI01415	Ea	Endocytosis:map04144
+LOCMI01525	Ea	Endocytosis:map04144
+LOCMI01729	Ea	Endocytosis:map04144
+LOCMI02174	Ea	Endocytosis:map04144
+LOCMI02756	Ea	Endocytosis:map04144
+LOCMI02841	Ea	Endocytosis:map04144
+LOCMI03239	Ea	Endocytosis:map04144
+LOCMI03883	Ea	Endocytosis:map04144
+LOCMI04312	Ea	Endocytosis:map04144
+LOCMI04609	Ea	Endocytosis:map04144
+LOCMI05256	Ea	Endocytosis:map04144
+LOCMI05410	Ea	Endocytosis:map04144
+LOCMI05521	Ea	Endocytosis:map04144
+LOCMI05580	Ea	Endocytosis:map04144
+LOCMI05641	Ea	Endocytosis:map04144
+LOCMI05743	Ea	Endocytosis:map04144
+LOCMI05813	Ea	Endocytosis:map04144
+LOCMI05907	Ea	Endocytosis:map04144
+LOCMI06598	Ea	Endocytosis:map04144
+LOCMI06790	Ea	Endocytosis:map04144
+LOCMI07225	Ea	Endocytosis:map04144
+LOCMI07646	Ea	Endocytosis:map04144
+LOCMI07863	Ea	Endocytosis:map04144
+LOCMI08091	Ea	Endocytosis:map04144
+LOCMI08635	Ea	Endocytosis:map04144
+LOCMI09150	Ea	Endocytosis:map04144
+LOCMI09234	Ea	Endocytosis:map04144
+LOCMI09312	Ea	Endocytosis:map04144
+LOCMI09896	Ea	Endocytosis:map04144
+LOCMI09965	Ea	Endocytosis:map04144
+LOCMI10114	Ea	Endocytosis:map04144
+LOCMI10161	Ea	Endocytosis:map04144
+LOCMI10183	Ea	Endocytosis:map04144
+LOCMI10369	Ea	Endocytosis:map04144
+LOCMI10376	Ea	Endocytosis:map04144
+LOCMI10594	Ea	Endocytosis:map04144
+LOCMI10615	Ea	Endocytosis:map04144
+LOCMI10693	Ea	Endocytosis:map04144
+LOCMI10820	Ea	Endocytosis:map04144
+LOCMI10936	Ea	Endocytosis:map04144
+LOCMI11070	Ea	Endocytosis:map04144
+LOCMI11102	Ea	Endocytosis:map04144
+LOCMI11257	Ea	Endocytosis:map04144
+LOCMI11487	Ea	Endocytosis:map04144
+LOCMI11542	Ea	Endocytosis:map04144
+LOCMI11582	Ea	Endocytosis:map04144
+LOCMI11731	Ea	Endocytosis:map04144
+LOCMI12009	Ea	Endocytosis:map04144
+LOCMI12184	Ea	Endocytosis:map04144
+LOCMI12208	Ea	Endocytosis:map04144
+LOCMI12209	Ea	Endocytosis:map04144
+LOCMI12573	Ea	Endocytosis:map04144
+LOCMI12808	Ea	Endocytosis:map04144
+LOCMI12853	Ea	Endocytosis:map04144
+LOCMI12973	Ea	Endocytosis:map04144
+LOCMI13110	Ea	Endocytosis:map04144
+LOCMI13357	Ea	Endocytosis:map04144
+LOCMI13368	Ea	Endocytosis:map04144
+LOCMI13588	Ea	Endocytosis:map04144
+LOCMI13709	Ea	Endocytosis:map04144
+LOCMI14092	Ea	Endocytosis:map04144
+LOCMI14108	Ea	Endocytosis:map04144
+LOCMI14606	Ea	Endocytosis:map04144
+LOCMI15053	Ea	Endocytosis:map04144
+LOCMI15213	Ea	Endocytosis:map04144
+LOCMI15262	Ea	Endocytosis:map04144
+LOCMI15365	Ea	Endocytosis:map04144
+LOCMI15505	Ea	Endocytosis:map04144
+LOCMI16018	Ea	Endocytosis:map04144
+LOCMI16305	Ea	Endocytosis:map04144
+LOCMI16386	Ea	Endocytosis:map04144
+LOCMI16454	Ea	Endocytosis:map04144
+LOCMI16457	Ea	Endocytosis:map04144
+LOCMI16460	Ea	Endocytosis:map04144
+LOCMI16679	Ea	Endocytosis:map04144
+LOCMI16811	Ea	Endocytosis:map04144
+LOCMI16832	Ea	Endocytosis:map04144
+LOCMI16961	Ea	Endocytosis:map04144
+LOCMI17104	Ea	Endocytosis:map04144
+LOCMI17135	Ea	Endocytosis:map04144
+LOCMI17169	Ea	Endocytosis:map04144
+LOCMI17324	Ea	Endocytosis:map04144
+LOCMI17349	Ea	Endocytosis:map04144
+LOCMI00611	Ea	Phagosome:map04145
+LOCMI00665	Ea	Phagosome:map04145
+LOCMI01353	Ea	Phagosome:map04145
+LOCMI01486	Ea	Phagosome:map04145
+LOCMI01518	Ea	Phagosome:map04145
+LOCMI03448	Ea	Phagosome:map04145
+LOCMI03543	Ea	Phagosome:map04145
+LOCMI03842	Ea	Phagosome:map04145
+LOCMI03990	Ea	Phagosome:map04145
+LOCMI04050	Ea	Phagosome:map04145
+LOCMI04870	Ea	Phagosome:map04145
+LOCMI04907	Ea	Phagosome:map04145
+LOCMI04909	Ea	Phagosome:map04145
+LOCMI05055	Ea	Phagosome:map04145
+LOCMI05397	Ea	Phagosome:map04145
+LOCMI05568	Ea	Phagosome:map04145
+LOCMI06247	Ea	Phagosome:map04145
+LOCMI06603	Ea	Phagosome:map04145
+LOCMI06693	Ea	Phagosome:map04145
+LOCMI07225	Ea	Phagosome:map04145
+LOCMI07379	Ea	Phagosome:map04145
+LOCMI07501	Ea	Phagosome:map04145
+LOCMI07774	Ea	Phagosome:map04145
+LOCMI08235	Ea	Phagosome:map04145
+LOCMI09659	Ea	Phagosome:map04145
+LOCMI09660	Ea	Phagosome:map04145
+LOCMI09745	Ea	Phagosome:map04145
+LOCMI09851	Ea	Phagosome:map04145
+LOCMI10363	Ea	Phagosome:map04145
+LOCMI10612	Ea	Phagosome:map04145
+LOCMI10820	Ea	Phagosome:map04145
+LOCMI11062	Ea	Phagosome:map04145
+LOCMI11064	Ea	Phagosome:map04145
+LOCMI11848	Ea	Phagosome:map04145
+LOCMI12121	Ea	Phagosome:map04145
+LOCMI12208	Ea	Phagosome:map04145
+LOCMI12930	Ea	Phagosome:map04145
+LOCMI12956	Ea	Phagosome:map04145
+LOCMI13343	Ea	Phagosome:map04145
+LOCMI13780	Ea	Phagosome:map04145
+LOCMI13781	Ea	Phagosome:map04145
+LOCMI14270	Ea	Phagosome:map04145
+LOCMI14850	Ea	Phagosome:map04145
+LOCMI15013	Ea	Phagosome:map04145
+LOCMI15147	Ea	Phagosome:map04145
+LOCMI15777	Ea	Phagosome:map04145
+LOCMI15778	Ea	Phagosome:map04145
+LOCMI15816	Ea	Phagosome:map04145
+LOCMI15818	Ea	Phagosome:map04145
+LOCMI15847	Ea	Phagosome:map04145
+LOCMI15865	Ea	Phagosome:map04145
+LOCMI15894	Ea	Phagosome:map04145
+LOCMI15909	Ea	Phagosome:map04145
+LOCMI15938	Ea	Phagosome:map04145
+LOCMI15970	Ea	Phagosome:map04145
+LOCMI15986	Ea	Phagosome:map04145
+LOCMI16049	Ea	Phagosome:map04145
+LOCMI16051	Ea	Phagosome:map04145
+LOCMI16066	Ea	Phagosome:map04145
+LOCMI16082	Ea	Phagosome:map04145
+LOCMI16083	Ea	Phagosome:map04145
+LOCMI16102	Ea	Phagosome:map04145
+LOCMI16321	Ea	Phagosome:map04145
+LOCMI16508	Ea	Phagosome:map04145
+LOCMI00470	Ea	Peroxisome:map04146
+LOCMI00751	Ea	Peroxisome:map04146
+LOCMI01178	Ea	Peroxisome:map04146
+LOCMI01357	Ea	Peroxisome:map04146
+LOCMI02716	Ea	Peroxisome:map04146
+LOCMI03081	Ea	Peroxisome:map04146
+LOCMI03198	Ea	Peroxisome:map04146
+LOCMI04601	Ea	Peroxisome:map04146
+LOCMI04868	Ea	Peroxisome:map04146
+LOCMI05599	Ea	Peroxisome:map04146
+LOCMI06548	Ea	Peroxisome:map04146
+LOCMI06641	Ea	Peroxisome:map04146
+LOCMI06997	Ea	Peroxisome:map04146
+LOCMI07174	Ea	Peroxisome:map04146
+LOCMI07391	Ea	Peroxisome:map04146
+LOCMI07473	Ea	Peroxisome:map04146
+LOCMI07558	Ea	Peroxisome:map04146
+LOCMI07568	Ea	Peroxisome:map04146
+LOCMI07865	Ea	Peroxisome:map04146
+LOCMI07919	Ea	Peroxisome:map04146
+LOCMI08878	Ea	Peroxisome:map04146
+LOCMI09038	Ea	Peroxisome:map04146
+LOCMI09120	Ea	Peroxisome:map04146
+LOCMI09257	Ea	Peroxisome:map04146
+LOCMI09471	Ea	Peroxisome:map04146
+LOCMI09699	Ea	Peroxisome:map04146
+LOCMI09783	Ea	Peroxisome:map04146
+LOCMI09885	Ea	Peroxisome:map04146
+LOCMI10102	Ea	Peroxisome:map04146
+LOCMI10347	Ea	Peroxisome:map04146
+LOCMI10509	Ea	Peroxisome:map04146
+LOCMI10595	Ea	Peroxisome:map04146
+LOCMI11452	Ea	Peroxisome:map04146
+LOCMI11735	Ea	Peroxisome:map04146
+LOCMI12811	Ea	Peroxisome:map04146
+LOCMI12838	Ea	Peroxisome:map04146
+LOCMI13554	Ea	Peroxisome:map04146
+LOCMI14004	Ea	Peroxisome:map04146
+LOCMI14615	Ea	Peroxisome:map04146
+LOCMI14697	Ea	Peroxisome:map04146
+LOCMI14807	Ea	Peroxisome:map04146
+LOCMI14993	Ea	Peroxisome:map04146
+LOCMI15331	Ea	Peroxisome:map04146
+LOCMI15545	Ea	Peroxisome:map04146
+LOCMI15759	Ea	Peroxisome:map04146
+LOCMI15809	Ea	Peroxisome:map04146
+LOCMI15819	Ea	Peroxisome:map04146
+LOCMI15827	Ea	Peroxisome:map04146
+LOCMI15828	Ea	Peroxisome:map04146
+LOCMI15841	Ea	Peroxisome:map04146
+LOCMI15853	Ea	Peroxisome:map04146
+LOCMI15857	Ea	Peroxisome:map04146
+LOCMI15898	Ea	Peroxisome:map04146
+LOCMI15908	Ea	Peroxisome:map04146
+LOCMI15942	Ea	Peroxisome:map04146
+LOCMI15951	Ea	Peroxisome:map04146
+LOCMI15961	Ea	Peroxisome:map04146
+LOCMI15968	Ea	Peroxisome:map04146
+LOCMI15997	Ea	Peroxisome:map04146
+LOCMI16025	Ea	Peroxisome:map04146
+LOCMI16092	Ea	Peroxisome:map04146
+LOCMI16252	Ea	Peroxisome:map04146
+LOCMI16255	Ea	Peroxisome:map04146
+LOCMI16287	Ea	Peroxisome:map04146
+LOCMI16446	Ea	Peroxisome:map04146
+LOCMI17118	Ea	Peroxisome:map04146
+LOCMI01479	Ea	mTOR signaling pathway:map04150
+LOCMI03051	Ea	mTOR signaling pathway:map04150
+LOCMI03334	Ea	mTOR signaling pathway:map04150
+LOCMI03408	Ea	mTOR signaling pathway:map04150
+LOCMI04143	Ea	mTOR signaling pathway:map04150
+LOCMI04903	Ea	mTOR signaling pathway:map04150
+LOCMI05106	Ea	mTOR signaling pathway:map04150
+LOCMI05481	Ea	mTOR signaling pathway:map04150
+LOCMI05621	Ea	mTOR signaling pathway:map04150
+LOCMI07118	Ea	mTOR signaling pathway:map04150
+LOCMI07824	Ea	mTOR signaling pathway:map04150
+LOCMI09094	Ea	mTOR signaling pathway:map04150
+LOCMI09508	Ea	mTOR signaling pathway:map04150
+LOCMI09740	Ea	mTOR signaling pathway:map04150
+LOCMI09866	Ea	mTOR signaling pathway:map04150
+LOCMI10431	Ea	mTOR signaling pathway:map04150
+LOCMI12944	Ea	mTOR signaling pathway:map04150
+LOCMI13246	Ea	mTOR signaling pathway:map04150
+LOCMI13806	Ea	mTOR signaling pathway:map04150
+LOCMI16332	Ea	mTOR signaling pathway:map04150
+LOCMI16380	Ea	mTOR signaling pathway:map04150
+LOCMI16388	Ea	mTOR signaling pathway:map04150
+LOCMI16419	Ea	mTOR signaling pathway:map04150
+LOCMI16427	Ea	mTOR signaling pathway:map04150
+LOCMI16439	Ea	mTOR signaling pathway:map04150
+LOCMI16450	Ea	mTOR signaling pathway:map04150
+LOCMI16514	Ea	mTOR signaling pathway:map04150
+LOCMI16584	Ea	mTOR signaling pathway:map04150
+LOCMI16863	Ea	mTOR signaling pathway:map04150
+LOCMI17050	Ea	mTOR signaling pathway:map04150
+LOCMI17110	Ea	mTOR signaling pathway:map04150
+LOCMI17252	Ea	mTOR signaling pathway:map04150
+LOCMI17282	Ea	mTOR signaling pathway:map04150
+LOCMI17345	Ea	mTOR signaling pathway:map04150
+LOCMI00665	Ea	Wnt signaling pathway:map04310
+LOCMI01652	Ea	Wnt signaling pathway:map04310
+LOCMI01886	Ea	Wnt signaling pathway:map04310
+LOCMI02460	Ea	Wnt signaling pathway:map04310
+LOCMI04465	Ea	Wnt signaling pathway:map04310
+LOCMI05055	Ea	Wnt signaling pathway:map04310
+LOCMI05730	Ea	Wnt signaling pathway:map04310
+LOCMI05987	Ea	Wnt signaling pathway:map04310
+LOCMI06711	Ea	Wnt signaling pathway:map04310
+LOCMI07066	Ea	Wnt signaling pathway:map04310
+LOCMI07184	Ea	Wnt signaling pathway:map04310
+LOCMI08043	Ea	Wnt signaling pathway:map04310
+LOCMI08088	Ea	Wnt signaling pathway:map04310
+LOCMI08651	Ea	Wnt signaling pathway:map04310
+LOCMI09234	Ea	Wnt signaling pathway:map04310
+LOCMI09349	Ea	Wnt signaling pathway:map04310
+LOCMI09477	Ea	Wnt signaling pathway:map04310
+LOCMI09627	Ea	Wnt signaling pathway:map04310
+LOCMI09638	Ea	Wnt signaling pathway:map04310
+LOCMI09752	Ea	Wnt signaling pathway:map04310
+LOCMI10450	Ea	Wnt signaling pathway:map04310
+LOCMI10669	Ea	Wnt signaling pathway:map04310
+LOCMI10943	Ea	Wnt signaling pathway:map04310
+LOCMI12652	Ea	Wnt signaling pathway:map04310
+LOCMI12803	Ea	Wnt signaling pathway:map04310
+LOCMI12953	Ea	Wnt signaling pathway:map04310
+LOCMI13239	Ea	Wnt signaling pathway:map04310
+LOCMI13549	Ea	Wnt signaling pathway:map04310
+LOCMI13620	Ea	Wnt signaling pathway:map04310
+LOCMI13650	Ea	Wnt signaling pathway:map04310
+LOCMI13674	Ea	Wnt signaling pathway:map04310
+LOCMI13915	Ea	Wnt signaling pathway:map04310
+LOCMI14147	Ea	Wnt signaling pathway:map04310
+LOCMI14495	Ea	Wnt signaling pathway:map04310
+LOCMI14565	Ea	Wnt signaling pathway:map04310
+LOCMI14567	Ea	Wnt signaling pathway:map04310
+LOCMI14680	Ea	Wnt signaling pathway:map04310
+LOCMI14704	Ea	Wnt signaling pathway:map04310
+LOCMI15020	Ea	Wnt signaling pathway:map04310
+LOCMI15117	Ea	Wnt signaling pathway:map04310
+LOCMI15365	Ea	Wnt signaling pathway:map04310
+LOCMI16113	Ea	Wnt signaling pathway:map04310
+LOCMI16116	Ea	Wnt signaling pathway:map04310
+LOCMI16118	Ea	Wnt signaling pathway:map04310
+LOCMI16319	Ea	Wnt signaling pathway:map04310
+LOCMI16449	Ea	Wnt signaling pathway:map04310
+LOCMI16455	Ea	Wnt signaling pathway:map04310
+LOCMI16459	Ea	Wnt signaling pathway:map04310
+LOCMI16516	Ea	Wnt signaling pathway:map04310
+LOCMI17110	Ea	Wnt signaling pathway:map04310
+LOCMI17160	Ea	Wnt signaling pathway:map04310
+LOCMI17183	Ea	Wnt signaling pathway:map04310
+LOCMI17184	Ea	Wnt signaling pathway:map04310
+LOCMI17201	Ea	Wnt signaling pathway:map04310
+LOCMI17209	Ea	Wnt signaling pathway:map04310
+LOCMI17223	Ea	Wnt signaling pathway:map04310
+LOCMI17254	Ea	Wnt signaling pathway:map04310
+LOCMI17278	Ea	Wnt signaling pathway:map04310
+LOCMI03051	Ea	Dorso-ventral axis formation:map04320
+LOCMI04945	Ea	Dorso-ventral axis formation:map04320
+LOCMI06685	Ea	Dorso-ventral axis formation:map04320
+LOCMI06691	Ea	Dorso-ventral axis formation:map04320
+LOCMI07033	Ea	Dorso-ventral axis formation:map04320
+LOCMI08570	Ea	Dorso-ventral axis formation:map04320
+LOCMI11364	Ea	Dorso-ventral axis formation:map04320
+LOCMI11736	Ea	Dorso-ventral axis formation:map04320
+LOCMI12271	Ea	Dorso-ventral axis formation:map04320
+LOCMI12335	Ea	Dorso-ventral axis formation:map04320
+LOCMI12951	Ea	Dorso-ventral axis formation:map04320
+LOCMI13079	Ea	Dorso-ventral axis formation:map04320
+LOCMI13588	Ea	Dorso-ventral axis formation:map04320
+LOCMI15240	Ea	Dorso-ventral axis formation:map04320
+LOCMI15454	Ea	Dorso-ventral axis formation:map04320
+LOCMI15745	Ea	Dorso-ventral axis formation:map04320
+LOCMI15748	Ea	Dorso-ventral axis formation:map04320
+LOCMI15749	Ea	Dorso-ventral axis formation:map04320
+LOCMI15751	Ea	Dorso-ventral axis formation:map04320
+LOCMI15755	Ea	Dorso-ventral axis formation:map04320
+LOCMI15756	Ea	Dorso-ventral axis formation:map04320
+LOCMI15757	Ea	Dorso-ventral axis formation:map04320
+LOCMI16112	Ea	Dorso-ventral axis formation:map04320
+LOCMI17321	Ea	Dorso-ventral axis formation:map04320
+LOCMI08265	Ea	Notch signaling pathway:map04330
+LOCMI09349	Ea	Notch signaling pathway:map04330
+LOCMI14123	Ea	Notch signaling pathway:map04330
+LOCMI16103	Ea	Notch signaling pathway:map04330
+LOCMI16104	Ea	Notch signaling pathway:map04330
+LOCMI16105	Ea	Notch signaling pathway:map04330
+LOCMI16106	Ea	Notch signaling pathway:map04330
+LOCMI16108	Ea	Notch signaling pathway:map04330
+LOCMI16110	Ea	Notch signaling pathway:map04330
+LOCMI16111	Ea	Notch signaling pathway:map04330
+LOCMI16112	Ea	Notch signaling pathway:map04330
+LOCMI16113	Ea	Notch signaling pathway:map04330
+LOCMI16114	Ea	Notch signaling pathway:map04330
+LOCMI16115	Ea	Notch signaling pathway:map04330
+LOCMI16116	Ea	Notch signaling pathway:map04330
+LOCMI16117	Ea	Notch signaling pathway:map04330
+LOCMI16118	Ea	Notch signaling pathway:map04330
+LOCMI16120	Ea	Notch signaling pathway:map04330
+LOCMI16121	Ea	Notch signaling pathway:map04330
+LOCMI16123	Ea	Notch signaling pathway:map04330
+LOCMI16455	Ea	Notch signaling pathway:map04330
+LOCMI01886	Ea	Hedgehog signaling pathway:map04340
+LOCMI04522	Ea	Hedgehog signaling pathway:map04340
+LOCMI07671	Ea	Hedgehog signaling pathway:map04340
+LOCMI08043	Ea	Hedgehog signaling pathway:map04340
+LOCMI08651	Ea	Hedgehog signaling pathway:map04340
+LOCMI09477	Ea	Hedgehog signaling pathway:map04340
+LOCMI12652	Ea	Hedgehog signaling pathway:map04340
+LOCMI13778	Ea	Hedgehog signaling pathway:map04340
+LOCMI14454	Ea	Hedgehog signaling pathway:map04340
+LOCMI14560	Ea	Hedgehog signaling pathway:map04340
+LOCMI14565	Ea	Hedgehog signaling pathway:map04340
+LOCMI14567	Ea	Hedgehog signaling pathway:map04340
+LOCMI14680	Ea	Hedgehog signaling pathway:map04340
+LOCMI16463	Ea	Hedgehog signaling pathway:map04340
+LOCMI16516	Ea	Hedgehog signaling pathway:map04340
+LOCMI17209	Ea	Hedgehog signaling pathway:map04340
+LOCMI17219	Ea	Hedgehog signaling pathway:map04340
+LOCMI03051	Ea	TGF-beta signaling pathway:map04350
+LOCMI07092	Ea	TGF-beta signaling pathway:map04350
+LOCMI08556	Ea	TGF-beta signaling pathway:map04350
+LOCMI09234	Ea	TGF-beta signaling pathway:map04350
+LOCMI10943	Ea	TGF-beta signaling pathway:map04350
+LOCMI11487	Ea	TGF-beta signaling pathway:map04350
+LOCMI12209	Ea	TGF-beta signaling pathway:map04350
+LOCMI12808	Ea	TGF-beta signaling pathway:map04350
+LOCMI13549	Ea	TGF-beta signaling pathway:map04350
+LOCMI13620	Ea	TGF-beta signaling pathway:map04350
+LOCMI14147	Ea	TGF-beta signaling pathway:map04350
+LOCMI14495	Ea	TGF-beta signaling pathway:map04350
+LOCMI15333	Ea	TGF-beta signaling pathway:map04350
+LOCMI15365	Ea	TGF-beta signaling pathway:map04350
+LOCMI15382	Ea	TGF-beta signaling pathway:map04350
+LOCMI16450	Ea	TGF-beta signaling pathway:map04350
+LOCMI16451	Ea	TGF-beta signaling pathway:map04350
+LOCMI16452	Ea	TGF-beta signaling pathway:map04350
+LOCMI16453	Ea	TGF-beta signaling pathway:map04350
+LOCMI16454	Ea	TGF-beta signaling pathway:map04350
+LOCMI16455	Ea	TGF-beta signaling pathway:map04350
+LOCMI16457	Ea	TGF-beta signaling pathway:map04350
+LOCMI16458	Ea	TGF-beta signaling pathway:map04350
+LOCMI16459	Ea	TGF-beta signaling pathway:map04350
+LOCMI16460	Ea	TGF-beta signaling pathway:map04350
+LOCMI16462	Ea	TGF-beta signaling pathway:map04350
+LOCMI16463	Ea	TGF-beta signaling pathway:map04350
+LOCMI17180	Ea	TGF-beta signaling pathway:map04350
+LOCMI17277	Ea	TGF-beta signaling pathway:map04350
+LOCMI01353	Ea	Hippo signaling pathway -fly:map04391
+LOCMI02280	Ea	Hippo signaling pathway -fly:map04391
+LOCMI02501	Ea	Hippo signaling pathway -fly:map04391
+LOCMI03136	Ea	Hippo signaling pathway -fly:map04391
+LOCMI03543	Ea	Hippo signaling pathway -fly:map04391
+LOCMI04140	Ea	Hippo signaling pathway -fly:map04391
+LOCMI04461	Ea	Hippo signaling pathway -fly:map04391
+LOCMI04541	Ea	Hippo signaling pathway -fly:map04391
+LOCMI05241	Ea	Hippo signaling pathway -fly:map04391
+LOCMI06140	Ea	Hippo signaling pathway -fly:map04391
+LOCMI06267	Ea	Hippo signaling pathway -fly:map04391
+LOCMI06917	Ea	Hippo signaling pathway -fly:map04391
+LOCMI07092	Ea	Hippo signaling pathway -fly:map04391
+LOCMI07503	Ea	Hippo signaling pathway -fly:map04391
+LOCMI07527	Ea	Hippo signaling pathway -fly:map04391
+LOCMI08305	Ea	Hippo signaling pathway -fly:map04391
+LOCMI08556	Ea	Hippo signaling pathway -fly:map04391
+LOCMI08843	Ea	Hippo signaling pathway -fly:map04391
+LOCMI09221	Ea	Hippo signaling pathway -fly:map04391
+LOCMI09476	Ea	Hippo signaling pathway -fly:map04391
+LOCMI09477	Ea	Hippo signaling pathway -fly:map04391
+LOCMI10131	Ea	Hippo signaling pathway -fly:map04391
+LOCMI10374	Ea	Hippo signaling pathway -fly:map04391
+LOCMI11731	Ea	Hippo signaling pathway -fly:map04391
+LOCMI12232	Ea	Hippo signaling pathway -fly:map04391
+LOCMI12774	Ea	Hippo signaling pathway -fly:map04391
+LOCMI12803	Ea	Hippo signaling pathway -fly:map04391
+LOCMI12910	Ea	Hippo signaling pathway -fly:map04391
+LOCMI13053	Ea	Hippo signaling pathway -fly:map04391
+LOCMI13110	Ea	Hippo signaling pathway -fly:map04391
+LOCMI13575	Ea	Hippo signaling pathway -fly:map04391
+LOCMI14055	Ea	Hippo signaling pathway -fly:map04391
+LOCMI14208	Ea	Hippo signaling pathway -fly:map04391
+LOCMI14554	Ea	Hippo signaling pathway -fly:map04391
+LOCMI14567	Ea	Hippo signaling pathway -fly:map04391
+LOCMI14916	Ea	Hippo signaling pathway -fly:map04391
+LOCMI15282	Ea	Hippo signaling pathway -fly:map04391
+LOCMI16317	Ea	Hippo signaling pathway -fly:map04391
+LOCMI16321	Ea	Hippo signaling pathway -fly:map04391
+LOCMI16453	Ea	Hippo signaling pathway -fly:map04391
+LOCMI16519	Ea	Hippo signaling pathway -fly:map04391
+LOCMI16674	Ea	Hippo signaling pathway -fly:map04391
+LOCMI16832	Ea	Hippo signaling pathway -fly:map04391
+LOCMI17255	Ea	Hippo signaling pathway -fly:map04391
+LOCMI01518	Ea	ECM-receptor interaction:map04512
+LOCMI01805	Ea	ECM-receptor interaction:map04512
+LOCMI02653	Ea	ECM-receptor interaction:map04512
+LOCMI02664	Ea	ECM-receptor interaction:map04512
+LOCMI03316	Ea	ECM-receptor interaction:map04512
+LOCMI04186	Ea	ECM-receptor interaction:map04512
+LOCMI04749	Ea	ECM-receptor interaction:map04512
+LOCMI06526	Ea	ECM-receptor interaction:map04512
+LOCMI07379	Ea	ECM-receptor interaction:map04512
+LOCMI08289	Ea	ECM-receptor interaction:map04512
+LOCMI09297	Ea	ECM-receptor interaction:map04512
+LOCMI10145	Ea	ECM-receptor interaction:map04512
+LOCMI10211	Ea	ECM-receptor interaction:map04512
+LOCMI10571	Ea	ECM-receptor interaction:map04512
+LOCMI10699	Ea	ECM-receptor interaction:map04512
+LOCMI12038	Ea	ECM-receptor interaction:map04512
+LOCMI12711	Ea	ECM-receptor interaction:map04512
+LOCMI13343	Ea	ECM-receptor interaction:map04512
+LOCMI14964	Ea	ECM-receptor interaction:map04512
+LOCMI15327	Ea	ECM-receptor interaction:map04512
+LOCMI16408	Ea	ECM-receptor interaction:map04512
+LOCMI00295	Ea	Jak-STAT signaling pathway:map04630
+LOCMI01729	Ea	Jak-STAT signaling pathway:map04630
+LOCMI07481	Ea	Jak-STAT signaling pathway:map04630
+LOCMI07824	Ea	Jak-STAT signaling pathway:map04630
+LOCMI09472	Ea	Jak-STAT signaling pathway:map04630
+LOCMI09548	Ea	Jak-STAT signaling pathway:map04630
+LOCMI11623	Ea	Jak-STAT signaling pathway:map04630
+LOCMI12832	Ea	Jak-STAT signaling pathway:map04630
+LOCMI13806	Ea	Jak-STAT signaling pathway:map04630
+LOCMI15746	Ea	Jak-STAT signaling pathway:map04630
+LOCMI15751	Ea	Jak-STAT signaling pathway:map04630
+LOCMI15755	Ea	Jak-STAT signaling pathway:map04630
+LOCMI16314	Ea	Jak-STAT signaling pathway:map04630
+LOCMI16328	Ea	Jak-STAT signaling pathway:map04630
+LOCMI16362	Ea	Jak-STAT signaling pathway:map04630
+LOCMI16427	Ea	Jak-STAT signaling pathway:map04630
+LOCMI16455	Ea	Jak-STAT signaling pathway:map04630
+LOCMI17223	Ea	Jak-STAT signaling pathway:map04630
+LOCMI08043	Ea	Circadian rhythm - fly:map04711
+LOCMI09477	Ea	Circadian rhythm - fly:map04711
+LOCMI16510	Ea	Circadian rhythm - fly:map04711
+LOCMI16529	Ea	Circadian rhythm - fly:map04711
+LOCMI16547	Ea	Circadian rhythm - fly:map04711
+LOCMI16672	Ea	Circadian rhythm - fly:map04711
+LOCMI16740	Ea	Circadian rhythm - fly:map04711
+LOCMI17155	Ea	Circadian rhythm - fly:map04711
+LOCMI01353	Ea	Phototransduction - fly:map04745
+LOCMI03543	Ea	Phototransduction - fly:map04745
+LOCMI03641	Ea	Phototransduction - fly:map04745
+LOCMI04328	Ea	Phototransduction - fly:map04745
+LOCMI08382	Ea	Phototransduction - fly:map04745
+LOCMI10669	Ea	Phototransduction - fly:map04745
+LOCMI11247	Ea	Phototransduction - fly:map04745
+LOCMI11255	Ea	Phototransduction - fly:map04745
+LOCMI12953	Ea	Phototransduction - fly:map04745
+LOCMI14740	Ea	Phototransduction - fly:map04745
+LOCMI14741	Ea	Phototransduction - fly:map04745
+LOCMI14920	Ea	Phototransduction - fly:map04745
+LOCMI15362	Ea	Phototransduction - fly:map04745
+LOCMI16321	Ea	Phototransduction - fly:map04745
+LOCMI17110	Ea	Phototransduction - fly:map04745
+LOCMI17160	Ea	Phototransduction - fly:map04745
+LOCMI17169	Ea	Phototransduction - fly:map04745
+LOCMI17263	Ea	Phototransduction - fly:map04745
+LOCMI17306	Ea	Phototransduction - fly:map04745

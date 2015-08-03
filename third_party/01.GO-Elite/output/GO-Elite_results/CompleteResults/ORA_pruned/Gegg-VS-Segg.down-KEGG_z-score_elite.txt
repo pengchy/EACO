@@ -1,0 +1,3 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols
+Glutathione metabolism:map00480	3	44	44	6.81818181818	100.0	4.17468726814	0.0085	0.54825	 	 	LOCMI04442|LOCMI16258|LOCMI16688
+Ribosome:map03010	5	139	139	3.59712230216	100.0	3.4465409487	0.008	0.54825	 	 	LOCMI00502|LOCMI02771|LOCMI05551|LOCMI07717|LOCMI11190

@@ -1,0 +1,10 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI14216	LOCMI14216	A7S7S1_NEMVE Predicted protein	LOCMI14216	Protease inhibitor I4, serpin:IPR000215	Protease inhibitor I4, serpin:IPR000215
+LOCMI07407	LOCMI07407	GF11037	LOCMI07407	Protease inhibitor I4, serpin:IPR000215	Protease inhibitor I4, serpin:IPR000215
+LOCMI05133	LOCMI05133	serine protease inhibitor, serpin	LOCMI05133	Protease inhibitor I4, serpin:IPR000215	Protease inhibitor I4, serpin:IPR000215
+LOCMI14212	LOCMI14212	PREDICTED: plasminogen activator inhibitor 1-like	LOCMI14212	Protease inhibitor I4, serpin:IPR000215	Protease inhibitor I4, serpin:IPR000215
+LOCMI01756	LOCMI01756	proteinase inhibitor I4 serpin	LOCMI01756	Protease inhibitor I4, serpin:IPR000215	Protease inhibitor I4, serpin:IPR000215
+LOCMI03329	LOCMI03329	B3MXJ9_DROAN GF19436	LOCMI03329	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI12984	LOCMI12984	B3NUX9_DROER GG19440	LOCMI12984	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03770	LOCMI03770	B3P2V7_DROER Glucose dehydrogenase	LOCMI03770	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI02405	LOCMI02405	PREDICTED: glucose dehydrogenase	LOCMI02405	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172

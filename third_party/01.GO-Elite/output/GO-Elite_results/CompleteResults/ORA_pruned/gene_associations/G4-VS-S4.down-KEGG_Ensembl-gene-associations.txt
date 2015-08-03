@@ -1,0 +1,5 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI15467	LOCMI15467	PREDICTED: chitooligosaccharidolytic beta-N-acetylglucosaminidase-like	LOCMI15467	Amino sugar and nucleotide sugar metabolism:map00520	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI17048	LOCMI17048	chitinase 5 precursor	LOCMI17048	Amino sugar and nucleotide sugar metabolism:map00520	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13600	LOCMI13600	Q0Z939_TRICA Chitinase 10	LOCMI13600	Amino sugar and nucleotide sugar metabolism:map00520	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI17331	LOCMI17331	Q0Z942_TRICA Chitinase 7	LOCMI17331	Amino sugar and nucleotide sugar metabolism:map00520	Amino sugar and nucleotide sugar metabolism:map00520

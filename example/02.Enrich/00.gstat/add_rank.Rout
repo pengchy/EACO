@@ -1,0 +1,32 @@
+
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-unknown-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> glist = read.table("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/02.Enrich/00.gstat//gstat.list",sep="\t",stringsAsFactors=FALSE)
+> for(i in glist[,2]){
++ 	a = read.table(i,stringsAsFactors=FALSE)
++ 	a.res = data.frame(a,rank(a[,4],ties.method = "random"))
++ 	i.rnk = paste(i,".rnk",sep="")
++ 	write.table(a.res,file=i.rnk,sep="\t",quote=FALSE,row.names=FALSE,col.names=FALSE)
++ 	file.copy(from=i.rnk,to=i,overwrite = TRUE)
++ 	file.remove(i.rnk)
++ 	write.table(a.res[,c(1,5)],file=i.rnk,sep="\t",quote=FALSE,row.names=FALSE,col.names=FALSE)
++ }
+> 
+> proc.time()
+   user  system elapsed 
+  0.893   0.095   8.383 

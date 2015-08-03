@@ -1,0 +1,492 @@
+Ensembl	symbol	KEGG
+LOCMI15824	LOCMI15824	Sphingolipid metabolism:map00600
+LOCMI16027	LOCMI16027	Sphingolipid metabolism:map00600
+LOCMI15933	LOCMI15933	Sphingolipid metabolism:map00600
+LOCMI16102	LOCMI16102	Oxidative phosphorylation:map00190
+LOCMI15816	LOCMI15816	Oxidative phosphorylation:map00190
+LOCMI16062	LOCMI16062	Oxidative phosphorylation:map00190
+LOCMI16066	LOCMI16066	Oxidative phosphorylation:map00190
+LOCMI15910	LOCMI15910	Oxidative phosphorylation:map00190
+LOCMI15986	LOCMI15986	Oxidative phosphorylation:map00190
+LOCMI16049	LOCMI16049	Oxidative phosphorylation:map00190
+LOCMI15894	LOCMI15894	Oxidative phosphorylation:map00190
+LOCMI06328	LOCMI06328	Oxidative phosphorylation:map00190
+LOCMI15853	LOCMI15853	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15809	LOCMI15809	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15961	LOCMI15961	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI15872	LOCMI15872	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI06643	LOCMI06643	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI17138	LOCMI17138	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13965	LOCMI13965	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI11868	LOCMI11868	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI09697	LOCMI09697	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI09283	LOCMI09283	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13862	LOCMI13862	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI15834	LOCMI15834	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI03834	LOCMI03834	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13816	LOCMI13816	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI15912	LOCMI15912	Lysine biosynthesis:map00300
+LOCMI09250	LOCMI09250	Folate biosynthesis:map00790
+LOCMI07360	LOCMI07360	Folate biosynthesis:map00790
+LOCMI04749	LOCMI04749	ECM-receptor interaction:map04512
+LOCMI10636	LOCMI10636	Glycosaminoglycan degradation:map00531
+LOCMI03958	LOCMI03958	Glycosaminoglycan degradation:map00531
+LOCMI09283	LOCMI09283	Glycosaminoglycan degradation:map00531
+LOCMI04276	LOCMI04276	Glycosaminoglycan degradation:map00531
+LOCMI09622	LOCMI09622	Other glycan degradation:map00511
+LOCMI05942	LOCMI05942	Other glycan degradation:map00511
+LOCMI09283	LOCMI09283	Other glycan degradation:map00511
+LOCMI15933	LOCMI15933	Other glycan degradation:map00511
+LOCMI01253	LOCMI01253	Other glycan degradation:map00511
+LOCMI15907	LOCMI15907	Glycolysis / Gluconeogenesis:map00010
+LOCMI15851	LOCMI15851	Glycolysis / Gluconeogenesis:map00010
+LOCMI15912	LOCMI15912	Glycolysis / Gluconeogenesis:map00010
+LOCMI15985	LOCMI15985	Glycolysis / Gluconeogenesis:map00010
+LOCMI16875	LOCMI16875	Glycolysis / Gluconeogenesis:map00010
+LOCMI15896	LOCMI15896	Glycolysis / Gluconeogenesis:map00010
+LOCMI15834	LOCMI15834	Glycolysis / Gluconeogenesis:map00010
+LOCMI16007	LOCMI16007	Glycolysis / Gluconeogenesis:map00010
+LOCMI16091	LOCMI16091	Glycolysis / Gluconeogenesis:map00010
+LOCMI04776	LOCMI04776	Selenocompound metabolism:map00450
+LOCMI06370	LOCMI06370	Regulation of autophagy:map04140
+LOCMI06370	LOCMI06370	FoxO signaling pathway:map04068
+LOCMI04338	LOCMI04338	Starch and sucrose metabolism:map00500
+LOCMI03766	LOCMI03766	Starch and sucrose metabolism:map00500
+LOCMI17045	LOCMI17045	Starch and sucrose metabolism:map00500
+LOCMI03958	LOCMI03958	Starch and sucrose metabolism:map00500
+LOCMI17046	LOCMI17046	Starch and sucrose metabolism:map00500
+LOCMI17036	LOCMI17036	Starch and sucrose metabolism:map00500
+LOCMI17032	LOCMI17032	Starch and sucrose metabolism:map00500
+LOCMI16992	LOCMI16992	Starch and sucrose metabolism:map00500
+LOCMI15834	LOCMI15834	Starch and sucrose metabolism:map00500
+LOCMI05244	LOCMI05244	Starch and sucrose metabolism:map00500
+LOCMI05976	LOCMI05976	Starch and sucrose metabolism:map00500
+LOCMI03726	LOCMI03726	Starch and sucrose metabolism:map00500
+LOCMI11347	LOCMI11347	Fanconi anemia pathway:map03460
+LOCMI09094	LOCMI09094	mTOR signaling pathway:map04150
+LOCMI16298	LOCMI16298	Pyruvate metabolism:map00620
+LOCMI15907	LOCMI15907	Pyruvate metabolism:map00620
+LOCMI15851	LOCMI15851	Pyruvate metabolism:map00620
+LOCMI15814	LOCMI15814	Pyruvate metabolism:map00620
+LOCMI15882	LOCMI15882	Pyruvate metabolism:map00620
+LOCMI15912	LOCMI15912	Pyruvate metabolism:map00620
+LOCMI15985	LOCMI15985	Pyruvate metabolism:map00620
+LOCMI16875	LOCMI16875	Pyruvate metabolism:map00620
+LOCMI15896	LOCMI15896	Pyruvate metabolism:map00620
+LOCMI16371	LOCMI16371	Pyruvate metabolism:map00620
+LOCMI14086	LOCMI14086	Pyruvate metabolism:map00620
+LOCMI16298	LOCMI16298	Fatty acid degradation:map00071
+LOCMI15940	LOCMI15940	Fatty acid degradation:map00071
+LOCMI16955	LOCMI16955	Fatty acid degradation:map00071
+LOCMI15907	LOCMI15907	Fatty acid degradation:map00071
+LOCMI15853	LOCMI15853	Fatty acid degradation:map00071
+LOCMI15851	LOCMI15851	Fatty acid degradation:map00071
+LOCMI15923	LOCMI15923	Fatty acid degradation:map00071
+LOCMI15809	LOCMI15809	Fatty acid degradation:map00071
+LOCMI15912	LOCMI15912	Fatty acid degradation:map00071
+LOCMI15961	LOCMI15961	Fatty acid degradation:map00071
+LOCMI15985	LOCMI15985	Fatty acid degradation:map00071
+LOCMI15896	LOCMI15896	Fatty acid degradation:map00071
+LOCMI16371	LOCMI16371	Fatty acid degradation:map00071
+LOCMI16046	LOCMI16046	Fatty acid degradation:map00071
+LOCMI16007	LOCMI16007	Fatty acid degradation:map00071
+LOCMI16003	LOCMI16003	Arachidonic acid metabolism:map00590
+LOCMI13620	LOCMI13620	TGF-beta signaling pathway:map04350
+LOCMI14147	LOCMI14147	TGF-beta signaling pathway:map04350
+LOCMI06643	LOCMI06643	Fructose and mannose metabolism:map00051
+LOCMI15814	LOCMI15814	Fructose and mannose metabolism:map00051
+LOCMI15882	LOCMI15882	Fructose and mannose metabolism:map00051
+LOCMI05915	LOCMI05915	Fructose and mannose metabolism:map00051
+LOCMI13620	LOCMI13620	Nucleotide excision repair:map03420
+LOCMI14147	LOCMI14147	Nucleotide excision repair:map03420
+LOCMI03087	LOCMI03087	Tyrosine metabolism:map00350
+LOCMI01030	LOCMI01030	Tyrosine metabolism:map00350
+LOCMI16007	LOCMI16007	Tyrosine metabolism:map00350
+LOCMI16298	LOCMI16298	Valine, leucine and isoleucine degradation:map00280
+LOCMI15940	LOCMI15940	Valine, leucine and isoleucine degradation:map00280
+LOCMI00274	LOCMI00274	Valine, leucine and isoleucine degradation:map00280
+LOCMI16955	LOCMI16955	Valine, leucine and isoleucine degradation:map00280
+LOCMI15907	LOCMI15907	Valine, leucine and isoleucine degradation:map00280
+LOCMI15851	LOCMI15851	Valine, leucine and isoleucine degradation:map00280
+LOCMI15923	LOCMI15923	Valine, leucine and isoleucine degradation:map00280
+LOCMI15912	LOCMI15912	Valine, leucine and isoleucine degradation:map00280
+LOCMI15985	LOCMI15985	Valine, leucine and isoleucine degradation:map00280
+LOCMI15896	LOCMI15896	Valine, leucine and isoleucine degradation:map00280
+LOCMI16371	LOCMI16371	Valine, leucine and isoleucine degradation:map00280
+LOCMI16046	LOCMI16046	Valine, leucine and isoleucine degradation:map00280
+LOCMI05296	LOCMI05296	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI13620	LOCMI13620	Ubiquitin mediated proteolysis:map04120
+LOCMI11867	LOCMI11867	Ubiquitin mediated proteolysis:map04120
+LOCMI14147	LOCMI14147	Ubiquitin mediated proteolysis:map04120
+LOCMI07828	LOCMI07828	Ubiquitin mediated proteolysis:map04120
+LOCMI00033	LOCMI00033	Ubiquitin mediated proteolysis:map04120
+LOCMI10267	LOCMI10267	Ubiquitin mediated proteolysis:map04120
+LOCMI15940	LOCMI15940	Fatty acid elongation:map00062
+LOCMI16955	LOCMI16955	Fatty acid elongation:map00062
+LOCMI16046	LOCMI16046	Fatty acid elongation:map00062
+LOCMI08793	LOCMI08793	Spliceosome:map03040
+LOCMI17317	LOCMI17317	Spliceosome:map03040
+LOCMI16707	LOCMI16707	Spliceosome:map03040
+LOCMI17269	LOCMI17269	Spliceosome:map03040
+LOCMI16623	LOCMI16623	Spliceosome:map03040
+LOCMI17308	LOCMI17308	Spliceosome:map03040
+LOCMI17236	LOCMI17236	Spliceosome:map03040
+LOCMI17153	LOCMI17153	Spliceosome:map03040
+LOCMI16793	LOCMI16793	Spliceosome:map03040
+LOCMI17116	LOCMI17116	Spliceosome:map03040
+LOCMI09768	LOCMI09768	Spliceosome:map03040
+LOCMI17142	LOCMI17142	Spliceosome:map03040
+LOCMI16631	LOCMI16631	Spliceosome:map03040
+LOCMI06013	LOCMI06013	Glycine, serine and threonine metabolism:map00260
+LOCMI09897	LOCMI09897	Glycine, serine and threonine metabolism:map00260
+LOCMI15912	LOCMI15912	Glycine, serine and threonine metabolism:map00260
+LOCMI04776	LOCMI04776	Glycine, serine and threonine metabolism:map00260
+LOCMI06930	LOCMI06930	Pyrimidine metabolism:map00240
+LOCMI06409	LOCMI06409	Pyrimidine metabolism:map00240
+LOCMI13010	LOCMI13010	Pyrimidine metabolism:map00240
+LOCMI08740	LOCMI08740	Pyrimidine metabolism:map00240
+LOCMI15853	LOCMI15853	alpha-Linolenic acid metabolism:map00592
+LOCMI15809	LOCMI15809	alpha-Linolenic acid metabolism:map00592
+LOCMI15961	LOCMI15961	alpha-Linolenic acid metabolism:map00592
+LOCMI15819	LOCMI15819	Glutathione metabolism:map00480
+LOCMI15701	LOCMI15701	Glutathione metabolism:map00480
+LOCMI15696	LOCMI15696	Glutathione metabolism:map00480
+LOCMI15698	LOCMI15698	Glutathione metabolism:map00480
+LOCMI15703	LOCMI15703	Glutathione metabolism:map00480
+LOCMI08143	LOCMI08143	Glutathione metabolism:map00480
+LOCMI06738	LOCMI06738	SNARE interactions in vesicular transport:map04130
+LOCMI05568	LOCMI05568	SNARE interactions in vesicular transport:map04130
+LOCMI01645	LOCMI01645	SNARE interactions in vesicular transport:map04130
+LOCMI06747	LOCMI06747	SNARE interactions in vesicular transport:map04130
+LOCMI15907	LOCMI15907	Histidine metabolism:map00340
+LOCMI15851	LOCMI15851	Histidine metabolism:map00340
+LOCMI15912	LOCMI15912	Histidine metabolism:map00340
+LOCMI15985	LOCMI15985	Histidine metabolism:map00340
+LOCMI09621	LOCMI09621	Histidine metabolism:map00340
+LOCMI15896	LOCMI15896	Histidine metabolism:map00340
+LOCMI09897	LOCMI09897	Vitamin B6 metabolism:map00750
+LOCMI17045	LOCMI17045	Porphyrin and chlorophyll metabolism:map00860
+LOCMI03958	LOCMI03958	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17046	LOCMI17046	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17036	LOCMI17036	Porphyrin and chlorophyll metabolism:map00860
+LOCMI17032	LOCMI17032	Porphyrin and chlorophyll metabolism:map00860
+LOCMI08345	LOCMI08345	Porphyrin and chlorophyll metabolism:map00860
+LOCMI02150	LOCMI02150	Porphyrin and chlorophyll metabolism:map00860
+LOCMI16992	LOCMI16992	Porphyrin and chlorophyll metabolism:map00860
+LOCMI12823	LOCMI12823	Purine metabolism:map00230
+LOCMI00422	LOCMI00422	Purine metabolism:map00230
+LOCMI17133	LOCMI17133	Purine metabolism:map00230
+LOCMI07686	LOCMI07686	Purine metabolism:map00230
+LOCMI06930	LOCMI06930	Purine metabolism:map00230
+LOCMI14720	LOCMI14720	Purine metabolism:map00230
+LOCMI16875	LOCMI16875	Purine metabolism:map00230
+LOCMI06409	LOCMI06409	Purine metabolism:map00230
+LOCMI15834	LOCMI15834	Purine metabolism:map00230
+LOCMI15907	LOCMI15907	Arginine and proline metabolism:map00330
+LOCMI15851	LOCMI15851	Arginine and proline metabolism:map00330
+LOCMI15912	LOCMI15912	Arginine and proline metabolism:map00330
+LOCMI05296	LOCMI05296	Arginine and proline metabolism:map00330
+LOCMI10153	LOCMI10153	Arginine and proline metabolism:map00330
+LOCMI15985	LOCMI15985	Arginine and proline metabolism:map00330
+LOCMI09621	LOCMI09621	Arginine and proline metabolism:map00330
+LOCMI14150	LOCMI14150	Arginine and proline metabolism:map00330
+LOCMI15896	LOCMI15896	Arginine and proline metabolism:map00330
+LOCMI07298	LOCMI07298	Degradation of aromatic compounds:map01220
+LOCMI16007	LOCMI16007	Degradation of aromatic compounds:map01220
+LOCMI05296	LOCMI05296	Nitrogen metabolism:map00910
+LOCMI17317	LOCMI17317	RNA degradation:map03018
+LOCMI00422	LOCMI00422	RNA degradation:map03018
+LOCMI14521	LOCMI14521	RNA degradation:map03018
+LOCMI17153	LOCMI17153	RNA degradation:map03018
+LOCMI16793	LOCMI16793	RNA degradation:map03018
+LOCMI08975	LOCMI08975	RNA degradation:map03018
+LOCMI16298	LOCMI16298	Terpenoid backbone biosynthesis:map00900
+LOCMI05762	LOCMI05762	Terpenoid backbone biosynthesis:map00900
+LOCMI06507	LOCMI06507	Terpenoid backbone biosynthesis:map00900
+LOCMI16371	LOCMI16371	Terpenoid backbone biosynthesis:map00900
+LOCMI15808	LOCMI15808	Glycerophospholipid metabolism:map00564
+LOCMI13293	LOCMI13293	Glycerophospholipid metabolism:map00564
+LOCMI05296	LOCMI05296	D-Glutamine and D-glutamate metabolism:map00471
+LOCMI14640	LOCMI14640	RNA transport:map03013
+LOCMI09094	LOCMI09094	RNA transport:map03013
+LOCMI10440	LOCMI10440	RNA transport:map03013
+LOCMI14699	LOCMI14699	RNA transport:map03013
+LOCMI07818	LOCMI07818	RNA transport:map03013
+LOCMI15940	LOCMI15940	beta-Alanine metabolism:map00410
+LOCMI16955	LOCMI16955	beta-Alanine metabolism:map00410
+LOCMI15907	LOCMI15907	beta-Alanine metabolism:map00410
+LOCMI15851	LOCMI15851	beta-Alanine metabolism:map00410
+LOCMI15912	LOCMI15912	beta-Alanine metabolism:map00410
+LOCMI15985	LOCMI15985	beta-Alanine metabolism:map00410
+LOCMI09621	LOCMI09621	beta-Alanine metabolism:map00410
+LOCMI15896	LOCMI15896	beta-Alanine metabolism:map00410
+LOCMI17045	LOCMI17045	Drug metabolism - cytochrome P450:map00982
+LOCMI17046	LOCMI17046	Drug metabolism - cytochrome P450:map00982
+LOCMI17036	LOCMI17036	Drug metabolism - cytochrome P450:map00982
+LOCMI17032	LOCMI17032	Drug metabolism - cytochrome P450:map00982
+LOCMI15701	LOCMI15701	Drug metabolism - cytochrome P450:map00982
+LOCMI15696	LOCMI15696	Drug metabolism - cytochrome P450:map00982
+LOCMI15698	LOCMI15698	Drug metabolism - cytochrome P450:map00982
+LOCMI15703	LOCMI15703	Drug metabolism - cytochrome P450:map00982
+LOCMI08143	LOCMI08143	Drug metabolism - cytochrome P450:map00982
+LOCMI16992	LOCMI16992	Drug metabolism - cytochrome P450:map00982
+LOCMI16007	LOCMI16007	Drug metabolism - cytochrome P450:map00982
+LOCMI16298	LOCMI16298	Carbon metabolism:map01200
+LOCMI15940	LOCMI15940	Carbon metabolism:map01200
+LOCMI07298	LOCMI07298	Carbon metabolism:map01200
+LOCMI16955	LOCMI16955	Carbon metabolism:map01200
+LOCMI03862	LOCMI03862	Carbon metabolism:map01200
+LOCMI16031	LOCMI16031	Carbon metabolism:map01200
+LOCMI09897	LOCMI09897	Carbon metabolism:map01200
+LOCMI15819	LOCMI15819	Carbon metabolism:map01200
+LOCMI15964	LOCMI15964	Carbon metabolism:map01200
+LOCMI16875	LOCMI16875	Carbon metabolism:map01200
+LOCMI16371	LOCMI16371	Carbon metabolism:map01200
+LOCMI16007	LOCMI16007	Carbon metabolism:map01200
+LOCMI02264	LOCMI02264	Ribosome biogenesis in eukaryotes:map03008
+LOCMI09247	LOCMI09247	Ribosome biogenesis in eukaryotes:map03008
+LOCMI08574	LOCMI08574	Ribosome biogenesis in eukaryotes:map03008
+LOCMI06717	LOCMI06717	Ribosome biogenesis in eukaryotes:map03008
+LOCMI07008	LOCMI07008	Ribosome biogenesis in eukaryotes:map03008
+LOCMI16102	LOCMI16102	Phagosome:map04145
+LOCMI05568	LOCMI05568	Phagosome:map04145
+LOCMI15816	LOCMI15816	Phagosome:map04145
+LOCMI00611	LOCMI00611	Phagosome:map04145
+LOCMI16066	LOCMI16066	Phagosome:map04145
+LOCMI15986	LOCMI15986	Phagosome:map04145
+LOCMI16049	LOCMI16049	Phagosome:map04145
+LOCMI10612	LOCMI10612	Phagosome:map04145
+LOCMI15894	LOCMI15894	Phagosome:map04145
+LOCMI15814	LOCMI15814	Galactose metabolism:map00052
+LOCMI15882	LOCMI15882	Galactose metabolism:map00052
+LOCMI11868	LOCMI11868	Galactose metabolism:map00052
+LOCMI16027	LOCMI16027	Galactose metabolism:map00052
+LOCMI09697	LOCMI09697	Galactose metabolism:map00052
+LOCMI15834	LOCMI15834	Galactose metabolism:map00052
+LOCMI13816	LOCMI13816	Galactose metabolism:map00052
+LOCMI05976	LOCMI05976	Galactose metabolism:map00052
+LOCMI03726	LOCMI03726	Galactose metabolism:map00052
+LOCMI12951	LOCMI12951	Dorso-ventral axis formation:map04320
+LOCMI07809	LOCMI07809	Inositol phosphate metabolism:map00562
+LOCMI16027	LOCMI16027	Glycosphingolipid biosynthesis - globo series:map00603
+LOCMI09283	LOCMI09283	Glycosphingolipid biosynthesis - globo series:map00603
+LOCMI14420	LOCMI14420	N-Glycan biosynthesis:map00510
+LOCMI01606	LOCMI01606	N-Glycan biosynthesis:map00510
+LOCMI16298	LOCMI16298	Synthesis and degradation of ketone bodies:map00072
+LOCMI16371	LOCMI16371	Synthesis and degradation of ketone bodies:map00072
+LOCMI09150	LOCMI09150	Endocytosis:map04144
+LOCMI10183	LOCMI10183	Endocytosis:map04144
+LOCMI16298	LOCMI16298	Tryptophan metabolism:map00380
+LOCMI15940	LOCMI15940	Tryptophan metabolism:map00380
+LOCMI16955	LOCMI16955	Tryptophan metabolism:map00380
+LOCMI15907	LOCMI15907	Tryptophan metabolism:map00380
+LOCMI15851	LOCMI15851	Tryptophan metabolism:map00380
+LOCMI15912	LOCMI15912	Tryptophan metabolism:map00380
+LOCMI15985	LOCMI15985	Tryptophan metabolism:map00380
+LOCMI15896	LOCMI15896	Tryptophan metabolism:map00380
+LOCMI16371	LOCMI16371	Tryptophan metabolism:map00380
+LOCMI04836	LOCMI04836	Ribosome:map03010
+LOCMI03823	LOCMI03823	Ribosome:map03010
+LOCMI06322	LOCMI06322	Ribosome:map03010
+LOCMI13563	LOCMI13563	Ribosome:map03010
+LOCMI07012	LOCMI07012	Ribosome:map03010
+LOCMI00680	LOCMI00680	Ribosome:map03010
+LOCMI01789	LOCMI01789	Ribosome:map03010
+LOCMI12362	LOCMI12362	Ribosome:map03010
+LOCMI08029	LOCMI08029	Ribosome:map03010
+LOCMI02563	LOCMI02563	Ribosome:map03010
+LOCMI00130	LOCMI00130	Ribosome:map03010
+LOCMI13545	LOCMI13545	Ribosome:map03010
+LOCMI05114	LOCMI05114	Ribosome:map03010
+LOCMI09269	LOCMI09269	Ribosome:map03010
+LOCMI06257	LOCMI06257	Ribosome:map03010
+LOCMI08528	LOCMI08528	Ribosome:map03010
+LOCMI10150	LOCMI10150	Basal transcription factors:map03022
+LOCMI01394	LOCMI01394	Basal transcription factors:map03022
+LOCMI09247	LOCMI09247	Basal transcription factors:map03022
+LOCMI06735	LOCMI06735	Base excision repair:map03410
+LOCMI15808	LOCMI15808	Glycerolipid metabolism:map00561
+LOCMI15907	LOCMI15907	Glycerolipid metabolism:map00561
+LOCMI15851	LOCMI15851	Glycerolipid metabolism:map00561
+LOCMI15814	LOCMI15814	Glycerolipid metabolism:map00561
+LOCMI15882	LOCMI15882	Glycerolipid metabolism:map00561
+LOCMI15912	LOCMI15912	Glycerolipid metabolism:map00561
+LOCMI15985	LOCMI15985	Glycerolipid metabolism:map00561
+LOCMI16027	LOCMI16027	Glycerolipid metabolism:map00561
+LOCMI15896	LOCMI15896	Glycerolipid metabolism:map00561
+LOCMI15948	LOCMI15948	Glycerolipid metabolism:map00561
+LOCMI16298	LOCMI16298	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI15259	LOCMI15259	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI14150	LOCMI14150	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI16371	LOCMI16371	Glyoxylate and dicarboxylate metabolism:map00630
+LOCMI09283	LOCMI09283	Glycosphingolipid biosynthesis - ganglio series:map00604
+LOCMI16298	LOCMI16298	Propanoate metabolism:map00640
+LOCMI15940	LOCMI15940	Propanoate metabolism:map00640
+LOCMI16955	LOCMI16955	Propanoate metabolism:map00640
+LOCMI15907	LOCMI15907	Propanoate metabolism:map00640
+LOCMI15851	LOCMI15851	Propanoate metabolism:map00640
+LOCMI15912	LOCMI15912	Propanoate metabolism:map00640
+LOCMI15964	LOCMI15964	Propanoate metabolism:map00640
+LOCMI15985	LOCMI15985	Propanoate metabolism:map00640
+LOCMI15896	LOCMI15896	Propanoate metabolism:map00640
+LOCMI16371	LOCMI16371	Propanoate metabolism:map00640
+LOCMI06930	LOCMI06930	RNA polymerase:map03020
+LOCMI06409	LOCMI06409	RNA polymerase:map03020
+LOCMI07298	LOCMI07298	Pentose phosphate pathway:map00030
+LOCMI16031	LOCMI16031	Pentose phosphate pathway:map00030
+LOCMI16033	LOCMI16033	Pentose phosphate pathway:map00030
+LOCMI15834	LOCMI15834	Pentose phosphate pathway:map00030
+LOCMI00788	LOCMI00788	Proteasome:map03050
+LOCMI06429	LOCMI06429	Aminoacyl-tRNA biosynthesis:map00970
+LOCMI04776	LOCMI04776	Cysteine and methionine metabolism:map00270
+LOCMI00230	LOCMI00230	Protein processing in endoplasmic reticulum:map04141
+LOCMI14640	LOCMI14640	Protein processing in endoplasmic reticulum:map04141
+LOCMI13620	LOCMI13620	Protein processing in endoplasmic reticulum:map04141
+LOCMI13438	LOCMI13438	Protein processing in endoplasmic reticulum:map04141
+LOCMI04416	LOCMI04416	Protein processing in endoplasmic reticulum:map04141
+LOCMI11660	LOCMI11660	Protein processing in endoplasmic reticulum:map04141
+LOCMI15492	LOCMI15492	Protein processing in endoplasmic reticulum:map04141
+LOCMI15491	LOCMI15491	Protein processing in endoplasmic reticulum:map04141
+LOCMI14147	LOCMI14147	Protein processing in endoplasmic reticulum:map04141
+LOCMI00611	LOCMI00611	Protein processing in endoplasmic reticulum:map04141
+LOCMI05827	LOCMI05827	Protein processing in endoplasmic reticulum:map04141
+LOCMI01517	LOCMI01517	Protein processing in endoplasmic reticulum:map04141
+LOCMI09249	LOCMI09249	Protein processing in endoplasmic reticulum:map04141
+LOCMI13553	LOCMI13553	Protein processing in endoplasmic reticulum:map04141
+LOCMI07828	LOCMI07828	Protein processing in endoplasmic reticulum:map04141
+LOCMI10612	LOCMI10612	Protein processing in endoplasmic reticulum:map04141
+LOCMI12559	LOCMI12559	Protein processing in endoplasmic reticulum:map04141
+LOCMI14699	LOCMI14699	Protein processing in endoplasmic reticulum:map04141
+LOCMI11950	LOCMI11950	Protein processing in endoplasmic reticulum:map04141
+LOCMI14420	LOCMI14420	Protein processing in endoplasmic reticulum:map04141
+LOCMI11763	LOCMI11763	Protein processing in endoplasmic reticulum:map04141
+LOCMI01606	LOCMI01606	Protein processing in endoplasmic reticulum:map04141
+LOCMI08493	LOCMI08493	Protein processing in endoplasmic reticulum:map04141
+LOCMI04484	LOCMI04484	Lipoic acid metabolism:map00785
+LOCMI15907	LOCMI15907	Pentose and glucuronate interconversions:map00040
+LOCMI17045	LOCMI17045	Pentose and glucuronate interconversions:map00040
+LOCMI15851	LOCMI15851	Pentose and glucuronate interconversions:map00040
+LOCMI03958	LOCMI03958	Pentose and glucuronate interconversions:map00040
+LOCMI17046	LOCMI17046	Pentose and glucuronate interconversions:map00040
+LOCMI17036	LOCMI17036	Pentose and glucuronate interconversions:map00040
+LOCMI17032	LOCMI17032	Pentose and glucuronate interconversions:map00040
+LOCMI15814	LOCMI15814	Pentose and glucuronate interconversions:map00040
+LOCMI13812	LOCMI13812	Pentose and glucuronate interconversions:map00040
+LOCMI15882	LOCMI15882	Pentose and glucuronate interconversions:map00040
+LOCMI15985	LOCMI15985	Pentose and glucuronate interconversions:map00040
+LOCMI13396	LOCMI13396	Pentose and glucuronate interconversions:map00040
+LOCMI15896	LOCMI15896	Pentose and glucuronate interconversions:map00040
+LOCMI16992	LOCMI16992	Pentose and glucuronate interconversions:map00040
+LOCMI16298	LOCMI16298	Lysine degradation:map00310
+LOCMI15940	LOCMI15940	Lysine degradation:map00310
+LOCMI16955	LOCMI16955	Lysine degradation:map00310
+LOCMI15907	LOCMI15907	Lysine degradation:map00310
+LOCMI15851	LOCMI15851	Lysine degradation:map00310
+LOCMI15912	LOCMI15912	Lysine degradation:map00310
+LOCMI15985	LOCMI15985	Lysine degradation:map00310
+LOCMI05702	LOCMI05702	Lysine degradation:map00310
+LOCMI05700	LOCMI05700	Lysine degradation:map00310
+LOCMI15896	LOCMI15896	Lysine degradation:map00310
+LOCMI16371	LOCMI16371	Lysine degradation:map00310
+LOCMI17173	LOCMI17173	Lysosome:map04142
+LOCMI07478	LOCMI07478	Lysosome:map04142
+LOCMI10636	LOCMI10636	Lysosome:map04142
+LOCMI03958	LOCMI03958	Lysosome:map04142
+LOCMI05942	LOCMI05942	Lysosome:map04142
+LOCMI15816	LOCMI15816	Lysosome:map04142
+LOCMI16066	LOCMI16066	Lysosome:map04142
+LOCMI03103	LOCMI03103	Lysosome:map04142
+LOCMI16027	LOCMI16027	Lysosome:map04142
+LOCMI16049	LOCMI16049	Lysosome:map04142
+LOCMI09283	LOCMI09283	Lysosome:map04142
+LOCMI04276	LOCMI04276	Lysosome:map04142
+LOCMI04477	LOCMI04477	Lysosome:map04142
+LOCMI15933	LOCMI15933	Lysosome:map04142
+LOCMI01253	LOCMI01253	Lysosome:map04142
+LOCMI15035	LOCMI15035	Neuroactive ligand-receptor interaction:map04080
+LOCMI15127	LOCMI15127	Neuroactive ligand-receptor interaction:map04080
+LOCMI15853	LOCMI15853	Peroxisome:map04146
+LOCMI15819	LOCMI15819	Peroxisome:map04146
+LOCMI15809	LOCMI15809	Peroxisome:map04146
+LOCMI15961	LOCMI15961	Peroxisome:map04146
+LOCMI09120	LOCMI09120	Peroxisome:map04146
+LOCMI13554	LOCMI13554	Peroxisome:map04146
+LOCMI04868	LOCMI04868	Peroxisome:map04146
+LOCMI07568	LOCMI07568	Peroxisome:map04146
+LOCMI09038	LOCMI09038	Peroxisome:map04146
+LOCMI17045	LOCMI17045	Drug metabolism - other enzymes:map00983
+LOCMI03958	LOCMI03958	Drug metabolism - other enzymes:map00983
+LOCMI17046	LOCMI17046	Drug metabolism - other enzymes:map00983
+LOCMI17036	LOCMI17036	Drug metabolism - other enzymes:map00983
+LOCMI17032	LOCMI17032	Drug metabolism - other enzymes:map00983
+LOCMI15586	LOCMI15586	Drug metabolism - other enzymes:map00983
+LOCMI15639	LOCMI15639	Drug metabolism - other enzymes:map00983
+LOCMI16992	LOCMI16992	Drug metabolism - other enzymes:map00983
+LOCMI13010	LOCMI13010	Drug metabolism - other enzymes:map00983
+LOCMI08740	LOCMI08740	Drug metabolism - other enzymes:map00983
+LOCMI17045	LOCMI17045	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17046	LOCMI17046	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17036	LOCMI17036	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17032	LOCMI17032	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15701	LOCMI15701	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15696	LOCMI15696	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15698	LOCMI15698	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15703	LOCMI15703	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI08143	LOCMI08143	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16992	LOCMI16992	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI16007	LOCMI16007	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI17120	LOCMI17120	Insect hormone biosynthesis:map00981
+LOCMI15492	LOCMI15492	Protein export:map03060
+LOCMI10612	LOCMI10612	Protein export:map03060
+LOCMI00915	LOCMI00915	Protein export:map03060
+LOCMI16298	LOCMI16298	Butanoate metabolism:map00650
+LOCMI15940	LOCMI15940	Butanoate metabolism:map00650
+LOCMI16955	LOCMI16955	Butanoate metabolism:map00650
+LOCMI16371	LOCMI16371	Butanoate metabolism:map00650
+LOCMI16200	LOCMI16200	Steroid biosynthesis:map00100
+LOCMI00700	LOCMI00700	Steroid biosynthesis:map00100
+LOCMI17045	LOCMI17045	Retinol metabolism:map00830
+LOCMI17046	LOCMI17046	Retinol metabolism:map00830
+LOCMI17036	LOCMI17036	Retinol metabolism:map00830
+LOCMI17032	LOCMI17032	Retinol metabolism:map00830
+LOCMI16992	LOCMI16992	Retinol metabolism:map00830
+LOCMI07568	LOCMI07568	Retinol metabolism:map00830
+LOCMI16007	LOCMI16007	Retinol metabolism:map00830
+LOCMI03087	LOCMI03087	Phenylalanine metabolism:map00360
+LOCMI16298	LOCMI16298	Fatty acid metabolism:map01212
+LOCMI15940	LOCMI15940	Fatty acid metabolism:map01212
+LOCMI16955	LOCMI16955	Fatty acid metabolism:map01212
+LOCMI15853	LOCMI15853	Fatty acid metabolism:map01212
+LOCMI15923	LOCMI15923	Fatty acid metabolism:map01212
+LOCMI15809	LOCMI15809	Fatty acid metabolism:map01212
+LOCMI15961	LOCMI15961	Fatty acid metabolism:map01212
+LOCMI15872	LOCMI15872	Fatty acid metabolism:map01212
+LOCMI16371	LOCMI16371	Fatty acid metabolism:map01212
+LOCMI16046	LOCMI16046	Fatty acid metabolism:map01212
+LOCMI16031	LOCMI16031	Biosynthesis of amino acids:map01230
+LOCMI09897	LOCMI09897	Biosynthesis of amino acids:map01230
+LOCMI15819	LOCMI15819	Biosynthesis of amino acids:map01230
+LOCMI15912	LOCMI15912	Biosynthesis of amino acids:map01230
+LOCMI10153	LOCMI10153	Biosynthesis of amino acids:map01230
+LOCMI04776	LOCMI04776	Biosynthesis of amino acids:map01230
+LOCMI16875	LOCMI16875	Biosynthesis of amino acids:map01230
+LOCMI07298	LOCMI07298	Ascorbate and aldarate metabolism:map00053
+LOCMI15907	LOCMI15907	Ascorbate and aldarate metabolism:map00053
+LOCMI17045	LOCMI17045	Ascorbate and aldarate metabolism:map00053
+LOCMI15851	LOCMI15851	Ascorbate and aldarate metabolism:map00053
+LOCMI17046	LOCMI17046	Ascorbate and aldarate metabolism:map00053
+LOCMI17036	LOCMI17036	Ascorbate and aldarate metabolism:map00053
+LOCMI17032	LOCMI17032	Ascorbate and aldarate metabolism:map00053
+LOCMI15912	LOCMI15912	Ascorbate and aldarate metabolism:map00053
+LOCMI15985	LOCMI15985	Ascorbate and aldarate metabolism:map00053
+LOCMI15896	LOCMI15896	Ascorbate and aldarate metabolism:map00053
+LOCMI16992	LOCMI16992	Ascorbate and aldarate metabolism:map00053
+LOCMI15819	LOCMI15819	Citrate cycle (TCA cycle):map00020
+LOCMI15964	LOCMI15964	Citrate cycle (TCA cycle):map00020
+LOCMI15819	LOCMI15819	2-Oxocarboxylic acid metabolism:map01210
+LOCMI10153	LOCMI10153	2-Oxocarboxylic acid metabolism:map01210
+LOCMI07360	LOCMI07360	Sulfur relay system:map04122
+LOCMI07184	LOCMI07184	Wnt signaling pathway:map04310
+LOCMI13620	LOCMI13620	Wnt signaling pathway:map04310
+LOCMI14147	LOCMI14147	Wnt signaling pathway:map04310
+LOCMI13915	LOCMI13915	Wnt signaling pathway:map04310

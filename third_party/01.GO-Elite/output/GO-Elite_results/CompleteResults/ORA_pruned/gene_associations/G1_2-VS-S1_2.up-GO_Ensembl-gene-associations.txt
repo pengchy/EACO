@@ -1,0 +1,28 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI11184	LOCMI11184	peritrophic matrix protein 14 precursor	LOCMI11184	GO:0005975	carbohydrate metabolic process
+LOCMI11717	LOCMI11717	Q17H61_AEDAE Putative uncharacterized protein	LOCMI11717	GO:0005975	carbohydrate metabolic process
+LOCMI08867	LOCMI08867	mucin-like protein 1	LOCMI08867	GO:0005975	carbohydrate metabolic process
+LOCMI12795	LOCMI12795	B4NMT3_DROWI GK23202	LOCMI12795	GO:0005975	carbohydrate metabolic process
+LOCMI08869	LOCMI08869	AGAP004851-PA	LOCMI08869	GO:0005975	carbohydrate metabolic process
+LOCMI13444	LOCMI13444	PREDICTED: inositol oxygenase-like	LOCMI13444	GO:0005975	carbohydrate metabolic process
+LOCMI13463	LOCMI13463	B0X3R5_CULQU Putative uncharacterized protein	LOCMI13463	GO:0005975	carbohydrate metabolic process
+LOCMI05488	LOCMI05488	Peptidoglycan-recognition protein-LB	LOCMI05488	GO:0005975	carbohydrate metabolic process
+LOCMI05531	LOCMI05531	PREDICTED: chitotriosidase-1-like	LOCMI05531	GO:0005975	carbohydrate metabolic process
+LOCMI04906	LOCMI04906	PREDICTED: maltase 1-like	LOCMI04906	GO:0005975	carbohydrate metabolic process
+LOCMI13445	LOCMI13445	myo-inositol oxygenase	LOCMI13445	GO:0005975	carbohydrate metabolic process
+LOCMI04846	LOCMI04846	peritrophic matrix protein 14 precursor	LOCMI04846	GO:0005975	carbohydrate metabolic process
+LOCMI04845	LOCMI04845	peritrophic matrix protein 9 precursor	LOCMI04845	GO:0005975	carbohydrate metabolic process
+LOCMI03132	LOCMI03132	cathepsin C	LOCMI03132	GO:0008234	cysteine-type peptidase activity
+LOCMI08259	LOCMI08259	cathepsin C	LOCMI08259	GO:0008234	cysteine-type peptidase activity
+LOCMI04479	LOCMI04479	dipeptidyl peptidase 1 precursor	LOCMI04479	GO:0008234	cysteine-type peptidase activity
+LOCMI15346	LOCMI15346	TPA: putative cuticle protein	LOCMI15346	GO:0005198	structural molecule activity
+LOCMI16781	LOCMI16781	adult cuticle protein, putative	LOCMI16781	GO:0005198	structural molecule activity
+LOCMI16847	LOCMI16847	cuticular protein RR-1 family member 53 precursor	LOCMI16847	GO:0005198	structural molecule activity
+LOCMI16610	LOCMI16610	Q7QIK6_ANOGA Cuticular protein 111, RR-3 family (AGAP006931-PA)	LOCMI16610	GO:0005198	structural molecule activity
+LOCMI16602	LOCMI16602	cuticle protein	LOCMI16602	GO:0005198	structural molecule activity
+LOCMI05383	LOCMI05383	pupal cuticle protein	LOCMI05383	GO:0005198	structural molecule activity
+LOCMI16632	LOCMI16632	D6WIZ6_TRICA Putative uncharacterized protein	LOCMI16632	GO:0005198	structural molecule activity
+LOCMI16739	LOCMI16739	endocuticle structural glycoprotein SgAbd-8	LOCMI16739	GO:0005198	structural molecule activity
+LOCMI16622	LOCMI16622	Q17CD7_AEDAE Putative uncharacterized protein	LOCMI16622	GO:0005198	structural molecule activity
+LOCMI17132	LOCMI17132	Q7PM44_ANOGA Cuticular protein 78, RR-1 family (AGAP009876-PA)	LOCMI17132	GO:0005198	structural molecule activity
+LOCMI17141	LOCMI17141	Q2LZE6_DROPS GA10226	LOCMI17141	GO:0005198	structural molecule activity

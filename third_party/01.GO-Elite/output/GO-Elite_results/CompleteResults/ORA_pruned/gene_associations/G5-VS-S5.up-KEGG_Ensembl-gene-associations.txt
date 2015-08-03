@@ -1,0 +1,12 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI15755	LOCMI15755	PREDICTED: protein enhancer of sevenless 2B-like	LOCMI15755	MAPK signaling pathway - fly:map04013	MAPK signaling pathway - fly:map04013
+LOCMI15746	LOCMI15746	tyrosine-protein phosphatase corkscrew, putative	LOCMI15746	MAPK signaling pathway - fly:map04013	MAPK signaling pathway - fly:map04013
+LOCMI15745	LOCMI15745	D2A2D2_TRICA Putative uncharacterized protein GLEAN_07831	LOCMI15745	MAPK signaling pathway - fly:map04013	MAPK signaling pathway - fly:map04013
+LOCMI16321	LOCMI16321	beta-actin	LOCMI16321	Phototransduction - fly:map04745	Phototransduction - fly:map04745
+LOCMI14740	LOCMI14740	PREDICTED: similar to calmodulin-binding protein trpl	LOCMI14740	Phototransduction - fly:map04745	Phototransduction - fly:map04745
+LOCMI01353	LOCMI01353	beta-actin	LOCMI01353	Phototransduction - fly:map04745	Phototransduction - fly:map04745
+LOCMI03316	LOCMI03316	Collagen alpha-1(I) chain	LOCMI03316	ECM-receptor interaction:map04512	ECM-receptor interaction:map04512
+LOCMI08289	LOCMI08289	PREDICTED: collagen alpha-1(IV) chain-like isoform 1	LOCMI08289	ECM-receptor interaction:map04512	ECM-receptor interaction:map04512
+LOCMI12038	LOCMI12038	Collagen alpha-1(V) chain	LOCMI12038	ECM-receptor interaction:map04512	ECM-receptor interaction:map04512
+LOCMI04186	LOCMI04186	PREDICTED: collagen alpha-1(IV) chain-like	LOCMI04186	ECM-receptor interaction:map04512	ECM-receptor interaction:map04512
+LOCMI10699	LOCMI10699	Sialidase	LOCMI10699	ECM-receptor interaction:map04512	ECM-receptor interaction:map04512

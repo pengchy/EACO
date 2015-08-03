@@ -1,0 +1,8 @@
+
+#test the influence of maxG cutoff on distinct gene number
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/bin/maxG_and_DistinctGeneNum.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep/gSets.gmt --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/
+
+cat /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.gNum.tb |awk '$2>=5 && $2<=2000' |cut -f1 |join -t $'\t' <(sort -) <(sort /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep/gSets.gmt) > /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt
+
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/bin/filt_gsets_based_on_kappa.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt --mt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt.kappa.mt --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/ --kap /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt.kappa.tb
+

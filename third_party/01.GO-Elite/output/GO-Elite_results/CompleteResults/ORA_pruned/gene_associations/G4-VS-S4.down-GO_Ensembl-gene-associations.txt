@@ -1,0 +1,162 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI16491	LOCMI16491	HR3 isoform B2	LOCMI16491	GO:0043565	sequence-specific DNA binding
+LOCMI16672	LOCMI16672	B0XBT4_CULQU Putative uncharacterized protein	LOCMI16672	GO:0043565	sequence-specific DNA binding
+LOCMI15745	LOCMI15745	D2A2D2_TRICA Putative uncharacterized protein GLEAN_07831	LOCMI15745	GO:0043565	sequence-specific DNA binding
+LOCMI16518	LOCMI16518	Ecdysone-inducible protein E75	LOCMI16518	GO:0043565	sequence-specific DNA binding
+LOCMI03329	LOCMI03329	B3MXJ9_DROAN GF19436	LOCMI03329	GO:0050660	flavin adenine dinucleotide binding
+LOCMI12984	LOCMI12984	B3NUX9_DROER GG19440	LOCMI12984	GO:0050660	flavin adenine dinucleotide binding
+LOCMI03770	LOCMI03770	B3P2V7_DROER Glucose dehydrogenase	LOCMI03770	GO:0050660	flavin adenine dinucleotide binding
+LOCMI02405	LOCMI02405	PREDICTED: glucose dehydrogenase	LOCMI02405	GO:0050660	flavin adenine dinucleotide binding
+LOCMI16435	LOCMI16435	RecName: Full=Peptidoglycan-recognition protein 2; AltName: Full=Hd-PGRP-2; Flags: Precursor dbj|BAD08317.1| peptidoglycan recognition protein-2	LOCMI16435	GO:0005975	carbohydrate metabolic process
+LOCMI11717	LOCMI11717	Q17H61_AEDAE Putative uncharacterized protein	LOCMI11717	GO:0005975	carbohydrate metabolic process
+LOCMI03206	LOCMI03206	B3LWT2_DROAN GF16888	LOCMI03206	GO:0005975	carbohydrate metabolic process
+LOCMI03536	LOCMI03536	B3N5F1_DROER GG23643	LOCMI03536	GO:0005975	carbohydrate metabolic process
+LOCMI17185	LOCMI17185	PREDICTED: chitinase-like protein Idgf4-like	LOCMI17185	GO:0005975	carbohydrate metabolic process
+LOCMI03066	LOCMI03066	B0WKF5_CULQU Putative uncharacterized protein	LOCMI03066	GO:0005975	carbohydrate metabolic process
+LOCMI12816	LOCMI12816	Heparan sulfate 2-O-sulfotransferase pipe, putative	LOCMI12816	GO:0005975	carbohydrate metabolic process
+LOCMI10699	LOCMI10699	Sialidase	LOCMI10699	GO:0005975	carbohydrate metabolic process
+LOCMI08032	LOCMI08032	B7P850_IXOSC Putative uncharacterized protein	LOCMI08032	GO:0005975	carbohydrate metabolic process
+LOCMI16689	LOCMI16689	chitinase	LOCMI16689	GO:0005975	carbohydrate metabolic process
+LOCMI15490	LOCMI15490	soluble trehalase	LOCMI15490	GO:0005975	carbohydrate metabolic process
+LOCMI15975	LOCMI15975	PREDICTED: predicted protein-like	LOCMI15975	GO:0005975	carbohydrate metabolic process
+LOCMI17048	LOCMI17048	chitinase 5 precursor	LOCMI17048	GO:0005975	carbohydrate metabolic process
+LOCMI17170	LOCMI17170	PREDICTED: chitinase-like protein Idgf4-like	LOCMI17170	GO:0005975	carbohydrate metabolic process
+LOCMI01594	LOCMI01594	GJ10054	LOCMI01594	GO:0005975	carbohydrate metabolic process
+LOCMI05942	LOCMI05942	PREDICTED: similar to lysosomal alpha-mannosidase (mannosidase alpha class 2b member 1)	LOCMI05942	GO:0005975	carbohydrate metabolic process
+LOCMI15467	LOCMI15467	PREDICTED: chitooligosaccharidolytic beta-N-acetylglucosaminidase-like	LOCMI15467	GO:0005975	carbohydrate metabolic process
+LOCMI02015	LOCMI02015	PREDICTED: chitinase-like protein Idgf4-like	LOCMI02015	GO:0005975	carbohydrate metabolic process
+LOCMI13600	LOCMI13600	Q0Z939_TRICA Chitinase 10	LOCMI13600	GO:0005975	carbohydrate metabolic process
+LOCMI17331	LOCMI17331	Q0Z942_TRICA Chitinase 7	LOCMI17331	GO:0005975	carbohydrate metabolic process
+LOCMI17127	LOCMI17127	PREDICTED: chitinase-like protein Idgf4-like isoform 1	LOCMI17127	GO:0005975	carbohydrate metabolic process
+LOCMI06775	LOCMI06775	beta-1,4-endoglucanase	LOCMI06775	GO:0005975	carbohydrate metabolic process
+LOCMI16272	LOCMI16272	E9G105_DAPPU Putative uncharacterized protein	LOCMI16272	GO:0046906	tetrapyrrole binding
+LOCMI16257	LOCMI16257	D6WCM3_TRICA Putative uncharacterized protein	LOCMI16257	GO:0046906	tetrapyrrole binding
+LOCMI16264	LOCMI16264	PREDICTED: peroxidase-like isoform 1	LOCMI16264	GO:0046906	tetrapyrrole binding
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	LOCMI10884	GO:0046906	tetrapyrrole binding
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	LOCMI16195	GO:0046906	tetrapyrrole binding
+LOCMI16136	LOCMI16136	Cytochrome P450 4g15	LOCMI16136	GO:0046906	tetrapyrrole binding
+LOCMI16206	LOCMI16206	PREDICTED: similar to AGAP001039-PA	LOCMI16206	GO:0046906	tetrapyrrole binding
+LOCMI16234	LOCMI16234	PREDICTED: cytochrome P450 315a1, mitochondrial isoform 2	LOCMI16234	GO:0046906	tetrapyrrole binding
+LOCMI16221	LOCMI16221	GG20554	LOCMI16221	GO:0046906	tetrapyrrole binding
+LOCMI16230	LOCMI16230	PREDICTED: similar to AGAP001039-PA	LOCMI16230	GO:0046906	tetrapyrrole binding
+LOCMI16415	LOCMI16415	serine protease P43	LOCMI16415	GO:0017171	serine hydrolase activity
+LOCMI13914	LOCMI13914	venom serine carboxypeptidase	LOCMI13914	GO:0017171	serine hydrolase activity
+LOCMI13335	LOCMI13335	trypsin	LOCMI13335	GO:0017171	serine hydrolase activity
+LOCMI16349	LOCMI16349	PREDICTED: similar to trypsin-like serine protease	LOCMI16349	GO:0017171	serine hydrolase activity
+LOCMI03037	LOCMI03037	PREDICTED: atrial natriuretic peptide-converting enzyme-like	LOCMI03037	GO:0017171	serine hydrolase activity
+LOCMI16469	LOCMI16469	trypsin-like serine protease	LOCMI16469	GO:0017171	serine hydrolase activity
+LOCMI17170	LOCMI17170	PREDICTED: chitinase-like protein Idgf4-like	LOCMI17170	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI17185	LOCMI17185	PREDICTED: chitinase-like protein Idgf4-like	LOCMI17185	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI16689	LOCMI16689	chitinase	LOCMI16689	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI02015	LOCMI02015	PREDICTED: chitinase-like protein Idgf4-like	LOCMI02015	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI03536	LOCMI03536	B3N5F1_DROER GG23643	LOCMI03536	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI05942	LOCMI05942	PREDICTED: similar to lysosomal alpha-mannosidase (mannosidase alpha class 2b member 1)	LOCMI05942	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI15490	LOCMI15490	soluble trehalase	LOCMI15490	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI13600	LOCMI13600	Q0Z939_TRICA Chitinase 10	LOCMI13600	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI15467	LOCMI15467	PREDICTED: chitooligosaccharidolytic beta-N-acetylglucosaminidase-like	LOCMI15467	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI17331	LOCMI17331	Q0Z942_TRICA Chitinase 7	LOCMI17331	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI17127	LOCMI17127	PREDICTED: chitinase-like protein Idgf4-like isoform 1	LOCMI17127	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI17048	LOCMI17048	chitinase 5 precursor	LOCMI17048	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI06775	LOCMI06775	beta-1,4-endoglucanase	LOCMI06775	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI15345	LOCMI15345	Q16XV3_AEDAE Cuticle protein, putative	LOCMI15345	GO:0005198	structural molecule activity
+LOCMI08908	LOCMI08908	Tubulin alpha chain	LOCMI08908	GO:0005198	structural molecule activity
+LOCMI16604	LOCMI16604	B4H6H2_DROPE GL15514	LOCMI16604	GO:0005198	structural molecule activity
+LOCMI11351	LOCMI11351	C0H6I4_BOMMO Putative cuticle protein	LOCMI11351	GO:0005198	structural molecule activity
+LOCMI16606	LOCMI16606	cuticle protein, putative	LOCMI16606	GO:0005198	structural molecule activity
+LOCMI01688	LOCMI01688	cuticular protein RR-1 motif 57	LOCMI01688	GO:0005198	structural molecule activity
+LOCMI03595	LOCMI03595	PREDICTED: similar to AGAP005368-PA	LOCMI03595	GO:0005198	structural molecule activity
+LOCMI16600	LOCMI16600	RecName: Full=Cuticle protein 19; AltName: Full=LM-ACP 19; Short=LM-19 gb|AAB34514.1| Lm-ACP19=wing cuticle protein	LOCMI16600	GO:0005198	structural molecule activity
+LOCMI05383	LOCMI05383	pupal cuticle protein	LOCMI05383	GO:0005198	structural molecule activity
+LOCMI07097	LOCMI07097	A8XAF1_CAEBR CBR-EMB-9 protein	LOCMI07097	GO:0005198	structural molecule activity
+LOCMI05479	LOCMI05479	cuticular protein CPR67A	LOCMI05479	GO:0005198	structural molecule activity
+LOCMI16630	LOCMI16630	putative cuticle protein CPR151	LOCMI16630	GO:0005198	structural molecule activity
+LOCMI15344	LOCMI15344	B4N5V1_DROWI GK17855	LOCMI15344	GO:0005198	structural molecule activity
+LOCMI16598	LOCMI16598	cuticle protein	LOCMI16598	GO:0005198	structural molecule activity
+LOCMI03473	LOCMI03473	zinc carboxypeptidase	LOCMI03473	GO:0008237	metallopeptidase activity
+LOCMI11712	LOCMI11712	Aminopeptidase N precursor, putative	LOCMI11712	GO:0008237	metallopeptidase activity
+LOCMI08511	LOCMI08511	PREDICTED: similar to neutral endopeptidase 24.11 isoform 2	LOCMI08511	GO:0008237	metallopeptidase activity
+LOCMI06732	LOCMI06732	matrix metalloproteinase 1 isoform 1	LOCMI06732	GO:0008237	metallopeptidase activity
+LOCMI03332	LOCMI03332	angiotensin converting enzyme	LOCMI03332	GO:0008237	metallopeptidase activity
+LOCMI07827	LOCMI07827	aminopeptidase N-like protein	LOCMI07827	GO:0008237	metallopeptidase activity
+LOCMI03473	LOCMI03473	zinc carboxypeptidase	LOCMI03473	GO:0006508	proteolysis
+LOCMI11712	LOCMI11712	Aminopeptidase N precursor, putative	LOCMI11712	GO:0006508	proteolysis
+LOCMI16415	LOCMI16415	serine protease P43	LOCMI16415	GO:0006508	proteolysis
+LOCMI13914	LOCMI13914	venom serine carboxypeptidase	LOCMI13914	GO:0006508	proteolysis
+LOCMI13335	LOCMI13335	trypsin	LOCMI13335	GO:0006508	proteolysis
+LOCMI16349	LOCMI16349	PREDICTED: similar to trypsin-like serine protease	LOCMI16349	GO:0006508	proteolysis
+LOCMI08511	LOCMI08511	PREDICTED: similar to neutral endopeptidase 24.11 isoform 2	LOCMI08511	GO:0006508	proteolysis
+LOCMI06732	LOCMI06732	matrix metalloproteinase 1 isoform 1	LOCMI06732	GO:0006508	proteolysis
+LOCMI03332	LOCMI03332	angiotensin converting enzyme	LOCMI03332	GO:0006508	proteolysis
+LOCMI07827	LOCMI07827	aminopeptidase N-like protein	LOCMI07827	GO:0006508	proteolysis
+LOCMI03037	LOCMI03037	PREDICTED: atrial natriuretic peptide-converting enzyme-like	LOCMI03037	GO:0006508	proteolysis
+LOCMI16469	LOCMI16469	trypsin-like serine protease	LOCMI16469	GO:0006508	proteolysis
+LOCMI16272	LOCMI16272	E9G105_DAPPU Putative uncharacterized protein	LOCMI16272	GO:0005506	iron ion binding
+LOCMI16257	LOCMI16257	D6WCM3_TRICA Putative uncharacterized protein	LOCMI16257	GO:0005506	iron ion binding
+LOCMI16264	LOCMI16264	PREDICTED: peroxidase-like isoform 1	LOCMI16264	GO:0005506	iron ion binding
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	LOCMI10884	GO:0005506	iron ion binding
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	LOCMI16195	GO:0005506	iron ion binding
+LOCMI16136	LOCMI16136	Cytochrome P450 4g15	LOCMI16136	GO:0005506	iron ion binding
+LOCMI16206	LOCMI16206	PREDICTED: similar to AGAP001039-PA	LOCMI16206	GO:0005506	iron ion binding
+LOCMI05620	LOCMI05620	transferrin	LOCMI05620	GO:0005506	iron ion binding
+LOCMI16234	LOCMI16234	PREDICTED: cytochrome P450 315a1, mitochondrial isoform 2	LOCMI16234	GO:0005506	iron ion binding
+LOCMI16221	LOCMI16221	GG20554	LOCMI16221	GO:0005506	iron ion binding
+LOCMI16230	LOCMI16230	PREDICTED: similar to AGAP001039-PA	LOCMI16230	GO:0005506	iron ion binding
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	LOCMI16195	GO:0009055	electron carrier activity
+LOCMI16136	LOCMI16136	Cytochrome P450 4g15	LOCMI16136	GO:0009055	electron carrier activity
+LOCMI16206	LOCMI16206	PREDICTED: similar to AGAP001039-PA	LOCMI16206	GO:0009055	electron carrier activity
+LOCMI16234	LOCMI16234	PREDICTED: cytochrome P450 315a1, mitochondrial isoform 2	LOCMI16234	GO:0009055	electron carrier activity
+LOCMI16221	LOCMI16221	GG20554	LOCMI16221	GO:0009055	electron carrier activity
+LOCMI16230	LOCMI16230	PREDICTED: similar to AGAP001039-PA	LOCMI16230	GO:0009055	electron carrier activity
+LOCMI16272	LOCMI16272	E9G105_DAPPU Putative uncharacterized protein	LOCMI16272	GO:0055114	oxidation-reduction process
+LOCMI16257	LOCMI16257	D6WCM3_TRICA Putative uncharacterized protein	LOCMI16257	GO:0055114	oxidation-reduction process
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	LOCMI10884	GO:0055114	oxidation-reduction process
+LOCMI11739	LOCMI11739	B0V308_DANRE Novel protein (Zgc:77479) (Fragment)	LOCMI11739	GO:0055114	oxidation-reduction process
+LOCMI16296	LOCMI16296	D2A5K3_TRICA Putative uncharacterized protein GLEAN_15554	LOCMI16296	GO:0055114	oxidation-reduction process
+LOCMI09721	LOCMI09721	B0XBQ7_CULQU FixR	LOCMI09721	GO:0055114	oxidation-reduction process
+LOCMI03021	LOCMI03021	Q17D83_AEDAE Putative uncharacterized protein	LOCMI03021	GO:0055114	oxidation-reduction process
+LOCMI13963	LOCMI13963	Laccase2	LOCMI13963	GO:0055114	oxidation-reduction process
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	LOCMI16195	GO:0055114	oxidation-reduction process
+LOCMI16206	LOCMI16206	PREDICTED: similar to AGAP001039-PA	LOCMI16206	GO:0055114	oxidation-reduction process
+LOCMI09783	LOCMI09783	PREDICTED: putative fatty acyl-CoA reductase CG5065-like	LOCMI09783	GO:0055114	oxidation-reduction process
+LOCMI07174	LOCMI07174	Putative fatty acyl-CoA reductase	LOCMI07174	GO:0055114	oxidation-reduction process
+LOCMI03436	LOCMI03436	tyrosine 3-monooxygenase, putative	LOCMI03436	GO:0055114	oxidation-reduction process
+LOCMI15776	LOCMI15776	stearoyl-coa desaturase-like	LOCMI15776	GO:0055114	oxidation-reduction process
+LOCMI11640	LOCMI11640	Retinol dehydrogenase 14	LOCMI11640	GO:0055114	oxidation-reduction process
+LOCMI15975	LOCMI15975	PREDICTED: predicted protein-like	LOCMI15975	GO:0055114	oxidation-reduction process
+LOCMI16264	LOCMI16264	PREDICTED: peroxidase-like isoform 1	LOCMI16264	GO:0055114	oxidation-reduction process
+LOCMI16136	LOCMI16136	Cytochrome P450 4g15	LOCMI16136	GO:0055114	oxidation-reduction process
+LOCMI14928	LOCMI14928	putative alcohol dehydrogenase	LOCMI14928	GO:0055114	oxidation-reduction process
+LOCMI02396	LOCMI02396	pale, isoform A	LOCMI02396	GO:0055114	oxidation-reduction process
+LOCMI16234	LOCMI16234	PREDICTED: cytochrome P450 315a1, mitochondrial isoform 2	LOCMI16234	GO:0055114	oxidation-reduction process
+LOCMI16230	LOCMI16230	PREDICTED: similar to AGAP001039-PA	LOCMI16230	GO:0055114	oxidation-reduction process
+LOCMI16272	LOCMI16272	E9G105_DAPPU Putative uncharacterized protein	LOCMI16272	GO:0016491	oxidoreductase activity
+LOCMI16257	LOCMI16257	D6WCM3_TRICA Putative uncharacterized protein	LOCMI16257	GO:0016491	oxidoreductase activity
+LOCMI03770	LOCMI03770	B3P2V7_DROER Glucose dehydrogenase	LOCMI03770	GO:0016491	oxidoreductase activity
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	LOCMI10884	GO:0016491	oxidoreductase activity
+LOCMI11739	LOCMI11739	B0V308_DANRE Novel protein (Zgc:77479) (Fragment)	LOCMI11739	GO:0016491	oxidoreductase activity
+LOCMI02377	LOCMI02377	Retinol dehydrogenase 14	LOCMI02377	GO:0016491	oxidoreductase activity
+LOCMI16296	LOCMI16296	D2A5K3_TRICA Putative uncharacterized protein GLEAN_15554	LOCMI16296	GO:0016491	oxidoreductase activity
+LOCMI09721	LOCMI09721	B0XBQ7_CULQU FixR	LOCMI09721	GO:0016491	oxidoreductase activity
+LOCMI03021	LOCMI03021	Q17D83_AEDAE Putative uncharacterized protein	LOCMI03021	GO:0016491	oxidoreductase activity
+LOCMI03329	LOCMI03329	B3MXJ9_DROAN GF19436	LOCMI03329	GO:0016491	oxidoreductase activity
+LOCMI13963	LOCMI13963	Laccase2	LOCMI13963	GO:0016491	oxidoreductase activity
+LOCMI00838	LOCMI00838	Q6WMV8_9MUSC Glucose dehydrogenase (Fragment)	LOCMI00838	GO:0016491	oxidoreductase activity
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	LOCMI16195	GO:0016491	oxidoreductase activity
+LOCMI16206	LOCMI16206	PREDICTED: similar to AGAP001039-PA	LOCMI16206	GO:0016491	oxidoreductase activity
+LOCMI09783	LOCMI09783	PREDICTED: putative fatty acyl-CoA reductase CG5065-like	LOCMI09783	GO:0016491	oxidoreductase activity
+LOCMI07174	LOCMI07174	Putative fatty acyl-CoA reductase	LOCMI07174	GO:0016491	oxidoreductase activity
+LOCMI14928	LOCMI14928	putative alcohol dehydrogenase	LOCMI14928	GO:0016491	oxidoreductase activity
+LOCMI15776	LOCMI15776	stearoyl-coa desaturase-like	LOCMI15776	GO:0016491	oxidoreductase activity
+LOCMI11640	LOCMI11640	Retinol dehydrogenase 14	LOCMI11640	GO:0016491	oxidoreductase activity
+LOCMI15975	LOCMI15975	PREDICTED: predicted protein-like	LOCMI15975	GO:0016491	oxidoreductase activity
+LOCMI12984	LOCMI12984	B3NUX9_DROER GG19440	LOCMI12984	GO:0016491	oxidoreductase activity
+LOCMI16264	LOCMI16264	PREDICTED: peroxidase-like isoform 1	LOCMI16264	GO:0016491	oxidoreductase activity
+LOCMI16136	LOCMI16136	Cytochrome P450 4g15	LOCMI16136	GO:0016491	oxidoreductase activity
+LOCMI15852	LOCMI15852	cytochrome c oxidase subunit Vb/COX4	LOCMI15852	GO:0016491	oxidoreductase activity
+LOCMI03436	LOCMI03436	tyrosine 3-monooxygenase, putative	LOCMI03436	GO:0016491	oxidoreductase activity
+LOCMI02396	LOCMI02396	pale, isoform A	LOCMI02396	GO:0016491	oxidoreductase activity
+LOCMI01539	LOCMI01539	Short-chain dehydrogenase/reductase SDR	LOCMI01539	GO:0016491	oxidoreductase activity
+LOCMI16221	LOCMI16221	GG20554	LOCMI16221	GO:0016491	oxidoreductase activity
+LOCMI02405	LOCMI02405	PREDICTED: glucose dehydrogenase	LOCMI02405	GO:0016491	oxidoreductase activity
+LOCMI16234	LOCMI16234	PREDICTED: cytochrome P450 315a1, mitochondrial isoform 2	LOCMI16234	GO:0016491	oxidoreductase activity
+LOCMI16230	LOCMI16230	PREDICTED: similar to AGAP001039-PA	LOCMI16230	GO:0016491	oxidoreductase activity

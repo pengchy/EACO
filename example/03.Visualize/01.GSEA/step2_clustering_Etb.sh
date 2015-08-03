@@ -1,0 +1,4 @@
+perl /panfs/home/kang/yangpc//bin/EnrichPipeline/EACO_r20150201/bin/run_WGCNA.pl --expr /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/03.Visualize/01.GSEA/enrich.gsea.padj.tb.logp --expCut 0 --TOMType signed  --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/03.Visualize/01.GSEA/01.wgcna --step 1 
+
+perl /panfs/home/kang/yangpc//bin/EnrichPipeline/EACO_r20150201/bin/cluster_based_on_numeric_matrix.pl --mat /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/03.Visualize/01.GSEA/enrich.gsea.padj.tb.logp --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/03.Visualize/01.GSEA/02.cluster/ --TOMdis /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/03.Visualize/01.GSEA/01.wgcna/enrich.gsea.padj.tb.logp.networkConstruction.TOM.RData --test
+

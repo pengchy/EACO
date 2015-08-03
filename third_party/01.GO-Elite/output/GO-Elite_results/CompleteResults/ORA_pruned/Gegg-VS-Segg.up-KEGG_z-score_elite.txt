@@ -1,0 +1,2 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols
+Oxidative phosphorylation:map00190	6	102	102	5.88235294118	100.0	7.22750110813	0.0	1.0	 	 	LOCMI06328|LOCMI15775|LOCMI15980|LOCMI16008|LOCMI16049|LOCMI16094

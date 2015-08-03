@@ -1,0 +1,40 @@
+
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-unknown-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> date()
+[1] "Tue Jan 13 16:02:38 2015"
+> #filtering the enrichment results
+> options(stringsAsFactors=FALSE)
+> et <- read.table("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/02.Enrich/GSEA/enrich.gsea.pv.tb",header=TRUE,sep="\t",check.names=FALSE)
+> rownames(et) <- toupper(et[,1])
+> et <- as.matrix(et[,-1])
+> et[is.na(et)] <- 1
+> et[et==0] <- 1e-5
+> etcfg <- read.table("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/02.Enrich/GSEA/Etb.cfg",sep="\t",check.names=FALSE)
+> et <- et[,etcfg[,1]]
+> #filt enrichment result
+> et.sig <- et[apply(et,1,function(x) any(x<0.05)),]
+> et.sig.log <- -log10(et.sig)
+> write.table(et.sig.log,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/03.Visualize/01.GSEA/enrich.gsea.pv.tb.logp",sep="\t",quote=FALSE)
+> 
+> date()
+[1] "Tue Jan 13 16:02:38 2015"
+> q('no')
+> proc.time()
+   user  system elapsed 
+  0.257   0.058   2.170 

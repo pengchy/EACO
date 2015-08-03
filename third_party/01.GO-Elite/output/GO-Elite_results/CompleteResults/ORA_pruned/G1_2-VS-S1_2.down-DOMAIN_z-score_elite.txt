@@ -1,0 +1,2 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols
+Cytosolic fatty-acid binding:IPR000463	5	12	12	41.6666666667	100.0	12.9023289567	0.0	1.0	 	 	LOCMI00493|LOCMI01404|LOCMI03788|LOCMI03790|LOCMI03791

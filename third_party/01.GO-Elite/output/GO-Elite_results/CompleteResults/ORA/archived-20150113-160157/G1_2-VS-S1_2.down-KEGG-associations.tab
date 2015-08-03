@@ -1,0 +1,64 @@
+Ensembl	symbol	KEGG
+LOCMI16443	LOCMI16443	beta-Alanine metabolism:map00410
+LOCMI16027	LOCMI16027	Sphingolipid metabolism:map00600
+LOCMI15895	LOCMI15895	Oxidative phosphorylation:map00190
+LOCMI15760	LOCMI15760	Oxidative phosphorylation:map00190
+LOCMI16086	LOCMI16086	Oxidative phosphorylation:map00190
+LOCMI15826	LOCMI15826	Oxidative phosphorylation:map00190
+LOCMI15702	LOCMI15702	Drug metabolism - cytochrome P450:map00982
+LOCMI15961	LOCMI15961	Biosynthesis of unsaturated fatty acids:map01040
+LOCMI13862	LOCMI13862	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI04416	LOCMI04416	Protein processing in endoplasmic reticulum:map04141
+LOCMI05470	LOCMI05470	Protein processing in endoplasmic reticulum:map04141
+LOCMI01517	LOCMI01517	Protein processing in endoplasmic reticulum:map04141
+LOCMI15512	LOCMI15512	Protein processing in endoplasmic reticulum:map04141
+LOCMI08029	LOCMI08029	Ribosome:map03010
+LOCMI00130	LOCMI00130	Ribosome:map03010
+LOCMI08026	LOCMI08026	Nucleotide excision repair:map03420
+LOCMI03087	LOCMI03087	Tyrosine metabolism:map00350
+LOCMI16027	LOCMI16027	Lysosome:map04142
+LOCMI16046	LOCMI16046	Valine, leucine and isoleucine degradation:map00280
+LOCMI16443	LOCMI16443	Alanine, aspartate and glutamate metabolism:map00250
+LOCMI01809	LOCMI01809	Ubiquitin mediated proteolysis:map04120
+LOCMI16046	LOCMI16046	Fatty acid elongation:map00062
+LOCMI17202	LOCMI17202	Spliceosome:map03040
+LOCMI16527	LOCMI16527	Spliceosome:map03040
+LOCMI17327	LOCMI17327	Spliceosome:map03040
+LOCMI17269	LOCMI17269	Spliceosome:map03040
+LOCMI16027	LOCMI16027	Galactose metabolism:map00052
+LOCMI15961	LOCMI15961	Peroxisome:map04146
+LOCMI13554	LOCMI13554	Peroxisome:map04146
+LOCMI15586	LOCMI15586	Drug metabolism - other enzymes:map00983
+LOCMI15639	LOCMI15639	Drug metabolism - other enzymes:map00983
+LOCMI15702	LOCMI15702	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI03421	LOCMI03421	Pyrimidine metabolism:map00240
+LOCMI10439	LOCMI10439	Pyrimidine metabolism:map00240
+LOCMI15961	LOCMI15961	alpha-Linolenic acid metabolism:map00592
+LOCMI16027	LOCMI16027	Glycosphingolipid biosynthesis - globo series:map00603
+LOCMI15702	LOCMI15702	Glutathione metabolism:map00480
+LOCMI04119	LOCMI04119	Glutathione metabolism:map00480
+LOCMI14159	LOCMI14159	SNARE interactions in vesicular transport:map04130
+LOCMI08026	LOCMI08026	Homologous recombination:map03440
+LOCMI16443	LOCMI16443	Butanoate metabolism:map00650
+LOCMI08026	LOCMI08026	DNA replication:map03030
+LOCMI03421	LOCMI03421	Purine metabolism:map00230
+LOCMI10439	LOCMI10439	Purine metabolism:map00230
+LOCMI17327	LOCMI17327	mRNA surveillance pathway:map03015
+LOCMI03087	LOCMI03087	Phenylalanine metabolism:map00360
+LOCMI16027	LOCMI16027	Glycerolipid metabolism:map00561
+LOCMI08026	LOCMI08026	Fanconi anemia pathway:map03460
+LOCMI06696	LOCMI06696	Pyruvate metabolism:map00620
+LOCMI16443	LOCMI16443	Taurine and hypotaurine metabolism:map00430
+LOCMI08394	LOCMI08394	Taurine and hypotaurine metabolism:map00430
+LOCMI16046	LOCMI16046	Fatty acid metabolism:map01212
+LOCMI15961	LOCMI15961	Fatty acid metabolism:map01212
+LOCMI16527	LOCMI16527	RNA degradation:map03018
+LOCMI16046	LOCMI16046	Fatty acid degradation:map00071
+LOCMI15961	LOCMI15961	Fatty acid degradation:map00071
+LOCMI03421	LOCMI03421	RNA polymerase:map03020
+LOCMI10439	LOCMI10439	RNA polymerase:map03020
+LOCMI07818	LOCMI07818	RNA transport:map03013
+LOCMI01978	LOCMI01978	RNA transport:map03013
+LOCMI10440	LOCMI10440	RNA transport:map03013
+LOCMI17327	LOCMI17327	RNA transport:map03013
+LOCMI08026	LOCMI08026	Mismatch repair:map03430

@@ -1,0 +1,51 @@
+
+options(stringsAsFactors=FALSE)
+tmp <- scan("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep/gSets.gmt",sep="\n",what="character")
+set2g <- sapply(tmp,function(x){
+		x1 <- strsplit(x,"\t")[[1]]
+		x1[3:length(x1)]
+		})
+names(set2g) <- sapply(tmp,function(x) strsplit(x,"\t")[[1]][1])
+set.name <- sapply(tmp,function(x){
+		strsplit(x,"\t")[[1]][2]})
+names(set.name) <- names(set2g)
+
+set2g.len <- sapply(set2g,length)
+write.table(data.frame(gSets=names(set2g),
+			genNum=as.numeric(set2g.len),
+			setNam=as.character(set.name)),
+		file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa//gSets.gmt.gNum.tb",
+		row.names=FALSE,quote=FALSE,sep="\t")
+brks <- seq(5,max(set2g.len)+5,5)
+dt <- matrix(0,nr=length(brks),nc=5)
+rownames(dt) <- brks
+colnames(dt) <- c("brks","SetNum","SetNumPerc","GeneNum","GeneNumPerc")
+dt[,"brks"] <- brks
+dt[,"SetNum"] <- as.numeric(sapply(brks,function(x){
+			length(set2g.len[set2g.len<x])
+		}))
+dt[,"SetNumPerc"] <- 100*dt[,"SetNum"]/length(set2g.len)
+dt[,"GeneNum"] <- as.numeric(sapply(brks,function(x){
+			length(unique(as.character(unlist(set2g[set2g.len<x]))))
+			}))
+dt[,"GeneNumPerc"] <- 100*dt[,"GeneNum"]/length(unique(as.character(unlist(set2g))))
+
+write.table(dt,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa//gSets.gmt.maxG_and_distinctGeneNum.tb",sep="\t",row.names=FALSE,quote=FALSE)
+dt.long <- data.frame(brks=rep(dt[,"brks"],2),
+		Percentage=as.numeric(dt[,c("SetNumPerc","GeneNumPerc")]),
+		Group=rep(c("SetNumPerc","GeneNumPerc"),each=NROW(dt))
+		)
+
+save(dt.long,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa//gSets.gmt.data.RData")
+x.brks <- c(1,5,10,20,50,100,200,500,800,1000,1500,2000,2500,3000,6000,10000)
+library(ggplot2)
+p.line <- ggplot(dt.long,aes(brks,Percentage,colour=Group))+geom_line()+
+	scale_x_log10(breaks=x.brks[1:(length(which(x.brks<max(brks)))+1)])+
+	xlab("GeneNumber cutoff")+
+	theme(axis.text.x = element_text(angle=60))
+
+pdf("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa//gSets.gmt.maxG_and_distinctGeneNum.tb.plot.pdf",width=10,height=7)
+plot(p.line)
+dev.off()
+
+q('no')

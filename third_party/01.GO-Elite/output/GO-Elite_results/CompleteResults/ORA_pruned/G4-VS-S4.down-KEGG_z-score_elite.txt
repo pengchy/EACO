@@ -1,0 +1,2 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols
+Amino sugar and nucleotide sugar metabolism:map00520	4	44	44	9.09090909091	100.0	5.9441793834	0.003	0.387	 	 	LOCMI13600|LOCMI15467|LOCMI17048|LOCMI17331

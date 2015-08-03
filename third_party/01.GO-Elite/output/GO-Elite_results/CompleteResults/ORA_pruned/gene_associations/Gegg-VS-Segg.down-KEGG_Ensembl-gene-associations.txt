@@ -1,0 +1,9 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI16258	LOCMI16258	Probable phospholipid hydroperoxide glutathione peroxidase	LOCMI16258	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI16688	LOCMI16688	glutathione peroxidase	LOCMI16688	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI04442	LOCMI04442	microsomal glutathione transferase	LOCMI04442	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI07717	LOCMI07717	40S ribosomal protein S24	LOCMI07717	Ribosome:map03010	Ribosome:map03010
+LOCMI05551	LOCMI05551	AGAP004818-PA	LOCMI05551	Ribosome:map03010	Ribosome:map03010
+LOCMI00502	LOCMI00502	40S ribosomal protein S21, putative	LOCMI00502	Ribosome:map03010	Ribosome:map03010
+LOCMI11190	LOCMI11190	mitochondrial ribosomal protein, S18C, putative	LOCMI11190	Ribosome:map03010	Ribosome:map03010
+LOCMI02771	LOCMI02771	mitochondrial ribosomal protein S17	LOCMI02771	Ribosome:map03010	Ribosome:map03010

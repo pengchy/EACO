@@ -1,0 +1,13 @@
+
+#!/bin/bash
+#PBS -N eaco_11.pbs
+#PBS -l nodes=1:ppn=1
+#PBS -l mem=2gb
+#PBS -l walltime=1000:00:00
+#PBS -j oe
+#PBS -q dawningCB60
+cd  $PBS_O_WORKDIR
+
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/bin/run_SGA.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/01.prep/Kappa/gSets.gmt.filt.gmt.filtkappa.gmt --supplyID /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/02.Enrich/00.gstat/Gegg-VS-Segg.down --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/example/02.Enrich//SGA// --method FisherChiSquare
+
+echo This-Work-Completed!

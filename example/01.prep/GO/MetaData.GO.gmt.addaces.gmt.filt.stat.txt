@@ -1,0 +1,5 @@
+	totalSets	Sets_minG	Sets_maxG	distincG	distincG_minG	distincG_maxG
+BP	396	367	360	5088	5088	4592
+MF	224	184	177	7505	7505	5691
+CC	122	95	91	3284	3284	2639
+total	742	646	628	8449	8449	6997

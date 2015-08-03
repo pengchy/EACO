@@ -1,0 +1,33 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI06431	LOCMI06431	PREDICTED: aquaporin AQPcic-like isoform 1	LOCMI06431	Major intrinsic protein:IPR000425	Major intrinsic protein:IPR000425
+LOCMI15210	LOCMI15210	aquaporin	LOCMI15210	Major intrinsic protein:IPR000425	Major intrinsic protein:IPR000425
+LOCMI15206	LOCMI15206	aquaporin	LOCMI15206	Major intrinsic protein:IPR000425	Major intrinsic protein:IPR000425
+LOCMI14139	LOCMI14139	Aquaporin AQPAe.a, putative	LOCMI14139	Major intrinsic protein:IPR000425	Major intrinsic protein:IPR000425
+LOCMI03770	LOCMI03770	B3P2V7_DROER Glucose dehydrogenase	LOCMI03770	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03486	LOCMI03486	B4L259_DROMO GI15372	LOCMI03486	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI13304	LOCMI13304	PREDICTED: glucose dehydrogenase	LOCMI13304	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI00075	LOCMI00075	glucose dehydrogenase	LOCMI00075	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI13628	LOCMI13628	PREDICTED: glucose dehydrogenase	LOCMI13628	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI02919	LOCMI02919	PREDICTED: glucose dehydrogenase	LOCMI02919	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI08311	LOCMI08311	PREDICTED: histone H3.2-like	LOCMI08311	Histone H3:IPR000164	Histone H3:IPR000164
+LOCMI00917	LOCMI00917	GM19716	LOCMI00917	Histone H3:IPR000164	Histone H3:IPR000164
+LOCMI02850	LOCMI02850	Histone H3c	LOCMI02850	Histone H3:IPR000164	Histone H3:IPR000164
+LOCMI06335	LOCMI06335	Histone H3c	LOCMI06335	Histone H3:IPR000164	Histone H3:IPR000164
+LOCMI02995	LOCMI02995	histone 3	LOCMI02995	Histone H3:IPR000164	Histone H3:IPR000164
+LOCMI05487	LOCMI05487	predicted protein	LOCMI05487	Histone H3:IPR000164	Histone H3:IPR000164
+LOCMI01334	LOCMI01334	predicted protein	LOCMI01334	Histone H3:IPR000164	Histone H3:IPR000164
+LOCMI01686	LOCMI01686	Histone H2B	LOCMI01686	Histone H2B:IPR000558	Histone H2B:IPR000558
+LOCMI13526	LOCMI13526	Histone H2B	LOCMI13526	Histone H2B:IPR000558	Histone H2B:IPR000558
+LOCMI06259	LOCMI06259	histone H2B	LOCMI06259	Histone H2B:IPR000558	Histone H2B:IPR000558
+LOCMI03602	LOCMI03602	Q17ER9_AEDAE Histone H2B	LOCMI03602	Histone H2B:IPR000558	Histone H2B:IPR000558
+LOCMI02904	LOCMI02904	histone H2B type 1-N	LOCMI02904	Histone H2B:IPR000558	Histone H2B:IPR000558
+LOCMI03330	LOCMI03330	histone H2B	LOCMI03330	Histone H2B:IPR000558	Histone H2B:IPR000558
+LOCMI05509	LOCMI05509	RecName: Full=Histone H2B.3 gb|AAC41557.1| histone H2B-3	LOCMI05509	Histone H2B:IPR000558	Histone H2B:IPR000558
+LOCMI08350	LOCMI08350	Histone H2B	LOCMI08350	Histone H2B:IPR000558	Histone H2B:IPR000558
+LOCMI15324	LOCMI15324	PREDICTED: histone H2B.3-like	LOCMI15324	Histone H2B:IPR000558	Histone H2B:IPR000558
+LOCMI13988	LOCMI13988	Q7Q5V6_ANOGA AGAP006183-PA	LOCMI13988	Cysteine-rich flanking region, C-terminal domain:IPR000483	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI14948	LOCMI14948	PREDICTED: similar to peroxidasin	LOCMI14948	Cysteine-rich flanking region, C-terminal domain:IPR000483	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI16464	LOCMI16464	PREDICTED: carboxypeptidase N subunit 2-like	LOCMI16464	Cysteine-rich flanking region, C-terminal domain:IPR000483	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI10084	LOCMI10084	variable lymphocyte receptor C	LOCMI10084	Cysteine-rich flanking region, C-terminal domain:IPR000483	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI16426	LOCMI16426	C3ZL73_BRAFL Putative uncharacterized protein	LOCMI16426	Cysteine-rich flanking region, C-terminal domain:IPR000483	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI11432	LOCMI11432	Q5T0V3_HUMAN Slit homolog 1 (Drosophila) (Fragment)	LOCMI11432	Cysteine-rich flanking region, C-terminal domain:IPR000483	Cysteine-rich flanking region, C-terminal domain:IPR000483

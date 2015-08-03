@@ -1,0 +1,26 @@
+Primary GO-Elite Parameters
+	species: Lm
+	results-directory: /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/third_party/01.GO-Elite/output/
+	filter_method: z-score
+	z_threshold: 1.96
+	p_val_threshold: 0.05
+	change_threshold: 2
+	sort_only_by_zscore: yes
+	analysis_method: non-UI
+	criterion_input_folder: /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150201/third_party/01.GO-Elite/input/
+	custom_sets_folder: 
+ORA Parameters
+	mod: Ensembl
+	permutations: 2000
+	resources_to_analyze: all
+
+Dataset name: Gegg-VS-Segg.up
+
+27:	Reported Filtered GO-terms
+12:	Reported Elite GO-terms
+8:	Elite GO-terms redundant with other Elite GO-terms
+0:	Reported Filtered Pathways
+0:	Filtered Pathways redundant with other Filtered Pathways
+37:	Number of genes associated with Filtered GO-terms
+33:	Number of genes associated with Elite GO-terms
+0:	Number of genes associated with Filtered Pathways

@@ -1,0 +1,1477 @@
+GeneID	Ensembl	Pathway
+LOCMI07208	En	Kringle:IPR000001
+LOCMI17106	En	Kringle:IPR000001
+LOCMI17311	En	Kringle:IPR000001
+LOCMI16345	En	Retinoid X receptor:IPR000003
+LOCMI02911	En	Tubby, C-terminal:IPR000007
+LOCMI08704	En	Tubby, C-terminal:IPR000007
+LOCMI11976	En	Tubby, C-terminal:IPR000007
+LOCMI01145	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI02402	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI02506	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI02986	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI03420	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI03596	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI03704	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI03722	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI03785	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI04362	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI04954	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI05021	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI06308	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI06316	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI06464	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI06850	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI07023	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI07024	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI07075	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI08071	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI08197	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI08547	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI08805	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI09175	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI09422	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI09649	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI09727	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI09823	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI10131	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI10371	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI10669	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI11654	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI11964	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI12018	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI12209	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI12319	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI12431	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI13037	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI13286	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI13482	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI14010	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI14730	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI15213	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI15411	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI15747	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI16305	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI16386	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI16511	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI16523	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI17110	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI17160	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI17243	En	C2 calcium-dependent membrane targeting:IPR000008
+LOCMI07527	En	Protein phosphatase 2A, regulatory subunit PR55:IPR000009
+LOCMI16845	En	Protein phosphatase 2A, regulatory subunit PR55:IPR000009
+LOCMI01123	En	Proteinase inhibitor I25, cystatin:IPR000010
+LOCMI02962	En	Proteinase inhibitor I25, cystatin:IPR000010
+LOCMI04793	En	Proteinase inhibitor I25, cystatin:IPR000010
+LOCMI03664	En	Ubiquitin/SUMO-activating enzyme E1:IPR000011
+LOCMI14755	En	Ubiquitin/SUMO-activating enzyme E1:IPR000011
+LOCMI03408	En	PAS:IPR000014
+LOCMI04143	En	PAS:IPR000014
+LOCMI11095	En	PAS:IPR000014
+LOCMI12481	En	PAS:IPR000014
+LOCMI14638	En	PAS:IPR000014
+LOCMI15158	En	PAS:IPR000014
+LOCMI16510	En	PAS:IPR000014
+LOCMI16547	En	PAS:IPR000014
+LOCMI16843	En	PAS:IPR000014
+LOCMI17155	En	PAS:IPR000014
+LOCMI17221	En	PAS:IPR000014
+LOCMI15368	En	Carboxyl transferase:IPR000022
+LOCMI15764	En	Carboxyl transferase:IPR000022
+LOCMI15802	En	Phosphofructokinase domain:IPR000023
+LOCMI15842	En	Phosphofructokinase domain:IPR000023
+LOCMI14720	En	Phosphoribosylaminoimidazole carboxylase, core:IPR000031
+LOCMI02593	En	LDLR class B repeat:IPR000033
+LOCMI06862	En	LDLR class B repeat:IPR000033
+LOCMI08483	En	LDLR class B repeat:IPR000033
+LOCMI09627	En	LDLR class B repeat:IPR000033
+LOCMI12547	En	LDLR class B repeat:IPR000033
+LOCMI13108	En	LDLR class B repeat:IPR000033
+LOCMI14454	En	LDLR class B repeat:IPR000033
+LOCMI14513	En	LDLR class B repeat:IPR000033
+LOCMI14693	En	LDLR class B repeat:IPR000033
+LOCMI15270	En	LDLR class B repeat:IPR000033
+LOCMI16603	En	LDLR class B repeat:IPR000033
+LOCMI17231	En	LDLR class B repeat:IPR000033
+LOCMI17469	En	LDLR class B repeat:IPR000033
+LOCMI02664	En	Laminin B type IV:IPR000034
+LOCMI07377	En	Laminin B type IV:IPR000034
+LOCMI12711	En	Laminin B type IV:IPR000034
+LOCMI13082	En	Laminin B type IV:IPR000034
+LOCMI15327	En	Laminin B type IV:IPR000034
+LOCMI03236	En	Cell division/GTP binding protein:IPR000038
+LOCMI05282	En	Cell division/GTP binding protein:IPR000038
+LOCMI05432	En	Cell division/GTP binding protein:IPR000038
+LOCMI15220	En	Cell division/GTP binding protein:IPR000038
+LOCMI13492	En	Ribosomal protein L18e:IPR000039
+LOCMI07198	En	Acute myeloid leukemia 1 protein (AML 1)/Runt:IPR000040
+LOCMI07270	En	Adenosylhomocysteinase:IPR000043
+LOCMI10278	En	Adenosylhomocysteinase:IPR000043
+LOCMI05426	En	Helix-turn-helix motif, lambda-like repressor:IPR000047
+LOCMI11158	En	Helix-turn-helix motif, lambda-like repressor:IPR000047
+LOCMI12857	En	Helix-turn-helix motif, lambda-like repressor:IPR000047
+LOCMI00107	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI00698	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI01778	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI02319	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI02763	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI04516	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI05544	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI06315	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI06413	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI06414	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI06503	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI06652	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI06917	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI07139	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI07655	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI07758	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI09179	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI10113	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI10584	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI14386	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI14387	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI15393	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI17263	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI17306	En	IQ motif, EF-hand binding site:IPR000048
+LOCMI08740	En	Pyrimidine-nucleoside phosphorylase:IPR000053
+LOCMI10621	En	Ribosomal protein L31e:IPR000054
+LOCMI15903	En	Ribulose-phosphate 3-epimerase:IPR000056
+LOCMI02399	En	Zinc finger, AN1-type:IPR000058
+LOCMI03189	En	Zinc finger, AN1-type:IPR000058
+LOCMI05649	En	Zinc finger, AN1-type:IPR000058
+LOCMI08689	En	Zinc finger, AN1-type:IPR000058
+LOCMI08727	En	Zinc finger, AN1-type:IPR000058
+LOCMI11185	En	Zinc finger, AN1-type:IPR000058
+LOCMI14437	En	Zinc finger, AN1-type:IPR000058
+LOCMI10746	En	SWAP/Surp:IPR000061
+LOCMI16548	En	SWAP/Surp:IPR000061
+LOCMI17068	En	SWAP/Surp:IPR000061
+LOCMI17078	En	SWAP/Surp:IPR000061
+LOCMI00357	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI01166	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI04730	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI04803	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI04844	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI04987	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI05970	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI06338	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI07022	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI08999	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI09744	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI10702	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11097	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11098	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11811	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11812	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11814	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11816	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11818	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11915	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI12351	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI12392	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI12554	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI13506	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI14511	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI15128	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI16691	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI17120	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI17136	En	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI09292	En	K-Cl co-transporter:IPR000076
+LOCMI01839	En	SEA:IPR000082
+LOCMI03037	En	SEA:IPR000082
+LOCMI05898	En	SEA:IPR000082
+LOCMI06217	En	SEA:IPR000082
+LOCMI06925	En	SEA:IPR000082
+LOCMI13363	En	SEA:IPR000082
+LOCMI00422	En	NUDIX hydrolase domain:IPR000086
+LOCMI01178	En	NUDIX hydrolase domain:IPR000086
+LOCMI03741	En	NUDIX hydrolase domain:IPR000086
+LOCMI04482	En	NUDIX hydrolase domain:IPR000086
+LOCMI06366	En	NUDIX hydrolase domain:IPR000086
+LOCMI06765	En	NUDIX hydrolase domain:IPR000086
+LOCMI08081	En	NUDIX hydrolase domain:IPR000086
+LOCMI08702	En	NUDIX hydrolase domain:IPR000086
+LOCMI10578	En	NUDIX hydrolase domain:IPR000086
+LOCMI12668	En	NUDIX hydrolase domain:IPR000086
+LOCMI13738	En	NUDIX hydrolase domain:IPR000086
+LOCMI14073	En	NUDIX hydrolase domain:IPR000086
+LOCMI14098	En	NUDIX hydrolase domain:IPR000086
+LOCMI14615	En	NUDIX hydrolase domain:IPR000086
+LOCMI16436	En	NUDIX hydrolase domain:IPR000086
+LOCMI06553	En	Biotin/lipoyl attachment:IPR000089
+LOCMI09995	En	Biotin/lipoyl attachment:IPR000089
+LOCMI12631	En	Biotin/lipoyl attachment:IPR000089
+LOCMI15764	En	Biotin/lipoyl attachment:IPR000089
+LOCMI15927	En	Biotin/lipoyl attachment:IPR000089
+LOCMI15947	En	Biotin/lipoyl attachment:IPR000089
+LOCMI16081	En	Biotin/lipoyl attachment:IPR000089
+LOCMI12563	En	Huntingtin:IPR000091
+LOCMI01164	En	Polyprenyl synthetase:IPR000092
+LOCMI01165	En	Polyprenyl synthetase:IPR000092
+LOCMI01572	En	Polyprenyl synthetase:IPR000092
+LOCMI04136	En	Polyprenyl synthetase:IPR000092
+LOCMI07451	En	Polyprenyl synthetase:IPR000092
+LOCMI15077	En	Polyprenyl synthetase:IPR000092
+LOCMI15132	En	Polyprenyl synthetase:IPR000092
+LOCMI16337	En	Polyprenyl synthetase:IPR000092
+LOCMI03216	En	PAK-box/P21-Rho-binding:IPR000095
+LOCMI03450	En	PAK-box/P21-Rho-binding:IPR000095
+LOCMI04294	En	PAK-box/P21-Rho-binding:IPR000095
+LOCMI08224	En	PAK-box/P21-Rho-binding:IPR000095
+LOCMI13852	En	PAK-box/P21-Rho-binding:IPR000095
+LOCMI16710	En	PAK-box/P21-Rho-binding:IPR000095
+LOCMI17192	En	PAK-box/P21-Rho-binding:IPR000095
+LOCMI17247	En	PAK-box/P21-Rho-binding:IPR000095
+LOCMI06735	En	AP endonuclease, family 1:IPR000097
+LOCMI04126	En	Gamma-glutamyltranspeptidase:IPR000101
+LOCMI06647	En	Gamma-glutamyltranspeptidase:IPR000101
+LOCMI10926	En	Gamma-glutamyltranspeptidase:IPR000101
+LOCMI15774	En	Gamma-glutamyltranspeptidase:IPR000101
+LOCMI16080	En	Gamma-glutamyltranspeptidase:IPR000101
+LOCMI03349	En	Pyridine nucleotide-disulphide oxidoreductase, class-II:IPR000103
+LOCMI02841	En	Neutrophil cytosol factor 2 p67phox:IPR000108
+LOCMI05863	En	Neutrophil cytosol factor 2 p67phox:IPR000108
+LOCMI06057	En	Neutrophil cytosol factor 2 p67phox:IPR000108
+LOCMI09823	En	Neutrophil cytosol factor 2 p67phox:IPR000108
+LOCMI11526	En	Neutrophil cytosol factor 2 p67phox:IPR000108
+LOCMI12922	En	Neutrophil cytosol factor 2 p67phox:IPR000108
+LOCMI15755	En	Neutrophil cytosol factor 2 p67phox:IPR000108
+LOCMI07839	En	Oligopeptide transporter:IPR000109
+LOCMI09167	En	Oligopeptide transporter:IPR000109
+LOCMI09313	En	Oligopeptide transporter:IPR000109
+LOCMI11632	En	Glycoside hydrolase, clan GH-D:IPR000111
+LOCMI16027	En	Glycoside hydrolase, clan GH-D:IPR000111
+LOCMI16968	En	Mealworm beetle B protein:IPR000113
+LOCMI08723	En	Ribosomal protein L16:IPR000114
+LOCMI11424	En	Phosphoribosylglycinamide synthetase:IPR000115
+LOCMI09474	En	High mobility group, HMG-I/HMG-Y:IPR000116
+LOCMI02098	En	Amidase:IPR000120
+LOCMI03183	En	Amidase:IPR000120
+LOCMI08009	En	Amidase:IPR000120
+LOCMI08906	En	Amidase:IPR000120
+LOCMI10944	En	Amidase:IPR000120
+LOCMI11140	En	Amidase:IPR000120
+LOCMI13540	En	Amidase:IPR000120
+LOCMI00543	En	Ubiquitin-activating enzyme repeat:IPR000127
+LOCMI02372	En	Ubiquitin-activating enzyme repeat:IPR000127
+LOCMI03664	En	Ubiquitin-activating enzyme repeat:IPR000127
+LOCMI04073	En	Ubiquitin-activating enzyme repeat:IPR000127
+LOCMI14755	En	Ubiquitin-activating enzyme repeat:IPR000127
+LOCMI16065	En	ATPase, F1 complex, gamma subunit:IPR000131
+LOCMI07888	En	ER lumen protein retaining receptor:IPR000133
+LOCMI00186	En	High mobility group, HMG1/HMG2, subgroup:IPR000135
+LOCMI06203	En	High mobility group, HMG1/HMG2, subgroup:IPR000135
+LOCMI15978	En	Fructose-1,6-bisphosphatase class 1/Sedoheputulose-1,7-bisphosphatase:IPR000146
+LOCMI02993	En	Ran binding protein 1:IPR000156
+LOCMI04417	En	Ran binding protein 1:IPR000156
+LOCMI07125	En	Ran binding protein 1:IPR000156
+LOCMI08890	En	Ran binding protein 1:IPR000156
+LOCMI03413	En	Toll-Interleukin receptor:IPR000157
+LOCMI04679	En	Toll-Interleukin receptor:IPR000157
+LOCMI05065	En	Toll-Interleukin receptor:IPR000157
+LOCMI16308	En	Toll-Interleukin receptor:IPR000157
+LOCMI16348	En	Toll-Interleukin receptor:IPR000157
+LOCMI16501	En	Toll-Interleukin receptor:IPR000157
+LOCMI16508	En	Toll-Interleukin receptor:IPR000157
+LOCMI17094	En	Toll-Interleukin receptor:IPR000157
+LOCMI17295	En	Toll-Interleukin receptor:IPR000157
+LOCMI17303	En	Toll-Interleukin receptor:IPR000157
+LOCMI01753	En	Ras-association:IPR000159
+LOCMI03149	En	Ras-association:IPR000159
+LOCMI06059	En	Ras-association:IPR000159
+LOCMI09272	En	Ras-association:IPR000159
+LOCMI09350	En	Ras-association:IPR000159
+LOCMI10287	En	Ras-association:IPR000159
+LOCMI10579	En	Ras-association:IPR000159
+LOCMI11301	En	Ras-association:IPR000159
+LOCMI11440	En	Ras-association:IPR000159
+LOCMI11470	En	Ras-association:IPR000159
+LOCMI12342	En	Ras-association:IPR000159
+LOCMI15282	En	Ras-association:IPR000159
+LOCMI15792	En	Ras-association:IPR000159
+LOCMI16511	En	Ras-association:IPR000159
+LOCMI03201	En	Vasopressin V2 receptor:IPR000161
+LOCMI10604	En	GPCR, family 3, metabotropic glutamate receptor:IPR000162
+LOCMI12140	En	Prohibitin:IPR000163
+LOCMI00917	En	Histone H3:IPR000164
+LOCMI01334	En	Histone H3:IPR000164
+LOCMI02850	En	Histone H3:IPR000164
+LOCMI02995	En	Histone H3:IPR000164
+LOCMI05487	En	Histone H3:IPR000164
+LOCMI06335	En	Histone H3:IPR000164
+LOCMI08311	En	Histone H3:IPR000164
+LOCMI10168	En	Histone H3:IPR000164
+LOCMI10277	En	Histone H3:IPR000164
+LOCMI12692	En	Histone H3:IPR000164
+LOCMI12693	En	Histone H3:IPR000164
+LOCMI14075	En	Histone H3:IPR000164
+LOCMI14540	En	Histone H3:IPR000164
+LOCMI00075	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI01918	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI02405	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI02919	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03329	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03486	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03723	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03770	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI04029	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI04813	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI05334	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI07107	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI07108	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI10418	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI11590	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI12977	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI12983	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI12984	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI12987	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI12988	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI12989	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI13304	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI13305	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI13627	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI13628	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI15769	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI16678	En	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI00458	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI01723	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI02454	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI05134	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI05175	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI06275	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI06277	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI06300	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI06966	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI07914	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI08715	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI08940	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI09341	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI11251	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI15163	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI15219	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI15294	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI17124	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI17182	En	Sodium:neurotransmitter symporter:IPR000175
+LOCMI01733	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI01887	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI02103	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI02126	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI02564	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI06604	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI07445	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI07964	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI09739	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI09943	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI10786	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI12304	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI13435	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI15473	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI16542	En	GCN5-related N-acetyltransferase (GNAT) domain:IPR000182
+LOCMI13869	En	Ornithine/DAP/Arg decarboxylase:IPR000183
+LOCMI13870	En	Ornithine/DAP/Arg decarboxylase:IPR000183
+LOCMI13871	En	Ornithine/DAP/Arg decarboxylase:IPR000183
+LOCMI00737	En	Bacterial surface antigen (D15):IPR000184
+LOCMI03541	En	Bacterial surface antigen (D15):IPR000184
+LOCMI01748	En	Aminotransferase, class V/Cysteine desulfurase:IPR000192
+LOCMI03180	En	Aminotransferase, class V/Cysteine desulfurase:IPR000192
+LOCMI04601	En	Aminotransferase, class V/Cysteine desulfurase:IPR000192
+LOCMI06547	En	Aminotransferase, class V/Cysteine desulfurase:IPR000192
+LOCMI06923	En	Aminotransferase, class V/Cysteine desulfurase:IPR000192
+LOCMI09677	En	Aminotransferase, class V/Cysteine desulfurase:IPR000192
+LOCMI09897	En	Aminotransferase, class V/Cysteine desulfurase:IPR000192
+LOCMI14004	En	Aminotransferase, class V/Cysteine desulfurase:IPR000192
+LOCMI16656	En	Aminotransferase, class V/Cysteine desulfurase:IPR000192
+LOCMI07149	En	Urocanase:IPR000193
+LOCMI08473	En	Urocanase:IPR000193
+LOCMI15862	En	ATPase, alpha/beta subunit, nucleotide-binding domain:IPR000194
+LOCMI15885	En	ATPase, alpha/beta subunit, nucleotide-binding domain:IPR000194
+LOCMI15919	En	ATPase, alpha/beta subunit, nucleotide-binding domain:IPR000194
+LOCMI15970	En	ATPase, alpha/beta subunit, nucleotide-binding domain:IPR000194
+LOCMI15986	En	ATPase, alpha/beta subunit, nucleotide-binding domain:IPR000194
+LOCMI00411	En	Rab-GAP/TBC domain:IPR000195
+LOCMI00447	En	Rab-GAP/TBC domain:IPR000195
+LOCMI00892	En	Rab-GAP/TBC domain:IPR000195
+LOCMI01300	En	Rab-GAP/TBC domain:IPR000195
+LOCMI01422	En	Rab-GAP/TBC domain:IPR000195
+LOCMI02271	En	Rab-GAP/TBC domain:IPR000195
+LOCMI02312	En	Rab-GAP/TBC domain:IPR000195
+LOCMI02946	En	Rab-GAP/TBC domain:IPR000195
+LOCMI03119	En	Rab-GAP/TBC domain:IPR000195
+LOCMI03390	En	Rab-GAP/TBC domain:IPR000195
+LOCMI03736	En	Rab-GAP/TBC domain:IPR000195
+LOCMI03892	En	Rab-GAP/TBC domain:IPR000195
+LOCMI04096	En	Rab-GAP/TBC domain:IPR000195
+LOCMI05722	En	Rab-GAP/TBC domain:IPR000195
+LOCMI06119	En	Rab-GAP/TBC domain:IPR000195
+LOCMI06355	En	Rab-GAP/TBC domain:IPR000195
+LOCMI06646	En	Rab-GAP/TBC domain:IPR000195
+LOCMI06975	En	Rab-GAP/TBC domain:IPR000195
+LOCMI08478	En	Rab-GAP/TBC domain:IPR000195
+LOCMI08909	En	Rab-GAP/TBC domain:IPR000195
+LOCMI10378	En	Rab-GAP/TBC domain:IPR000195
+LOCMI10951	En	Rab-GAP/TBC domain:IPR000195
+LOCMI11821	En	Rab-GAP/TBC domain:IPR000195
+LOCMI11895	En	Rab-GAP/TBC domain:IPR000195
+LOCMI12243	En	Rab-GAP/TBC domain:IPR000195
+LOCMI13170	En	Rab-GAP/TBC domain:IPR000195
+LOCMI13484	En	Rab-GAP/TBC domain:IPR000195
+LOCMI14605	En	Rab-GAP/TBC domain:IPR000195
+LOCMI17343	En	Rab-GAP/TBC domain:IPR000195
+LOCMI03823	En	Ribosomal protein L19/L19e:IPR000196
+LOCMI04836	En	Ribosomal protein L19/L19e:IPR000196
+LOCMI16455	En	Zinc finger, TAZ-type:IPR000197
+LOCMI01175	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI01753	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI01778	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI03063	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI03321	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI04954	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI04963	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI06194	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI07190	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI07688	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI07824	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI08104	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI08285	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI08728	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI09176	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI09750	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI11310	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI11449	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI11536	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI11584	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI12341	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI12452	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI13790	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI13808	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI14010	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI14358	En	Rho GTPase-activating protein domain:IPR000198
+LOCMI06438	En	GPS domain:IPR000203
+LOCMI09756	En	GPS domain:IPR000203
+LOCMI11225	En	GPS domain:IPR000203
+LOCMI16413	En	GPS domain:IPR000203
+LOCMI17496	En	GPS domain:IPR000203
+LOCMI17536	En	GPS domain:IPR000203
+LOCMI00153	En	Peptidase S8/S53, subtilisin/kexin/sedolisin:IPR000209
+LOCMI01618	En	Peptidase S8/S53, subtilisin/kexin/sedolisin:IPR000209
+LOCMI02542	En	Peptidase S8/S53, subtilisin/kexin/sedolisin:IPR000209
+LOCMI07420	En	Peptidase S8/S53, subtilisin/kexin/sedolisin:IPR000209
+LOCMI11471	En	Peptidase S8/S53, subtilisin/kexin/sedolisin:IPR000209
+LOCMI13873	En	Peptidase S8/S53, subtilisin/kexin/sedolisin:IPR000209
+LOCMI14616	En	Peptidase S8/S53, subtilisin/kexin/sedolisin:IPR000209
+LOCMI00042	En	BTB/POZ-like:IPR000210
+LOCMI00078	En	BTB/POZ-like:IPR000210
+LOCMI00713	En	BTB/POZ-like:IPR000210
+LOCMI01545	En	BTB/POZ-like:IPR000210
+LOCMI01731	En	BTB/POZ-like:IPR000210
+LOCMI02171	En	BTB/POZ-like:IPR000210
+LOCMI02450	En	BTB/POZ-like:IPR000210
+LOCMI02543	En	BTB/POZ-like:IPR000210
+LOCMI02667	En	BTB/POZ-like:IPR000210
+LOCMI03090	En	BTB/POZ-like:IPR000210
+LOCMI03308	En	BTB/POZ-like:IPR000210
+LOCMI03358	En	BTB/POZ-like:IPR000210
+LOCMI03475	En	BTB/POZ-like:IPR000210
+LOCMI03488	En	BTB/POZ-like:IPR000210
+LOCMI03675	En	BTB/POZ-like:IPR000210
+LOCMI03742	En	BTB/POZ-like:IPR000210
+LOCMI03843	En	BTB/POZ-like:IPR000210
+LOCMI03953	En	BTB/POZ-like:IPR000210
+LOCMI03989	En	BTB/POZ-like:IPR000210
+LOCMI04078	En	BTB/POZ-like:IPR000210
+LOCMI04117	En	BTB/POZ-like:IPR000210
+LOCMI04175	En	BTB/POZ-like:IPR000210
+LOCMI04371	En	BTB/POZ-like:IPR000210
+LOCMI04469	En	BTB/POZ-like:IPR000210
+LOCMI04473	En	BTB/POZ-like:IPR000210
+LOCMI04543	En	BTB/POZ-like:IPR000210
+LOCMI04571	En	BTB/POZ-like:IPR000210
+LOCMI04646	En	BTB/POZ-like:IPR000210
+LOCMI04964	En	BTB/POZ-like:IPR000210
+LOCMI05201	En	BTB/POZ-like:IPR000210
+LOCMI05284	En	BTB/POZ-like:IPR000210
+LOCMI05420	En	BTB/POZ-like:IPR000210
+LOCMI05476	En	BTB/POZ-like:IPR000210
+LOCMI05680	En	BTB/POZ-like:IPR000210
+LOCMI05705	En	BTB/POZ-like:IPR000210
+LOCMI05725	En	BTB/POZ-like:IPR000210
+LOCMI05870	En	BTB/POZ-like:IPR000210
+LOCMI05871	En	BTB/POZ-like:IPR000210
+LOCMI06199	En	BTB/POZ-like:IPR000210
+LOCMI06620	En	BTB/POZ-like:IPR000210
+LOCMI06763	En	BTB/POZ-like:IPR000210
+LOCMI06809	En	BTB/POZ-like:IPR000210
+LOCMI06932	En	BTB/POZ-like:IPR000210
+LOCMI07740	En	BTB/POZ-like:IPR000210
+LOCMI07820	En	BTB/POZ-like:IPR000210
+LOCMI07821	En	BTB/POZ-like:IPR000210
+LOCMI07941	En	BTB/POZ-like:IPR000210
+LOCMI08178	En	BTB/POZ-like:IPR000210
+LOCMI08440	En	BTB/POZ-like:IPR000210
+LOCMI08503	En	BTB/POZ-like:IPR000210
+LOCMI08504	En	BTB/POZ-like:IPR000210
+LOCMI08505	En	BTB/POZ-like:IPR000210
+LOCMI08524	En	BTB/POZ-like:IPR000210
+LOCMI08716	En	BTB/POZ-like:IPR000210
+LOCMI08766	En	BTB/POZ-like:IPR000210
+LOCMI08804	En	BTB/POZ-like:IPR000210
+LOCMI08842	En	BTB/POZ-like:IPR000210
+LOCMI08959	En	BTB/POZ-like:IPR000210
+LOCMI09067	En	BTB/POZ-like:IPR000210
+LOCMI09183	En	BTB/POZ-like:IPR000210
+LOCMI09442	En	BTB/POZ-like:IPR000210
+LOCMI09451	En	BTB/POZ-like:IPR000210
+LOCMI09599	En	BTB/POZ-like:IPR000210
+LOCMI09600	En	BTB/POZ-like:IPR000210
+LOCMI09706	En	BTB/POZ-like:IPR000210
+LOCMI10264	En	BTB/POZ-like:IPR000210
+LOCMI10265	En	BTB/POZ-like:IPR000210
+LOCMI10576	En	BTB/POZ-like:IPR000210
+LOCMI11001	En	BTB/POZ-like:IPR000210
+LOCMI11083	En	BTB/POZ-like:IPR000210
+LOCMI11175	En	BTB/POZ-like:IPR000210
+LOCMI11408	En	BTB/POZ-like:IPR000210
+LOCMI11683	En	BTB/POZ-like:IPR000210
+LOCMI11723	En	BTB/POZ-like:IPR000210
+LOCMI12073	En	BTB/POZ-like:IPR000210
+LOCMI12358	En	BTB/POZ-like:IPR000210
+LOCMI12388	En	BTB/POZ-like:IPR000210
+LOCMI12836	En	BTB/POZ-like:IPR000210
+LOCMI13005	En	BTB/POZ-like:IPR000210
+LOCMI13440	En	BTB/POZ-like:IPR000210
+LOCMI14099	En	BTB/POZ-like:IPR000210
+LOCMI14705	En	BTB/POZ-like:IPR000210
+LOCMI15149	En	BTB/POZ-like:IPR000210
+LOCMI15330	En	BTB/POZ-like:IPR000210
+LOCMI15339	En	BTB/POZ-like:IPR000210
+LOCMI16089	En	BTB/POZ-like:IPR000210
+LOCMI16347	En	BTB/POZ-like:IPR000210
+LOCMI16797	En	BTB/POZ-like:IPR000210
+LOCMI17233	En	BTB/POZ-like:IPR000210
+LOCMI17321	En	BTB/POZ-like:IPR000210
+LOCMI17468	En	BTB/POZ-like:IPR000210
+LOCMI11490	En	DNA helicase, UvrD/REP type:IPR000212
+LOCMI01663	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI01756	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI03635	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI04359	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI05111	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI05133	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI05954	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI07407	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI09317	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI11959	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI14063	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI14182	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI14212	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI14213	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI14214	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI14216	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI16384	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI16404	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI16432	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI16433	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI16794	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI16816	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI16821	En	Protease inhibitor I4, serpin:IPR000215
+LOCMI00441	En	Tubulin:IPR000217
+LOCMI00494	En	Tubulin:IPR000217
+LOCMI00777	En	Tubulin:IPR000217
+LOCMI01486	En	Tubulin:IPR000217
+LOCMI01885	En	Tubulin:IPR000217
+LOCMI02568	En	Tubulin:IPR000217
+LOCMI02709	En	Tubulin:IPR000217
+LOCMI03396	En	Tubulin:IPR000217
+LOCMI03448	En	Tubulin:IPR000217
+LOCMI03661	En	Tubulin:IPR000217
+LOCMI04122	En	Tubulin:IPR000217
+LOCMI04570	En	Tubulin:IPR000217
+LOCMI04650	En	Tubulin:IPR000217
+LOCMI04905	En	Tubulin:IPR000217
+LOCMI05174	En	Tubulin:IPR000217
+LOCMI06276	En	Tubulin:IPR000217
+LOCMI06603	En	Tubulin:IPR000217
+LOCMI06693	En	Tubulin:IPR000217
+LOCMI07218	En	Tubulin:IPR000217
+LOCMI07573	En	Tubulin:IPR000217
+LOCMI08908	En	Tubulin:IPR000217
+LOCMI09659	En	Tubulin:IPR000217
+LOCMI09660	En	Tubulin:IPR000217
+LOCMI09724	En	Tubulin:IPR000217
+LOCMI09745	En	Tubulin:IPR000217
+LOCMI10225	En	Tubulin:IPR000217
+LOCMI10471	En	Tubulin:IPR000217
+LOCMI11062	En	Tubulin:IPR000217
+LOCMI11064	En	Tubulin:IPR000217
+LOCMI11222	En	Tubulin:IPR000217
+LOCMI12121	En	Tubulin:IPR000217
+LOCMI12930	En	Tubulin:IPR000217
+LOCMI13303	En	Tubulin:IPR000217
+LOCMI13837	En	Tubulin:IPR000217
+LOCMI14534	En	Tubulin:IPR000217
+LOCMI07886	En	Ribosomal protein L14b/L23e:IPR000218
+LOCMI10170	En	Ribosomal protein L14b/L23e:IPR000218
+LOCMI01196	En	Dbl homology (DH) domain:IPR000219
+LOCMI02144	En	Dbl homology (DH) domain:IPR000219
+LOCMI02596	En	Dbl homology (DH) domain:IPR000219
+LOCMI04357	En	Dbl homology (DH) domain:IPR000219
+LOCMI04639	En	Dbl homology (DH) domain:IPR000219
+LOCMI04954	En	Dbl homology (DH) domain:IPR000219
+LOCMI05863	En	Dbl homology (DH) domain:IPR000219
+LOCMI06446	En	Dbl homology (DH) domain:IPR000219
+LOCMI06581	En	Dbl homology (DH) domain:IPR000219
+LOCMI08101	En	Dbl homology (DH) domain:IPR000219
+LOCMI09041	En	Dbl homology (DH) domain:IPR000219
+LOCMI09402	En	Dbl homology (DH) domain:IPR000219
+LOCMI09823	En	Dbl homology (DH) domain:IPR000219
+LOCMI10120	En	Dbl homology (DH) domain:IPR000219
+LOCMI10796	En	Dbl homology (DH) domain:IPR000219
+LOCMI10815	En	Dbl homology (DH) domain:IPR000219
+LOCMI10950	En	Dbl homology (DH) domain:IPR000219
+LOCMI11639	En	Dbl homology (DH) domain:IPR000219
+LOCMI11884	En	Dbl homology (DH) domain:IPR000219
+LOCMI13367	En	Dbl homology (DH) domain:IPR000219
+LOCMI13630	En	Dbl homology (DH) domain:IPR000219
+LOCMI13887	En	Dbl homology (DH) domain:IPR000219
+LOCMI13996	En	Dbl homology (DH) domain:IPR000219
+LOCMI14035	En	Dbl homology (DH) domain:IPR000219
+LOCMI14174	En	Dbl homology (DH) domain:IPR000219
+LOCMI14782	En	Dbl homology (DH) domain:IPR000219
+LOCMI15751	En	Dbl homology (DH) domain:IPR000219
+LOCMI15754	En	Dbl homology (DH) domain:IPR000219
+LOCMI17325	En	Dbl homology (DH) domain:IPR000219
+LOCMI00716	En	Armadillo:IPR000225
+LOCMI02079	En	Armadillo:IPR000225
+LOCMI03203	En	Armadillo:IPR000225
+LOCMI05413	En	Armadillo:IPR000225
+LOCMI06349	En	Armadillo:IPR000225
+LOCMI06711	En	Armadillo:IPR000225
+LOCMI07536	En	Armadillo:IPR000225
+LOCMI07689	En	Armadillo:IPR000225
+LOCMI07942	En	Armadillo:IPR000225
+LOCMI09268	En	Armadillo:IPR000225
+LOCMI09752	En	Armadillo:IPR000225
+LOCMI10670	En	Armadillo:IPR000225
+LOCMI11451	En	Armadillo:IPR000225
+LOCMI12337	En	Armadillo:IPR000225
+LOCMI13392	En	Armadillo:IPR000225
+LOCMI13494	En	Armadillo:IPR000225
+LOCMI13781	En	Armadillo:IPR000225
+LOCMI14302	En	Armadillo:IPR000225
+LOCMI14563	En	Armadillo:IPR000225
+LOCMI14836	En	Armadillo:IPR000225
+LOCMI15427	En	Armadillo:IPR000225
+LOCMI00425	En	RNA 3'-terminal phosphate cyclase-like:IPR000228
+LOCMI06629	En	RNA 3'-terminal phosphate cyclase-like:IPR000228
+LOCMI10705	En	RNA 3'-terminal phosphate cyclase-like:IPR000228
+LOCMI01847	En	Ribosomal protein L30e:IPR000231
+LOCMI09756	En	Ribosomal protein L30e:IPR000231
+LOCMI00308	En	Heat shock factor (HSF)-type, DNA-binding:IPR000232
+LOCMI02081	En	Cadherin, cytoplasmic domain:IPR000233
+LOCMI10552	En	Cadherin, cytoplasmic domain:IPR000233
+LOCMI13144	En	Cadherin, cytoplasmic domain:IPR000233
+LOCMI13961	En	Cadherin, cytoplasmic domain:IPR000233
+LOCMI14821	En	Cadherin, cytoplasmic domain:IPR000233
+LOCMI15108	En	Cadherin, cytoplasmic domain:IPR000233
+LOCMI15237	En	Cadherin, cytoplasmic domain:IPR000233
+LOCMI00296	En	Ribosomal protein S7:IPR000235
+LOCMI06257	En	Ribosomal protein S7:IPR000235
+LOCMI09636	En	GRIP:IPR000237
+LOCMI10093	En	GRIP:IPR000237
+LOCMI05189	En	Ribosome-binding factor A:IPR000238
+LOCMI17104	En	GPCR kinase:IPR000239
+LOCMI17169	En	GPCR kinase:IPR000239
+LOCMI08283	En	Putative RNA methylase:IPR000241
+LOCMI08822	En	Putative RNA methylase:IPR000241
+LOCMI03938	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI04106	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI05445	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI05539	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI06174	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI08449	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI08670	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI08739	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI09494	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI12662	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI13080	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI13195	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI14235	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI14305	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI15369	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI15746	En	Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242
+LOCMI00894	En	Peptidase T1A, proteasome beta-subunit:IPR000243
+LOCMI01417	En	Peptidase T1A, proteasome beta-subunit:IPR000243
+LOCMI10956	En	Peptidase T1A, proteasome beta-subunit:IPR000243
+LOCMI11447	En	Peptidase T1A, proteasome beta-subunit:IPR000243
+LOCMI15334	En	Peptidase T1A, proteasome beta-subunit:IPR000243
+LOCMI10169	En	Ribosomal protein L9:IPR000244
+LOCMI15816	En	ATPase, V0 complex, proteolipid subunit C:IPR000245
+LOCMI15818	En	ATPase, V0 complex, proteolipid subunit C:IPR000245
+LOCMI15909	En	ATPase, V0 complex, proteolipid subunit C:IPR000245
+LOCMI15938	En	ATPase, V0 complex, proteolipid subunit C:IPR000245
+LOCMI16049	En	ATPase, V0 complex, proteolipid subunit C:IPR000245
+LOCMI01253	En	Peptidase T2, asparaginase 2:IPR000246
+LOCMI01558	En	Peptidase T2, asparaginase 2:IPR000246
+LOCMI04127	En	Peptidase T2, asparaginase 2:IPR000246
+LOCMI03559	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI04418	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI05335	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI05494	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI07155	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI08419	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI09272	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI11710	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI12091	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI12162	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI13175	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI13400	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI13730	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI16409	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI17240	En	Forkhead-associated (FHA) domain:IPR000253
+LOCMI08345	En	Uroporphyrinogen decarboxylase (URO-D):IPR000257
+LOCMI05719	En	EPS15 homology (EH):IPR000261
+LOCMI08089	En	EPS15 homology (EH):IPR000261
+LOCMI09823	En	EPS15 homology (EH):IPR000261
+LOCMI10082	En	EPS15 homology (EH):IPR000261
+LOCMI10615	En	EPS15 homology (EH):IPR000261
+LOCMI15262	En	EPS15 homology (EH):IPR000261
+LOCMI00470	En	FMN-dependent dehydrogenase:IPR000262
+LOCMI02753	En	Ribosomal protein S17:IPR000266
+LOCMI02771	En	Ribosomal protein S17:IPR000266
+LOCMI03326	En	Ribosomal protein S17:IPR000266
+LOCMI10439	En	RNA polymerases, N/8kDa subunit:IPR000268
+LOCMI02961	En	Phox/Bem1p:IPR000270
+LOCMI05500	En	Phox/Bem1p:IPR000270
+LOCMI13110	En	Phox/Bem1p:IPR000270
+LOCMI11493	En	Ribosomal protein L34:IPR000271
+LOCMI01452	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI02589	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI03201	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI04272	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI04284	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI04624	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI05147	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI05535	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI07188	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI07323	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI07446	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI07812	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI08746	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI09076	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI09320	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI09321	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI09634	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI10547	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI10566	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI11438	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI11528	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI12079	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI12236	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI12849	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI13352	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI13471	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI13646	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI13676	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI14783	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI14784	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI14882	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI14952	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI15479	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI15480	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI16500	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI16695	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI16723	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI16730	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI16734	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI16776	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17480	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17481	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17482	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17483	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17484	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17485	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17486	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17488	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17489	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17490	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17491	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17493	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17494	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17497	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17501	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17502	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17503	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17507	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17508	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17509	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17510	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17512	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17513	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17514	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17515	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17516	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17517	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17518	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17520	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17521	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17522	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17525	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17526	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17528	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17529	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17530	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17532	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17533	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17537	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17539	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17540	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17541	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI17542	En	7TM GPCR, rhodopsin-like:IPR000276
+LOCMI04776	En	Cys/Met metabolism, pyridoxal phosphate-dependent enzyme:IPR000277
+LOCMI06220	En	Histone deacetylase superfamily:IPR000286
+LOCMI06746	En	Histone deacetylase superfamily:IPR000286
+LOCMI07016	En	Histone deacetylase superfamily:IPR000286
+LOCMI08577	En	Histone deacetylase superfamily:IPR000286
+LOCMI08791	En	Histone deacetylase superfamily:IPR000286
+LOCMI14123	En	Histone deacetylase superfamily:IPR000286
+LOCMI16119	En	Histone deacetylase superfamily:IPR000286
+LOCMI16841	En	Histone deacetylase superfamily:IPR000286
+LOCMI13569	En	Ribosomal protein S28e:IPR000289
+LOCMI04692	En	Peptidyl-prolyl cis-trans isomerase, PpiC-type:IPR000297
+LOCMI10420	En	Peptidyl-prolyl cis-trans isomerase, PpiC-type:IPR000297
+LOCMI01215	En	Inositol polyphosphate-related phosphatase:IPR000300
+LOCMI03434	En	Inositol polyphosphate-related phosphatase:IPR000300
+LOCMI06194	En	Inositol polyphosphate-related phosphatase:IPR000300
+LOCMI06195	En	Inositol polyphosphate-related phosphatase:IPR000300
+LOCMI07087	En	Inositol polyphosphate-related phosphatase:IPR000300
+LOCMI02243	En	Tetraspanin, subgroup:IPR000301
+LOCMI02477	En	Tetraspanin, subgroup:IPR000301
+LOCMI02499	En	Tetraspanin, subgroup:IPR000301
+LOCMI02720	En	Tetraspanin, subgroup:IPR000301
+LOCMI02777	En	Tetraspanin, subgroup:IPR000301
+LOCMI03808	En	Tetraspanin, subgroup:IPR000301
+LOCMI06089	En	Tetraspanin, subgroup:IPR000301
+LOCMI06907	En	Tetraspanin, subgroup:IPR000301
+LOCMI07401	En	Tetraspanin, subgroup:IPR000301
+LOCMI08840	En	Tetraspanin, subgroup:IPR000301
+LOCMI11125	En	Tetraspanin, subgroup:IPR000301
+LOCMI14467	En	Tetraspanin, subgroup:IPR000301
+LOCMI03848	En	Pyrroline-5-carboxylate reductase:IPR000304
+LOCMI10181	En	Pyrroline-5-carboxylate reductase:IPR000304
+LOCMI11875	En	Excinuclease ABC, C subunit, N-terminal:IPR000305
+LOCMI01196	En	Zinc finger, FYVE-type:IPR000306
+LOCMI01381	En	Zinc finger, FYVE-type:IPR000306
+LOCMI04696	En	Zinc finger, FYVE-type:IPR000306
+LOCMI05900	En	Zinc finger, FYVE-type:IPR000306
+LOCMI08101	En	Zinc finger, FYVE-type:IPR000306
+LOCMI08149	En	Zinc finger, FYVE-type:IPR000306
+LOCMI08790	En	Zinc finger, FYVE-type:IPR000306
+LOCMI09965	En	Zinc finger, FYVE-type:IPR000306
+LOCMI10034	En	Zinc finger, FYVE-type:IPR000306
+LOCMI10656	En	Zinc finger, FYVE-type:IPR000306
+LOCMI11102	En	Zinc finger, FYVE-type:IPR000306
+LOCMI12208	En	Zinc finger, FYVE-type:IPR000306
+LOCMI16454	En	Zinc finger, FYVE-type:IPR000306
+LOCMI05551	En	Ribosomal protein S16:IPR000307
+LOCMI04541	En	14-3-3 protein:IPR000308
+LOCMI14208	En	14-3-3 protein:IPR000308
+LOCMI08740	En	Glycosyl transferase, family 3:IPR000312
+LOCMI01304	En	PWWP:IPR000313
+LOCMI06699	En	PWWP:IPR000313
+LOCMI06858	En	PWWP:IPR000313
+LOCMI09363	En	PWWP:IPR000313
+LOCMI10191	En	PWWP:IPR000313
+LOCMI13247	En	PWWP:IPR000313
+LOCMI15261	En	PWWP:IPR000313
+LOCMI15359	En	PWWP:IPR000313
+LOCMI16339	En	PWWP:IPR000313
+LOCMI06052	En	Zinc finger, B-box:IPR000315
+LOCMI06288	En	Zinc finger, B-box:IPR000315
+LOCMI06433	En	Zinc finger, B-box:IPR000315
+LOCMI07957	En	Zinc finger, B-box:IPR000315
+LOCMI08567	En	Zinc finger, B-box:IPR000315
+LOCMI09091	En	Zinc finger, B-box:IPR000315
+LOCMI14436	En	Zinc finger, B-box:IPR000315
+LOCMI17111	En	Zinc finger, B-box:IPR000315
+LOCMI03125	En	Glycoside hydrolase, family 31:IPR000322
+LOCMI03579	En	Glycoside hydrolase, family 31:IPR000322
+LOCMI04397	En	Glycoside hydrolase, family 31:IPR000322
+LOCMI04815	En	Glycoside hydrolase, family 31:IPR000322
+LOCMI07136	En	Glycoside hydrolase, family 31:IPR000322
+LOCMI08072	En	Glycoside hydrolase, family 31:IPR000322
+LOCMI08330	En	Glycoside hydrolase, family 31:IPR000322
+LOCMI09105	En	Glycoside hydrolase, family 31:IPR000322
+LOCMI09467	En	Glycoside hydrolase, family 31:IPR000322
+LOCMI11392	En	Copper type II, ascorbate-dependent monooxygenase, N-terminal:IPR000323
+LOCMI16307	En	Copper type II, ascorbate-dependent monooxygenase, N-terminal:IPR000323
+LOCMI01657	En	Phosphatidic acid phosphatase type 2/haloperoxidase:IPR000326
+LOCMI15169	En	Phosphatidic acid phosphatase type 2/haloperoxidase:IPR000326
+LOCMI15932	En	Phosphatidic acid phosphatase type 2/haloperoxidase:IPR000326
+LOCMI16035	En	Phosphatidic acid phosphatase type 2/haloperoxidase:IPR000326
+LOCMI16071	En	Phosphatidic acid phosphatase type 2/haloperoxidase:IPR000326
+LOCMI16079	En	Phosphatidic acid phosphatase type 2/haloperoxidase:IPR000326
+LOCMI09151	En	POU-specific:IPR000327
+LOCMI12943	En	POU-specific:IPR000327
+LOCMI13384	En	POU-specific:IPR000327
+LOCMI01501	En	SNF2-related:IPR000330
+LOCMI02205	En	SNF2-related:IPR000330
+LOCMI05710	En	SNF2-related:IPR000330
+LOCMI06251	En	SNF2-related:IPR000330
+LOCMI06952	En	SNF2-related:IPR000330
+LOCMI06962	En	SNF2-related:IPR000330
+LOCMI06991	En	SNF2-related:IPR000330
+LOCMI07913	En	SNF2-related:IPR000330
+LOCMI08196	En	SNF2-related:IPR000330
+LOCMI08307	En	SNF2-related:IPR000330
+LOCMI09874	En	SNF2-related:IPR000330
+LOCMI10962	En	SNF2-related:IPR000330
+LOCMI11196	En	SNF2-related:IPR000330
+LOCMI11579	En	SNF2-related:IPR000330
+LOCMI11693	En	SNF2-related:IPR000330
+LOCMI12395	En	SNF2-related:IPR000330
+LOCMI12462	En	SNF2-related:IPR000330
+LOCMI12504	En	SNF2-related:IPR000330
+LOCMI13561	En	SNF2-related:IPR000330
+LOCMI14218	En	SNF2-related:IPR000330
+LOCMI14672	En	SNF2-related:IPR000330
+LOCMI01051	En	Rap/ran-GAP:IPR000331
+LOCMI05262	En	Rap/ran-GAP:IPR000331
+LOCMI08178	En	Rap/ran-GAP:IPR000331
+LOCMI13246	En	Rap/ran-GAP:IPR000331
+LOCMI14695	En	Rap/ran-GAP:IPR000331
+LOCMI14944	En	Rap/ran-GAP:IPR000331
+LOCMI16536	En	Activin type II receptor:IPR000333
+LOCMI06138	En	GPCR, family 3:IPR000337
+LOCMI10604	En	GPCR, family 3:IPR000337
+LOCMI00292	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI05044	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI05797	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI08518	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI09795	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI10077	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI11374	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI12165	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI12363	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI13511	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI16332	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI16421	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI16425	En	Dual specificity phosphatase, catalytic domain:IPR000340
+LOCMI08547	En	Phosphoinositide 3-kinase, ras-binding:IPR000341
+LOCMI13806	En	Phosphoinositide 3-kinase, ras-binding:IPR000341
+LOCMI00897	En	Regulator of G protein signalling:IPR000342
+LOCMI03751	En	Regulator of G protein signalling:IPR000342
+LOCMI05407	En	Regulator of G protein signalling:IPR000342
+LOCMI05730	En	Regulator of G protein signalling:IPR000342
+LOCMI05746	En	Regulator of G protein signalling:IPR000342
+LOCMI06542	En	Regulator of G protein signalling:IPR000342
+LOCMI12045	En	Regulator of G protein signalling:IPR000342
+LOCMI12610	En	Regulator of G protein signalling:IPR000342
+LOCMI14079	En	Regulator of G protein signalling:IPR000342
+LOCMI17104	En	Regulator of G protein signalling:IPR000342
+LOCMI17169	En	Regulator of G protein signalling:IPR000342
+LOCMI15507	En	Crustacean neurohormone CHH:IPR000346
+LOCMI01940	En	Peptide chain release factor class I/class II:IPR000352
+LOCMI04685	En	Peptide chain release factor class I/class II:IPR000352
+LOCMI12817	En	Peptide chain release factor class I/class II:IPR000352
+LOCMI13598	En	Peptide chain release factor class I/class II:IPR000352
+LOCMI00942	En	HEAT:IPR000357
+LOCMI01011	En	HEAT:IPR000357
+LOCMI01563	En	HEAT:IPR000357
+LOCMI01616	En	HEAT:IPR000357
+LOCMI01993	En	HEAT:IPR000357
+LOCMI03334	En	HEAT:IPR000357
+LOCMI04012	En	HEAT:IPR000357
+LOCMI05518	En	HEAT:IPR000357
+LOCMI06887	En	HEAT:IPR000357
+LOCMI07092	En	HEAT:IPR000357
+LOCMI07145	En	HEAT:IPR000357
+LOCMI08873	En	HEAT:IPR000357
+LOCMI10670	En	HEAT:IPR000357
+LOCMI11465	En	HEAT:IPR000357
+LOCMI11591	En	HEAT:IPR000357
+LOCMI11851	En	HEAT:IPR000357
+LOCMI12118	En	HEAT:IPR000357
+LOCMI13494	En	HEAT:IPR000357
+LOCMI14406	En	HEAT:IPR000357
+LOCMI15539	En	HEAT:IPR000357
+LOCMI17329	En	HEAT:IPR000357
+LOCMI03230	En	Ribonucleotide reductase:IPR000358
+LOCMI04602	En	FeS cluster biogenesis:IPR000361
+LOCMI09047	En	FeS cluster biogenesis:IPR000361
+LOCMI04249	En	Fumarate lyase:IPR000362
+LOCMI06263	En	Fumarate lyase:IPR000362
+LOCMI15803	En	Fumarate lyase:IPR000362
+LOCMI12616	En	G-protein alpha subunit, group S:IPR000367
+LOCMI14659	En	G-protein alpha subunit, group S:IPR000367
+LOCMI02907	En	Leucine-rich repeat-containing N-terminal:IPR000372
+LOCMI04749	En	Leucine-rich repeat-containing N-terminal:IPR000372
+LOCMI05078	En	Leucine-rich repeat-containing N-terminal:IPR000372
+LOCMI07892	En	Leucine-rich repeat-containing N-terminal:IPR000372
+LOCMI10993	En	Leucine-rich repeat-containing N-terminal:IPR000372
+LOCMI17094	En	Leucine-rich repeat-containing N-terminal:IPR000372
+LOCMI15856	En	Phosphatidate cytidylyltransferase:IPR000374
+LOCMI04312	En	Dynamin central domain:IPR000375
+LOCMI04521	En	Dynamin central domain:IPR000375
+LOCMI10032	En	Dynamin central domain:IPR000375
+LOCMI11066	En	DNA topoisomerase, type IA, core:IPR000380
+LOCMI14077	En	DNA topoisomerase, type IA, core:IPR000380
+LOCMI05010	En	Inhibin, beta B subunit:IPR000381
+LOCMI04128	En	Thymidylate synthase:IPR000398
+LOCMI03072	En	ATPase, P-type cation exchange, beta subunit:IPR000402
+LOCMI03151	En	ATPase, P-type cation exchange, beta subunit:IPR000402
+LOCMI06111	En	ATPase, P-type cation exchange, beta subunit:IPR000402
+LOCMI01053	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI01412	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI04048	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI04050	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI05397	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI08547	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI09726	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI13806	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI16380	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI16790	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI17224	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI17281	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI17479	En	Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403
+LOCMI14407	En	RHO protein GDP dissociation inhibitor:IPR000406
+LOCMI08295	En	Nucleoside phosphatase GDA1/CD39:IPR000407
+LOCMI01822	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI02667	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI04364	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI07766	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI08274	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI08645	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI10185	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI10570	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI13050	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI14645	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI15084	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI15184	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI15254	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI16746	En	Regulator of chromosome condensation, RCC1:IPR000408
+LOCMI04151	En	Beige/BEACH:IPR000409
+LOCMI07716	En	Beige/BEACH:IPR000409
+LOCMI10034	En	Beige/BEACH:IPR000409
+LOCMI10302	En	Beige/BEACH:IPR000409
+LOCMI15221	En	Beige/BEACH:IPR000409
+LOCMI07585	En	Integrin alpha chain:IPR000413
+LOCMI07684	En	Integrin alpha chain:IPR000413
+LOCMI12615	En	Integrin alpha chain:IPR000413
+LOCMI13746	En	Integrin alpha chain:IPR000413
+LOCMI14898	En	Integrin alpha chain:IPR000413
+LOCMI06426	En	Nitroreductase-like:IPR000415
+LOCMI10474	En	Ets:IPR000418
+LOCMI13207	En	Ets:IPR000418
+LOCMI13876	En	Ets:IPR000418
+LOCMI15745	En	Ets:IPR000418
+LOCMI15757	En	Ets:IPR000418
+LOCMI00046	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI00883	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI01960	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI03298	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI05128	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI06631	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI06755	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI06809	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI07163	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI11012	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI14682	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI16749	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI17052	En	Coagulation factor 5/8 type, C-terminal:IPR000421
+LOCMI01129	En	Primosome PriB/single-strand DNA-binding:IPR000424
+LOCMI11880	En	Primosome PriB/single-strand DNA-binding:IPR000424
+LOCMI06430	En	Major intrinsic protein:IPR000425
+LOCMI06431	En	Major intrinsic protein:IPR000425
+LOCMI08046	En	Major intrinsic protein:IPR000425
+LOCMI10502	En	Major intrinsic protein:IPR000425
+LOCMI10673	En	Major intrinsic protein:IPR000425
+LOCMI10674	En	Major intrinsic protein:IPR000425
+LOCMI10675	En	Major intrinsic protein:IPR000425
+LOCMI14139	En	Major intrinsic protein:IPR000425
+LOCMI15206	En	Major intrinsic protein:IPR000425
+LOCMI15210	En	Major intrinsic protein:IPR000425
+LOCMI00128	En	Proteasome, alpha-subunit, conserved site:IPR000426
+LOCMI01873	En	Proteasome, alpha-subunit, conserved site:IPR000426
+LOCMI02419	En	Proteasome, alpha-subunit, conserved site:IPR000426
+LOCMI02554	En	Proteasome, alpha-subunit, conserved site:IPR000426
+LOCMI02940	En	Proteasome, alpha-subunit, conserved site:IPR000426
+LOCMI03019	En	Proteasome, alpha-subunit, conserved site:IPR000426
+LOCMI11441	En	Proteasome, alpha-subunit, conserved site:IPR000426
+LOCMI13695	En	Proteasome, alpha-subunit, conserved site:IPR000426
+LOCMI06619	En	DNA mismatch repair protein MutS, C-terminal:IPR000432
+LOCMI12772	En	DNA mismatch repair protein MutS, C-terminal:IPR000432
+LOCMI13648	En	DNA mismatch repair protein MutS, C-terminal:IPR000432
+LOCMI14345	En	DNA mismatch repair protein MutS, C-terminal:IPR000432
+LOCMI05500	En	Zinc finger, ZZ-type:IPR000433
+LOCMI10100	En	Zinc finger, ZZ-type:IPR000433
+LOCMI12659	En	Zinc finger, ZZ-type:IPR000433
+LOCMI12753	En	Zinc finger, ZZ-type:IPR000433
+LOCMI12904	En	Zinc finger, ZZ-type:IPR000433
+LOCMI13975	En	Zinc finger, ZZ-type:IPR000433
+LOCMI15164	En	Zinc finger, ZZ-type:IPR000433
+LOCMI15254	En	Zinc finger, ZZ-type:IPR000433
+LOCMI16455	En	Zinc finger, ZZ-type:IPR000433
+LOCMI16756	En	Zinc finger, ZZ-type:IPR000433
+LOCMI10194	En	Tektin:IPR000435
+LOCMI10940	En	Tektin:IPR000435
+LOCMI15521	En	Tektin:IPR000435
+LOCMI03270	En	Sushi/SCR/CCP:IPR000436
+LOCMI04777	En	Sushi/SCR/CCP:IPR000436
+LOCMI05850	En	Sushi/SCR/CCP:IPR000436
+LOCMI05936	En	Sushi/SCR/CCP:IPR000436
+LOCMI06755	En	Sushi/SCR/CCP:IPR000436
+LOCMI07163	En	Sushi/SCR/CCP:IPR000436
+LOCMI09278	En	Sushi/SCR/CCP:IPR000436
+LOCMI10577	En	Sushi/SCR/CCP:IPR000436
+LOCMI11078	En	Sushi/SCR/CCP:IPR000436
+LOCMI11417	En	Sushi/SCR/CCP:IPR000436
+LOCMI11552	En	Sushi/SCR/CCP:IPR000436
+LOCMI14394	En	Sushi/SCR/CCP:IPR000436
+LOCMI16424	En	Sushi/SCR/CCP:IPR000436
+LOCMI07539	En	Ribosomal protein L15e:IPR000439
+LOCMI07682	En	Helix-hairpin-helix motif:IPR000445
+LOCMI10246	En	Helix-hairpin-helix motif:IPR000445
+LOCMI16056	En	FAD-dependent glycerol-3-phosphate dehydrogenase:IPR000447
+LOCMI01535	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI02210	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI02918	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI05328	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI05470	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI06686	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI10560	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI10847	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI11394	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI12804	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI14072	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI15435	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI17255	En	Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449
+LOCMI16301	En	NF-kappa-B/Rel/dorsal:IPR000451
+LOCMI16302	En	NF-kappa-B/Rel/dorsal:IPR000451
+LOCMI15911	En	ATPase, F0 complex, subunit C:IPR000454
+LOCMI05430	En	Ribosomal protein L17:IPR000456
+LOCMI15825	En	CDP-alcohol phosphatidyltransferase:IPR000462
+LOCMI16076	En	CDP-alcohol phosphatidyltransferase:IPR000462
+LOCMI16087	En	CDP-alcohol phosphatidyltransferase:IPR000462
+LOCMI00043	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI00208	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI00493	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI01404	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI03671	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI03672	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI03788	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI03790	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI03791	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI03793	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI04101	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI04395	En	Cytosolic fatty-acid binding:IPR000463
+LOCMI05788	En	XPA:IPR000465
+LOCMI05163	En	D111/G-patch:IPR000467
+LOCMI05183	En	D111/G-patch:IPR000467
+LOCMI07155	En	D111/G-patch:IPR000467
+LOCMI07627	En	D111/G-patch:IPR000467
+LOCMI07799	En	D111/G-patch:IPR000467
+LOCMI09188	En	D111/G-patch:IPR000467
+LOCMI09673	En	D111/G-patch:IPR000467
+LOCMI09863	En	D111/G-patch:IPR000467
+LOCMI14818	En	D111/G-patch:IPR000467
+LOCMI17078	En	D111/G-patch:IPR000467
+LOCMI17198	En	D111/G-patch:IPR000467
+LOCMI04214	En	G-protein alpha subunit, group 12:IPR000469
+LOCMI14331	En	G-protein alpha subunit, group 12:IPR000469
+LOCMI16536	En	TGF-beta receptor/activin receptor, type I/II:IPR000472
+LOCMI17180	En	TGF-beta receptor/activin receptor, type I/II:IPR000472
+LOCMI17277	En	TGF-beta receptor/activin receptor, type I/II:IPR000472
+LOCMI08559	En	Ribosomal protein L36:IPR000473
+LOCMI06373	En	Cation-independent mannose-6-phosphate receptor:IPR000479
+LOCMI03306	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI03828	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI04821	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI06741	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI07892	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI10084	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI10977	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI11225	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI11432	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI12686	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI12841	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI13268	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI13299	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI13988	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI14948	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI16408	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI16426	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI16464	En	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI02216	En	Death:IPR000488
+LOCMI02929	En	Death:IPR000488
+LOCMI05776	En	Death:IPR000488
+LOCMI10318	En	Death:IPR000488
+LOCMI16327	En	Death:IPR000488
+LOCMI16411	En	Death:IPR000488
+LOCMI17072	En	Death:IPR000488
+LOCMI15362	En	Inositol 1,4,5-trisphosphate-binding protein receptor:IPR000493
+LOCMI07370	En	EGF receptor, L domain:IPR000494
+LOCMI13588	En	EGF receptor, L domain:IPR000494
+LOCMI16333	En	EGF receptor, L domain:IPR000494
+LOCMI16363	En	EGF receptor, L domain:IPR000494
+LOCMI00242	En	RNA recognition motif domain:IPR000504
+LOCMI00485	En	RNA recognition motif domain:IPR000504
+LOCMI00531	En	RNA recognition motif domain:IPR000504
+LOCMI00614	En	RNA recognition motif domain:IPR000504
+LOCMI00689	En	RNA recognition motif domain:IPR000504
+LOCMI01019	En	RNA recognition motif domain:IPR000504
+LOCMI01122	En	RNA recognition motif domain:IPR000504
+LOCMI01239	En	RNA recognition motif domain:IPR000504
+LOCMI01302	En	RNA recognition motif domain:IPR000504
+LOCMI01592	En	RNA recognition motif domain:IPR000504
+LOCMI01929	En	RNA recognition motif domain:IPR000504
+LOCMI02134	En	RNA recognition motif domain:IPR000504
+LOCMI02275	En	RNA recognition motif domain:IPR000504
+LOCMI02323	En	RNA recognition motif domain:IPR000504
+LOCMI02453	En	RNA recognition motif domain:IPR000504
+LOCMI02851	En	RNA recognition motif domain:IPR000504
+LOCMI03025	En	RNA recognition motif domain:IPR000504
+LOCMI03521	En	RNA recognition motif domain:IPR000504
+LOCMI03532	En	RNA recognition motif domain:IPR000504
+LOCMI03533	En	RNA recognition motif domain:IPR000504
+LOCMI03638	En	RNA recognition motif domain:IPR000504
+LOCMI03757	En	RNA recognition motif domain:IPR000504
+LOCMI04188	En	RNA recognition motif domain:IPR000504
+LOCMI04258	En	RNA recognition motif domain:IPR000504
+LOCMI04350	En	RNA recognition motif domain:IPR000504
+LOCMI04654	En	RNA recognition motif domain:IPR000504
+LOCMI04759	En	RNA recognition motif domain:IPR000504
+LOCMI04945	En	RNA recognition motif domain:IPR000504
+LOCMI05143	En	RNA recognition motif domain:IPR000504
+LOCMI05188	En	RNA recognition motif domain:IPR000504
+LOCMI05216	En	RNA recognition motif domain:IPR000504
+LOCMI05461	En	RNA recognition motif domain:IPR000504
+LOCMI05815	En	RNA recognition motif domain:IPR000504
+LOCMI05868	En	RNA recognition motif domain:IPR000504
+LOCMI05948	En	RNA recognition motif domain:IPR000504
+LOCMI06003	En	RNA recognition motif domain:IPR000504
+LOCMI06065	En	RNA recognition motif domain:IPR000504
+LOCMI06079	En	RNA recognition motif domain:IPR000504
+LOCMI06497	En	RNA recognition motif domain:IPR000504
+LOCMI06531	En	RNA recognition motif domain:IPR000504
+LOCMI06681	En	RNA recognition motif domain:IPR000504
+LOCMI07000	En	RNA recognition motif domain:IPR000504
+LOCMI07033	En	RNA recognition motif domain:IPR000504
+LOCMI07078	En	RNA recognition motif domain:IPR000504
+LOCMI07281	En	RNA recognition motif domain:IPR000504
+LOCMI07321	En	RNA recognition motif domain:IPR000504
+LOCMI07500	En	RNA recognition motif domain:IPR000504
+LOCMI07795	En	RNA recognition motif domain:IPR000504
+LOCMI07899	En	RNA recognition motif domain:IPR000504
+LOCMI08703	En	RNA recognition motif domain:IPR000504
+LOCMI09017	En	RNA recognition motif domain:IPR000504
+LOCMI09143	En	RNA recognition motif domain:IPR000504
+LOCMI09188	En	RNA recognition motif domain:IPR000504
+LOCMI09459	En	RNA recognition motif domain:IPR000504
+LOCMI09768	En	RNA recognition motif domain:IPR000504
+LOCMI09866	En	RNA recognition motif domain:IPR000504
+LOCMI09912	En	RNA recognition motif domain:IPR000504
+LOCMI09929	En	RNA recognition motif domain:IPR000504
+LOCMI10358	En	RNA recognition motif domain:IPR000504
+LOCMI10410	En	RNA recognition motif domain:IPR000504
+LOCMI10419	En	RNA recognition motif domain:IPR000504
+LOCMI10527	En	RNA recognition motif domain:IPR000504
+LOCMI10754	En	RNA recognition motif domain:IPR000504
+LOCMI10770	En	RNA recognition motif domain:IPR000504
+LOCMI11118	En	RNA recognition motif domain:IPR000504
+LOCMI11152	En	RNA recognition motif domain:IPR000504
+LOCMI11349	En	RNA recognition motif domain:IPR000504
+LOCMI11830	En	RNA recognition motif domain:IPR000504
+LOCMI11920	En	RNA recognition motif domain:IPR000504
+LOCMI11951	En	RNA recognition motif domain:IPR000504
+LOCMI12158	En	RNA recognition motif domain:IPR000504
+LOCMI12188	En	RNA recognition motif domain:IPR000504
+LOCMI12371	En	RNA recognition motif domain:IPR000504
+LOCMI12386	En	RNA recognition motif domain:IPR000504
+LOCMI12498	En	RNA recognition motif domain:IPR000504
+LOCMI12515	En	RNA recognition motif domain:IPR000504
+LOCMI12933	En	RNA recognition motif domain:IPR000504
+LOCMI12951	En	RNA recognition motif domain:IPR000504
+LOCMI13003	En	RNA recognition motif domain:IPR000504
+LOCMI13253	En	RNA recognition motif domain:IPR000504
+LOCMI13264	En	RNA recognition motif domain:IPR000504
+LOCMI13411	En	RNA recognition motif domain:IPR000504
+LOCMI13577	En	RNA recognition motif domain:IPR000504
+LOCMI13711	En	RNA recognition motif domain:IPR000504
+LOCMI13879	En	RNA recognition motif domain:IPR000504
+LOCMI13888	En	RNA recognition motif domain:IPR000504
+LOCMI14274	En	RNA recognition motif domain:IPR000504
+LOCMI14318	En	RNA recognition motif domain:IPR000504
+LOCMI14327	En	RNA recognition motif domain:IPR000504
+LOCMI14493	En	RNA recognition motif domain:IPR000504
+LOCMI14537	En	RNA recognition motif domain:IPR000504
+LOCMI14643	En	RNA recognition motif domain:IPR000504
+LOCMI15119	En	RNA recognition motif domain:IPR000504
+LOCMI15138	En	RNA recognition motif domain:IPR000504
+LOCMI16289	En	RNA recognition motif domain:IPR000504
+LOCMI16312	En	RNA recognition motif domain:IPR000504
+LOCMI16374	En	RNA recognition motif domain:IPR000504
+LOCMI16470	En	RNA recognition motif domain:IPR000504
+LOCMI16479	En	RNA recognition motif domain:IPR000504
+LOCMI16505	En	RNA recognition motif domain:IPR000504
+LOCMI16517	En	RNA recognition motif domain:IPR000504
+LOCMI16524	En	RNA recognition motif domain:IPR000504
+LOCMI16549	En	RNA recognition motif domain:IPR000504
+LOCMI16550	En	RNA recognition motif domain:IPR000504
+LOCMI16561	En	RNA recognition motif domain:IPR000504
+LOCMI16578	En	RNA recognition motif domain:IPR000504
+LOCMI16631	En	RNA recognition motif domain:IPR000504
+LOCMI16692	En	RNA recognition motif domain:IPR000504
+LOCMI16707	En	RNA recognition motif domain:IPR000504
+LOCMI16750	En	RNA recognition motif domain:IPR000504
+LOCMI16771	En	RNA recognition motif domain:IPR000504
+LOCMI16780	En	RNA recognition motif domain:IPR000504
+LOCMI16788	En	RNA recognition motif domain:IPR000504
+LOCMI16796	En	RNA recognition motif domain:IPR000504
+LOCMI16809	En	RNA recognition motif domain:IPR000504
+LOCMI16820	En	RNA recognition motif domain:IPR000504
+LOCMI17059	En	RNA recognition motif domain:IPR000504
+LOCMI17082	En	RNA recognition motif domain:IPR000504
+LOCMI17089	En	RNA recognition motif domain:IPR000504
+LOCMI17095	En	RNA recognition motif domain:IPR000504
+LOCMI17100	En	RNA recognition motif domain:IPR000504
+LOCMI17151	En	RNA recognition motif domain:IPR000504
+LOCMI17154	En	RNA recognition motif domain:IPR000504
+LOCMI17191	En	RNA recognition motif domain:IPR000504
+LOCMI17198	En	RNA recognition motif domain:IPR000504
+LOCMI17238	En	RNA recognition motif domain:IPR000504
+LOCMI17285	En	RNA recognition motif domain:IPR000504
+LOCMI17327	En	RNA recognition motif domain:IPR000504
+LOCMI17342	En	RNA recognition motif domain:IPR000504
+LOCMI11068	En	Ribosomal protein L36e:IPR000509
+LOCMI13143	En	Ribosomal protein L36e:IPR000509
+LOCMI14118	En	Cytochrome c/c1 haem-lyase:IPR000511
+LOCMI01556	En	Glycoside hydrolase, family 39:IPR000514
+LOCMI03991	En	Glycoside hydrolase, family 39:IPR000514
+LOCMI09105	En	P-type trefoil:IPR000519
+LOCMI11278	En	Ribosomal protein S6:IPR000529
+LOCMI03595	En	Ribosomal protein S12e:IPR000530
+LOCMI06804	En	Ribosomal protein S12e:IPR000530
+LOCMI06662	En	Tropomyosin:IPR000533
+LOCMI07844	En	Tropomyosin:IPR000533
+LOCMI09093	En	Major sperm protein:IPR000535
+LOCMI14192	En	Major sperm protein:IPR000535
+LOCMI16326	En	Major sperm protein:IPR000535
+LOCMI07123	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI12252	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI15752	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI16345	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI16346	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI16400	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI16476	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI16491	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI16509	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI16518	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI17212	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI17305	En	Nuclear hormone receptor, ligand-binding, core:IPR000536
+LOCMI06768	En	UbiA prenyltransferase:IPR000537
+LOCMI07253	En	UbiA prenyltransferase:IPR000537
+LOCMI07254	En	UbiA prenyltransferase:IPR000537
+LOCMI15810	En	UbiA prenyltransferase:IPR000537
+LOCMI00069	En	Frizzled protein:IPR000539
+LOCMI13778	En	Frizzled protein:IPR000539
+LOCMI14704	En	Frizzled protein:IPR000539
+LOCMI01577	En	tRNA 2-thiolation protein:IPR000541
+LOCMI02716	En	Acyltransferase ChoActase/COT/CPT:IPR000542
+LOCMI11452	En	Acyltransferase ChoActase/COT/CPT:IPR000542
+LOCMI15864	En	Acyltransferase ChoActase/COT/CPT:IPR000542
+LOCMI15897	En	Acyltransferase ChoActase/COT/CPT:IPR000542
+LOCMI15942	En	Acyltransferase ChoActase/COT/CPT:IPR000542
+LOCMI15951	En	Acyltransferase ChoActase/COT/CPT:IPR000542
+LOCMI16324	En	Acyltransferase ChoActase/COT/CPT:IPR000542
+LOCMI13719	En	Octanoyltransferase:IPR000544
+LOCMI02756	En	Clathrin, heavy chain/VPS, 7-fold repeat:IPR000547
+LOCMI16295	En	Clathrin, heavy chain/VPS, 7-fold repeat:IPR000547
+LOCMI03500	En	Ribosomal protein L44e:IPR000552
+LOCMI12288	En	Ribosomal protein L44e:IPR000552
+LOCMI13370	En	Ribosomal protein S7e:IPR000554
+LOCMI02973	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI03806	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI04681	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI05521	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI06914	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI08609	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI09460	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI11969	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI12699	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI13509	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI16803	En	Mov34/MPN/PAD-1:IPR000555
+LOCMI02515	En	Calponin repeat:IPR000557
+LOCMI15280	En	Calponin repeat:IPR000557
+LOCMI17273	En	Calponin repeat:IPR000557
+LOCMI00625	En	Histone H2B:IPR000558
+LOCMI01686	En	Histone H2B:IPR000558
+LOCMI02904	En	Histone H2B:IPR000558
+LOCMI03330	En	Histone H2B:IPR000558
+LOCMI03602	En	Histone H2B:IPR000558
+LOCMI04187	En	Histone H2B:IPR000558
+LOCMI05509	En	Histone H2B:IPR000558
+LOCMI06259	En	Histone H2B:IPR000558
+LOCMI07640	En	Histone H2B:IPR000558
+LOCMI08350	En	Histone H2B:IPR000558
+LOCMI11059	En	Histone H2B:IPR000558
+LOCMI11939	En	Histone H2B:IPR000558
+LOCMI12471	En	Histone H2B:IPR000558
+LOCMI13348	En	Histone H2B:IPR000558
+LOCMI13526	En	Histone H2B:IPR000558
+LOCMI15324	En	Histone H2B:IPR000558
+LOCMI08228	En	Formate-tetrahydrofolate ligase, FTHFS:IPR000559
+LOCMI01901	En	Histidine phosphatase superfamily, clade-2:IPR000560
+LOCMI04419	En	Histidine phosphatase superfamily, clade-2:IPR000560
+LOCMI05998	En	Histidine phosphatase superfamily, clade-2:IPR000560
+LOCMI07809	En	Histidine phosphatase superfamily, clade-2:IPR000560
+LOCMI08010	En	Histidine phosphatase superfamily, clade-2:IPR000560
+LOCMI10963	En	Histidine phosphatase superfamily, clade-2:IPR000560
+LOCMI15054	En	Histidine phosphatase superfamily, clade-2:IPR000560
+LOCMI00043	En	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI00208	En	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI02988	En	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI03534	En	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI03671	En	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI03672	En	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI04101	En	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI04152	En	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI04395	En	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI00793	En	HECT:IPR000569
+LOCMI06652	En	HECT:IPR000569
+LOCMI08137	En	HECT:IPR000569
+LOCMI08308	En	HECT:IPR000569
+LOCMI10185	En	HECT:IPR000569
+LOCMI11711	En	HECT:IPR000569
+LOCMI12209	En	HECT:IPR000569
+LOCMI13374	En	HECT:IPR000569
+LOCMI14072	En	HECT:IPR000569
+LOCMI14884	En	HECT:IPR000569
+LOCMI15084	En	HECT:IPR000569
+LOCMI15254	En	HECT:IPR000569
+LOCMI16305	En	HECT:IPR000569
+LOCMI16386	En	HECT:IPR000569
+LOCMI16414	En	HECT:IPR000569
+LOCMI17087	En	HECT:IPR000569
+LOCMI00648	En	Zinc finger, CCCH-type:IPR000571
+LOCMI02618	En	Zinc finger, CCCH-type:IPR000571
+LOCMI03711	En	Zinc finger, CCCH-type:IPR000571
+LOCMI04995	En	Zinc finger, CCCH-type:IPR000571
+LOCMI05623	En	Zinc finger, CCCH-type:IPR000571
+LOCMI06681	En	Zinc finger, CCCH-type:IPR000571
+LOCMI06683	En	Zinc finger, CCCH-type:IPR000571
+LOCMI07301	En	Zinc finger, CCCH-type:IPR000571
+LOCMI07480	En	Zinc finger, CCCH-type:IPR000571
+LOCMI08275	En	Zinc finger, CCCH-type:IPR000571
+LOCMI09024	En	Zinc finger, CCCH-type:IPR000571
+LOCMI09709	En	Zinc finger, CCCH-type:IPR000571
+LOCMI09749	En	Zinc finger, CCCH-type:IPR000571
+LOCMI12192	En	Zinc finger, CCCH-type:IPR000571
+LOCMI13254	En	Zinc finger, CCCH-type:IPR000571
+LOCMI13775	En	Zinc finger, CCCH-type:IPR000571
+LOCMI14342	En	Zinc finger, CCCH-type:IPR000571
+LOCMI17238	En	Zinc finger, CCCH-type:IPR000571
+LOCMI17342	En	Zinc finger, CCCH-type:IPR000571
+LOCMI02373	En	Oxidoreductase, molybdopterin-binding domain:IPR000572
+LOCMI06818	En	Oxidoreductase, molybdopterin-binding domain:IPR000572
+LOCMI09928	En	Oxidoreductase, molybdopterin-binding domain:IPR000572

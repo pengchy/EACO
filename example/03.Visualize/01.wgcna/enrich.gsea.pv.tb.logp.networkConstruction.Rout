@@ -1,0 +1,159 @@
+
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-unknown-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> library(WGCNA)
+Loading required package: dynamicTreeCut
+Loading required package: flashClust
+
+Attaching package: 'flashClust'
+
+The following object is masked from 'package:stats':
+
+    hclust
+
+Loading required package: Hmisc
+Loading required package: grid
+Loading required package: lattice
+Loading required package: survival
+Loading required package: splines
+Loading required package: Formula
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:base':
+
+    format.pval, round.POSIXt, trunc.POSIXt, units
+
+Loading required package: impute
+Loading required package: foreach
+Loading required package: doParallel
+Loading required package: iterators
+Loading required package: parallel
+Loading required package: reshape
+Loading required package: plyr
+
+Attaching package: 'plyr'
+
+The following objects are masked from 'package:Hmisc':
+
+    is.discrete, summarize
+
+
+Attaching package: 'reshape'
+
+The following objects are masked from 'package:plyr':
+
+    rename, round_any
+
+==========================================================================
+*
+*  Package WGCNA 1.36 loaded.
+*
+*    Important note: It appears that your system supports multi-threading,
+*    but it is not enabled within WGCNA in R. 
+*    To allow multi-threading within WGCNA with all available cores, use 
+*
+*          allowWGCNAThreads()
+*
+*    within R. Use disableWGCNAThreads() to disable threading if necessary.
+*    Alternatively, set the following environment variable on your system:
+*
+*          ALLOW_WGCNA_THREADS=<number_of_processors>
+*
+*    for example 
+*
+*          ALLOW_WGCNA_THREADS=24
+*
+*    To set the environment variable in linux bash shell, type 
+*
+*           export ALLOW_WGCNA_THREADS=24
+*
+*     before running R. Other operating systems or shells will
+*     have a similar command to achieve the same aim.
+*
+==========================================================================
+
+
+
+Attaching package: 'WGCNA'
+
+The following object is masked from 'package:stats':
+
+    cor
+
+> load("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.expr.RData")
+> #construct network step-by-step
+> enableWGCNAThreads()
+Allowing parallel execution with up to 23 working processes.
+> #Co-expression similarity and adjacency
+> adjacency <- adjacency(datExpr, power = 1,type="signed");
+> # Turn adjacency into topological overlap
+> TOM = TOMsimilarity(adjacency);
+..connectivity..
+..matrix multiplication..
+..normalization..
+..done.
+> dimnames(TOM) <- dimnames(adjacency)
+> dissTOM = 1-TOM
+> save(adjacency,dissTOM,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.networkConstruction.TOM.RData")
+> geneTree = flashClust(as.dist(dissTOM), method = "average")
+> dynamicMods = cutreeDynamic(dendro = geneTree, distM = dissTOM,
++ 		deepSplit = 2, pamRespectsDendro = FALSE,
++ 		minClusterSize = 20);
+ ..cutHeight not given, setting it to 0.641  ===>  99% of the (truncated) height range in dendro.
+ cutHeight set too low: no merges below the cut.
+> table(dynamicMods)
+dynamicMods
+0 
+6 
+> dynamicColors = labels2colors(dynamicMods)
+> table(dynamicColors)
+dynamicColors
+grey 
+   6 
+> # Plot the dendrogram and the module colors underneath
+> pdf("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.DendroAndColors.pdf")
+> plotDendroAndColors(geneTree, dynamicColors, "Dynamic Tree Cut",
++ 		dendroLabels = FALSE, hang = 0.03,
++ 		addGuide = TRUE, guideHang = 0.05,
++ 		main = "Gene dendrogram and module colors")
+Warning message:
+In pmin(objHeights[dendro$order][floor(positions)], objHeights[dendro$order][ceiling(positions)]) :
+  an argument will be fractionally recycled
+> dev.off()
+null device 
+          1 
+> 
+> if(identical("N","Y")){
++ 	merged <- mergeCloseModules(datExpr, dynamicColors, cutHeight = 0.2,verbos=3)
++ 	pdf("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.DendroAndColors.after_merge.pdf")
++ 	plotDendroAndColors(geneTree, cbind(dynamicColors,merged$colors),
++ 			c("Dynamic Tree Cut","Merged Dynamic"),dendroLabels = FALSE, hang = 0.03,
++ 			addGuide = TRUE, guideHang = 0.05,main = "Gene dendrogram and module colors")
++ 	dev.off()
++ 	dynamicColors <- merged$colors
++ }
+> 
+> save(datExpr,dynamicColors,adjacency,TOM,geneTree,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.for_net_trait.RData")
+> 
+> save(datExpr,expr,dynamicMods,dynamicColors,geneTree,
++ 			file = "/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.networkConstruction.RData")
+> q('no')
+> proc.time()
+   user  system elapsed 
+  1.203   0.174   1.458 

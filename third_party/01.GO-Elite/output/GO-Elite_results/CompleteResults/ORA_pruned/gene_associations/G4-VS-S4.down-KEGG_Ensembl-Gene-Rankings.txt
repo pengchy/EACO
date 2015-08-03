@@ -1,0 +1,5 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI17331	LOCMI17331	Q0Z942_TRICA Chitinase 7	1	1.0	LOCMI17331	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI17048	LOCMI17048	chitinase 5 precursor	1	1.0	LOCMI17048	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI15467	LOCMI15467	PREDICTED: chitooligosaccharidolytic beta-N-acetylglucosaminidase-like	1	1.0	LOCMI15467	Amino sugar and nucleotide sugar metabolism:map00520
+LOCMI13600	LOCMI13600	Q0Z939_TRICA Chitinase 10	1	1.0	LOCMI13600	Amino sugar and nucleotide sugar metabolism:map00520

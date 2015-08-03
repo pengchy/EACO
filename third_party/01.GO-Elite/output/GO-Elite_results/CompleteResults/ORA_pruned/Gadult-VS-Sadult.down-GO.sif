@@ -1,0 +1,744 @@
+serine hydrolase activity	pr	LOCMI05127:LOCMI05127
+serine hydrolase activity	pr	LOCMI01848:LOCMI01848
+serine hydrolase activity	pr	LOCMI01942:LOCMI01942
+serine hydrolase activity	pr	LOCMI15039:LOCMI15039
+serine hydrolase activity	pr	LOCMI15035:LOCMI15035
+serine hydrolase activity	pr	LOCMI12964:LOCMI12964
+serine hydrolase activity	pr	LOCMI06844:LOCMI06844
+serine hydrolase activity	pr	LOCMI04023:LOCMI04023
+serine hydrolase activity	pr	LOCMI00053:LOCMI00053
+serine hydrolase activity	pr	LOCMI07517:LOCMI07517
+serine hydrolase activity	pr	LOCMI14929:LOCMI14929
+serine hydrolase activity	pr	LOCMI08944:LOCMI08944
+serine hydrolase activity	pr	LOCMI02805:LOCMI02805
+serine hydrolase activity	pr	LOCMI08721:LOCMI08721
+serine hydrolase activity	pr	LOCMI07248:LOCMI07248
+serine hydrolase activity	pr	LOCMI15127:LOCMI15127
+serine hydrolase activity	pr	LOCMI15126:LOCMI15126
+serine hydrolase activity	pr	LOCMI11832:LOCMI11832
+GTPase activity	pr	LOCMI03952:LOCMI03952
+GTPase activity	pr	LOCMI09660:LOCMI09660
+GTPase activity	pr	LOCMI03396:LOCMI03396
+GTPase activity	pr	LOCMI14534:LOCMI14534
+GTPase activity	pr	LOCMI02568:LOCMI02568
+GTPase activity	pr	LOCMI06666:LOCMI06666
+GTPase activity	pr	LOCMI10225:LOCMI10225
+GTPase activity	pr	LOCMI05719:LOCMI05719
+GTPase activity	pr	LOCMI15262:LOCMI15262
+GTPase activity	pr	LOCMI13837:LOCMI13837
+GTPase activity	pr	LOCMI03994:LOCMI03994
+GTPase activity	pr	LOCMI09724:LOCMI09724
+phosphotransferase activity, phosphate group as acceptor	pr	LOCMI00523:LOCMI00523
+phosphotransferase activity, phosphate group as acceptor	pr	LOCMI00320:LOCMI00320
+phosphotransferase activity, phosphate group as acceptor	pr	LOCMI00179:LOCMI00179
+phosphotransferase activity, phosphate group as acceptor	pr	LOCMI00732:LOCMI00732
+lipid binding	pr	LOCMI14316:LOCMI14316
+lipid binding	pr	LOCMI13327:LOCMI13327
+lipid binding	pr	LOCMI12340:LOCMI12340
+lipid binding	pr	LOCMI00208:LOCMI00208
+lipid binding	pr	LOCMI11326:LOCMI11326
+lipid binding	pr	LOCMI00650:LOCMI00650
+lipid binding	pr	LOCMI13554:LOCMI13554
+lipid binding	pr	LOCMI13181:LOCMI13181
+structural constituent of ribosome	pr	LOCMI05551:LOCMI05551
+structural constituent of ribosome	pr	LOCMI09779:LOCMI09779
+structural constituent of ribosome	pr	LOCMI06804:LOCMI06804
+structural constituent of ribosome	pr	LOCMI13842:LOCMI13842
+structural constituent of ribosome	pr	LOCMI08559:LOCMI08559
+structural constituent of ribosome	pr	LOCMI15205:LOCMI15205
+structural constituent of ribosome	pr	LOCMI13569:LOCMI13569
+structural constituent of ribosome	pr	LOCMI07012:LOCMI07012
+structural constituent of ribosome	pr	LOCMI07397:LOCMI07397
+structural constituent of ribosome	pr	LOCMI13315:LOCMI13315
+structural constituent of ribosome	pr	LOCMI09731:LOCMI09731
+structural constituent of ribosome	pr	LOCMI09637:LOCMI09637
+structural constituent of ribosome	pr	LOCMI14132:LOCMI14132
+structural constituent of ribosome	pr	LOCMI10304:LOCMI10304
+structural constituent of ribosome	pr	LOCMI03696:LOCMI03696
+structural constituent of ribosome	pr	LOCMI10621:LOCMI10621
+structural constituent of ribosome	pr	LOCMI01789:LOCMI01789
+structural constituent of ribosome	pr	LOCMI09539:LOCMI09539
+structural constituent of ribosome	pr	LOCMI04006:LOCMI04006
+structural constituent of ribosome	pr	LOCMI08029:LOCMI08029
+structural constituent of ribosome	pr	LOCMI00130:LOCMI00130
+structural constituent of ribosome	pr	LOCMI09135:LOCMI09135
+structural constituent of ribosome	pr	LOCMI13545:LOCMI13545
+structural constituent of ribosome	pr	LOCMI07886:LOCMI07886
+structural constituent of ribosome	pr	LOCMI11190:LOCMI11190
+structural constituent of ribosome	pr	LOCMI11617:LOCMI11617
+structural constituent of ribosome	pr	LOCMI05114:LOCMI05114
+structural constituent of ribosome	pr	LOCMI13370:LOCMI13370
+translational initiation	pr	LOCMI06065:LOCMI06065
+translational initiation	pr	LOCMI06570:LOCMI06570
+translational initiation	pr	LOCMI07367:LOCMI07367
+translational initiation	pr	LOCMI07650:LOCMI07650
+guanyl nucleotide binding	pr	LOCMI07118:LOCMI07118
+guanyl nucleotide binding	pr	LOCMI07309:LOCMI07309
+guanyl nucleotide binding	pr	LOCMI15220:LOCMI15220
+guanyl nucleotide binding	pr	LOCMI03952:LOCMI03952
+guanyl nucleotide binding	pr	LOCMI09660:LOCMI09660
+guanyl nucleotide binding	pr	LOCMI03396:LOCMI03396
+guanyl nucleotide binding	pr	LOCMI14101:LOCMI14101
+guanyl nucleotide binding	pr	LOCMI10713:LOCMI10713
+guanyl nucleotide binding	pr	LOCMI01390:LOCMI01390
+guanyl nucleotide binding	pr	LOCMI14534:LOCMI14534
+guanyl nucleotide binding	pr	LOCMI02145:LOCMI02145
+guanyl nucleotide binding	pr	LOCMI02568:LOCMI02568
+guanyl nucleotide binding	pr	LOCMI06666:LOCMI06666
+guanyl nucleotide binding	pr	LOCMI10225:LOCMI10225
+guanyl nucleotide binding	pr	LOCMI05719:LOCMI05719
+guanyl nucleotide binding	pr	LOCMI15262:LOCMI15262
+guanyl nucleotide binding	pr	LOCMI13837:LOCMI13837
+guanyl nucleotide binding	pr	LOCMI03993:LOCMI03993
+guanyl nucleotide binding	pr	LOCMI03994:LOCMI03994
+guanyl nucleotide binding	pr	LOCMI09724:LOCMI09724
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI03826:LOCMI03826
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI02318:LOCMI02318
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI07206:LOCMI07206
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI08912:LOCMI08912
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI03958:LOCMI03958
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI10967:LOCMI10967
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI06502:LOCMI06502
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI04924:LOCMI04924
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI05299:LOCMI05299
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI01718:LOCMI01718
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI00534:LOCMI00534
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI04105:LOCMI04105
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI03914:LOCMI03914
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI16027:LOCMI16027
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI09623:LOCMI09623
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI00215:LOCMI00215
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI03142:LOCMI03142
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI09283:LOCMI09283
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI05086:LOCMI05086
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI11820:LOCMI11820
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI02464:LOCMI02464
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI02469:LOCMI02469
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI13901:LOCMI13901
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI16098:LOCMI16098
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI00174:LOCMI00174
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI07021:LOCMI07021
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI08663:LOCMI08663
+hydrolase activity, acting on glycosyl bonds	pr	LOCMI15933:LOCMI15933
+macromolecular complex subunit organization	pr	LOCMI03091:LOCMI03091
+macromolecular complex subunit organization	pr	LOCMI09660:LOCMI09660
+macromolecular complex subunit organization	pr	LOCMI03396:LOCMI03396
+macromolecular complex subunit organization	pr	LOCMI14534:LOCMI14534
+macromolecular complex subunit organization	pr	LOCMI03344:LOCMI03344
+macromolecular complex subunit organization	pr	LOCMI02568:LOCMI02568
+macromolecular complex subunit organization	pr	LOCMI10225:LOCMI10225
+macromolecular complex subunit organization	pr	LOCMI13837:LOCMI13837
+macromolecular complex subunit organization	pr	LOCMI09724:LOCMI09724
+macromolecular complex subunit organization	pr	LOCMI10395:LOCMI10395
+response to abiotic stimulus	pr	LOCMI01162:LOCMI01162
+response to abiotic stimulus	pr	LOCMI01163:LOCMI01163
+response to abiotic stimulus	pr	LOCMI15512:LOCMI15512
+threonine-type peptidase activity	pr	LOCMI00466:LOCMI00466
+threonine-type peptidase activity	pr	LOCMI13695:LOCMI13695
+threonine-type peptidase activity	pr	LOCMI10127:LOCMI10127
+threonine-type peptidase activity	pr	LOCMI03019:LOCMI03019
+threonine-type peptidase activity	pr	LOCMI01417:LOCMI01417
+protein targeting	pr	LOCMI07771:LOCMI07771
+protein targeting	pr	LOCMI00016:LOCMI00016
+protein targeting	pr	LOCMI07932:LOCMI07932
+protein targeting	pr	LOCMI10612:LOCMI10612
+cellular component assembly	pr	LOCMI03091:LOCMI03091
+cellular component assembly	pr	LOCMI09660:LOCMI09660
+cellular component assembly	pr	LOCMI03396:LOCMI03396
+cellular component assembly	pr	LOCMI14534:LOCMI14534
+cellular component assembly	pr	LOCMI03344:LOCMI03344
+cellular component assembly	pr	LOCMI02568:LOCMI02568
+cellular component assembly	pr	LOCMI10225:LOCMI10225
+cellular component assembly	pr	LOCMI13837:LOCMI13837
+cellular component assembly	pr	LOCMI09724:LOCMI09724
+cellular component assembly	pr	LOCMI10395:LOCMI10395
+cytoplasm	pr	LOCMI13781:LOCMI13781
+cytoplasm	pr	LOCMI05551:LOCMI05551
+cytoplasm	pr	LOCMI07771:LOCMI07771
+cytoplasm	pr	LOCMI13327:LOCMI13327
+cytoplasm	pr	LOCMI13454:LOCMI13454
+cytoplasm	pr	LOCMI09779:LOCMI09779
+cytoplasm	pr	LOCMI06804:LOCMI06804
+cytoplasm	pr	LOCMI14671:LOCMI14671
+cytoplasm	pr	LOCMI12974:LOCMI12974
+cytoplasm	pr	LOCMI13842:LOCMI13842
+cytoplasm	pr	LOCMI08559:LOCMI08559
+cytoplasm	pr	LOCMI15976:LOCMI15976
+cytoplasm	pr	LOCMI15205:LOCMI15205
+cytoplasm	pr	LOCMI01205:LOCMI01205
+cytoplasm	pr	LOCMI00016:LOCMI00016
+cytoplasm	pr	LOCMI15853:LOCMI15853
+cytoplasm	pr	LOCMI13569:LOCMI13569
+cytoplasm	pr	LOCMI16102:LOCMI16102
+cytoplasm	pr	LOCMI07012:LOCMI07012
+cytoplasm	pr	LOCMI07397:LOCMI07397
+cytoplasm	pr	LOCMI13315:LOCMI13315
+cytoplasm	pr	LOCMI09731:LOCMI09731
+cytoplasm	pr	LOCMI00371:LOCMI00371
+cytoplasm	pr	LOCMI09637:LOCMI09637
+cytoplasm	pr	LOCMI14132:LOCMI14132
+cytoplasm	pr	LOCMI04416:LOCMI04416
+cytoplasm	pr	LOCMI13966:LOCMI13966
+cytoplasm	pr	LOCMI15220:LOCMI15220
+cytoplasm	pr	LOCMI07932:LOCMI07932
+cytoplasm	pr	LOCMI07265:LOCMI07265
+cytoplasm	pr	LOCMI04146:LOCMI04146
+cytoplasm	pr	LOCMI02404:LOCMI02404
+cytoplasm	pr	LOCMI07514:LOCMI07514
+cytoplasm	pr	LOCMI03777:LOCMI03777
+cytoplasm	pr	LOCMI11743:LOCMI11743
+cytoplasm	pr	LOCMI10304:LOCMI10304
+cytoplasm	pr	LOCMI03696:LOCMI03696
+cytoplasm	pr	LOCMI10621:LOCMI10621
+cytoplasm	pr	LOCMI15981:LOCMI15981
+cytoplasm	pr	LOCMI13556:LOCMI13556
+cytoplasm	pr	LOCMI13091:LOCMI13091
+cytoplasm	pr	LOCMI02937:LOCMI02937
+cytoplasm	pr	LOCMI09944:LOCMI09944
+cytoplasm	pr	LOCMI01789:LOCMI01789
+cytoplasm	pr	LOCMI09028:LOCMI09028
+cytoplasm	pr	LOCMI15895:LOCMI15895
+cytoplasm	pr	LOCMI01611:LOCMI01611
+cytoplasm	pr	LOCMI09539:LOCMI09539
+cytoplasm	pr	LOCMI04006:LOCMI04006
+cytoplasm	pr	LOCMI08029:LOCMI08029
+cytoplasm	pr	LOCMI15070:LOCMI15070
+cytoplasm	pr	LOCMI00130:LOCMI00130
+cytoplasm	pr	LOCMI04167:LOCMI04167
+cytoplasm	pr	LOCMI15837:LOCMI15837
+cytoplasm	pr	LOCMI09135:LOCMI09135
+cytoplasm	pr	LOCMI15125:LOCMI15125
+cytoplasm	pr	LOCMI13545:LOCMI13545
+cytoplasm	pr	LOCMI07886:LOCMI07886
+cytoplasm	pr	LOCMI15780:LOCMI15780
+cytoplasm	pr	LOCMI17116:LOCMI17116
+cytoplasm	pr	LOCMI11190:LOCMI11190
+cytoplasm	pr	LOCMI04546:LOCMI04546
+cytoplasm	pr	LOCMI11617:LOCMI11617
+cytoplasm	pr	LOCMI01517:LOCMI01517
+cytoplasm	pr	LOCMI16006:LOCMI16006
+cytoplasm	pr	LOCMI05114:LOCMI05114
+cytoplasm	pr	LOCMI16008:LOCMI16008
+cytoplasm	pr	LOCMI15842:LOCMI15842
+cytoplasm	pr	LOCMI14746:LOCMI14746
+cytoplasm	pr	LOCMI10636:LOCMI10636
+cytoplasm	pr	LOCMI13370:LOCMI13370
+cytoplasm	pr	LOCMI15933:LOCMI15933
+cytoplasm	pr	LOCMI07468:LOCMI07468
+cytoplasm	pr	LOCMI01152:LOCMI01152
+unfolded protein binding	pr	LOCMI12974:LOCMI12974
+unfolded protein binding	pr	LOCMI05600:LOCMI05600
+unfolded protein binding	pr	LOCMI15491:LOCMI15491
+unfolded protein binding	pr	LOCMI13556:LOCMI13556
+unfolded protein binding	pr	LOCMI04087:LOCMI04087
+unfolded protein binding	pr	LOCMI09944:LOCMI09944
+unfolded protein binding	pr	LOCMI04546:LOCMI04546
+unfolded protein binding	pr	LOCMI17354:LOCMI17354
+regulation of biological quality	pr	LOCMI14553:LOCMI14553
+regulation of biological quality	pr	LOCMI03605:LOCMI03605
+regulation of biological quality	pr	LOCMI00251:LOCMI00251
+regulation of biological quality	pr	LOCMI14448:LOCMI14448
+regulation of biological quality	pr	LOCMI05622:LOCMI05622
+regulation of biological quality	pr	LOCMI00361:LOCMI00361
+regulation of biological quality	pr	LOCMI06703:LOCMI06703
+regulation of biological quality	pr	LOCMI04589:LOCMI04589
+metabolic process	pr	LOCMI13781:LOCMI13781
+metabolic process	pr	LOCMI16354:LOCMI16354
+metabolic process	pr	LOCMI15801:LOCMI15801
+metabolic process	pr	LOCMI05791:LOCMI05791
+metabolic process	pr	LOCMI00466:LOCMI00466
+metabolic process	pr	LOCMI05127:LOCMI05127
+metabolic process	pr	LOCMI05551:LOCMI05551
+metabolic process	pr	LOCMI05499:LOCMI05499
+metabolic process	pr	LOCMI01936:LOCMI01936
+metabolic process	pr	LOCMI16459:LOCMI16459
+metabolic process	pr	LOCMI11184:LOCMI11184
+metabolic process	pr	LOCMI14004:LOCMI14004
+metabolic process	pr	LOCMI14553:LOCMI14553
+metabolic process	pr	LOCMI04338:LOCMI04338
+metabolic process	pr	LOCMI02006:LOCMI02006
+metabolic process	pr	LOCMI06586:LOCMI06586
+metabolic process	pr	LOCMI03826:LOCMI03826
+metabolic process	pr	LOCMI04846:LOCMI04846
+metabolic process	pr	LOCMI17220:LOCMI17220
+metabolic process	pr	LOCMI09779:LOCMI09779
+metabolic process	pr	LOCMI06804:LOCMI06804
+metabolic process	pr	LOCMI09770:LOCMI09770
+metabolic process	pr	LOCMI16959:LOCMI16959
+metabolic process	pr	LOCMI06637:LOCMI06637
+metabolic process	pr	LOCMI14671:LOCMI14671
+metabolic process	pr	LOCMI02318:LOCMI02318
+metabolic process	pr	LOCMI01848:LOCMI01848
+metabolic process	pr	LOCMI12974:LOCMI12974
+metabolic process	pr	LOCMI07206:LOCMI07206
+metabolic process	pr	LOCMI13842:LOCMI13842
+metabolic process	pr	LOCMI15907:LOCMI15907
+metabolic process	pr	LOCMI08559:LOCMI08559
+metabolic process	pr	LOCMI15205:LOCMI15205
+metabolic process	pr	LOCMI06643:LOCMI06643
+metabolic process	pr	LOCMI01205:LOCMI01205
+metabolic process	pr	LOCMI15753:LOCMI15753
+metabolic process	pr	LOCMI15853:LOCMI15853
+metabolic process	pr	LOCMI08912:LOCMI08912
+metabolic process	pr	LOCMI09428:LOCMI09428
+metabolic process	pr	LOCMI03958:LOCMI03958
+metabolic process	pr	LOCMI13584:LOCMI13584
+metabolic process	pr	LOCMI00168:LOCMI00168
+metabolic process	pr	LOCMI05423:LOCMI05423
+metabolic process	pr	LOCMI13569:LOCMI13569
+metabolic process	pr	LOCMI17046:LOCMI17046
+metabolic process	pr	LOCMI05600:LOCMI05600
+metabolic process	pr	LOCMI07012:LOCMI07012
+metabolic process	pr	LOCMI01942:LOCMI01942
+metabolic process	pr	LOCMI14284:LOCMI14284
+metabolic process	pr	LOCMI07397:LOCMI07397
+metabolic process	pr	LOCMI17032:LOCMI17032
+metabolic process	pr	LOCMI16033:LOCMI16033
+metabolic process	pr	LOCMI17133:LOCMI17133
+metabolic process	pr	LOCMI03605:LOCMI03605
+metabolic process	pr	LOCMI13315:LOCMI13315
+metabolic process	pr	LOCMI09731:LOCMI09731
+metabolic process	pr	LOCMI00371:LOCMI00371
+metabolic process	pr	LOCMI09637:LOCMI09637
+metabolic process	pr	LOCMI15039:LOCMI15039
+metabolic process	pr	LOCMI10967:LOCMI10967
+metabolic process	pr	LOCMI15035:LOCMI15035
+metabolic process	pr	LOCMI06301:LOCMI06301
+metabolic process	pr	LOCMI02291:LOCMI02291
+metabolic process	pr	LOCMI14132:LOCMI14132
+metabolic process	pr	LOCMI12964:LOCMI12964
+metabolic process	pr	LOCMI15032:LOCMI15032
+metabolic process	pr	LOCMI03508:LOCMI03508
+metabolic process	pr	LOCMI06065:LOCMI06065
+metabolic process	pr	LOCMI03502:LOCMI03502
+metabolic process	pr	LOCMI09939:LOCMI09939
+metabolic process	pr	LOCMI09544:LOCMI09544
+metabolic process	pr	LOCMI15491:LOCMI15491
+metabolic process	pr	LOCMI09890:LOCMI09890
+metabolic process	pr	LOCMI03132:LOCMI03132
+metabolic process	pr	LOCMI06844:LOCMI06844
+metabolic process	pr	LOCMI07265:LOCMI07265
+metabolic process	pr	LOCMI08588:LOCMI08588
+metabolic process	pr	LOCMI13812:LOCMI13812
+metabolic process	pr	LOCMI15882:LOCMI15882
+metabolic process	pr	LOCMI00751:LOCMI00751
+metabolic process	pr	LOCMI05469:LOCMI05469
+metabolic process	pr	LOCMI04732:LOCMI04732
+metabolic process	pr	LOCMI15866:LOCMI15866
+metabolic process	pr	LOCMI06502:LOCMI06502
+metabolic process	pr	LOCMI00523:LOCMI00523
+metabolic process	pr	LOCMI07464:LOCMI07464
+metabolic process	pr	LOCMI04924:LOCMI04924
+metabolic process	pr	LOCMI04023:LOCMI04023
+metabolic process	pr	LOCMI04146:LOCMI04146
+metabolic process	pr	LOCMI00053:LOCMI00053
+metabolic process	pr	LOCMI16787:LOCMI16787
+metabolic process	pr	LOCMI12889:LOCMI12889
+metabolic process	pr	LOCMI06345:LOCMI06345
+metabolic process	pr	LOCMI02404:LOCMI02404
+metabolic process	pr	LOCMI07517:LOCMI07517
+metabolic process	pr	LOCMI17239:LOCMI17239
+metabolic process	pr	LOCMI06930:LOCMI06930
+metabolic process	pr	LOCMI09667:LOCMI09667
+metabolic process	pr	LOCMI02303:LOCMI02303
+metabolic process	pr	LOCMI05299:LOCMI05299
+metabolic process	pr	LOCMI12216:LOCMI12216
+metabolic process	pr	LOCMI15916:LOCMI15916
+metabolic process	pr	LOCMI15918:LOCMI15918
+metabolic process	pr	LOCMI05293:LOCMI05293
+metabolic process	pr	LOCMI10304:LOCMI10304
+metabolic process	pr	LOCMI01718:LOCMI01718
+metabolic process	pr	LOCMI12692:LOCMI12692
+metabolic process	pr	LOCMI05189:LOCMI05189
+metabolic process	pr	LOCMI03696:LOCMI03696
+metabolic process	pr	LOCMI06857:LOCMI06857
+metabolic process	pr	LOCMI10621:LOCMI10621
+metabolic process	pr	LOCMI00534:LOCMI00534
+metabolic process	pr	LOCMI08865:LOCMI08865
+metabolic process	pr	LOCMI08867:LOCMI08867
+metabolic process	pr	LOCMI04105:LOCMI04105
+metabolic process	pr	LOCMI12355:LOCMI12355
+metabolic process	pr	LOCMI00251:LOCMI00251
+metabolic process	pr	LOCMI15130:LOCMI15130
+metabolic process	pr	LOCMI03914:LOCMI03914
+metabolic process	pr	LOCMI00449:LOCMI00449
+metabolic process	pr	LOCMI13554:LOCMI13554
+metabolic process	pr	LOCMI13556:LOCMI13556
+metabolic process	pr	LOCMI16051:LOCMI16051
+metabolic process	pr	LOCMI04087:LOCMI04087
+metabolic process	pr	LOCMI06570:LOCMI06570
+metabolic process	pr	LOCMI07554:LOCMI07554
+metabolic process	pr	LOCMI14448:LOCMI14448
+metabolic process	pr	LOCMI16027:LOCMI16027
+metabolic process	pr	LOCMI03279:LOCMI03279
+metabolic process	pr	LOCMI15796:LOCMI15796
+metabolic process	pr	LOCMI13091:LOCMI13091
+metabolic process	pr	LOCMI09621:LOCMI09621
+metabolic process	pr	LOCMI09623:LOCMI09623
+metabolic process	pr	LOCMI12971:LOCMI12971
+metabolic process	pr	LOCMI08769:LOCMI08769
+metabolic process	pr	LOCMI00215:LOCMI00215
+metabolic process	pr	LOCMI13396:LOCMI13396
+metabolic process	pr	LOCMI14929:LOCMI14929
+metabolic process	pr	LOCMI01599:LOCMI01599
+metabolic process	pr	LOCMI09944:LOCMI09944
+metabolic process	pr	LOCMI12259:LOCMI12259
+metabolic process	pr	LOCMI16875:LOCMI16875
+metabolic process	pr	LOCMI01789:LOCMI01789
+metabolic process	pr	LOCMI00924:LOCMI00924
+metabolic process	pr	LOCMI09028:LOCMI09028
+metabolic process	pr	LOCMI08947:LOCMI08947
+metabolic process	pr	LOCMI01044:LOCMI01044
+metabolic process	pr	LOCMI16270:LOCMI16270
+metabolic process	pr	LOCMI08944:LOCMI08944
+metabolic process	pr	LOCMI11337:LOCMI11337
+metabolic process	pr	LOCMI09491:LOCMI09491
+metabolic process	pr	LOCMI03142:LOCMI03142
+metabolic process	pr	LOCMI01299:LOCMI01299
+metabolic process	pr	LOCMI09283:LOCMI09283
+metabolic process	pr	LOCMI02805:LOCMI02805
+metabolic process	pr	LOCMI15172:LOCMI15172
+metabolic process	pr	LOCMI05086:LOCMI05086
+metabolic process	pr	LOCMI15896:LOCMI15896
+metabolic process	pr	LOCMI15956:LOCMI15956
+metabolic process	pr	LOCMI01611:LOCMI01611
+metabolic process	pr	LOCMI13695:LOCMI13695
+metabolic process	pr	LOCMI11820:LOCMI11820
+metabolic process	pr	LOCMI10127:LOCMI10127
+metabolic process	pr	LOCMI07755:LOCMI07755
+metabolic process	pr	LOCMI13469:LOCMI13469
+metabolic process	pr	LOCMI02464:LOCMI02464
+metabolic process	pr	LOCMI02469:LOCMI02469
+metabolic process	pr	LOCMI13462:LOCMI13462
+metabolic process	pr	LOCMI05622:LOCMI05622
+metabolic process	pr	LOCMI08721:LOCMI08721
+metabolic process	pr	LOCMI09539:LOCMI09539
+metabolic process	pr	LOCMI14807:LOCMI14807
+metabolic process	pr	LOCMI00367:LOCMI00367
+metabolic process	pr	LOCMI00361:LOCMI00361
+metabolic process	pr	LOCMI04006:LOCMI04006
+metabolic process	pr	LOCMI08029:LOCMI08029
+metabolic process	pr	LOCMI10439:LOCMI10439
+metabolic process	pr	LOCMI06328:LOCMI06328
+metabolic process	pr	LOCMI11816:LOCMI11816
+metabolic process	pr	LOCMI01315:LOCMI01315
+metabolic process	pr	LOCMI14498:LOCMI14498
+metabolic process	pr	LOCMI13901:LOCMI13901
+metabolic process	pr	LOCMI15070:LOCMI15070
+metabolic process	pr	LOCMI05210:LOCMI05210
+metabolic process	pr	LOCMI06141:LOCMI06141
+metabolic process	pr	LOCMI03743:LOCMI03743
+metabolic process	pr	LOCMI00130:LOCMI00130
+metabolic process	pr	LOCMI04167:LOCMI04167
+metabolic process	pr	LOCMI01030:LOCMI01030
+metabolic process	pr	LOCMI15837:LOCMI15837
+metabolic process	pr	LOCMI04895:LOCMI04895
+metabolic process	pr	LOCMI07367:LOCMI07367
+metabolic process	pr	LOCMI07248:LOCMI07248
+metabolic process	pr	LOCMI09135:LOCMI09135
+metabolic process	pr	LOCMI15127:LOCMI15127
+metabolic process	pr	LOCMI15126:LOCMI15126
+metabolic process	pr	LOCMI15125:LOCMI15125
+metabolic process	pr	LOCMI16049:LOCMI16049
+metabolic process	pr	LOCMI13545:LOCMI13545
+metabolic process	pr	LOCMI07886:LOCMI07886
+metabolic process	pr	LOCMI07885:LOCMI07885
+metabolic process	pr	LOCMI15780:LOCMI15780
+metabolic process	pr	LOCMI16046:LOCMI16046
+metabolic process	pr	LOCMI16199:LOCMI16199
+metabolic process	pr	LOCMI09478:LOCMI09478
+metabolic process	pr	LOCMI07565:LOCMI07565
+metabolic process	pr	LOCMI08215:LOCMI08215
+metabolic process	pr	LOCMI07761:LOCMI07761
+metabolic process	pr	LOCMI17116:LOCMI17116
+metabolic process	pr	LOCMI11880:LOCMI11880
+metabolic process	pr	LOCMI13338:LOCMI13338
+metabolic process	pr	LOCMI11190:LOCMI11190
+metabolic process	pr	LOCMI04546:LOCMI04546
+metabolic process	pr	LOCMI15783:LOCMI15783
+metabolic process	pr	LOCMI15469:LOCMI15469
+metabolic process	pr	LOCMI15014:LOCMI15014
+metabolic process	pr	LOCMI02745:LOCMI02745
+metabolic process	pr	LOCMI08265:LOCMI08265
+metabolic process	pr	LOCMI06901:LOCMI06901
+metabolic process	pr	LOCMI11617:LOCMI11617
+metabolic process	pr	LOCMI11349:LOCMI11349
+metabolic process	pr	LOCMI00320:LOCMI00320
+metabolic process	pr	LOCMI09047:LOCMI09047
+metabolic process	pr	LOCMI09040:LOCMI09040
+metabolic process	pr	LOCMI17240:LOCMI17240
+metabolic process	pr	LOCMI16261:LOCMI16261
+metabolic process	pr	LOCMI00274:LOCMI00274
+metabolic process	pr	LOCMI03019:LOCMI03019
+metabolic process	pr	LOCMI16055:LOCMI16055
+metabolic process	pr	LOCMI15940:LOCMI15940
+metabolic process	pr	LOCMI16006:LOCMI16006
+metabolic process	pr	LOCMI16003:LOCMI16003
+metabolic process	pr	LOCMI05114:LOCMI05114
+metabolic process	pr	LOCMI11832:LOCMI11832
+metabolic process	pr	LOCMI15842:LOCMI15842
+metabolic process	pr	LOCMI16098:LOCMI16098
+metabolic process	pr	LOCMI00179:LOCMI00179
+metabolic process	pr	LOCMI00174:LOCMI00174
+metabolic process	pr	LOCMI13184:LOCMI13184
+metabolic process	pr	LOCMI11127:LOCMI11127
+metabolic process	pr	LOCMI08995:LOCMI08995
+metabolic process	pr	LOCMI14746:LOCMI14746
+metabolic process	pr	LOCMI07021:LOCMI07021
+metabolic process	pr	LOCMI10636:LOCMI10636
+metabolic process	pr	LOCMI17143:LOCMI17143
+metabolic process	pr	LOCMI17142:LOCMI17142
+metabolic process	pr	LOCMI17217:LOCMI17217
+metabolic process	pr	LOCMI17354:LOCMI17354
+metabolic process	pr	LOCMI16634:LOCMI16634
+metabolic process	pr	LOCMI01417:LOCMI01417
+metabolic process	pr	LOCMI04589:LOCMI04589
+metabolic process	pr	LOCMI07650:LOCMI07650
+metabolic process	pr	LOCMI11407:LOCMI11407
+metabolic process	pr	LOCMI13370:LOCMI13370
+metabolic process	pr	LOCMI08135:LOCMI08135
+metabolic process	pr	LOCMI15933:LOCMI15933
+metabolic process	pr	LOCMI02502:LOCMI02502
+metabolic process	pr	LOCMI07468:LOCMI07468
+metabolic process	pr	LOCMI16853:LOCMI16853
+metabolic process	pr	LOCMI00732:LOCMI00732
+metabolic process	pr	LOCMI05206:LOCMI05206
+metabolic process	pr	LOCMI01152:LOCMI01152
+transition metal ion transport	pr	LOCMI14448:LOCMI14448
+transition metal ion transport	pr	LOCMI00361:LOCMI00361
+transition metal ion transport	pr	LOCMI03994:LOCMI03994
+intracellular	pr	LOCMI13781:LOCMI13781
+intracellular	pr	LOCMI00466:LOCMI00466
+intracellular	pr	LOCMI05551:LOCMI05551
+intracellular	pr	LOCMI07771:LOCMI07771
+intracellular	pr	LOCMI13327:LOCMI13327
+intracellular	pr	LOCMI06586:LOCMI06586
+intracellular	pr	LOCMI16682:LOCMI16682
+intracellular	pr	LOCMI07118:LOCMI07118
+intracellular	pr	LOCMI03091:LOCMI03091
+intracellular	pr	LOCMI17220:LOCMI17220
+intracellular	pr	LOCMI13454:LOCMI13454
+intracellular	pr	LOCMI09779:LOCMI09779
+intracellular	pr	LOCMI06804:LOCMI06804
+intracellular	pr	LOCMI06637:LOCMI06637
+intracellular	pr	LOCMI14671:LOCMI14671
+intracellular	pr	LOCMI03685:LOCMI03685
+intracellular	pr	LOCMI12974:LOCMI12974
+intracellular	pr	LOCMI13842:LOCMI13842
+intracellular	pr	LOCMI08559:LOCMI08559
+intracellular	pr	LOCMI15976:LOCMI15976
+intracellular	pr	LOCMI15205:LOCMI15205
+intracellular	pr	LOCMI01205:LOCMI01205
+intracellular	pr	LOCMI00016:LOCMI00016
+intracellular	pr	LOCMI15853:LOCMI15853
+intracellular	pr	LOCMI13584:LOCMI13584
+intracellular	pr	LOCMI07309:LOCMI07309
+intracellular	pr	LOCMI00168:LOCMI00168
+intracellular	pr	LOCMI13569:LOCMI13569
+intracellular	pr	LOCMI16102:LOCMI16102
+intracellular	pr	LOCMI07012:LOCMI07012
+intracellular	pr	LOCMI07397:LOCMI07397
+intracellular	pr	LOCMI10487:LOCMI10487
+intracellular	pr	LOCMI13315:LOCMI13315
+intracellular	pr	LOCMI09731:LOCMI09731
+intracellular	pr	LOCMI00371:LOCMI00371
+intracellular	pr	LOCMI09637:LOCMI09637
+intracellular	pr	LOCMI14132:LOCMI14132
+intracellular	pr	LOCMI15032:LOCMI15032
+intracellular	pr	LOCMI02908:LOCMI02908
+intracellular	pr	LOCMI04416:LOCMI04416
+intracellular	pr	LOCMI13966:LOCMI13966
+intracellular	pr	LOCMI15220:LOCMI15220
+intracellular	pr	LOCMI06608:LOCMI06608
+intracellular	pr	LOCMI07932:LOCMI07932
+intracellular	pr	LOCMI09890:LOCMI09890
+intracellular	pr	LOCMI07265:LOCMI07265
+intracellular	pr	LOCMI13520:LOCMI13520
+intracellular	pr	LOCMI14087:LOCMI14087
+intracellular	pr	LOCMI04146:LOCMI04146
+intracellular	pr	LOCMI16541:LOCMI16541
+intracellular	pr	LOCMI03952:LOCMI03952
+intracellular	pr	LOCMI02404:LOCMI02404
+intracellular	pr	LOCMI07514:LOCMI07514
+intracellular	pr	LOCMI03777:LOCMI03777
+intracellular	pr	LOCMI04516:LOCMI04516
+intracellular	pr	LOCMI09660:LOCMI09660
+intracellular	pr	LOCMI03396:LOCMI03396
+intracellular	pr	LOCMI11743:LOCMI11743
+intracellular	pr	LOCMI14101:LOCMI14101
+intracellular	pr	LOCMI10713:LOCMI10713
+intracellular	pr	LOCMI15918:LOCMI15918
+intracellular	pr	LOCMI10304:LOCMI10304
+intracellular	pr	LOCMI12692:LOCMI12692
+intracellular	pr	LOCMI04279:LOCMI04279
+intracellular	pr	LOCMI03696:LOCMI03696
+intracellular	pr	LOCMI10621:LOCMI10621
+intracellular	pr	LOCMI15981:LOCMI15981
+intracellular	pr	LOCMI01390:LOCMI01390
+intracellular	pr	LOCMI01397:LOCMI01397
+intracellular	pr	LOCMI13556:LOCMI13556
+intracellular	pr	LOCMI00444:LOCMI00444
+intracellular	pr	LOCMI17197:LOCMI17197
+intracellular	pr	LOCMI13091:LOCMI13091
+intracellular	pr	LOCMI08643:LOCMI08643
+intracellular	pr	LOCMI14534:LOCMI14534
+intracellular	pr	LOCMI03518:LOCMI03518
+intracellular	pr	LOCMI02937:LOCMI02937
+intracellular	pr	LOCMI09944:LOCMI09944
+intracellular	pr	LOCMI01789:LOCMI01789
+intracellular	pr	LOCMI00924:LOCMI00924
+intracellular	pr	LOCMI09028:LOCMI09028
+intracellular	pr	LOCMI08947:LOCMI08947
+intracellular	pr	LOCMI11337:LOCMI11337
+intracellular	pr	LOCMI01299:LOCMI01299
+intracellular	pr	LOCMI15895:LOCMI15895
+intracellular	pr	LOCMI01611:LOCMI01611
+intracellular	pr	LOCMI13695:LOCMI13695
+intracellular	pr	LOCMI10127:LOCMI10127
+intracellular	pr	LOCMI07758:LOCMI07758
+intracellular	pr	LOCMI09539:LOCMI09539
+intracellular	pr	LOCMI11139:LOCMI11139
+intracellular	pr	LOCMI02145:LOCMI02145
+intracellular	pr	LOCMI00367:LOCMI00367
+intracellular	pr	LOCMI03668:LOCMI03668
+intracellular	pr	LOCMI04006:LOCMI04006
+intracellular	pr	LOCMI08029:LOCMI08029
+intracellular	pr	LOCMI03344:LOCMI03344
+intracellular	pr	LOCMI15070:LOCMI15070
+intracellular	pr	LOCMI06141:LOCMI06141
+intracellular	pr	LOCMI02568:LOCMI02568
+intracellular	pr	LOCMI06666:LOCMI06666
+intracellular	pr	LOCMI10225:LOCMI10225
+intracellular	pr	LOCMI00130:LOCMI00130
+intracellular	pr	LOCMI04167:LOCMI04167
+intracellular	pr	LOCMI12845:LOCMI12845
+intracellular	pr	LOCMI05068:LOCMI05068
+intracellular	pr	LOCMI15837:LOCMI15837
+intracellular	pr	LOCMI08443:LOCMI08443
+intracellular	pr	LOCMI09135:LOCMI09135
+intracellular	pr	LOCMI15125:LOCMI15125
+intracellular	pr	LOCMI13545:LOCMI13545
+intracellular	pr	LOCMI07886:LOCMI07886
+intracellular	pr	LOCMI07885:LOCMI07885
+intracellular	pr	LOCMI15780:LOCMI15780
+intracellular	pr	LOCMI17116:LOCMI17116
+intracellular	pr	LOCMI02730:LOCMI02730
+intracellular	pr	LOCMI11190:LOCMI11190
+intracellular	pr	LOCMI04546:LOCMI04546
+intracellular	pr	LOCMI15469:LOCMI15469
+intracellular	pr	LOCMI16567:LOCMI16567
+intracellular	pr	LOCMI15014:LOCMI15014
+intracellular	pr	LOCMI02745:LOCMI02745
+intracellular	pr	LOCMI08265:LOCMI08265
+intracellular	pr	LOCMI11617:LOCMI11617
+intracellular	pr	LOCMI11349:LOCMI11349
+intracellular	pr	LOCMI09040:LOCMI09040
+intracellular	pr	LOCMI01517:LOCMI01517
+intracellular	pr	LOCMI07055:LOCMI07055
+intracellular	pr	LOCMI03019:LOCMI03019
+intracellular	pr	LOCMI13837:LOCMI13837
+intracellular	pr	LOCMI16006:LOCMI16006
+intracellular	pr	LOCMI05114:LOCMI05114
+intracellular	pr	LOCMI16008:LOCMI16008
+intracellular	pr	LOCMI15842:LOCMI15842
+intracellular	pr	LOCMI04278:LOCMI04278
+intracellular	pr	LOCMI14746:LOCMI14746
+intracellular	pr	LOCMI10636:LOCMI10636
+intracellular	pr	LOCMI17142:LOCMI17142
+intracellular	pr	LOCMI03993:LOCMI03993
+intracellular	pr	LOCMI09724:LOCMI09724
+intracellular	pr	LOCMI00953:LOCMI00953
+intracellular	pr	LOCMI05971:LOCMI05971
+intracellular	pr	LOCMI01417:LOCMI01417
+intracellular	pr	LOCMI07650:LOCMI07650
+intracellular	pr	LOCMI11407:LOCMI11407
+intracellular	pr	LOCMI13370:LOCMI13370
+intracellular	pr	LOCMI05274:LOCMI05274
+intracellular	pr	LOCMI15933:LOCMI15933
+intracellular	pr	LOCMI02695:LOCMI02695
+intracellular	pr	LOCMI07468:LOCMI07468
+intracellular	pr	LOCMI09037:LOCMI09037
+intracellular	pr	LOCMI10395:LOCMI10395
+intracellular	pr	LOCMI06677:LOCMI06677
+intracellular	pr	LOCMI01152:LOCMI01152
+metal cluster binding	pr	LOCMI09544:LOCMI09544
+metal cluster binding	pr	LOCMI15796:LOCMI15796
+metal cluster binding	pr	LOCMI03668:LOCMI03668
+metal cluster binding	pr	LOCMI09047:LOCMI09047
+metal cluster binding	pr	LOCMI13576:LOCMI13576
+macromolecular complex	pr	LOCMI13781:LOCMI13781
+macromolecular complex	pr	LOCMI00466:LOCMI00466
+macromolecular complex	pr	LOCMI05551:LOCMI05551
+macromolecular complex	pr	LOCMI07771:LOCMI07771
+macromolecular complex	pr	LOCMI17220:LOCMI17220
+macromolecular complex	pr	LOCMI13454:LOCMI13454
+macromolecular complex	pr	LOCMI09779:LOCMI09779
+macromolecular complex	pr	LOCMI06804:LOCMI06804
+macromolecular complex	pr	LOCMI06637:LOCMI06637
+macromolecular complex	pr	LOCMI12974:LOCMI12974
+macromolecular complex	pr	LOCMI13842:LOCMI13842
+macromolecular complex	pr	LOCMI08559:LOCMI08559
+macromolecular complex	pr	LOCMI15205:LOCMI15205
+macromolecular complex	pr	LOCMI00016:LOCMI00016
+macromolecular complex	pr	LOCMI13569:LOCMI13569
+macromolecular complex	pr	LOCMI16102:LOCMI16102
+macromolecular complex	pr	LOCMI07012:LOCMI07012
+macromolecular complex	pr	LOCMI07397:LOCMI07397
+macromolecular complex	pr	LOCMI13315:LOCMI13315
+macromolecular complex	pr	LOCMI09731:LOCMI09731
+macromolecular complex	pr	LOCMI09637:LOCMI09637
+macromolecular complex	pr	LOCMI14132:LOCMI14132
+macromolecular complex	pr	LOCMI15220:LOCMI15220
+macromolecular complex	pr	LOCMI07932:LOCMI07932
+macromolecular complex	pr	LOCMI09890:LOCMI09890
+macromolecular complex	pr	LOCMI07265:LOCMI07265
+macromolecular complex	pr	LOCMI04516:LOCMI04516
+macromolecular complex	pr	LOCMI09660:LOCMI09660
+macromolecular complex	pr	LOCMI03396:LOCMI03396
+macromolecular complex	pr	LOCMI10304:LOCMI10304
+macromolecular complex	pr	LOCMI03696:LOCMI03696
+macromolecular complex	pr	LOCMI10621:LOCMI10621
+macromolecular complex	pr	LOCMI13556:LOCMI13556
+macromolecular complex	pr	LOCMI16051:LOCMI16051
+macromolecular complex	pr	LOCMI14534:LOCMI14534
+macromolecular complex	pr	LOCMI09944:LOCMI09944
+macromolecular complex	pr	LOCMI01789:LOCMI01789
+macromolecular complex	pr	LOCMI00924:LOCMI00924
+macromolecular complex	pr	LOCMI13695:LOCMI13695
+macromolecular complex	pr	LOCMI10127:LOCMI10127
+macromolecular complex	pr	LOCMI07758:LOCMI07758
+macromolecular complex	pr	LOCMI09539:LOCMI09539
+macromolecular complex	pr	LOCMI11139:LOCMI11139
+macromolecular complex	pr	LOCMI00367:LOCMI00367
+macromolecular complex	pr	LOCMI04006:LOCMI04006
+macromolecular complex	pr	LOCMI08029:LOCMI08029
+macromolecular complex	pr	LOCMI02568:LOCMI02568
+macromolecular complex	pr	LOCMI10225:LOCMI10225
+macromolecular complex	pr	LOCMI00130:LOCMI00130
+macromolecular complex	pr	LOCMI09135:LOCMI09135
+macromolecular complex	pr	LOCMI16049:LOCMI16049
+macromolecular complex	pr	LOCMI13545:LOCMI13545
+macromolecular complex	pr	LOCMI07886:LOCMI07886
+macromolecular complex	pr	LOCMI15780:LOCMI15780
+macromolecular complex	pr	LOCMI11190:LOCMI11190
+macromolecular complex	pr	LOCMI04546:LOCMI04546
+macromolecular complex	pr	LOCMI15783:LOCMI15783
+macromolecular complex	pr	LOCMI15469:LOCMI15469
+macromolecular complex	pr	LOCMI02745:LOCMI02745
+macromolecular complex	pr	LOCMI11617:LOCMI11617
+macromolecular complex	pr	LOCMI09040:LOCMI09040
+macromolecular complex	pr	LOCMI03019:LOCMI03019
+macromolecular complex	pr	LOCMI13837:LOCMI13837
+macromolecular complex	pr	LOCMI16006:LOCMI16006
+macromolecular complex	pr	LOCMI05114:LOCMI05114
+macromolecular complex	pr	LOCMI15842:LOCMI15842
+macromolecular complex	pr	LOCMI09724:LOCMI09724
+macromolecular complex	pr	LOCMI00953:LOCMI00953
+macromolecular complex	pr	LOCMI01417:LOCMI01417
+macromolecular complex	pr	LOCMI13370:LOCMI13370
+macromolecular complex	pr	LOCMI08135:LOCMI08135
+protein disulfide oxidoreductase activity	pr	LOCMI14553:LOCMI14553
+protein disulfide oxidoreductase activity	pr	LOCMI03605:LOCMI03605
+protein disulfide oxidoreductase activity	pr	LOCMI00251:LOCMI00251
+protein disulfide oxidoreductase activity	pr	LOCMI05622:LOCMI05622
+protein disulfide oxidoreductase activity	pr	LOCMI04589:LOCMI04589

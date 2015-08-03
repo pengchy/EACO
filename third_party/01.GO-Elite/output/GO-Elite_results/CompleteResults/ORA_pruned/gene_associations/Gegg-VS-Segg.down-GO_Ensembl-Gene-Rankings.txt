@@ -1,0 +1,63 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI14448	LOCMI14448	ferritin-like precursor	5	0.454545454545	LOCMI14448	chemical homeostasis // ferric iron binding // iron ion transport // oxidation-reduction process // oxidoreductase activity
+LOCMI02151	LOCMI02151	secreted ferritin G subunit precursor, putative	5	0.454545454545	LOCMI02151	chemical homeostasis // ferric iron binding // iron ion transport // oxidation-reduction process // oxidoreductase activity
+LOCMI02150	LOCMI02150	ferritin-like precursor	5	0.454545454545	LOCMI02150	chemical homeostasis // ferric iron binding // iron ion transport // oxidation-reduction process // oxidoreductase activity
+LOCMI16688	LOCMI16688	glutathione peroxidase	2	0.181818181818	LOCMI16688	oxidation-reduction process // oxidoreductase activity
+LOCMI16258	LOCMI16258	Probable phospholipid hydroperoxide glutathione peroxidase	2	0.181818181818	LOCMI16258	oxidation-reduction process // oxidoreductase activity
+LOCMI16209	LOCMI16209	cytochrome P450 9E1	2	0.181818181818	LOCMI16209	oxidation-reduction process // oxidoreductase activity
+LOCMI16146	LOCMI16146	cytochrome P450 9E1	2	0.181818181818	LOCMI16146	oxidation-reduction process // oxidoreductase activity
+LOCMI15907	LOCMI15907	Retinal dehydrogenase 1	2	0.181818181818	LOCMI15907	oxidation-reduction process // oxidoreductase activity
+LOCMI15906	LOCMI15906	PREDICTED: similar to GA11371-PA	2	0.181818181818	LOCMI15906	oxidation-reduction process // oxidoreductase activity
+LOCMI15867	LOCMI15867	aldose reductase, putative	2	0.181818181818	LOCMI15867	oxidation-reduction process // oxidoreductase activity
+LOCMI15127	LOCMI15127	MPA3 allergen	2	0.181818181818	LOCMI15127	serine-type endopeptidase activity // proteolysis
+LOCMI15126	LOCMI15126	MPA3 allergen	2	0.181818181818	LOCMI15126	serine-type endopeptidase activity // proteolysis
+LOCMI15035	LOCMI15035	MPA3 allergen	2	0.181818181818	LOCMI15035	serine-type endopeptidase activity // proteolysis
+LOCMI14929	LOCMI14929	GK17275	2	0.181818181818	LOCMI14929	serine-type endopeptidase activity // proteolysis
+LOCMI11744	LOCMI11744	RecName: Full=40S ribosomal protein S13 gb|AAK92182.1|AF400210_1 ribosomal protein S13	2	0.181818181818	LOCMI11744	ribonucleoprotein complex // structural molecule activity
+LOCMI11190	LOCMI11190	mitochondrial ribosomal protein, S18C, putative	2	0.181818181818	LOCMI11190	ribonucleoprotein complex // structural molecule activity
+LOCMI08944	LOCMI08944	serine protease-like protein	2	0.181818181818	LOCMI08944	serine-type endopeptidase activity // proteolysis
+LOCMI07717	LOCMI07717	40S ribosomal protein S24	2	0.181818181818	LOCMI07717	ribonucleoprotein complex // structural molecule activity
+LOCMI07517	LOCMI07517	serine protease 48 precursor	2	0.181818181818	LOCMI07517	serine-type endopeptidase activity // proteolysis
+LOCMI07248	LOCMI07248	serine protease-like protein	2	0.181818181818	LOCMI07248	serine-type endopeptidase activity // proteolysis
+LOCMI05551	LOCMI05551	AGAP004818-PA	2	0.181818181818	LOCMI05551	ribonucleoprotein complex // structural molecule activity
+LOCMI04023	LOCMI04023	serine protease-like protein	2	0.181818181818	LOCMI04023	serine-type endopeptidase activity // proteolysis
+LOCMI03761	LOCMI03761	B0W8Y2_CULQU Uricase	2	0.181818181818	LOCMI03761	oxidation-reduction process // oxidoreductase activity
+LOCMI03312	LOCMI03312	PREDICTED: synaptic vesicle membrane protein VAT-1 homolog isoform 1	2	0.181818181818	LOCMI03312	oxidation-reduction process // oxidoreductase activity
+LOCMI02771	LOCMI02771	mitochondrial ribosomal protein S17	2	0.181818181818	LOCMI02771	ribonucleoprotein complex // structural molecule activity
+LOCMI00502	LOCMI00502	40S ribosomal protein S21, putative	2	0.181818181818	LOCMI00502	ribonucleoprotein complex // structural molecule activity
+LOCMI00125	LOCMI00125	PREDICTED: similar to vesicle amine transport protein 1 homolog (T californica)	2	0.181818181818	LOCMI00125	oxidation-reduction process // oxidoreductase activity
+LOCMI17206	LOCMI17206	B4P5B5_DROYA GE12453	1	0.0909090909091	LOCMI17206	structural molecule activity
+LOCMI17205	LOCMI17205	B2DBP1_9NEOP Cuticular protein CPR2	1	0.0909090909091	LOCMI17205	structural molecule activity
+LOCMI17141	LOCMI17141	Q2LZE6_DROPS GA10226	1	0.0909090909091	LOCMI17141	structural molecule activity
+LOCMI17132	LOCMI17132	Q7PM44_ANOGA Cuticular protein 78, RR-1 family (AGAP009876-PA)	1	0.0909090909091	LOCMI17132	structural molecule activity
+LOCMI16731	LOCMI16731	PREDICTED: endocuticle structural glycoprotein SgAbd-2-like	1	0.0909090909091	LOCMI16731	structural molecule activity
+LOCMI16712	LOCMI16712	hexamerin-like protein 1	1	0.0909090909091	LOCMI16712	transporter activity
+LOCMI16703	LOCMI16703	cuticular protein RR-1 motif 34 precursor	1	0.0909090909091	LOCMI16703	structural molecule activity
+LOCMI16641	LOCMI16641	TPA: putative cuticle protein	1	0.0909090909091	LOCMI16641	structural molecule activity
+LOCMI16609	LOCMI16609	D6WNV3_TRICA Putative uncharacterized protein	1	0.0909090909091	LOCMI16609	structural molecule activity
+LOCMI16605	LOCMI16605	pro-phenoloxidase 1	1	0.0909090909091	LOCMI16605	transporter activity
+LOCMI15496	LOCMI15496	hexamerin-like protein 4	1	0.0909090909091	LOCMI15496	transporter activity
+LOCMI15495	LOCMI15495	hexamerin-like protein 2	1	0.0909090909091	LOCMI15495	transporter activity
+LOCMI15494	LOCMI15494	hexamerin-like protein 1	1	0.0909090909091	LOCMI15494	transporter activity
+LOCMI13786	LOCMI13786	hexamerin-like protein 4	1	0.0909090909091	LOCMI13786	transporter activity
+LOCMI13783	LOCMI13783	hexamerin storage protein 3	1	0.0909090909091	LOCMI13783	transporter activity
+LOCMI12827	LOCMI12827	PREDICTED: 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase-like	1	0.0909090909091	LOCMI12827	carbohydrate metabolic process
+LOCMI12355	LOCMI12355	C4N882_9SCAR Peritrophic membrane protein 2 (Fragment)	1	0.0909090909091	LOCMI12355	carbohydrate metabolic process
+LOCMI11963	LOCMI11963	hexamerin-like protein 2	1	0.0909090909091	LOCMI11963	transporter activity
+LOCMI11961	LOCMI11961	hexamerin-like protein 2	1	0.0909090909091	LOCMI11961	transporter activity
+LOCMI11184	LOCMI11184	peritrophic matrix protein 14 precursor	1	0.0909090909091	LOCMI11184	carbohydrate metabolic process
+LOCMI11147	LOCMI11147	hexamerin-like protein 2	1	0.0909090909091	LOCMI11147	transporter activity
+LOCMI10214	LOCMI10214	B4MG23_DROVI GJ15459	1	0.0909090909091	LOCMI10214	carbohydrate metabolic process
+LOCMI09790	LOCMI09790	cuticular protein analogous to peritrophins 3-E precursor	1	0.0909090909091	LOCMI09790	carbohydrate metabolic process
+LOCMI09561	LOCMI09561	arylphorin hexamerin-like protein 2	1	0.0909090909091	LOCMI09561	transporter activity
+LOCMI09424	LOCMI09424	cathepsin C	1	0.0909090909091	LOCMI09424	proteolysis
+LOCMI07565	LOCMI07565	AGAP006434-PA	1	0.0909090909091	LOCMI07565	carbohydrate metabolic process
+LOCMI07097	LOCMI07097	A8XAF1_CAEBR CBR-EMB-9 protein	1	0.0909090909091	LOCMI07097	structural molecule activity
+LOCMI06177	LOCMI06177	endocuticle structural glycoprotein ABD-4	1	0.0909090909091	LOCMI06177	structural molecule activity
+LOCMI03817	LOCMI03817	cuticular protein RR-1 family member 53 precursor	1	0.0909090909091	LOCMI03817	structural molecule activity
+LOCMI03536	LOCMI03536	B3N5F1_DROER GG23643	1	0.0909090909091	LOCMI03536	carbohydrate metabolic process
+LOCMI03374	LOCMI03374	zinc metalloproteinase	1	0.0909090909091	LOCMI03374	proteolysis
+LOCMI02469	LOCMI02469	beta-glucosidase	1	0.0909090909091	LOCMI02469	carbohydrate metabolic process
+LOCMI02184	LOCMI02184	beta-glucosidase	1	0.0909090909091	LOCMI02184	carbohydrate metabolic process
+LOCMI01460	LOCMI01460	early cuticle protein 3	1	0.0909090909091	LOCMI01460	structural molecule activity
+LOCMI00208	LOCMI00208	Fatty acid-binding protein, muscle	1	0.0909090909091	LOCMI00208	transporter activity

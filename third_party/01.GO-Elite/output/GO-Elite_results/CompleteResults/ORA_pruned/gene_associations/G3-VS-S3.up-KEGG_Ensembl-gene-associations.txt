@@ -1,0 +1,12 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI13448	LOCMI13448	PREDICTED: inositol oxygenase-like	LOCMI13448	Ascorbate and aldarate metabolism:map00053	Ascorbate and aldarate metabolism:map00053
+LOCMI13447	LOCMI13447	PREDICTED: inositol oxygenase-like	LOCMI13447	Ascorbate and aldarate metabolism:map00053	Ascorbate and aldarate metabolism:map00053
+LOCMI13444	LOCMI13444	PREDICTED: inositol oxygenase-like	LOCMI13444	Ascorbate and aldarate metabolism:map00053	Ascorbate and aldarate metabolism:map00053
+LOCMI13445	LOCMI13445	myo-inositol oxygenase	LOCMI13445	Ascorbate and aldarate metabolism:map00053	Ascorbate and aldarate metabolism:map00053
+LOCMI13448	LOCMI13448	PREDICTED: inositol oxygenase-like	LOCMI13448	Inositol phosphate metabolism:map00562	Inositol phosphate metabolism:map00562
+LOCMI13447	LOCMI13447	PREDICTED: inositol oxygenase-like	LOCMI13447	Inositol phosphate metabolism:map00562	Inositol phosphate metabolism:map00562
+LOCMI13444	LOCMI13444	PREDICTED: inositol oxygenase-like	LOCMI13444	Inositol phosphate metabolism:map00562	Inositol phosphate metabolism:map00562
+LOCMI13445	LOCMI13445	myo-inositol oxygenase	LOCMI13445	Inositol phosphate metabolism:map00562	Inositol phosphate metabolism:map00562
+LOCMI04338	LOCMI04338	alpha-amylase	LOCMI04338	Starch and sucrose metabolism:map00500	Starch and sucrose metabolism:map00500
+LOCMI03766	LOCMI03766	alpha-amylase	LOCMI03766	Starch and sucrose metabolism:map00500	Starch and sucrose metabolism:map00500
+LOCMI08521	LOCMI08521	alpha-amylase	LOCMI08521	Starch and sucrose metabolism:map00500	Starch and sucrose metabolism:map00500

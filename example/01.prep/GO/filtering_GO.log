@@ -1,0 +1,18 @@
+#map the GO ontology to all their ancestors
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/bin/map_go_ancestor.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/00.data/MetaData.GO.gmt --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/
+
+#test the influence of maxG cutoff on distinct gene number
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/bin/maxG_and_DistinctGeneNum.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/
+
+perl /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/bin/reduce_GO_by_anno_hierarch.pl --gmt /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt --outDir /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO
+
+#filter the result according to the minG, maxG and ratio defined above
+cat /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt.beforefilt.txt |awk '$2>=$minG && $2<= $maxG && $7<= $ratio' > /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt.afterfilt.txt
+
+cat /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt.afterfilt.txt |cut -f1 |sort |join -t $'\t'  -  <(sort /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt) > /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt.filt.gmt
+
+echo "after filt, the gset number is:" > /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt.filt.gmt.stat
+wc -l /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt.filt.gmt >> MetaData.GO.gmt.addaces.gmt.filt.gmt.stat
+echo "after filt, the distinct gene number is:" >> MetaData.GO.gmt.addaces.gmt.filt.gmt.stat
+cat /panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//GO/MetaData.GO.gmt.addaces.gmt.filt.gmt |perl -ne 'chomp;@info=split /\t/;print join("\n",@info[2..$#info]),"\n"'|sort -u |wc -l >> MetaData.GO.gmt.addaces.gmt.filt.gmt.stat
+

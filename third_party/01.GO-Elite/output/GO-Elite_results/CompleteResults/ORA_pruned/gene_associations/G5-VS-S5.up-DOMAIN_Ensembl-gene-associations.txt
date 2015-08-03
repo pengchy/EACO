@@ -1,0 +1,11 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI06430	LOCMI06430	PREDICTED: aquaporin AQPAn.G-like	LOCMI06430	Major intrinsic protein:IPR000425	Major intrinsic protein:IPR000425
+LOCMI15206	LOCMI15206	aquaporin	LOCMI15206	Major intrinsic protein:IPR000425	Major intrinsic protein:IPR000425
+LOCMI14139	LOCMI14139	Aquaporin AQPAe.a, putative	LOCMI14139	Major intrinsic protein:IPR000425	Major intrinsic protein:IPR000425
+LOCMI06277	LOCMI06277	sodium-dependent nutrient amino acid transporter, putative	LOCMI06277	Sodium:neurotransmitter symporter:IPR000175	Sodium:neurotransmitter symporter:IPR000175
+LOCMI01723	LOCMI01723	sodium-dependent nutrient amino acid transporter, putative	LOCMI01723	Sodium:neurotransmitter symporter:IPR000175	Sodium:neurotransmitter symporter:IPR000175
+LOCMI02454	LOCMI02454	sodium-dependent nutrient amino acid transporter, putative	LOCMI02454	Sodium:neurotransmitter symporter:IPR000175	Sodium:neurotransmitter symporter:IPR000175
+LOCMI04029	LOCMI04029	glucose dehydrogenase precursor, putative	LOCMI04029	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03329	LOCMI03329	B3MXJ9_DROAN GF19436	LOCMI03329	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI13304	LOCMI13304	PREDICTED: glucose dehydrogenase	LOCMI13304	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03486	LOCMI03486	B4L259_DROMO GI15372	LOCMI03486	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172

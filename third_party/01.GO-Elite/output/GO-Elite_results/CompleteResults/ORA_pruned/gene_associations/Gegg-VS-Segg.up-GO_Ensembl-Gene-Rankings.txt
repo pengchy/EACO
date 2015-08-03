@@ -1,0 +1,34 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI14937	LOCMI14937	PREDICTED: clathrin light chain-like	6	0.5	LOCMI14937	cytoplasm // establishment of protein localization // vesicle-mediated transport // structural molecule activity // Golgi apparatus part // establishment of localization in cell
+LOCMI05256	LOCMI05256	Q5TSE5_ANOGA AGAP010608-PA	6	0.5	LOCMI05256	cytoplasm // establishment of protein localization // vesicle-mediated transport // structural molecule activity // Golgi apparatus part // establishment of localization in cell
+LOCMI16100	LOCMI16100	AGAP004616-PA	5	0.416666666667	LOCMI16100	cytoplasm // cellular nitrogen compound biosynthetic process // small molecule biosynthetic process // purine nucleotide metabolic process // heterocycle biosynthetic process
+LOCMI16049	LOCMI16049	vacuolar H[+] ATPase 16kD subunit, isoform A	4	0.333333333333	LOCMI16049	cellular nitrogen compound biosynthetic process // small molecule biosynthetic process // purine nucleotide metabolic process // heterocycle biosynthetic process
+LOCMI15172	LOCMI15172	AGAP002385-PA	4	0.333333333333	LOCMI15172	cellular nitrogen compound biosynthetic process // small molecule biosynthetic process // purine nucleotide metabolic process // heterocycle biosynthetic process
+LOCMI07514	LOCMI07514	PREDICTED: trafficking protein particle complex subunit 1-like	4	0.333333333333	LOCMI07514	cytoplasm // vesicle-mediated transport // Golgi apparatus part // establishment of localization in cell
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	3	0.25	LOCMI15980	cytoplasm // oxidation-reduction process // oxidoreductase activity
+LOCMI00016	LOCMI00016	Q172F6_AEDAE Mitochondrial import receptor subunit tom20	3	0.25	LOCMI00016	cytoplasm // establishment of protein localization // establishment of localization in cell
+LOCMI16296	LOCMI16296	D2A5K3_TRICA Putative uncharacterized protein GLEAN_15554	2	0.166666666667	LOCMI16296	oxidation-reduction process // oxidoreductase activity
+LOCMI16180	LOCMI16180	cytochrome P-450, putative	2	0.166666666667	LOCMI16180	oxidation-reduction process // oxidoreductase activity
+LOCMI13963	LOCMI13963	Laccase2	2	0.166666666667	LOCMI13963	oxidation-reduction process // oxidoreductase activity
+LOCMI10353	LOCMI10353	putative ribosomal protein S14	2	0.166666666667	LOCMI10353	cytoplasm // structural molecule activity
+LOCMI09250	LOCMI09250	AGAP008730-PA	2	0.166666666667	LOCMI09250	cellular nitrogen compound biosynthetic process // heterocycle biosynthetic process
+LOCMI06328	LOCMI06328	NADH dehydrogenase subunit 5	2	0.166666666667	LOCMI06328	oxidation-reduction process // oxidoreductase activity
+LOCMI05703	LOCMI05703	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	2	0.166666666667	LOCMI05703	oxidation-reduction process // oxidoreductase activity
+LOCMI05702	LOCMI05702	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	2	0.166666666667	LOCMI05702	oxidation-reduction process // oxidoreductase activity
+LOCMI05701	LOCMI05701	GH12513	2	0.166666666667	LOCMI05701	oxidation-reduction process // oxidoreductase activity
+LOCMI04643	LOCMI04643	Q16GQ4_AEDAE Putative uncharacterized protein	2	0.166666666667	LOCMI04643	oxidation-reduction process // oxidoreductase activity
+LOCMI17139	LOCMI17139	B0X5K3_CULQU Putative uncharacterized protein	1	0.0833333333333	LOCMI17139	structural molecule activity
+LOCMI16781	LOCMI16781	adult cuticle protein, putative	1	0.0833333333333	LOCMI16781	structural molecule activity
+LOCMI16769	LOCMI16769	D2A4U4_TRICA Putative uncharacterized protein GLEAN_15304	1	0.0833333333333	LOCMI16769	structural molecule activity
+LOCMI16714	LOCMI16714	chitin-binding domain containing protein	1	0.0833333333333	LOCMI16714	structural molecule activity
+LOCMI16617	LOCMI16617	PREDICTED: cuticle protein 8	1	0.0833333333333	LOCMI16617	structural molecule activity
+LOCMI16274	LOCMI16274	Q7PZB4_ANOGA Thioredoxin-dependent peroxidase (AGAP011824-PA)	1	0.0833333333333	LOCMI16274	oxidoreductase activity
+LOCMI16273	LOCMI16273	peroxiredoxin	1	0.0833333333333	LOCMI16273	oxidoreductase activity
+LOCMI16008	LOCMI16008	D6WXE2_TRICA Putative uncharacterized protein	1	0.0833333333333	LOCMI16008	cytoplasm
+LOCMI14560	LOCMI14560	C4WRN6_ACYPI ACYPI005808 protein	1	0.0833333333333	LOCMI14560	establishment of protein localization
+LOCMI07701	LOCMI07701	TPA: putative cuticle protein	1	0.0833333333333	LOCMI07701	structural molecule activity
+LOCMI05399	LOCMI05399	ADP,ATP carrier protein 2	1	0.0833333333333	LOCMI05399	cytoplasm
+LOCMI04505	LOCMI04505	cuticular protein RR-2 family member 45 precursor	1	0.0833333333333	LOCMI04505	structural molecule activity
+LOCMI04008	LOCMI04008	ADP,ATP carrier protein 2	1	0.0833333333333	LOCMI04008	cytoplasm
+LOCMI02963	LOCMI02963	structural constituent of cuticle, putative	1	0.0833333333333	LOCMI02963	structural molecule activity
+LOCMI01688	LOCMI01688	cuticular protein RR-1 motif 57	1	0.0833333333333	LOCMI01688	structural molecule activity

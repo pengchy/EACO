@@ -1,0 +1,71 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI10353	LOCMI10353	putative ribosomal protein S14	LOCMI10353	GO:0005737	cytoplasm
+LOCMI05256	LOCMI05256	Q5TSE5_ANOGA AGAP010608-PA	LOCMI05256	GO:0005737	cytoplasm
+LOCMI00016	LOCMI00016	Q172F6_AEDAE Mitochondrial import receptor subunit tom20	LOCMI00016	GO:0005737	cytoplasm
+LOCMI16100	LOCMI16100	AGAP004616-PA	LOCMI16100	GO:0005737	cytoplasm
+LOCMI16008	LOCMI16008	D6WXE2_TRICA Putative uncharacterized protein	LOCMI16008	GO:0005737	cytoplasm
+LOCMI14937	LOCMI14937	PREDICTED: clathrin light chain-like	LOCMI14937	GO:0005737	cytoplasm
+LOCMI07514	LOCMI07514	PREDICTED: trafficking protein particle complex subunit 1-like	LOCMI07514	GO:0005737	cytoplasm
+LOCMI04008	LOCMI04008	ADP,ATP carrier protein 2	LOCMI04008	GO:0005737	cytoplasm
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	GO:0005737	cytoplasm
+LOCMI05399	LOCMI05399	ADP,ATP carrier protein 2	LOCMI05399	GO:0005737	cytoplasm
+LOCMI14560	LOCMI14560	C4WRN6_ACYPI ACYPI005808 protein	LOCMI14560	GO:0045184	establishment of protein localization
+LOCMI14937	LOCMI14937	PREDICTED: clathrin light chain-like	LOCMI14937	GO:0045184	establishment of protein localization
+LOCMI05256	LOCMI05256	Q5TSE5_ANOGA AGAP010608-PA	LOCMI05256	GO:0045184	establishment of protein localization
+LOCMI00016	LOCMI00016	Q172F6_AEDAE Mitochondrial import receptor subunit tom20	LOCMI00016	GO:0045184	establishment of protein localization
+LOCMI16049	LOCMI16049	vacuolar H[+] ATPase 16kD subunit, isoform A	LOCMI16049	GO:0044271	cellular nitrogen compound biosynthetic process
+LOCMI09250	LOCMI09250	AGAP008730-PA	LOCMI09250	GO:0044271	cellular nitrogen compound biosynthetic process
+LOCMI15172	LOCMI15172	AGAP002385-PA	LOCMI15172	GO:0044271	cellular nitrogen compound biosynthetic process
+LOCMI16100	LOCMI16100	AGAP004616-PA	LOCMI16100	GO:0044271	cellular nitrogen compound biosynthetic process
+LOCMI14937	LOCMI14937	PREDICTED: clathrin light chain-like	LOCMI14937	GO:0016192	vesicle-mediated transport
+LOCMI05256	LOCMI05256	Q5TSE5_ANOGA AGAP010608-PA	LOCMI05256	GO:0016192	vesicle-mediated transport
+LOCMI07514	LOCMI07514	PREDICTED: trafficking protein particle complex subunit 1-like	LOCMI07514	GO:0016192	vesicle-mediated transport
+LOCMI16049	LOCMI16049	vacuolar H[+] ATPase 16kD subunit, isoform A	LOCMI16049	GO:0044283	small molecule biosynthetic process
+LOCMI15172	LOCMI15172	AGAP002385-PA	LOCMI15172	GO:0044283	small molecule biosynthetic process
+LOCMI16100	LOCMI16100	AGAP004616-PA	LOCMI16100	GO:0044283	small molecule biosynthetic process
+LOCMI07701	LOCMI07701	TPA: putative cuticle protein	LOCMI07701	GO:0005198	structural molecule activity
+LOCMI05256	LOCMI05256	Q5TSE5_ANOGA AGAP010608-PA	LOCMI05256	GO:0005198	structural molecule activity
+LOCMI16781	LOCMI16781	adult cuticle protein, putative	LOCMI16781	GO:0005198	structural molecule activity
+LOCMI16769	LOCMI16769	D2A4U4_TRICA Putative uncharacterized protein GLEAN_15304	LOCMI16769	GO:0005198	structural molecule activity
+LOCMI01688	LOCMI01688	cuticular protein RR-1 motif 57	LOCMI01688	GO:0005198	structural molecule activity
+LOCMI10353	LOCMI10353	putative ribosomal protein S14	LOCMI10353	GO:0005198	structural molecule activity
+LOCMI02963	LOCMI02963	structural constituent of cuticle, putative	LOCMI02963	GO:0005198	structural molecule activity
+LOCMI04505	LOCMI04505	cuticular protein RR-2 family member 45 precursor	LOCMI04505	GO:0005198	structural molecule activity
+LOCMI17139	LOCMI17139	B0X5K3_CULQU Putative uncharacterized protein	LOCMI17139	GO:0005198	structural molecule activity
+LOCMI14937	LOCMI14937	PREDICTED: clathrin light chain-like	LOCMI14937	GO:0005198	structural molecule activity
+LOCMI16617	LOCMI16617	PREDICTED: cuticle protein 8	LOCMI16617	GO:0005198	structural molecule activity
+LOCMI16714	LOCMI16714	chitin-binding domain containing protein	LOCMI16714	GO:0005198	structural molecule activity
+LOCMI16049	LOCMI16049	vacuolar H[+] ATPase 16kD subunit, isoform A	LOCMI16049	GO:0006163	purine nucleotide metabolic process
+LOCMI15172	LOCMI15172	AGAP002385-PA	LOCMI15172	GO:0006163	purine nucleotide metabolic process
+LOCMI16100	LOCMI16100	AGAP004616-PA	LOCMI16100	GO:0006163	purine nucleotide metabolic process
+LOCMI14937	LOCMI14937	PREDICTED: clathrin light chain-like	LOCMI14937	GO:0044431	Golgi apparatus part
+LOCMI05256	LOCMI05256	Q5TSE5_ANOGA AGAP010608-PA	LOCMI05256	GO:0044431	Golgi apparatus part
+LOCMI07514	LOCMI07514	PREDICTED: trafficking protein particle complex subunit 1-like	LOCMI07514	GO:0044431	Golgi apparatus part
+LOCMI14937	LOCMI14937	PREDICTED: clathrin light chain-like	LOCMI14937	GO:0051649	establishment of localization in cell
+LOCMI05256	LOCMI05256	Q5TSE5_ANOGA AGAP010608-PA	LOCMI05256	GO:0051649	establishment of localization in cell
+LOCMI07514	LOCMI07514	PREDICTED: trafficking protein particle complex subunit 1-like	LOCMI07514	GO:0051649	establishment of localization in cell
+LOCMI00016	LOCMI00016	Q172F6_AEDAE Mitochondrial import receptor subunit tom20	LOCMI00016	GO:0051649	establishment of localization in cell
+LOCMI16049	LOCMI16049	vacuolar H[+] ATPase 16kD subunit, isoform A	LOCMI16049	GO:0018130	heterocycle biosynthetic process
+LOCMI09250	LOCMI09250	AGAP008730-PA	LOCMI09250	GO:0018130	heterocycle biosynthetic process
+LOCMI15172	LOCMI15172	AGAP002385-PA	LOCMI15172	GO:0018130	heterocycle biosynthetic process
+LOCMI16100	LOCMI16100	AGAP004616-PA	LOCMI16100	GO:0018130	heterocycle biosynthetic process
+LOCMI13963	LOCMI13963	Laccase2	LOCMI13963	GO:0055114	oxidation-reduction process
+LOCMI16296	LOCMI16296	D2A5K3_TRICA Putative uncharacterized protein GLEAN_15554	LOCMI16296	GO:0055114	oxidation-reduction process
+LOCMI16180	LOCMI16180	cytochrome P-450, putative	LOCMI16180	GO:0055114	oxidation-reduction process
+LOCMI04643	LOCMI04643	Q16GQ4_AEDAE Putative uncharacterized protein	LOCMI04643	GO:0055114	oxidation-reduction process
+LOCMI05703	LOCMI05703	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	LOCMI05703	GO:0055114	oxidation-reduction process
+LOCMI05702	LOCMI05702	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	LOCMI05702	GO:0055114	oxidation-reduction process
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	GO:0055114	oxidation-reduction process
+LOCMI05701	LOCMI05701	GH12513	LOCMI05701	GO:0055114	oxidation-reduction process
+LOCMI06328	LOCMI06328	NADH dehydrogenase subunit 5	LOCMI06328	GO:0055114	oxidation-reduction process
+LOCMI16273	LOCMI16273	peroxiredoxin	LOCMI16273	GO:0016491	oxidoreductase activity
+LOCMI13963	LOCMI13963	Laccase2	LOCMI13963	GO:0016491	oxidoreductase activity
+LOCMI16274	LOCMI16274	Q7PZB4_ANOGA Thioredoxin-dependent peroxidase (AGAP011824-PA)	LOCMI16274	GO:0016491	oxidoreductase activity
+LOCMI16296	LOCMI16296	D2A5K3_TRICA Putative uncharacterized protein GLEAN_15554	LOCMI16296	GO:0016491	oxidoreductase activity
+LOCMI16180	LOCMI16180	cytochrome P-450, putative	LOCMI16180	GO:0016491	oxidoreductase activity
+LOCMI04643	LOCMI04643	Q16GQ4_AEDAE Putative uncharacterized protein	LOCMI04643	GO:0016491	oxidoreductase activity
+LOCMI05703	LOCMI05703	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	LOCMI05703	GO:0016491	oxidoreductase activity
+LOCMI05702	LOCMI05702	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	LOCMI05702	GO:0016491	oxidoreductase activity
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	GO:0016491	oxidoreductase activity
+LOCMI05701	LOCMI05701	GH12513	LOCMI05701	GO:0016491	oxidoreductase activity
+LOCMI06328	LOCMI06328	NADH dehydrogenase subunit 5	LOCMI06328	GO:0016491	oxidoreductase activity

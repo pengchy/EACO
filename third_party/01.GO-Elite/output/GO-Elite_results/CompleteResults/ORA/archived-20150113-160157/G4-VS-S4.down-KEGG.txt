@@ -1,0 +1,146 @@
+GO-Elite ORA Results
+File:
+Table:
+colors:
+1/13/2015
+Locusta migratoria
+Pvalues = true
+Calculation Summary:
+120 Ensembl source identifiers supplied in the input file:G4-VS-S4.down.txt
+120 source identifiers meeting the filter linked to a Ensembl ID.
+21 genes meeting the criterion linked to a term.
+8861 source identifiers in this dataset.
+8861 source identifiers linked to a Ensembl ID.
+2427 Genes linked to a term.
+The z score is based on an N of 2427 and a R of 21 distinct genes in all terms.
+
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP
+Amino sugar and nucleotide sugar metabolism:map00520	4	44	44	9.09090909091	100.0	5.9441793834	0.003	0.387
+Other glycan degradation:map00511	2	14	14	14.2857142857	100.0	5.43638372025	0.0075	0.48375
+MAPK signaling pathway - fly:map04013	2	15	15	13.3333333333	100.0	5.22894219581	0.0175	0.564375
+Glycosphingolipid biosynthesis - ganglio series:map00604	1	4	4	25.0	100.0	5.2149905437	0.0445	1.0
+Insect hormone biosynthesis:map00981	2	16	16	12.5	100.0	5.04052263658	0.016	0.564375
+Glycosphingolipid biosynthesis - globo series:map00603	1	6	6	16.6666666667	100.0	4.18342067248	0.079	1.0
+Circadian rhythm - fly:map04711	1	8	8	12.5	100.0	3.55828920138	0.103	1.0
+Glycosaminoglycan degradation:map00531	1	16	16	6.25	100.0	2.33283152569	0.1945	1.0
+Jak-STAT signaling pathway:map04630	1	18	18	5.55555555556	100.0	2.15613150397	0.226	1.0
+Pentose phosphate pathway:map00030	1	20	20	5.0	100.0	2.00439019179	0.2515	1.0
+ECM-receptor interaction:map04512	1	21	21	4.7619047619	100.0	1.93601948835	0.2545	1.0
+Peroxisome:map04146	2	66	66	3.0303030303	100.0	1.9250723972	0.24	1.0
+Dorso-ventral axis formation:map04320	1	24	24	4.16666666667	100.0	1.75462663408	0.288	1.0
+Lysosome:map04142	2	74	74	2.7027027027	100.0	1.7329062011	0.258	1.0
+Glycine, serine and threonine metabolism:map00260	1	30	30	3.33333333333	100.0	1.46838984417	0.3355	1.0
+Glycerolipid metabolism:map00561	1	35	35	2.85714285714	100.0	1.28136745194	0.3835	1.0
+Glutathione metabolism:map00480	1	44	44	2.27272727273	100.0	1.01708807073	0.4475	1.0
+Starch and sucrose metabolism:map00500	1	53	53	1.88679245283	100.0	0.811717693241	0.5135	1.0
+FoxO signaling pathway:map04068	1	54	54	1.85185185185	100.0	0.791481403574	0.5375	1.0
+Phagosome:map04145	1	64	64	1.5625	100.0	0.610231396239	0.5815	1.0
+Carbon metabolism:map01200	1	88	88	1.13636363636	100.0	0.279646930125	0.7085	1.0
+Oxidative phosphorylation:map00190	1	102	102	0.980392156863	100.0	0.128239328399	0.7625	1.0
+Lysine biosynthesis:map00300	0	2	2	0.0	100.0	-0.132149754449	1.0	1.0
+Glycosaminoglycan biosynthesis - keratan sulfate:map00533	0	2	2	0.0	100.0	-0.132149754449	1.0	1.0
+Caffeine metabolism:map00232	0	2	2	0.0	100.0	-0.132149754449	1.0	1.0
+Biotin metabolism:map00780	0	2	2	0.0	100.0	-0.132149754449	1.0	1.0
+Vitamin B6 metabolism:map00750	0	3	3	0.0	100.0	-0.16188311542	1.0	1.0
+Valine, leucine and isoleucine biosynthesis:map00290	0	3	3	0.0	100.0	-0.16188311542	1.0	1.0
+Thiamine metabolism:map00730	0	3	3	0.0	100.0	-0.16188311542	1.0	1.0
+Lipoic acid metabolism:map00785	0	3	3	0.0	100.0	-0.16188311542	1.0	1.0
+Degradation of aromatic compounds:map01220	0	3	3	0.0	100.0	-0.16188311542	1.0	1.0
+D-Glutamine and D-glutamate metabolism:map00471	0	3	3	0.0	100.0	-0.16188311542	1.0	1.0
+Riboflavin metabolism:map00740	0	4	4	0.0	100.0	-0.186965089915	1.0	1.0
+Glycosphingolipid biosynthesis - lacto and neolacto series:map00601	0	4	4	0.0	100.0	-0.186965089915	1.0	1.0
+Phenylalanine, tyrosine and tryptophan biosynthesis:map00400	0	5	5	0.0	100.0	-0.209076473821	1.0	1.0
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate:map00532	0	5	5	0.0	100.0	-0.209076473821	1.0	1.0
+Fatty acid biosynthesis:map00061	0	6	6	0.0	100.0	-0.229079098102	1.0	1.0
+Synthesis and degradation of ketone bodies:map00072	0	7	7	0.0	100.0	-0.24748482309	1.0	1.0
+Nitrogen metabolism:map00910	0	7	7	0.0	100.0	-0.24748482309	1.0	1.0
+Cyanoamino acid metabolism:map00460	0	7	7	0.0	100.0	-0.24748482309	1.0	1.0
+Taurine and hypotaurine metabolism:map00430	0	8	8	0.0	100.0	-0.264627085361	1.0	1.0
+Sulfur metabolism:map00920	0	8	8	0.0	100.0	-0.264627085361	1.0	1.0
+Steroid biosynthesis:map00100	0	8	8	0.0	100.0	-0.264627085361	1.0	1.0
+Mucin type O-glycan biosynthesis:map00512	0	8	8	0.0	100.0	-0.264627085361	1.0	1.0
+Linoleic acid metabolism:map00591	0	8	8	0.0	100.0	-0.264627085361	1.0	1.0
+Sulfur relay system:map04122	0	9	9	0.0	100.0	-0.280737443398	1.0	1.0
+Non-homologous end-joining:map03450	0	9	9	0.0	100.0	-0.280737443398	1.0	1.0
+Selenocompound metabolism:map00450	0	10	10	0.0	100.0	-0.295984459268	1.0	1.0
+Pantothenate and CoA biosynthesis:map00770	0	10	10	0.0	100.0	-0.295984459268	1.0	1.0
+Ubiquinone and other terpenoid-quinone biosynthesis:map00130	0	11	11	0.0	100.0	-0.310495358006	1.0	1.0
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin:map00534	0	11	11	0.0	100.0	-0.310495358006	1.0	1.0
+alpha-Linolenic acid metabolism:map00592	0	12	12	0.0	100.0	-0.324368960926	1.0	1.0
+Other types of O-glycan biosynthesis:map00514	0	13	13	0.0	100.0	-0.337683839699	1.0	1.0
+Nicotinate and nicotinamide metabolism:map00760	0	13	13	0.0	100.0	-0.337683839699	1.0	1.0
+Fatty acid elongation:map00062	0	14	14	0.0	100.0	-0.350503687226	1.0	1.0
+2-Oxocarboxylic acid metabolism:map01210	0	14	14	0.0	100.0	-0.350503687226	1.0	1.0
+One carbon pool by folate:map00670	0	15	15	0.0	100.0	-0.362880985169	1.0	1.0
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis:map00563	0	15	15	0.0	100.0	-0.362880985169	1.0	1.0
+Folate biosynthesis:map00790	0	15	15	0.0	100.0	-0.362880985169	1.0	1.0
+Biosynthesis of unsaturated fatty acids:map01040	0	15	15	0.0	100.0	-0.362880985169	1.0	1.0
+Tyrosine metabolism:map00350	0	17	17	0.0	100.0	-0.386476573046	1.0	1.0
+Hedgehog signaling pathway:map04340	0	17	17	0.0	100.0	-0.386476573046	1.0	1.0
+Ether lipid metabolism:map00565	0	17	17	0.0	100.0	-0.386476573046	1.0	1.0
+Butanoate metabolism:map00650	0	17	17	0.0	100.0	-0.386476573046	1.0	1.0
+Protein export:map03060	0	18	18	0.0	100.0	-0.397763644949	1.0	1.0
+Phenylalanine metabolism:map00360	0	18	18	0.0	100.0	-0.397763644949	1.0	1.0
+Phototransduction - fly:map04745	0	19	19	0.0	100.0	-0.40874814366	1.0	1.0
+Histidine metabolism:map00340	0	19	19	0.0	100.0	-0.40874814366	1.0	1.0
+SNARE interactions in vesicular transport:map04130	0	20	20	0.0	100.0	-0.419453851794	1.0	1.0
+Regulation of autophagy:map04140	0	20	20	0.0	100.0	-0.419453851794	1.0	1.0
+ABC transporters:map02010	0	20	20	0.0	100.0	-0.419453851794	1.0	1.0
+Notch signaling pathway:map04330	0	21	21	0.0	100.0	-0.42990160844	1.0	1.0
+Glyoxylate and dicarboxylate metabolism:map00630	0	21	21	0.0	100.0	-0.42990160844	1.0	1.0
+Terpenoid backbone biosynthesis:map00900	0	22	22	0.0	100.0	-0.44010979494	1.0	1.0
+Mismatch repair:map03430	0	22	22	0.0	100.0	-0.44010979494	1.0	1.0
+Arachidonic acid metabolism:map00590	0	22	22	0.0	100.0	-0.44010979494	1.0	1.0
+beta-Alanine metabolism:map00410	0	24	24	0.0	100.0	-0.459870943097	1.0	1.0
+Sphingolipid metabolism:map00600	0	24	24	0.0	100.0	-0.459870943097	1.0	1.0
+Homologous recombination:map03440	0	24	24	0.0	100.0	-0.459870943097	1.0	1.0
+Galactose metabolism:map00052	0	24	24	0.0	100.0	-0.459870943097	1.0	1.0
+Fructose and mannose metabolism:map00051	0	25	25	0.0	100.0	-0.469451506345	1.0	1.0
+Base excision repair:map03410	0	25	25	0.0	100.0	-0.469451506345	1.0	1.0
+Propanoate metabolism:map00640	0	27	27	0.0	100.0	-0.48807155254	1.0	1.0
+Alanine, aspartate and glutamate metabolism:map00250	0	27	27	0.0	100.0	-0.48807155254	1.0	1.0
+Cysteine and methionine metabolism:map00270	0	28	29	0.0	96.5517241379	-0.49713132072	1.0	1.0
+Tryptophan metabolism:map00380	0	29	29	0.0	100.0	-0.506036267453	1.0	1.0
+TGF-beta signaling pathway:map04350	0	29	29	0.0	100.0	-0.506036267453	1.0	1.0
+Retinol metabolism:map00830	0	30	30	0.0	100.0	-0.514794436185	1.0	1.0
+Fanconi anemia pathway:map03460	0	31	31	0.0	100.0	-0.523413203904	1.0	1.0
+RNA polymerase:map03020	0	32	32	0.0	100.0	-0.5318993559	1.0	1.0
+N-Glycan biosynthesis:map00510	0	32	32	0.0	100.0	-0.5318993559	1.0	1.0
+Citrate cycle (TCA cycle):map00020	0	33	33	0.0	100.0	-0.540259150084	1.0	1.0
+mTOR signaling pathway:map04150	0	34	34	0.0	100.0	-0.548498372585	1.0	1.0
+Basal transcription factors:map03022	0	35	35	0.0	100.0	-0.556622386037	1.0	1.0
+DNA replication:map03030	0	36	36	0.0	100.0	-0.564636171698	1.0	1.0
+Inositol phosphate metabolism:map00562	0	38	38	0.0	100.0	-0.580351294596	1.0	1.0
+Fatty acid degradation:map00071	0	38	38	0.0	100.0	-0.580351294596	1.0	1.0
+Valine, leucine and isoleucine degradation:map00280	0	39	39	0.0	100.0	-0.58806099772	1.0	1.0
+Phosphatidylinositol signaling system:map04070	0	40	40	0.0	100.0	-0.595677258742	1.0	1.0
+Nucleotide excision repair:map03420	0	40	40	0.0	100.0	-0.595677258742	1.0	1.0
+Drug metabolism - cytochrome P450:map00982	0	40	40	0.0	100.0	-0.595677258742	1.0	1.0
+Ascorbate and aldarate metabolism:map00053	0	40	40	0.0	100.0	-0.595677258742	1.0	1.0
+Arginine and proline metabolism:map00330	0	40	40	0.0	100.0	-0.595677258742	1.0	1.0
+Pyruvate metabolism:map00620	0	41	41	0.0	100.0	-0.603203625037	1.0	1.0
+Glycolysis / Gluconeogenesis:map00010	0	41	41	0.0	100.0	-0.603203625037	1.0	1.0
+Proteasome:map03050	0	42	42	0.0	100.0	-0.610643428337	1.0	1.0
+Fatty acid metabolism:map01212	0	42	42	0.0	100.0	-0.610643428337	1.0	1.0
+Porphyrin and chlorophyll metabolism:map00860	0	43	43	0.0	100.0	-0.617999802626	1.0	1.0
+Aminoacyl-tRNA biosynthesis:map00970	0	43	43	0.0	100.0	-0.617999802626	1.0	1.0
+Metabolism of xenobiotics by cytochrome P450:map00980	0	44	44	0.0	100.0	-0.625275700167	1.0	1.0
+Lysine degradation:map00310	0	44	44	0.0	100.0	-0.625275700167	1.0	1.0
+Hippo signaling pathway -fly:map04391	0	44	44	0.0	100.0	-0.625275700167	1.0	1.0
+Drug metabolism - other enzymes:map00983	0	44	44	0.0	100.0	-0.625275700167	1.0	1.0
+Pentose and glucuronate interconversions:map00040	0	47	47	0.0	100.0	-0.646647621619	1.0	1.0
+Glycerophospholipid metabolism:map00564	0	47	47	0.0	100.0	-0.646647621619	1.0	1.0
+Neuroactive ligand-receptor interaction:map04080	0	48	48	0.0	100.0	-0.653627975388	1.0	1.0
+Biosynthesis of amino acids:map01230	0	54	54	0.0	100.0	-0.694153063924	1.0	1.0
+RNA degradation:map03018	0	57	57	0.0	100.0	-0.713625711411	1.0	1.0
+Wnt signaling pathway:map04310	0	58	58	0.0	100.0	-0.720010285642	0.6455	1.0
+Ribosome biogenesis in eukaryotes:map03008	0	64	64	0.0	100.0	-0.75729547234	0.6475	1.0
+mRNA surveillance pathway:map03015	0	65	65	0.0	100.0	-0.763350449762	0.6415	1.0
+Pyrimidine metabolism:map00240	0	83	83	0.0	100.0	-0.865899475632	0.6445	1.0
+Endocytosis:map04144	0	86	86	0.0	100.0	-0.881973939669	0.6235	1.0
+Ubiquitin mediated proteolysis:map04120	0	102	102	0.0	100.0	-0.96381979449	0.634	1.0
+RNA transport:map03013	0	117	117	0.0	100.0	-1.03560508698	0.4025	1.0
+Protein processing in endoplasmic reticulum:map04141	0	117	117	0.0	100.0	-1.03560508698	0.42	1.0
+Purine metabolism:map00230	0	118	119	0.0	99.1596638655	-1.04024651935	0.4145	1.0
+Spliceosome:map03040	0	123	123	0.0	100.0	-1.06320877538	0.404	1.0
+Ribosome:map03010	0	139	139	0.0	100.0	-1.13419211628	0.414	1.0

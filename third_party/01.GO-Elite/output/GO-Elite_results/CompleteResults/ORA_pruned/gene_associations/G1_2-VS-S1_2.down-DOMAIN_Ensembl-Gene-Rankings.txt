@@ -1,0 +1,6 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI03791	LOCMI03791	fatty acid binding protein	1	1.0	LOCMI03791	Cytosolic fatty-acid binding:IPR000463
+LOCMI03790	LOCMI03790	fatty acid binding protein	1	1.0	LOCMI03790	Cytosolic fatty-acid binding:IPR000463
+LOCMI03788	LOCMI03788	RecName: Full=Fatty acid-binding protein, muscle; AltName: Full=M-FABP gb|AAK20174.1| muscle fatty acid binding protein	1	1.0	LOCMI03788	Cytosolic fatty-acid binding:IPR000463
+LOCMI01404	LOCMI01404	RecName: Full=Fatty acid-binding protein, muscle; AltName: Full=M-FABP gb|AAK20174.1| muscle fatty acid binding protein	1	1.0	LOCMI01404	Cytosolic fatty-acid binding:IPR000463
+LOCMI00493	LOCMI00493	Cytosolic fatty-acid binding IPR011038; Calycin-like	1	1.0	LOCMI00493	Cytosolic fatty-acid binding:IPR000463

@@ -1,0 +1,4 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols
+Major intrinsic protein:IPR000425	3	10	10	30.0	100.0	4.65679671383	0.005	1.0	 	 	LOCMI06430|LOCMI14139|LOCMI15206
+Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	4	27	27	14.8148148148	100.0	3.30383097775	0.023	1.0	 	 	LOCMI03329|LOCMI03486|LOCMI04029|LOCMI13304
+Sodium:neurotransmitter symporter:IPR000175	3	19	19	15.7894736842	100.0	2.99946887334	0.0315	1.0	 	 	LOCMI01723|LOCMI02454|LOCMI06277

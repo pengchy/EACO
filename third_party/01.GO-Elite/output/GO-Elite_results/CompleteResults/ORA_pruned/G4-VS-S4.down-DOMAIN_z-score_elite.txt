@@ -1,0 +1,3 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols
+Protease inhibitor I4, serpin:IPR000215	5	23	23	21.7391304348	100.0	8.55560769395	0.0	0.6	 	 	LOCMI01756|LOCMI05133|LOCMI07407|LOCMI14212|LOCMI14216
+Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	4	27	27	14.8148148148	100.0	6.13119074281	0.0	0.6	 	 	LOCMI02405|LOCMI03329|LOCMI03770|LOCMI12984

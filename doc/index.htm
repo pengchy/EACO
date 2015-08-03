@@ -1,0 +1,534 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=Generator content="Microsoft Word 14 (filtered)">
+<title>EACO Package</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:黑体;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@黑体";
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+h1
+	{mso-style-name:"标题 1\,Title1";
+	mso-style-link:"标题 1 Char\,Title1 Char";
+	margin-top:30.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	color:#365F91;}
+h2
+	{mso-style-name:"标题 2\,Title2";
+	mso-style-link:"标题 2 Char\,Title2 Char";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	color:#365F91;
+	font-weight:normal;}
+h3
+	{mso-style-name:"标题 3\,Title3";
+	mso-style-link:"标题 3 Char\,Title3 Char";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:normal;}
+h4
+	{mso-style-name:"标题 4\,title4";
+	mso-style-link:"标题 4 Char\,title4 Char";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:normal;
+	font-style:italic;}
+h5
+	{mso-style-name:"标题 5\,Title5";
+	mso-style-link:"标题 5 Char\,Title5 Char";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:normal;}
+h6
+	{mso-style-link:"标题 6 Char";
+	margin-top:14.0pt;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:normal;
+	font-style:italic;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-link:"标题 7 Char";
+	margin-top:16.0pt;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Cambria","serif";
+	color:#9BBB59;
+	font-weight:bold;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-link:"标题 8 Char";
+	margin-top:16.0pt;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Cambria","serif";
+	color:#9BBB59;
+	font-weight:bold;
+	font-style:italic;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-link:"标题 9 Char";
+	margin-top:16.0pt;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Cambria","serif";
+	color:#9BBB59;
+	font-style:italic;}
+p.MsoToc1, li.MsoToc1, div.MsoToc1
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-link:"题注 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:9.0pt;
+	font-family:"Calibri","sans-serif";
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-name:"标题\,Title";
+	mso-style-link:"标题 Char\,Title Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	border:none;
+	padding:0cm;
+	font-size:30.0pt;
+	font-family:"Cambria","serif";
+	color:#243F60;
+	font-style:italic;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-link:"副标题 Char";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:45.0pt;
+	margin-left:0cm;
+	text-align:right;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";
+	font-style:italic;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+strong
+	{letter-spacing:0pt;}
+em
+	{color:#5A5A5A;
+	font-weight:bold;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-link:"无间隔 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"引用 Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:11.0pt;
+	font-family:"Cambria","serif";
+	color:#5A5A5A;
+	font-style:italic;}
+p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
+	{mso-style-link:"明显引用 Char";
+	margin-top:16.0pt;
+	margin-right:72.0pt;
+	margin-bottom:16.0pt;
+	margin-left:72.0pt;
+	text-indent:18.0pt;
+	line-height:125%;
+	background:#4F81BD;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	color:white;
+	font-style:italic;}
+span.MsoSubtleEmphasis
+	{color:#5A5A5A;
+	font-style:italic;}
+span.MsoIntenseEmphasis
+	{color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;}
+span.MsoSubtleReference
+	{color:windowtext;
+	text-decoration:underline;}
+span.MsoIntenseReference
+	{color:#76923C;
+	font-weight:bold;
+	text-decoration:underline;}
+span.MsoBookTitle
+	{font-family:"Cambria","serif";
+	color:windowtext;
+	font-weight:bold;
+	font-style:italic;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{margin-top:30.0pt;
+	margin-right:0cm;
+	margin-bottom:4.0pt;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	color:#365F91;
+	font-weight:bold;}
+span.1Char
+	{mso-style-name:"标题 1 Char\,Title1 Char";
+	mso-style-link:"标题 1\,Title1";
+	font-family:"Cambria","serif";
+	color:#365F91;
+	font-weight:bold;}
+p.forfig, li.forfig, div.forfig
+	{mso-style-name:for_fig;
+	mso-style-link:"for_fig Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";}
+span.forfigChar
+	{mso-style-name:"for_fig Char";
+	mso-style-link:for_fig;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+p.fortable, li.fortable, div.fortable
+	{mso-style-name:for_table;
+	mso-style-link:"for_table Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:18.0pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.fortableChar
+	{mso-style-name:"for_table Char";
+	mso-style-link:for_table;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+span.2Char
+	{mso-style-name:"标题 2 Char\,Title2 Char";
+	mso-style-link:"标题 2\,Title2";
+	font-family:"Cambria","serif";
+	color:#365F91;}
+span.3Char
+	{mso-style-name:"标题 3 Char\,Title3 Char";
+	mso-style-link:"标题 3\,Title3";
+	font-family:"Cambria","serif";
+	color:#4F81BD;}
+span.4Char
+	{mso-style-name:"标题 4 Char\,title4 Char";
+	mso-style-link:"标题 4\,title4";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-style:italic;}
+span.Char
+	{mso-style-name:"题注 Char";
+	mso-style-link:题注;
+	font-weight:bold;}
+span.Char0
+	{mso-style-name:"标题 Char\,Title Char";
+	mso-style-link:"标题\,Title";
+	font-family:"Cambria","serif";
+	color:#243F60;
+	font-style:italic;}
+span.Char1
+	{mso-style-name:"副标题 Char";
+	mso-style-link:副标题;
+	font-style:italic;}
+span.5Char
+	{mso-style-name:"标题 5 Char\,Title5 Char";
+	mso-style-link:"标题 5\,Title5";
+	font-family:"Cambria","serif";
+	color:#4F81BD;}
+span.6Char
+	{mso-style-name:"标题 6 Char";
+	mso-style-link:"标题 6";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-style:italic;}
+span.7Char
+	{mso-style-name:"标题 7 Char";
+	mso-style-link:"标题 7";
+	font-family:"Cambria","serif";
+	color:#9BBB59;
+	font-weight:bold;}
+span.8Char
+	{mso-style-name:"标题 8 Char";
+	mso-style-link:"标题 8";
+	font-family:"Cambria","serif";
+	color:#9BBB59;
+	font-weight:bold;
+	font-style:italic;}
+span.9Char
+	{mso-style-name:"标题 9 Char";
+	mso-style-link:"标题 9";
+	font-family:"Cambria","serif";
+	color:#9BBB59;
+	font-style:italic;}
+span.Char2
+	{mso-style-name:"引用 Char";
+	mso-style-link:引用;
+	font-family:"Cambria","serif";
+	color:#5A5A5A;
+	font-style:italic;}
+span.Char3
+	{mso-style-name:"明显引用 Char";
+	mso-style-link:明显引用;
+	font-family:"Cambria","serif";
+	color:white;
+	background:#4F81BD;
+	font-style:italic;}
+span.Char4
+	{mso-style-name:"无间隔 Char";
+	mso-style-link:无间隔;}
+.MsoChpDefault
+	{font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+.MsoPapDefault
+	{text-indent:18.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body lang=ZH-CN link=blue vlink=purple style='text-justify-trim:punctuation'>
+
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<div style='border-top:solid #A7BFDE 1.0pt;border-left:none;border-bottom:solid #9BBB59 3.0pt;
+border-right:none;padding:10.0pt 0cm 15.0pt 0cm'>
+
+<p class=MsoTitle><span lang=EN-US>EACO (Enrichment Analysis for Customized
+Organism) package Manual</span></p>
+
+</div>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+<div style='border:none;border-bottom:solid #365F91 1.5pt;padding:0cm 0cm 1.0pt 0cm'>
+
+<h1><a name="_Toc408146422"><span lang=EN-US>1. Introduction</span></a></h1>
+
+</div>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>EACO package is
+designed aimed to do enrichment analysis to fulfill the following features
+through three steps:</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>1. data
+preparation step:</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>1.1 filtering
+the redundancy of the gene sets</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>1.2 unify the
+input gene sets file format, which will enable this package can be used for any
+sequenced genomes</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>2. enrichment
+step</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>2.1 Integrate
+the latest algorithm, which is always developed initially for model organisms</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>3. visualization
+step</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>3.1 using bar or
+heatmap to visualize the comparisons integrating many samples.</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>In general, this
+package is written using Perl/R programming language, which will guarantee it
+can be run on all operating system.</span></p>
+
+<div style='border:none;border-bottom:solid #365F91 1.5pt;padding:0cm 0cm 1.0pt 0cm'>
+
+<h1><a name="_Toc408146423"><span lang=EN-US>2. Installation</span></a></h1>
+
+</div>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>The installation
+is simple un-compress it after you download it from here. </span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US
+style='color:#31849B'>tar -zxf EACO_r20150101.tar.gz</span></p>
+
+<div style='border:none;border-bottom:solid #365F91 1.5pt;padding:0cm 0cm 1.0pt 0cm'>
+
+<h1><span lang=EN-US>3. Running examples</span></h1>
+
+</div>
+
+<p class=MsoNormal><span lang=EN-US>The examples are in the example directory.
+The following give out the explanation of this directory.</span></p>
+
+<p class=MsoNormal><i><span lang=EN-US>00.data</span></i><span lang=EN-US> the
+predefined test data</span></p>
+
+<p class=MsoNormal><i><span lang=EN-US>01.prep</span></i><span lang=EN-US> the
+preparation step</span></p>
+
+<p class=MsoNormal><i><span lang=EN-US>02.Enrich</span></i><span lang=EN-US>
+the enrichment step</span></p>
+
+<p class=MsoNormal><i><span lang=EN-US>03.Visualize</span></i><span lang=EN-US>
+the visualization step</span></p>
+
+<div style='border:none;border-bottom:solid #365F91 1.5pt;padding:0cm 0cm 1.0pt 0cm'>
+
+<h1><span lang=EN-US>4. Questions and suggestions</span></h1>
+
+</div>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>Any questions
+and suggestions are appreciated.</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>Pengcheng Yang</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>yangpc [AT] mail.biols.ac.cn</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:24.0pt'><span lang=EN-US>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>

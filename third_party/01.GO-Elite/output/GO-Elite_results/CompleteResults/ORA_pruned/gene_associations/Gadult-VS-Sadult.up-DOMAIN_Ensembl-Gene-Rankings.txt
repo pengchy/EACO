@@ -1,0 +1,33 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI16464	LOCMI16464	PREDICTED: carboxypeptidase N subunit 2-like	1	0.2	LOCMI16464	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI16426	LOCMI16426	C3ZL73_BRAFL Putative uncharacterized protein	1	0.2	LOCMI16426	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI15324	LOCMI15324	PREDICTED: histone H2B.3-like	1	0.2	LOCMI15324	Histone H2B:IPR000558
+LOCMI15210	LOCMI15210	aquaporin	1	0.2	LOCMI15210	Major intrinsic protein:IPR000425
+LOCMI15206	LOCMI15206	aquaporin	1	0.2	LOCMI15206	Major intrinsic protein:IPR000425
+LOCMI14948	LOCMI14948	PREDICTED: similar to peroxidasin	1	0.2	LOCMI14948	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI14139	LOCMI14139	Aquaporin AQPAe.a, putative	1	0.2	LOCMI14139	Major intrinsic protein:IPR000425
+LOCMI13988	LOCMI13988	Q7Q5V6_ANOGA AGAP006183-PA	1	0.2	LOCMI13988	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI13628	LOCMI13628	PREDICTED: glucose dehydrogenase	1	0.2	LOCMI13628	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI13526	LOCMI13526	Histone H2B	1	0.2	LOCMI13526	Histone H2B:IPR000558
+LOCMI13304	LOCMI13304	PREDICTED: glucose dehydrogenase	1	0.2	LOCMI13304	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI11432	LOCMI11432	Q5T0V3_HUMAN Slit homolog 1 (Drosophila) (Fragment)	1	0.2	LOCMI11432	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI10084	LOCMI10084	variable lymphocyte receptor C	1	0.2	LOCMI10084	Cysteine-rich flanking region, C-terminal domain:IPR000483
+LOCMI08350	LOCMI08350	Histone H2B	1	0.2	LOCMI08350	Histone H2B:IPR000558
+LOCMI08311	LOCMI08311	PREDICTED: histone H3.2-like	1	0.2	LOCMI08311	Histone H3:IPR000164
+LOCMI06431	LOCMI06431	PREDICTED: aquaporin AQPcic-like isoform 1	1	0.2	LOCMI06431	Major intrinsic protein:IPR000425
+LOCMI06335	LOCMI06335	Histone H3c	1	0.2	LOCMI06335	Histone H3:IPR000164
+LOCMI06259	LOCMI06259	histone H2B	1	0.2	LOCMI06259	Histone H2B:IPR000558
+LOCMI05509	LOCMI05509	RecName: Full=Histone H2B.3 gb|AAC41557.1| histone H2B-3	1	0.2	LOCMI05509	Histone H2B:IPR000558
+LOCMI05487	LOCMI05487	predicted protein	1	0.2	LOCMI05487	Histone H3:IPR000164
+LOCMI03770	LOCMI03770	B3P2V7_DROER Glucose dehydrogenase	1	0.2	LOCMI03770	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03602	LOCMI03602	Q17ER9_AEDAE Histone H2B	1	0.2	LOCMI03602	Histone H2B:IPR000558
+LOCMI03486	LOCMI03486	B4L259_DROMO GI15372	1	0.2	LOCMI03486	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI03330	LOCMI03330	histone H2B	1	0.2	LOCMI03330	Histone H2B:IPR000558
+LOCMI02995	LOCMI02995	histone 3	1	0.2	LOCMI02995	Histone H3:IPR000164
+LOCMI02919	LOCMI02919	PREDICTED: glucose dehydrogenase	1	0.2	LOCMI02919	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172
+LOCMI02904	LOCMI02904	histone H2B type 1-N	1	0.2	LOCMI02904	Histone H2B:IPR000558
+LOCMI02850	LOCMI02850	Histone H3c	1	0.2	LOCMI02850	Histone H3:IPR000164
+LOCMI01686	LOCMI01686	Histone H2B	1	0.2	LOCMI01686	Histone H2B:IPR000558
+LOCMI01334	LOCMI01334	predicted protein	1	0.2	LOCMI01334	Histone H3:IPR000164
+LOCMI00917	LOCMI00917	GM19716	1	0.2	LOCMI00917	Histone H3:IPR000164
+LOCMI00075	LOCMI00075	glucose dehydrogenase	1	0.2	LOCMI00075	Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172

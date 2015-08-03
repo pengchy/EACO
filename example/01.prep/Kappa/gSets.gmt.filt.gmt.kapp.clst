@@ -1,0 +1,52 @@
+cluster	ID	gNum	gNumRatio	Descrp
+1	GO:0003689	5	1	DNA clamp loader activity
+1	GO:0005663	5	1	DNA replication factor C complex
+2	GO:0003735	176	0.9944	structural constituent of ribosome
+2	GO:0005840	177	1	ribosome
+3	GO:0004298	22	1	threonine-type endopeptidase activity
+3	GO:0005839	22	1	proteasome core complex
+4	GO:0004383	10	1	guanylate cyclase activity
+4	GO:0006182	10	1	cGMP biosynthetic process
+5	GO:0004550	6	1	nucleoside diphosphate kinase activity
+5	GO:0006183	6	1	GTP biosynthetic process
+5	GO:0006228	6	1	UTP biosynthetic process
+5	GO:0006241	6	1	CTP biosynthetic process
+6	GO:0004721	36	0.973	phosphoprotein phosphatase activity
+6	GO:0006470	36	0.973	protein dephosphorylation
+7	GO:0005097	29	1	Rab GTPase activator activity
+7	GO:0032313	29	1	regulation of Rab GTPase activity
+7	IPR000195	29	1	Rab-GAP/TBC domain
+8	GO:0005328	19	0.95	neurotransmitter:sodium symporter activity
+8	GO:0006836	20	1	neurotransmitter transport
+8	IPR000175	19	0.95	Sodium:neurotransmitter symporter
+9	GO:0006351	212	1	transcription, DNA-templated
+9	GO:0006355	201	0.9481	regulation of transcription, DNA-templated
+10	GO:0006865	10	1	amino acid transport
+10	GO:0015171	10	1	amino acid transmembrane transporter activity
+11	GO:0006879	7	1	cellular iron ion homeostasis
+11	GO:0008199	7	1	ferric iron binding
+12	GO:0008138	13	1	protein tyrosine/serine/threonine phosphatase activity
+12	IPR000340	13	1	Dual specificity phosphatase, catalytic domain
+13	GO:0009127	77	1	purine nucleoside monophosphate biosynthetic process
+13	GO:0009156	77	1	ribonucleoside monophosphate biosynthetic process
+13	GO:0009167	77	1	purine ribonucleoside monophosphate metabolic process
+14	GO:0009205	103	0.9717	purine ribonucleoside triphosphate metabolic process
+14	GO:0046128	106	1	purine ribonucleoside metabolic process
+15	GO:0009206	74	0.961	purine ribonucleoside triphosphate biosynthetic process
+15	GO:0046129	77	1	purine ribonucleoside biosynthetic process
+16	GO:0015031	183	0.9482	protein transport
+16	GO:0071702	193	1	organic substance transport
+17	GO:0019773	8	1	proteasome core complex, alpha-subunit complex
+17	IPR000426	8	1	Proteasome, alpha-subunit, conserved site
+18	GO:0032550	1000	1	purine ribonucleoside binding
+18	GO:0032555	1000	1	purine ribonucleotide binding
+18	GO:0035639	1000	1	purine ribonucleoside triphosphate binding
+19	GO:0036094	1121	1	small molecule binding
+19	GO:0043168	1074	0.9581	anion binding
+19	GO:1901265	1121	1	nucleoside phosphate binding
+20	GO:0044248	107	1	cellular catabolic process
+20	GO:1901575	107	1	organic substance catabolic process
+21	GO:0044249	681	1	cellular biosynthetic process
+21	GO:1901576	681	1	organic substance biosynthetic process
+22	GO:0044711	106	1	single-organism biosynthetic process
+22	GO:0090407	106	1	organophosphate biosynthetic process

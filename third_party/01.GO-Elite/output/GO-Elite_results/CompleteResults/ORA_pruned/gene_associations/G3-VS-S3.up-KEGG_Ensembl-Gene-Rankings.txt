@@ -1,0 +1,8 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI13448	LOCMI13448	PREDICTED: inositol oxygenase-like	2	0.666666666667	LOCMI13448	Ascorbate and aldarate metabolism:map00053 // Inositol phosphate metabolism:map00562
+LOCMI13447	LOCMI13447	PREDICTED: inositol oxygenase-like	2	0.666666666667	LOCMI13447	Ascorbate and aldarate metabolism:map00053 // Inositol phosphate metabolism:map00562
+LOCMI13445	LOCMI13445	myo-inositol oxygenase	2	0.666666666667	LOCMI13445	Ascorbate and aldarate metabolism:map00053 // Inositol phosphate metabolism:map00562
+LOCMI13444	LOCMI13444	PREDICTED: inositol oxygenase-like	2	0.666666666667	LOCMI13444	Ascorbate and aldarate metabolism:map00053 // Inositol phosphate metabolism:map00562
+LOCMI08521	LOCMI08521	alpha-amylase	1	0.333333333333	LOCMI08521	Starch and sucrose metabolism:map00500
+LOCMI04338	LOCMI04338	alpha-amylase	1	0.333333333333	LOCMI04338	Starch and sucrose metabolism:map00500
+LOCMI03766	LOCMI03766	alpha-amylase	1	0.333333333333	LOCMI03766	Starch and sucrose metabolism:map00500

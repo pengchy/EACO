@@ -1,0 +1,72 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI13554	LOCMI13554	PREDICTED: peroxisomal multifunctional enzyme type 2-like isoform 2	3	0.333333333333	LOCMI13554	lipid binding // oxidation-reduction process // oxidoreductase activity
+LOCMI09430	LOCMI09430	xanthine dehydrogenase/oxidase	3	0.333333333333	LOCMI09430	metal cluster binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16296	LOCMI16296	D2A5K3_TRICA Putative uncharacterized protein GLEAN_15554	2	0.222222222222	LOCMI16296	oxidation-reduction process // oxidoreductase activity
+LOCMI16257	LOCMI16257	D6WCM3_TRICA Putative uncharacterized protein	2	0.222222222222	LOCMI16257	oxidation-reduction process // oxidoreductase activity
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	2	0.222222222222	LOCMI16195	oxidation-reduction process // oxidoreductase activity
+LOCMI16184	LOCMI16184	cytochrome P450	2	0.222222222222	LOCMI16184	oxidation-reduction process // oxidoreductase activity
+LOCMI16136	LOCMI16136	Cytochrome P450 4g15	2	0.222222222222	LOCMI16136	oxidation-reduction process // oxidoreductase activity
+LOCMI16099	LOCMI16099	D6WCN0_TRICA Beta-galactosidase	2	0.222222222222	LOCMI16099	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI16098	LOCMI16098	E9H6R5_DAPPU Putative uncharacterized protein	2	0.222222222222	LOCMI16098	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI16027	LOCMI16027	GK21691	2	0.222222222222	LOCMI16027	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI16004	LOCMI16004	PREDICTED: alcohol dehydrogenase	2	0.222222222222	LOCMI16004	oxidation-reduction process // oxidoreductase activity
+LOCMI15961	LOCMI15961	PREDICTED: peroxisomal acyl-coenzyme A oxidase 3-like isoform 3	2	0.222222222222	LOCMI15961	oxidation-reduction process // oxidoreductase activity
+LOCMI15895	LOCMI15895	cytochrome c oxidase subunit VIIA putative	2	0.222222222222	LOCMI15895	transporter activity // oxidoreductase activity
+LOCMI15801	LOCMI15801	E3WQ18_ANODA Putative uncharacterized protein	2	0.222222222222	LOCMI15801	oxidation-reduction process // oxidoreductase activity
+LOCMI15788	LOCMI15788	aldo-keto reductase	2	0.222222222222	LOCMI15788	oxidation-reduction process // oxidoreductase activity
+LOCMI15761	LOCMI15761	D6WRY0_TRICA Putative uncharacterized protein	2	0.222222222222	LOCMI15761	transporter activity // oxidoreductase activity
+LOCMI15075	LOCMI15075	MPA3 allergen	2	0.222222222222	LOCMI15075	serine hydrolase activity // proteolysis
+LOCMI14530	LOCMI14530	zinc binding dehydrogenase, putative	2	0.222222222222	LOCMI14530	oxidation-reduction process // oxidoreductase activity
+LOCMI14448	LOCMI14448	ferritin-like precursor	2	0.222222222222	LOCMI14448	oxidation-reduction process // oxidoreductase activity
+LOCMI12294	LOCMI12294	PREDICTED: trypsin-3	2	0.222222222222	LOCMI12294	serine hydrolase activity // proteolysis
+LOCMI12292	LOCMI12292	trypsin	2	0.222222222222	LOCMI12292	serine hydrolase activity // proteolysis
+LOCMI11841	LOCMI11841	PREDICTED: cationic trypsin-3-like	2	0.222222222222	LOCMI11841	serine hydrolase activity // proteolysis
+LOCMI11837	LOCMI11837	serine-type enodpeptidase, putative	2	0.222222222222	LOCMI11837	serine hydrolase activity // proteolysis
+LOCMI11009	LOCMI11009	Q6RUR3_GRYOR Putative alcohol dehydrogenase	2	0.222222222222	LOCMI11009	oxidation-reduction process // oxidoreductase activity
+LOCMI08912	LOCMI08912	beta-glucosidase	2	0.222222222222	LOCMI08912	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI08786	LOCMI08786	beta-glucosidase	2	0.222222222222	LOCMI08786	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI08721	LOCMI08721	MPA3 allergen	2	0.222222222222	LOCMI08721	serine hydrolase activity // proteolysis
+LOCMI08394	LOCMI08394	PREDICTED: 2-aminoethanethiol dioxygenase-like	2	0.222222222222	LOCMI08394	oxidation-reduction process // oxidoreductase activity
+LOCMI07206	LOCMI07206	beta-glucosidase	2	0.222222222222	LOCMI07206	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI07021	LOCMI07021	Q8T0W7_9NEOP Beta-glucosidase	2	0.222222222222	LOCMI07021	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI06649	LOCMI06649	CG32808	2	0.222222222222	LOCMI06649	serine hydrolase activity // proteolysis
+LOCMI06502	LOCMI06502	C3Y5B7_BRAFL Putative uncharacterized protein	2	0.222222222222	LOCMI06502	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI05452	LOCMI05452	beta-glucosidase	2	0.222222222222	LOCMI05452	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI05299	LOCMI05299	beta-glucosidase	2	0.222222222222	LOCMI05299	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI05278	LOCMI05278	Lactase-phlorizin hydrolase	2	0.222222222222	LOCMI05278	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI04668	LOCMI04668	seminal fluid protein CSSFP031	2	0.222222222222	LOCMI04668	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI04105	LOCMI04105	beta-glucosidase	2	0.222222222222	LOCMI04105	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI03827	LOCMI03827	beta-glucosidase	2	0.222222222222	LOCMI03827	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI03826	LOCMI03826	seminal fluid protein CSSFP012	2	0.222222222222	LOCMI03826	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI03791	LOCMI03791	fatty acid binding protein	2	0.222222222222	LOCMI03791	transporter activity // lipid binding
+LOCMI03790	LOCMI03790	fatty acid binding protein	2	0.222222222222	LOCMI03790	transporter activity // lipid binding
+LOCMI03788	LOCMI03788	RecName: Full=Fatty acid-binding protein, muscle; AltName: Full=M-FABP gb|AAK20174.1| muscle fatty acid binding protein	2	0.222222222222	LOCMI03788	transporter activity // lipid binding
+LOCMI03125	LOCMI03125	GK14321	2	0.222222222222	LOCMI03125	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI02805	LOCMI02805	PREDICTED: retinoid-inducible serine carboxypeptidase-like	2	0.222222222222	LOCMI02805	serine hydrolase activity // proteolysis
+LOCMI02470	LOCMI02470	Lactase-phlorizin hydrolase	2	0.222222222222	LOCMI02470	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI02469	LOCMI02469	beta-glucosidase	2	0.222222222222	LOCMI02469	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI02318	LOCMI02318	Glycoside hydrolase, family 1 IPR017853; Glycoside hydrolase, catalytic core	2	0.222222222222	LOCMI02318	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI02163	LOCMI02163	glycoside hydrolase	2	0.222222222222	LOCMI02163	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI01741	LOCMI01741	cellulase	2	0.222222222222	LOCMI01741	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI01404	LOCMI01404	RecName: Full=Fatty acid-binding protein, muscle; AltName: Full=M-FABP gb|AAK20174.1| muscle fatty acid binding protein	2	0.222222222222	LOCMI01404	transporter activity // lipid binding
+LOCMI01272	LOCMI01272	PREDICTED: myrosinase 1-like isoform 2	2	0.222222222222	LOCMI01272	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI00493	LOCMI00493	Cytosolic fatty-acid binding IPR011038; Calycin-like	2	0.222222222222	LOCMI00493	transporter activity // lipid binding
+LOCMI16100	LOCMI16100	AGAP004616-PA	1	0.111111111111	LOCMI16100	transporter activity
+LOCMI15760	LOCMI15760	D6WQQ4_TRICA Putative uncharacterized protein	1	0.111111111111	LOCMI15760	oxidoreductase activity
+LOCMI15416	LOCMI15416	Low choriolytic enzyme precursor, putative	1	0.111111111111	LOCMI15416	proteolysis
+LOCMI14449	LOCMI14449	nitrogen fixation protein nifu, putative	1	0.111111111111	LOCMI14449	metal cluster binding
+LOCMI13660	LOCMI13660	Mitochondrial import inner membrane translocase subunit Tim22	1	0.111111111111	LOCMI13660	transporter activity
+LOCMI11963	LOCMI11963	hexamerin-like protein 2	1	0.111111111111	LOCMI11963	transporter activity
+LOCMI11126	LOCMI11126	PREDICTED: zinc carboxypeptidase A 1-like	1	0.111111111111	LOCMI11126	proteolysis
+LOCMI09561	LOCMI09561	arylphorin hexamerin-like protein 2	1	0.111111111111	LOCMI09561	transporter activity
+LOCMI09544	LOCMI09544	nitrogen fixation protein nifu, putative	1	0.111111111111	LOCMI09544	metal cluster binding
+LOCMI08807	LOCMI08807	carboxypeptidase	1	0.111111111111	LOCMI08807	proteolysis
+LOCMI08135	LOCMI08135	vacuolar proton ATPase	1	0.111111111111	LOCMI08135	transporter activity
+LOCMI05274	LOCMI05274	nuclear transcription factor Tfp1	1	0.111111111111	LOCMI05274	transporter activity
+LOCMI03518	LOCMI03518	B4G2X4_DROPE GL23532	1	0.111111111111	LOCMI03518	transporter activity
+LOCMI03280	LOCMI03280	GJ13115	1	0.111111111111	LOCMI03280	proteolysis
+LOCMI03279	LOCMI03279	Q5TPZ3_ANOGA AGAP011434-PA	1	0.111111111111	LOCMI03279	proteolysis
+LOCMI03066	LOCMI03066	B0WKF5_CULQU Putative uncharacterized protein	1	0.111111111111	LOCMI03066	carbohydrate metabolic process
+LOCMI02924	LOCMI02924	PREDICTED: facilitated trehalose transporter Tret1-like	1	0.111111111111	LOCMI02924	transporter activity
+LOCMI02019	LOCMI02019	tRNA-yW synthesizing protein 1 homolog	1	0.111111111111	LOCMI02019	metal cluster binding
+LOCMI00309	LOCMI00309	large neutral amino acids transporter, putative	1	0.111111111111	LOCMI00309	transporter activity

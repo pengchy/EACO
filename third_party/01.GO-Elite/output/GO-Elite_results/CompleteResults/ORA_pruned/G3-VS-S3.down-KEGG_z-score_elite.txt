@@ -1,0 +1,4 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols
+Glutathione metabolism:map00480	3	44	44	6.81818181818	100.0	3.08496040506	0.008	0.338625	 	 	LOCMI03230|LOCMI04442|LOCMI15716
+Spliceosome:map03040	5	123	123	4.06504065041	100.0	2.57971530218	0.0015	0.1935	 	 	LOCMI11649|LOCMI17071|LOCMI17234|LOCMI17269|LOCMI17326
+Oxidative phosphorylation:map00190	4	102	102	3.92156862745	100.0	2.21262398379	0.0105	0.338625	 	 	LOCMI15895|LOCMI15980|LOCMI15981|LOCMI16024

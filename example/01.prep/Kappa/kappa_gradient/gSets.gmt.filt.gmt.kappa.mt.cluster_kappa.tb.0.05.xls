@@ -1,0 +1,71 @@
+gSets	cluster	gNum	setDes
+GO:0000785	3	70	chromatin
+GO:0003689	7	5	DNA clamp loader activity
+GO:0003735	10	176	structural constituent of ribosome
+GO:0004298	24	22	threonine-type endopeptidase activity
+GO:0004383	25	10	guanylate cyclase activity
+GO:0004550	28	6	nucleoside diphosphate kinase activity
+GO:0004721	31	36	phosphoprotein phosphatase activity
+GO:0005097	35	29	Rab GTPase activator activity
+GO:0005328	39	19	neurotransmitter:sodium symporter activity
+GO:0005663	7	5	DNA replication factor C complex
+GO:0005839	24	22	proteasome core complex
+GO:0005840	10	177	ribosome
+GO:0005887	50	60	integral component of plasma membrane
+GO:0006182	25	10	cGMP biosynthetic process
+GO:0006183	28	6	GTP biosynthetic process
+GO:0006228	28	6	UTP biosynthetic process
+GO:0006241	28	6	CTP biosynthetic process
+GO:0006351	59	212	transcription, DNA-templated
+GO:0006355	59	201	regulation of transcription, DNA-templated
+GO:0006399	64	74	tRNA metabolic process
+GO:0006418	68	44	tRNA aminoacylation for protein translation
+GO:0006470	31	36	protein dephosphorylation
+GO:0006753	77	127	nucleoside phosphate metabolic process
+GO:0006836	39	20	neurotransmitter transport
+GO:0006865	85	10	amino acid transport
+GO:0006879	86	7	cellular iron ion homeostasis
+GO:0008138	103	13	protein tyrosine/serine/threonine phosphatase activity
+GO:0008199	86	7	ferric iron binding
+GO:0009127	114	77	purine nucleoside monophosphate biosynthetic process
+GO:0009150	77	116	purine ribonucleotide metabolic process
+GO:0009152	115	87	purine ribonucleotide biosynthetic process
+GO:0009156	114	77	ribonucleoside monophosphate biosynthetic process
+GO:0009167	114	77	purine ribonucleoside monophosphate metabolic process
+GO:0009205	117	103	purine ribonucleoside triphosphate metabolic process
+GO:0009206	118	74	purine ribonucleoside triphosphate biosynthetic process
+GO:0015031	123	183	protein transport
+GO:0015171	85	10	amino acid transmembrane transporter activity
+GO:0016021	131	700	integral component of membrane
+GO:0019637	158	137	organophosphate metabolic process
+GO:0019773	160	8	proteasome core complex, alpha-subunit complex
+GO:0032313	35	29	regulation of Rab GTPase activity
+GO:0032550	174	1000	purine ribonucleoside binding
+GO:0032555	174	1000	purine ribonucleotide binding
+GO:0033013	176	11	tetrapyrrole metabolic process
+GO:0033014	176	10	tetrapyrrole biosynthetic process
+GO:0034660	64	80	ncRNA metabolic process
+GO:0035639	174	1000	purine ribonucleoside triphosphate binding
+GO:0036094	180	1121	small molecule binding
+GO:0043039	68	48	tRNA aminoacylation
+GO:0043168	180	1074	anion binding
+GO:0044248	194	107	cellular catabolic process
+GO:0044249	195	681	cellular biosynthetic process
+GO:0044425	131	745	membrane part
+GO:0044427	3	75	chromosomal part
+GO:0044459	50	65	plasma membrane part
+GO:0044711	205	106	single-organism biosynthetic process
+GO:0046128	117	106	purine ribonucleoside metabolic process
+GO:0046129	118	77	purine ribonucleoside biosynthetic process
+GO:0071702	123	193	organic substance transport
+GO:0090407	205	106	organophosphate biosynthetic process
+GO:1901135	158	128	carbohydrate derivative metabolic process
+GO:1901137	205	97	carbohydrate derivative biosynthetic process
+GO:1901265	180	1121	nucleoside phosphate binding
+GO:1901293	115	96	nucleoside phosphate biosynthetic process
+GO:1901575	194	107	organic substance catabolic process
+GO:1901576	195	681	organic substance biosynthetic process
+IPR000175	39	19	Sodium:neurotransmitter symporter
+IPR000195	35	29	Rab-GAP/TBC domain
+IPR000340	103	13	Dual specificity phosphatase, catalytic domain
+IPR000426	160	8	Proteasome, alpha-subunit, conserved site

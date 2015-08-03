@@ -1,0 +1,101 @@
+protein targeting	pr	LOCMI00586:LOCMI00586
+protein targeting	pr	LOCMI00585:LOCMI00585
+protein targeting	pr	LOCMI07932:LOCMI07932
+protein targeting	pr	LOCMI03203:LOCMI03203
+oxidation-reduction process	pr	LOCMI03739:LOCMI03739
+oxidation-reduction process	pr	LOCMI09430:LOCMI09430
+oxidation-reduction process	pr	LOCMI15980:LOCMI15980
+oxidation-reduction process	pr	LOCMI15867:LOCMI15867
+oxidation-reduction process	pr	LOCMI09478:LOCMI09478
+oxidation-reduction process	pr	LOCMI16195:LOCMI16195
+oxidation-reduction process	pr	LOCMI03230:LOCMI03230
+oxidation-reduction process	pr	LOCMI16101:LOCMI16101
+oxidation-reduction process	pr	LOCMI15880:LOCMI15880
+oxidation-reduction process	pr	LOCMI12279:LOCMI12279
+oxidation-reduction process	pr	LOCMI16024:LOCMI16024
+oxidoreductase activity	pr	LOCMI03739:LOCMI03739
+oxidoreductase activity	pr	LOCMI16357:LOCMI16357
+oxidoreductase activity	pr	LOCMI16273:LOCMI16273
+oxidoreductase activity	pr	LOCMI16279:LOCMI16279
+oxidoreductase activity	pr	LOCMI09430:LOCMI09430
+oxidoreductase activity	pr	LOCMI15981:LOCMI15981
+oxidoreductase activity	pr	LOCMI15980:LOCMI15980
+oxidoreductase activity	pr	LOCMI05622:LOCMI05622
+oxidoreductase activity	pr	LOCMI15867:LOCMI15867
+oxidoreductase activity	pr	LOCMI09478:LOCMI09478
+oxidoreductase activity	pr	LOCMI16195:LOCMI16195
+oxidoreductase activity	pr	LOCMI15895:LOCMI15895
+oxidoreductase activity	pr	LOCMI01539:LOCMI01539
+oxidoreductase activity	pr	LOCMI03230:LOCMI03230
+oxidoreductase activity	pr	LOCMI16101:LOCMI16101
+oxidoreductase activity	pr	LOCMI15880:LOCMI15880
+oxidoreductase activity	pr	LOCMI16263:LOCMI16263
+oxidoreductase activity	pr	LOCMI12279:LOCMI12279
+oxidoreductase activity	pr	LOCMI16024:LOCMI16024
+cytoplasm	pr	LOCMI05642:LOCMI05642
+cytoplasm	pr	LOCMI04634:LOCMI04634
+cytoplasm	pr	LOCMI15981:LOCMI15981
+cytoplasm	pr	LOCMI15980:LOCMI15980
+cytoplasm	pr	LOCMI00586:LOCMI00586
+cytoplasm	pr	LOCMI00585:LOCMI00585
+cytoplasm	pr	LOCMI15895:LOCMI15895
+cytoplasm	pr	LOCMI11744:LOCMI11744
+cytoplasm	pr	LOCMI07932:LOCMI07932
+cytoplasm	pr	LOCMI15205:LOCMI15205
+cytoplasm	pr	LOCMI08036:LOCMI08036
+cytoplasm	pr	LOCMI15934:LOCMI15934
+cytoplasm	pr	LOCMI12177:LOCMI12177
+cytoplasm	pr	LOCMI12178:LOCMI12178
+cytoplasm	pr	LOCMI03203:LOCMI03203
+cytoplasm	pr	LOCMI08029:LOCMI08029
+cytoplasm	pr	LOCMI16024:LOCMI16024
+intracellular	pr	LOCMI06586:LOCMI06586
+intracellular	pr	LOCMI07885:LOCMI07885
+intracellular	pr	LOCMI05642:LOCMI05642
+intracellular	pr	LOCMI04634:LOCMI04634
+intracellular	pr	LOCMI15981:LOCMI15981
+intracellular	pr	LOCMI15980:LOCMI15980
+intracellular	pr	LOCMI00586:LOCMI00586
+intracellular	pr	LOCMI00585:LOCMI00585
+intracellular	pr	LOCMI15895:LOCMI15895
+intracellular	pr	LOCMI11744:LOCMI11744
+intracellular	pr	LOCMI07932:LOCMI07932
+intracellular	pr	LOCMI15205:LOCMI15205
+intracellular	pr	LOCMI08036:LOCMI08036
+intracellular	pr	LOCMI15934:LOCMI15934
+intracellular	pr	LOCMI12177:LOCMI12177
+intracellular	pr	LOCMI01686:LOCMI01686
+intracellular	pr	LOCMI12178:LOCMI12178
+intracellular	pr	LOCMI11649:LOCMI11649
+intracellular	pr	LOCMI03203:LOCMI03203
+intracellular	pr	LOCMI09659:LOCMI09659
+intracellular	pr	LOCMI06735:LOCMI06735
+intracellular	pr	LOCMI08029:LOCMI08029
+intracellular	pr	LOCMI16024:LOCMI16024
+structural constituent of ribosome	pr	LOCMI05642:LOCMI05642
+structural constituent of ribosome	pr	LOCMI04634:LOCMI04634
+structural constituent of ribosome	pr	LOCMI11744:LOCMI11744
+structural constituent of ribosome	pr	LOCMI15205:LOCMI15205
+structural constituent of ribosome	pr	LOCMI08036:LOCMI08036
+structural constituent of ribosome	pr	LOCMI12177:LOCMI12177
+structural constituent of ribosome	pr	LOCMI12178:LOCMI12178
+structural constituent of ribosome	pr	LOCMI08029:LOCMI08029
+electron carrier activity	pr	LOCMI16357:LOCMI16357
+electron carrier activity	pr	LOCMI09430:LOCMI09430
+electron carrier activity	pr	LOCMI05622:LOCMI05622
+electron carrier activity	pr	LOCMI16195:LOCMI16195
+electron carrier activity	pr	LOCMI15895:LOCMI15895
+response to abiotic stimulus	pr	LOCMI16352:LOCMI16352
+response to abiotic stimulus	pr	LOCMI06175:LOCMI06175
+response to abiotic stimulus	pr	LOCMI15510:LOCMI15510
+response to abiotic stimulus	pr	LOCMI15512:LOCMI15512
+response to abiotic stimulus	pr	LOCMI00142:LOCMI00142
+response to abiotic stimulus	pr	LOCMI05827:LOCMI05827
+translation	pr	LOCMI05642:LOCMI05642
+translation	pr	LOCMI04634:LOCMI04634
+translation	pr	LOCMI11744:LOCMI11744
+translation	pr	LOCMI15205:LOCMI15205
+translation	pr	LOCMI08036:LOCMI08036
+translation	pr	LOCMI12177:LOCMI12177
+translation	pr	LOCMI12178:LOCMI12178
+translation	pr	LOCMI08029:LOCMI08029

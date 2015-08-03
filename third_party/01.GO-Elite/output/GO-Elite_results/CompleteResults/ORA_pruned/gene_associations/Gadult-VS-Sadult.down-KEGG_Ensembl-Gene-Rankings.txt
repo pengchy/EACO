@@ -1,0 +1,103 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI15907	LOCMI15907	Retinal dehydrogenase 1	2	0.2	LOCMI15907	Pyruvate metabolism:map00620 // Pentose and glucuronate interconversions:map00040
+LOCMI15896	LOCMI15896	E3WQ18_ANODA Putative uncharacterized protein	2	0.2	LOCMI15896	Pyruvate metabolism:map00620 // Pentose and glucuronate interconversions:map00040
+LOCMI15882	LOCMI15882	aldose reductase, putative	2	0.2	LOCMI15882	Pyruvate metabolism:map00620 // Pentose and glucuronate interconversions:map00040
+LOCMI15493	LOCMI15493	ER protein gp78	2	0.2	LOCMI15493	Protein processing in endoplasmic reticulum:map04141 // Protein export:map03060
+LOCMI15492	LOCMI15492	ER protein gp78	2	0.2	LOCMI15492	Protein processing in endoplasmic reticulum:map04141 // Protein export:map03060
+LOCMI10612	LOCMI10612	RecName: Full=Protein transport protein Sec61 subunit gamma gb|AAP47228.1| Sec61p gamma subunit	2	0.2	LOCMI10612	Protein processing in endoplasmic reticulum:map04141 // Protein export:map03060
+LOCMI03958	LOCMI03958	Q28WJ8_DROPS GA13505	2	0.2	LOCMI03958	Pentose and glucuronate interconversions:map00040 // Glycosaminoglycan degradation:map00531
+LOCMI17354	LOCMI17354	heat shock protein 90	1	0.1	LOCMI17354	Protein processing in endoplasmic reticulum:map04141
+LOCMI17330	LOCMI17330	Probable small nuclear ribonucleoprotein G	1	0.1	LOCMI17330	Spliceosome:map03040
+LOCMI17317	LOCMI17317	PREDICTED: U6 snRNA-associated Sm-like protein LSm7	1	0.1	LOCMI17317	Spliceosome:map03040
+LOCMI17308	LOCMI17308	Small nuclear ribonucleoprotein F	1	0.1	LOCMI17308	Spliceosome:map03040
+LOCMI17279	LOCMI17279	zinc finger protein matrin type, putative	1	0.1	LOCMI17279	Spliceosome:map03040
+LOCMI17261	LOCMI17261	Probable U2 small nuclear ribonucleoprotein A'	1	0.1	LOCMI17261	Spliceosome:map03040
+LOCMI17239	LOCMI17239	peptidyl-prolyl cis-trans isomerase	1	0.1	LOCMI17239	Spliceosome:map03040
+LOCMI17234	LOCMI17234	membrane-associated protein, putative	1	0.1	LOCMI17234	Spliceosome:map03040
+LOCMI17202	LOCMI17202	C4WXB0_ACYPI ACYPI009324 protein	1	0.1	LOCMI17202	Spliceosome:map03040
+LOCMI17197	LOCMI17197	PREDICTED: protein mago nashi	1	0.1	LOCMI17197	Spliceosome:map03040
+LOCMI17142	LOCMI17142	Small nuclear ribonucleoprotein F	1	0.1	LOCMI17142	Spliceosome:map03040
+LOCMI17129	LOCMI17129	PREDICTED: pre-mRNA-splicing factor syf2-like	1	0.1	LOCMI17129	Spliceosome:map03040
+LOCMI17126	LOCMI17126	B0X264_CULQU Lsm5 protein	1	0.1	LOCMI17126	Spliceosome:map03040
+LOCMI17116	LOCMI17116	PREDICTED: survival of motor neuron-related-splicing factor 30-like	1	0.1	LOCMI17116	Spliceosome:map03040
+LOCMI17113	LOCMI17113	Pre-mRNA-splicing factor SLU7	1	0.1	LOCMI17113	Spliceosome:map03040
+LOCMI17058	LOCMI17058	E9J1R9_SOLIN Putative uncharacterized protein (Fragment)	1	0.1	LOCMI17058	Spliceosome:map03040
+LOCMI17046	LOCMI17046	GJ23340	1	0.1	LOCMI17046	Pentose and glucuronate interconversions:map00040
+LOCMI17032	LOCMI17032	UDP-glucuronosyltransferase 1-8 precursor, putative	1	0.1	LOCMI17032	Pentose and glucuronate interconversions:map00040
+LOCMI16875	LOCMI16875	B6RHH4_LITVA Pyruvate kinase	1	0.1	LOCMI16875	Pyruvate metabolism:map00620
+LOCMI16810	LOCMI16810	PREDICTED: pre-mRNA-splicing factor SPF27-like	1	0.1	LOCMI16810	Spliceosome:map03040
+LOCMI16459	LOCMI16459	S-phase kinase-associated protein 1	1	0.1	LOCMI16459	Protein processing in endoplasmic reticulum:map04141
+LOCMI15918	LOCMI15918	Probable pyruvate dehydrogenase E1 component subunit alpha, mitochondrial	1	0.1	LOCMI15918	Pyruvate metabolism:map00620
+LOCMI15716	LOCMI15716	glutathione S-transferase sigma 1	1	0.1	LOCMI15716	Glutathione metabolism:map00480
+LOCMI15707	LOCMI15707	glutathione S-transferase sigma 1	1	0.1	LOCMI15707	Glutathione metabolism:map00480
+LOCMI15698	LOCMI15698	glutathione S-transferase sigma 3	1	0.1	LOCMI15698	Glutathione metabolism:map00480
+LOCMI15512	LOCMI15512	heat shock protein 20.7	1	0.1	LOCMI15512	Protein processing in endoplasmic reticulum:map04141
+LOCMI15491	LOCMI15491	endoplasmin	1	0.1	LOCMI15491	Protein processing in endoplasmic reticulum:map04141
+LOCMI15442	LOCMI15442	Polyglutamine-binding protein, putative	1	0.1	LOCMI15442	Spliceosome:map03040
+LOCMI15205	LOCMI15205	60S ribosomal protein L38	1	0.1	LOCMI15205	Ribosome:map03010
+LOCMI15125	LOCMI15125	B4M0F9_DROVI GJ22583	1	0.1	LOCMI15125	Proteasome:map03050
+LOCMI15070	LOCMI15070	putative aminopeptidase	1	0.1	LOCMI15070	Glutathione metabolism:map00480
+LOCMI14819	LOCMI14819	mitochondrial ribosomal protein, L23	1	0.1	LOCMI14819	Ribosome:map03010
+LOCMI14671	LOCMI14671	Q16KL0_AEDAE 26S protease regulatory subunit	1	0.1	LOCMI14671	Proteasome:map03050
+LOCMI14621	LOCMI14621	syntaxin-6, putative	1	0.1	LOCMI14621	SNARE interactions in vesicular transport:map04130
+LOCMI14553	LOCMI14553	thioredoxin/protein disulfide isomerase	1	0.1	LOCMI14553	Protein processing in endoplasmic reticulum:map04141
+LOCMI14159	LOCMI14159	PREDICTED: syntaxin-8-like isoform 1	1	0.1	LOCMI14159	SNARE interactions in vesicular transport:map04130
+LOCMI14132	LOCMI14132	AGAP011635-PA	1	0.1	LOCMI14132	Ribosome:map03010
+LOCMI13842	LOCMI13842	GL15397	1	0.1	LOCMI13842	Ribosome:map03010
+LOCMI13812	LOCMI13812	PREDICTED: l-xylulose reductase-like	1	0.1	LOCMI13812	Pentose and glucuronate interconversions:map00040
+LOCMI13695	LOCMI13695	proteasome 25 kDa subunit	1	0.1	LOCMI13695	Proteasome:map03050
+LOCMI13569	LOCMI13569	Q4LAY4_9COLE Ribosomal protein S28e	1	0.1	LOCMI13569	Ribosome:map03010
+LOCMI13545	LOCMI13545	60S ribosomal protein L8	1	0.1	LOCMI13545	Ribosome:map03010
+LOCMI13396	LOCMI13396	PREDICTED: lambda-crystallin homolog	1	0.1	LOCMI13396	Pentose and glucuronate interconversions:map00040
+LOCMI13370	LOCMI13370	PREDICTED: 40S ribosomal protein S7-like	1	0.1	LOCMI13370	Ribosome:map03010
+LOCMI13315	LOCMI13315	PREDICTED: 60S ribosomal protein L27-like isoform 1	1	0.1	LOCMI13315	Ribosome:map03010
+LOCMI11950	LOCMI11950	glucosidase 2 subunit beta precursor, putative	1	0.1	LOCMI11950	Protein processing in endoplasmic reticulum:map04141
+LOCMI11617	LOCMI11617	60S ribosomal protein L34	1	0.1	LOCMI11617	Ribosome:map03010
+LOCMI11190	LOCMI11190	mitochondrial ribosomal protein, S18C, putative	1	0.1	LOCMI11190	Ribosome:map03010
+LOCMI10636	LOCMI10636	N-acetylglucosamine-6-sulfatase precursor, putative	1	0.1	LOCMI10636	Glycosaminoglycan degradation:map00531
+LOCMI10621	LOCMI10621	ribosomal protein L31e	1	0.1	LOCMI10621	Ribosome:map03010
+LOCMI10304	LOCMI10304	polyubiquitin	1	0.1	LOCMI10304	Ribosome:map03010
+LOCMI10127	LOCMI10127	proteasome subunit beta 1	1	0.1	LOCMI10127	Proteasome:map03050
+LOCMI09731	LOCMI09731	S20e ribosomal protein	1	0.1	LOCMI09731	Ribosome:map03010
+LOCMI09637	LOCMI09637	Q56FD3_LYSTE Ribosomal protein L13a	1	0.1	LOCMI09637	Ribosome:map03010
+LOCMI09539	LOCMI09539	ribosomal protein S30	1	0.1	LOCMI09539	Ribosome:map03010
+LOCMI09478	LOCMI09478	L-xylulose reductase	1	0.1	LOCMI09478	Pentose and glucuronate interconversions:map00040
+LOCMI09283	LOCMI09283	beta-hexosaminidase beta chain precursor, putative	1	0.1	LOCMI09283	Glycosaminoglycan degradation:map00531
+LOCMI08995	LOCMI08995	glucose-6-phosphate 1-dehydrogenase	1	0.1	LOCMI08995	Glutathione metabolism:map00480
+LOCMI08865	LOCMI08865	PREDICTED: UDP-glucose 6-dehydrogenase-like	1	0.1	LOCMI08865	Pentose and glucuronate interconversions:map00040
+LOCMI08663	LOCMI08663	Q177N4_AEDAE Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase	1	0.1	LOCMI08663	Protein processing in endoplasmic reticulum:map04141
+LOCMI08559	LOCMI08559	GA15071	1	0.1	LOCMI08559	Ribosome:map03010
+LOCMI08265	LOCMI08265	SNW domain-containing protein 1	1	0.1	LOCMI08265	Spliceosome:map03040
+LOCMI08143	LOCMI08143	A7RV33_NEMVE Predicted protein	1	0.1	LOCMI08143	Glutathione metabolism:map00480
+LOCMI08029	LOCMI08029	60S ribosomal protein L38	1	0.1	LOCMI08029	Ribosome:map03010
+LOCMI07886	LOCMI07886	B0WL56_CULQU 39S ribosomal protein L14, mitochondrial	1	0.1	LOCMI07886	Ribosome:map03010
+LOCMI07468	LOCMI07468	B4KBP4_DROMO GI23169	1	0.1	LOCMI07468	Glutathione metabolism:map00480
+LOCMI07265	LOCMI07265	signal peptidase complex subunit SPC25	1	0.1	LOCMI07265	Protein export:map03060
+LOCMI07012	LOCMI07012	60S ribosomal protein L21	1	0.1	LOCMI07012	Ribosome:map03010
+LOCMI06804	LOCMI06804	ribosomal protein S12	1	0.1	LOCMI06804	Ribosome:map03010
+LOCMI06696	LOCMI06696	PREDICTED: tubulin-specific chaperone E-like	1	0.1	LOCMI06696	Pyruvate metabolism:map00620
+LOCMI05791	LOCMI05791	C3XQB1_BRAFL Putative uncharacterized protein	1	0.1	LOCMI05791	Pyruvate metabolism:map00620
+LOCMI05622	LOCMI05622	Q1HQU9_AEDAE Protein disulfide isomerase	1	0.1	LOCMI05622	Protein processing in endoplasmic reticulum:map04141
+LOCMI05600	LOCMI05600	B3MUH1_DROAN GF20662	1	0.1	LOCMI05600	Protein processing in endoplasmic reticulum:map04141
+LOCMI05551	LOCMI05551	AGAP004818-PA	1	0.1	LOCMI05551	Ribosome:map03010
+LOCMI05114	LOCMI05114	ribosomal protein L35	1	0.1	LOCMI05114	Ribosome:map03010
+LOCMI04618	LOCMI04618	B4MD84_DROVI GJ15381	1	0.1	LOCMI04618	Protein processing in endoplasmic reticulum:map04141
+LOCMI04416	LOCMI04416	Endoplasmic reticulum protein ERp29, putative	1	0.1	LOCMI04416	Protein processing in endoplasmic reticulum:map04141
+LOCMI04276	LOCMI04276	PREDICTED: similar to alpha-N-acetyl glucosaminidase	1	0.1	LOCMI04276	Glycosaminoglycan degradation:map00531
+LOCMI04203	LOCMI04203	BET1-like protein	1	0.1	LOCMI04203	SNARE interactions in vesicular transport:map04130
+LOCMI04119	LOCMI04119	glutamate--cysteine ligase regulatory subunit, putative	1	0.1	LOCMI04119	Glutathione metabolism:map00480
+LOCMI04087	LOCMI04087	endoplasmin	1	0.1	LOCMI04087	Protein processing in endoplasmic reticulum:map04141
+LOCMI04006	LOCMI04006	60S ribosomal protein L17, putative	1	0.1	LOCMI04006	Ribosome:map03010
+LOCMI03696	LOCMI03696	AGAP000508-PA	1	0.1	LOCMI03696	Ribosome:map03010
+LOCMI03019	LOCMI03019	proteasome beta-subunit	1	0.1	LOCMI03019	Proteasome:map03050
+LOCMI02745	LOCMI02745	Probable 26S proteasome non-ATPase regulatory subunit 3	1	0.1	LOCMI02745	Proteasome:map03050
+LOCMI01936	LOCMI01936	Ubiquitin-conjugating enzyme E2 J1	1	0.1	LOCMI01936	Protein processing in endoplasmic reticulum:map04141
+LOCMI01789	LOCMI01789	60S ribosomal protein L21	1	0.1	LOCMI01789	Ribosome:map03010
+LOCMI01645	LOCMI01645	PREDICTED: vesicle-associated membrane protein 1-like	1	0.1	LOCMI01645	SNARE interactions in vesicular transport:map04130
+LOCMI01611	LOCMI01611	A0T4G5_ANOGA AGAP003215-PA	1	0.1	LOCMI01611	Proteasome:map03050
+LOCMI01606	LOCMI01606	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1	1	0.1	LOCMI01606	Protein processing in endoplasmic reticulum:map04141
+LOCMI01517	LOCMI01517	Endoplasmic reticulum protein ERp29, putative	1	0.1	LOCMI01517	Protein processing in endoplasmic reticulum:map04141
+LOCMI01417	LOCMI01417	PREDICTED: similar to proteasome subunit beta type 5,8	1	0.1	LOCMI01417	Proteasome:map03050
+LOCMI01016	LOCMI01016	PREDICTED: synaptosomal-associated protein 29-like	1	0.1	LOCMI01016	SNARE interactions in vesicular transport:map04130
+LOCMI00924	LOCMI00924	Probable 26S proteasome non-ATPase regulatory subunit 3	1	0.1	LOCMI00924	Proteasome:map03050
+LOCMI00130	LOCMI00130	PREDICTED: 60S ribosomal protein L38-like	1	0.1	LOCMI00130	Ribosome:map03010

@@ -1,0 +1,85 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI11162	LOCMI11162	Q16LY3_AEDAE Oxidase/peroxidase	4	0.571428571429	LOCMI11162	tetrapyrrole binding // response to stress // oxidation-reduction process // oxidoreductase activity
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	4	0.571428571429	LOCMI10884	tetrapyrrole binding // response to stress // oxidation-reduction process // oxidoreductase activity
+LOCMI05775	LOCMI05775	Chorion peroxidase precursor, putative	4	0.571428571429	LOCMI05775	tetrapyrrole binding // response to stress // oxidation-reduction process // oxidoreductase activity
+LOCMI05040	LOCMI05040	Chorion peroxidase precursor, putative	4	0.571428571429	LOCMI05040	tetrapyrrole binding // response to stress // oxidation-reduction process // oxidoreductase activity
+LOCMI16237	LOCMI16237	cytochrome P450 6a22	3	0.428571428571	LOCMI16237	tetrapyrrole binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16230	LOCMI16230	PREDICTED: similar to AGAP001039-PA	3	0.428571428571	LOCMI16230	tetrapyrrole binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16206	LOCMI16206	PREDICTED: similar to AGAP001039-PA	3	0.428571428571	LOCMI16206	tetrapyrrole binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16197	LOCMI16197	cytochrome P450	3	0.428571428571	LOCMI16197	tetrapyrrole binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16173	LOCMI16173	cytochrome P450	3	0.428571428571	LOCMI16173	tetrapyrrole binding // oxidation-reduction process // oxidoreductase activity
+LOCMI13448	LOCMI13448	PREDICTED: inositol oxygenase-like	3	0.428571428571	LOCMI13448	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI13447	LOCMI13447	PREDICTED: inositol oxygenase-like	3	0.428571428571	LOCMI13447	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI13445	LOCMI13445	myo-inositol oxygenase	3	0.428571428571	LOCMI13445	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI13444	LOCMI13444	PREDICTED: inositol oxygenase-like	3	0.428571428571	LOCMI13444	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI10556	LOCMI10556	Q7Q347_ANOGA AGAP011479-PA (Fragment)	3	0.428571428571	LOCMI10556	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds // response to stress
+LOCMI16689	LOCMI16689	chitinase	2	0.285714285714	LOCMI16689	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI16410	LOCMI16410	Beta-1,3-glucan-binding protein	2	0.285714285714	LOCMI16410	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI15467	LOCMI15467	PREDICTED: chitooligosaccharidolytic beta-N-acetylglucosaminidase-like	2	0.285714285714	LOCMI15467	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI13964	LOCMI13964	C3YD42_BRAFL Putative uncharacterized protein (Fragment)	2	0.285714285714	LOCMI13964	oxidation-reduction process // oxidoreductase activity
+LOCMI13963	LOCMI13963	Laccase2	2	0.285714285714	LOCMI13963	oxidation-reduction process // oxidoreductase activity
+LOCMI13600	LOCMI13600	Q0Z939_TRICA Chitinase 10	2	0.285714285714	LOCMI13600	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI11632	LOCMI11632	putative alpha-N-acetylgalactosaminidase	2	0.285714285714	LOCMI11632	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI05703	LOCMI05703	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	2	0.285714285714	LOCMI05703	oxidation-reduction process // oxidoreductase activity
+LOCMI05702	LOCMI05702	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	2	0.285714285714	LOCMI05702	oxidation-reduction process // oxidoreductase activity
+LOCMI05701	LOCMI05701	GH12513	2	0.285714285714	LOCMI05701	oxidation-reduction process // oxidoreductase activity
+LOCMI05700	LOCMI05700	GI14867	2	0.285714285714	LOCMI05700	oxidation-reduction process // oxidoreductase activity
+LOCMI17211	LOCMI17211	cuticular protein RR-1 motif 45 precursor	1	0.142857142857	LOCMI17211	structural molecule activity
+LOCMI17206	LOCMI17206	B4P5B5_DROYA GE12453	1	0.142857142857	LOCMI17206	structural molecule activity
+LOCMI17196	LOCMI17196	cuticular protein 139, RR-1 family (AGAP006283-PA)	1	0.142857142857	LOCMI17196	structural molecule activity
+LOCMI17139	LOCMI17139	B0X5K3_CULQU Putative uncharacterized protein	1	0.142857142857	LOCMI17139	structural molecule activity
+LOCMI17128	LOCMI17128	cuticular protein 65Av	1	0.142857142857	LOCMI17128	structural molecule activity
+LOCMI16851	LOCMI16851	Q16PW8_AEDAE Pupal cuticle protein, putative	1	0.142857142857	LOCMI16851	structural molecule activity
+LOCMI16833	LOCMI16833	protein rtoA, putative	1	0.142857142857	LOCMI16833	structural molecule activity
+LOCMI16819	LOCMI16819	Insect cuticle protein	1	0.142857142857	LOCMI16819	structural molecule activity
+LOCMI16800	LOCMI16800	Q2LZE0_DROPS GA16877	1	0.142857142857	LOCMI16800	structural molecule activity
+LOCMI16731	LOCMI16731	PREDICTED: endocuticle structural glycoprotein SgAbd-2-like	1	0.142857142857	LOCMI16731	structural molecule activity
+LOCMI16714	LOCMI16714	chitin-binding domain containing protein	1	0.142857142857	LOCMI16714	structural molecule activity
+LOCMI16677	LOCMI16677	Endocuticle structural glycoprotein SgAbd-8, putative	1	0.142857142857	LOCMI16677	structural molecule activity
+LOCMI16641	LOCMI16641	TPA: putative cuticle protein	1	0.142857142857	LOCMI16641	structural molecule activity
+LOCMI16630	LOCMI16630	putative cuticle protein CPR151	1	0.142857142857	LOCMI16630	structural molecule activity
+LOCMI16629	LOCMI16629	protein rtoA, putative	1	0.142857142857	LOCMI16629	structural molecule activity
+LOCMI16628	LOCMI16628	cuticle protein, putative	1	0.142857142857	LOCMI16628	structural molecule activity
+LOCMI16627	LOCMI16627	protein rtoA, putative	1	0.142857142857	LOCMI16627	structural molecule activity
+LOCMI16621	LOCMI16621	Larval cuticle protein A3A	1	0.142857142857	LOCMI16621	structural molecule activity
+LOCMI16617	LOCMI16617	PREDICTED: cuticle protein 8	1	0.142857142857	LOCMI16617	structural molecule activity
+LOCMI16613	LOCMI16613	cuticular protein RR-2 family member 45 precursor	1	0.142857142857	LOCMI16613	structural molecule activity
+LOCMI16606	LOCMI16606	cuticle protein, putative	1	0.142857142857	LOCMI16606	structural molecule activity
+LOCMI16604	LOCMI16604	B4H6H2_DROPE GL15514	1	0.142857142857	LOCMI16604	structural molecule activity
+LOCMI16602	LOCMI16602	cuticle protein	1	0.142857142857	LOCMI16602	structural molecule activity
+LOCMI16600	LOCMI16600	RecName: Full=Cuticle protein 19; AltName: Full=LM-ACP 19; Short=LM-19 gb|AAB34514.1| Lm-ACP19=wing cuticle protein	1	0.142857142857	LOCMI16600	structural molecule activity
+LOCMI16598	LOCMI16598	cuticle protein	1	0.142857142857	LOCMI16598	structural molecule activity
+LOCMI15871	LOCMI15871	B4N5X2_DROWI GK17957	1	0.142857142857	LOCMI15871	carbohydrate metabolic process
+LOCMI15346	LOCMI15346	TPA: putative cuticle protein	1	0.142857142857	LOCMI15346	structural molecule activity
+LOCMI15345	LOCMI15345	Q16XV3_AEDAE Cuticle protein, putative	1	0.142857142857	LOCMI15345	structural molecule activity
+LOCMI13304	LOCMI13304	PREDICTED: glucose dehydrogenase	1	0.142857142857	LOCMI13304	oxidoreductase activity
+LOCMI12795	LOCMI12795	B4NMT3_DROWI GK23202	1	0.142857142857	LOCMI12795	carbohydrate metabolic process
+LOCMI12218	LOCMI12218	GJ14495	1	0.142857142857	LOCMI12218	carbohydrate metabolic process
+LOCMI12142	LOCMI12142	Larval cuticle protein A3A	1	0.142857142857	LOCMI12142	structural molecule activity
+LOCMI11714	LOCMI11714	B0W0L0_CULQU Putative uncharacterized protein	1	0.142857142857	LOCMI11714	carbohydrate metabolic process
+LOCMI11351	LOCMI11351	C0H6I4_BOMMO Putative cuticle protein	1	0.142857142857	LOCMI11351	structural molecule activity
+LOCMI10699	LOCMI10699	Sialidase	1	0.142857142857	LOCMI10699	carbohydrate metabolic process
+LOCMI10214	LOCMI10214	B4MG23_DROVI GJ15459	1	0.142857142857	LOCMI10214	carbohydrate metabolic process
+LOCMI09826	LOCMI09826	4-hydroxyphenylpyruvate dioxygenase	1	0.142857142857	LOCMI09826	oxidoreductase activity
+LOCMI09610	LOCMI09610	B0WYC8_CULQU Putative uncharacterized protein	1	0.142857142857	LOCMI09610	carbohydrate metabolic process
+LOCMI08521	LOCMI08521	alpha-amylase	1	0.142857142857	LOCMI08521	carbohydrate metabolic process
+LOCMI08289	LOCMI08289	PREDICTED: collagen alpha-1(IV) chain-like isoform 1	1	0.142857142857	LOCMI08289	structural molecule activity
+LOCMI08032	LOCMI08032	B7P850_IXOSC Putative uncharacterized protein	1	0.142857142857	LOCMI08032	carbohydrate metabolic process
+LOCMI07701	LOCMI07701	TPA: putative cuticle protein	1	0.142857142857	LOCMI07701	structural molecule activity
+LOCMI07191	LOCMI07191	C0H6M4_BOMMO Putative cuticle protein	1	0.142857142857	LOCMI07191	structural molecule activity
+LOCMI07059	LOCMI07059	AGAP001668-PA	1	0.142857142857	LOCMI07059	structural molecule activity
+LOCMI06426	LOCMI06426	Iodotyrosine dehalogenase 1 precursor, putative	1	0.142857142857	LOCMI06426	oxidoreductase activity
+LOCMI06162	LOCMI06162	Q8T4R3_AEDAE Putative mucin-like protein	1	0.142857142857	LOCMI06162	carbohydrate metabolic process
+LOCMI05479	LOCMI05479	cuticular protein CPR67A	1	0.142857142857	LOCMI05479	structural molecule activity
+LOCMI04506	LOCMI04506	B2DBK0_9NEOP Cuticular protein CPR97	1	0.142857142857	LOCMI04506	structural molecule activity
+LOCMI04505	LOCMI04505	cuticular protein RR-2 family member 45 precursor	1	0.142857142857	LOCMI04505	structural molecule activity
+LOCMI04338	LOCMI04338	alpha-amylase	1	0.142857142857	LOCMI04338	carbohydrate metabolic process
+LOCMI04280	LOCMI04280	AGAP011937-PA	1	0.142857142857	LOCMI04280	carbohydrate metabolic process
+LOCMI03766	LOCMI03766	alpha-amylase	1	0.142857142857	LOCMI03766	carbohydrate metabolic process
+LOCMI03116	LOCMI03116	AGAP011936-PA	1	0.142857142857	LOCMI03116	carbohydrate metabolic process
+LOCMI03066	LOCMI03066	B0WKF5_CULQU Putative uncharacterized protein	1	0.142857142857	LOCMI03066	carbohydrate metabolic process
+LOCMI02963	LOCMI02963	structural constituent of cuticle, putative	1	0.142857142857	LOCMI02963	structural molecule activity
+LOCMI02816	LOCMI02816	Q7Q693_ANOGA Cuticular protein 17, RR-2 family (AGAP005966-PA)	1	0.142857142857	LOCMI02816	structural molecule activity
+LOCMI02529	LOCMI02529	alpha-amylase	1	0.142857142857	LOCMI02529	carbohydrate metabolic process
+LOCMI02000	LOCMI02000	C4WU25_ACYPI ACYPI45536 protein	1	0.142857142857	LOCMI02000	carbohydrate metabolic process
+LOCMI00075	LOCMI00075	glucose dehydrogenase	1	0.142857142857	LOCMI00075	oxidoreductase activity

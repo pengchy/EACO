@@ -1,0 +1,24 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI16397	LOCMI16397	phenylalanine-tryptophan hydroxylase	2	0.5	LOCMI16397	Biosynthesis of amino acids:map01230 // Phenylalanine metabolism:map00360
+LOCMI17160	LOCMI17160	PREDICTED: 1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase-like isoform 1	1	0.25	LOCMI17160	Phototransduction - fly:map04745
+LOCMI16321	LOCMI16321	beta-actin	1	0.25	LOCMI16321	Phototransduction - fly:map04745
+LOCMI16276	LOCMI16276	Q5DIE1_GRYOR Peroxiredoxin	1	0.25	LOCMI16276	Phenylalanine metabolism:map00360
+LOCMI16274	LOCMI16274	Q7PZB4_ANOGA Thioredoxin-dependent peroxidase (AGAP011824-PA)	1	0.25	LOCMI16274	Phenylalanine metabolism:map00360
+LOCMI16268	LOCMI16268	Peroxiredoxin-6	1	0.25	LOCMI16268	Phenylalanine metabolism:map00360
+LOCMI16267	LOCMI16267	E9IID8_SOLIN Putative uncharacterized protein (Fragment)	1	0.25	LOCMI16267	Phenylalanine metabolism:map00360
+LOCMI16063	LOCMI16063	fructose 1,6-bisphosphate aldolase	1	0.25	LOCMI16063	Biosynthesis of amino acids:map01230
+LOCMI15994	LOCMI15994	Q16F38_AEDAE Pyruvate kinase	1	0.25	LOCMI15994	Biosynthesis of amino acids:map01230
+LOCMI15989	LOCMI15989	citrate synthase	1	0.25	LOCMI15989	Biosynthesis of amino acids:map01230
+LOCMI15947	LOCMI15947	PREDICTED: pyruvate carboxylase, mitochondrial-like isoform 1	1	0.25	LOCMI15947	Biosynthesis of amino acids:map01230
+LOCMI15924	LOCMI15924	PREDICTED: pyruvate kinase-like isoform 2	1	0.25	LOCMI15924	Biosynthesis of amino acids:map01230
+LOCMI15758	LOCMI15758	PREDICTED: torso-like protein-like	1	0.25	LOCMI15758	MAPK signaling pathway - fly:map04013
+LOCMI15757	LOCMI15757	E0VSK2_PEDHC Protein C-ets-1-B, putative	1	0.25	LOCMI15757	MAPK signaling pathway - fly:map04013
+LOCMI15746	LOCMI15746	tyrosine-protein phosphatase corkscrew, putative	1	0.25	LOCMI15746	MAPK signaling pathway - fly:map04013
+LOCMI15745	LOCMI15745	D2A2D2_TRICA Putative uncharacterized protein GLEAN_07831	1	0.25	LOCMI15745	MAPK signaling pathway - fly:map04013
+LOCMI14741	LOCMI14741	PREDICTED: transient receptor potential protein-like	1	0.25	LOCMI14741	Phototransduction - fly:map04745
+LOCMI14740	LOCMI14740	PREDICTED: similar to calmodulin-binding protein trpl	1	0.25	LOCMI14740	Phototransduction - fly:map04745
+LOCMI10574	LOCMI10574	B0WT43_CULQU Aromatic amino acid decarboxylase	1	0.25	LOCMI10574	Phenylalanine metabolism:map00360
+LOCMI08638	LOCMI08638	glutamine synthetase	1	0.25	LOCMI08638	Biosynthesis of amino acids:map01230
+LOCMI08549	LOCMI08549	PREDICTED: aminoacylase-1-like	1	0.25	LOCMI08549	Biosynthesis of amino acids:map01230
+LOCMI03641	LOCMI03641	Guanine nucleotide-binding protein subunit beta-2	1	0.25	LOCMI03641	Phototransduction - fly:map04745
+LOCMI01353	LOCMI01353	beta-actin	1	0.25	LOCMI01353	Phototransduction - fly:map04745

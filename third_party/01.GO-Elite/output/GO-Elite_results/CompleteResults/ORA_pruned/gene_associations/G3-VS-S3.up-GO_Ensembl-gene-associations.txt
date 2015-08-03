@@ -1,0 +1,128 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI11714	LOCMI11714	B0W0L0_CULQU Putative uncharacterized protein	LOCMI11714	GO:0005975	carbohydrate metabolic process
+LOCMI13448	LOCMI13448	PREDICTED: inositol oxygenase-like	LOCMI13448	GO:0005975	carbohydrate metabolic process
+LOCMI10214	LOCMI10214	B4MG23_DROVI GJ15459	LOCMI10214	GO:0005975	carbohydrate metabolic process
+LOCMI10556	LOCMI10556	Q7Q347_ANOGA AGAP011479-PA (Fragment)	LOCMI10556	GO:0005975	carbohydrate metabolic process
+LOCMI13447	LOCMI13447	PREDICTED: inositol oxygenase-like	LOCMI13447	GO:0005975	carbohydrate metabolic process
+LOCMI13444	LOCMI13444	PREDICTED: inositol oxygenase-like	LOCMI13444	GO:0005975	carbohydrate metabolic process
+LOCMI13445	LOCMI13445	myo-inositol oxygenase	LOCMI13445	GO:0005975	carbohydrate metabolic process
+LOCMI03066	LOCMI03066	B0WKF5_CULQU Putative uncharacterized protein	LOCMI03066	GO:0005975	carbohydrate metabolic process
+LOCMI10699	LOCMI10699	Sialidase	LOCMI10699	GO:0005975	carbohydrate metabolic process
+LOCMI06162	LOCMI06162	Q8T4R3_AEDAE Putative mucin-like protein	LOCMI06162	GO:0005975	carbohydrate metabolic process
+LOCMI04338	LOCMI04338	alpha-amylase	LOCMI04338	GO:0005975	carbohydrate metabolic process
+LOCMI08032	LOCMI08032	B7P850_IXOSC Putative uncharacterized protein	LOCMI08032	GO:0005975	carbohydrate metabolic process
+LOCMI16689	LOCMI16689	chitinase	LOCMI16689	GO:0005975	carbohydrate metabolic process
+LOCMI02000	LOCMI02000	C4WU25_ACYPI ACYPI45536 protein	LOCMI02000	GO:0005975	carbohydrate metabolic process
+LOCMI13600	LOCMI13600	Q0Z939_TRICA Chitinase 10	LOCMI13600	GO:0005975	carbohydrate metabolic process
+LOCMI03766	LOCMI03766	alpha-amylase	LOCMI03766	GO:0005975	carbohydrate metabolic process
+LOCMI02529	LOCMI02529	alpha-amylase	LOCMI02529	GO:0005975	carbohydrate metabolic process
+LOCMI12218	LOCMI12218	GJ14495	LOCMI12218	GO:0005975	carbohydrate metabolic process
+LOCMI09610	LOCMI09610	B0WYC8_CULQU Putative uncharacterized protein	LOCMI09610	GO:0005975	carbohydrate metabolic process
+LOCMI15871	LOCMI15871	B4N5X2_DROWI GK17957	LOCMI15871	GO:0005975	carbohydrate metabolic process
+LOCMI15467	LOCMI15467	PREDICTED: chitooligosaccharidolytic beta-N-acetylglucosaminidase-like	LOCMI15467	GO:0005975	carbohydrate metabolic process
+LOCMI08521	LOCMI08521	alpha-amylase	LOCMI08521	GO:0005975	carbohydrate metabolic process
+LOCMI03116	LOCMI03116	AGAP011936-PA	LOCMI03116	GO:0005975	carbohydrate metabolic process
+LOCMI12795	LOCMI12795	B4NMT3_DROWI GK23202	LOCMI12795	GO:0005975	carbohydrate metabolic process
+LOCMI04280	LOCMI04280	AGAP011937-PA	LOCMI04280	GO:0005975	carbohydrate metabolic process
+LOCMI11632	LOCMI11632	putative alpha-N-acetylgalactosaminidase	LOCMI11632	GO:0005975	carbohydrate metabolic process
+LOCMI16410	LOCMI16410	Beta-1,3-glucan-binding protein	LOCMI16410	GO:0005975	carbohydrate metabolic process
+LOCMI16173	LOCMI16173	cytochrome P450	LOCMI16173	GO:0046906	tetrapyrrole binding
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	LOCMI10884	GO:0046906	tetrapyrrole binding
+LOCMI11162	LOCMI11162	Q16LY3_AEDAE Oxidase/peroxidase	LOCMI11162	GO:0046906	tetrapyrrole binding
+LOCMI05775	LOCMI05775	Chorion peroxidase precursor, putative	LOCMI05775	GO:0046906	tetrapyrrole binding
+LOCMI16197	LOCMI16197	cytochrome P450	LOCMI16197	GO:0046906	tetrapyrrole binding
+LOCMI16206	LOCMI16206	PREDICTED: similar to AGAP001039-PA	LOCMI16206	GO:0046906	tetrapyrrole binding
+LOCMI05040	LOCMI05040	Chorion peroxidase precursor, putative	LOCMI05040	GO:0046906	tetrapyrrole binding
+LOCMI16237	LOCMI16237	cytochrome P450 6a22	LOCMI16237	GO:0046906	tetrapyrrole binding
+LOCMI16230	LOCMI16230	PREDICTED: similar to AGAP001039-PA	LOCMI16230	GO:0046906	tetrapyrrole binding
+LOCMI16410	LOCMI16410	Beta-1,3-glucan-binding protein	LOCMI16410	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI10556	LOCMI10556	Q7Q347_ANOGA AGAP011479-PA (Fragment)	LOCMI10556	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI16689	LOCMI16689	chitinase	LOCMI16689	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI13600	LOCMI13600	Q0Z939_TRICA Chitinase 10	LOCMI13600	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI15467	LOCMI15467	PREDICTED: chitooligosaccharidolytic beta-N-acetylglucosaminidase-like	LOCMI15467	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI11632	LOCMI11632	putative alpha-N-acetylgalactosaminidase	LOCMI11632	GO:0016798	hydrolase activity, acting on glycosyl bonds
+LOCMI17211	LOCMI17211	cuticular protein RR-1 motif 45 precursor	LOCMI17211	GO:0005198	structural molecule activity
+LOCMI12142	LOCMI12142	Larval cuticle protein A3A	LOCMI12142	GO:0005198	structural molecule activity
+LOCMI16604	LOCMI16604	B4H6H2_DROPE GL15514	LOCMI16604	GO:0005198	structural molecule activity
+LOCMI02963	LOCMI02963	structural constituent of cuticle, putative	LOCMI02963	GO:0005198	structural molecule activity
+LOCMI16677	LOCMI16677	Endocuticle structural glycoprotein SgAbd-8, putative	LOCMI16677	GO:0005198	structural molecule activity
+LOCMI16731	LOCMI16731	PREDICTED: endocuticle structural glycoprotein SgAbd-2-like	LOCMI16731	GO:0005198	structural molecule activity
+LOCMI16630	LOCMI16630	putative cuticle protein CPR151	LOCMI16630	GO:0005198	structural molecule activity
+LOCMI16617	LOCMI16617	PREDICTED: cuticle protein 8	LOCMI16617	GO:0005198	structural molecule activity
+LOCMI07191	LOCMI07191	C0H6M4_BOMMO Putative cuticle protein	LOCMI07191	GO:0005198	structural molecule activity
+LOCMI16800	LOCMI16800	Q2LZE0_DROPS GA16877	LOCMI16800	GO:0005198	structural molecule activity
+LOCMI16613	LOCMI16613	cuticular protein RR-2 family member 45 precursor	LOCMI16613	GO:0005198	structural molecule activity
+LOCMI15346	LOCMI15346	TPA: putative cuticle protein	LOCMI15346	GO:0005198	structural molecule activity
+LOCMI15345	LOCMI15345	Q16XV3_AEDAE Cuticle protein, putative	LOCMI15345	GO:0005198	structural molecule activity
+LOCMI16714	LOCMI16714	chitin-binding domain containing protein	LOCMI16714	GO:0005198	structural molecule activity
+LOCMI07059	LOCMI07059	AGAP001668-PA	LOCMI07059	GO:0005198	structural molecule activity
+LOCMI17139	LOCMI17139	B0X5K3_CULQU Putative uncharacterized protein	LOCMI17139	GO:0005198	structural molecule activity
+LOCMI05479	LOCMI05479	cuticular protein CPR67A	LOCMI05479	GO:0005198	structural molecule activity
+LOCMI07701	LOCMI07701	TPA: putative cuticle protein	LOCMI07701	GO:0005198	structural molecule activity
+LOCMI17206	LOCMI17206	B4P5B5_DROYA GE12453	LOCMI17206	GO:0005198	structural molecule activity
+LOCMI11351	LOCMI11351	C0H6I4_BOMMO Putative cuticle protein	LOCMI11351	GO:0005198	structural molecule activity
+LOCMI17196	LOCMI17196	cuticular protein 139, RR-1 family (AGAP006283-PA)	LOCMI17196	GO:0005198	structural molecule activity
+LOCMI16629	LOCMI16629	protein rtoA, putative	LOCMI16629	GO:0005198	structural molecule activity
+LOCMI16602	LOCMI16602	cuticle protein	LOCMI16602	GO:0005198	structural molecule activity
+LOCMI16833	LOCMI16833	protein rtoA, putative	LOCMI16833	GO:0005198	structural molecule activity
+LOCMI16641	LOCMI16641	TPA: putative cuticle protein	LOCMI16641	GO:0005198	structural molecule activity
+LOCMI04505	LOCMI04505	cuticular protein RR-2 family member 45 precursor	LOCMI04505	GO:0005198	structural molecule activity
+LOCMI16819	LOCMI16819	Insect cuticle protein	LOCMI16819	GO:0005198	structural molecule activity
+LOCMI16621	LOCMI16621	Larval cuticle protein A3A	LOCMI16621	GO:0005198	structural molecule activity
+LOCMI08289	LOCMI08289	PREDICTED: collagen alpha-1(IV) chain-like isoform 1	LOCMI08289	GO:0005198	structural molecule activity
+LOCMI16627	LOCMI16627	protein rtoA, putative	LOCMI16627	GO:0005198	structural molecule activity
+LOCMI16851	LOCMI16851	Q16PW8_AEDAE Pupal cuticle protein, putative	LOCMI16851	GO:0005198	structural molecule activity
+LOCMI16628	LOCMI16628	cuticle protein, putative	LOCMI16628	GO:0005198	structural molecule activity
+LOCMI16606	LOCMI16606	cuticle protein, putative	LOCMI16606	GO:0005198	structural molecule activity
+LOCMI02816	LOCMI02816	Q7Q693_ANOGA Cuticular protein 17, RR-2 family (AGAP005966-PA)	LOCMI02816	GO:0005198	structural molecule activity
+LOCMI16600	LOCMI16600	RecName: Full=Cuticle protein 19; AltName: Full=LM-ACP 19; Short=LM-19 gb|AAB34514.1| Lm-ACP19=wing cuticle protein	LOCMI16600	GO:0005198	structural molecule activity
+LOCMI17128	LOCMI17128	cuticular protein 65Av	LOCMI17128	GO:0005198	structural molecule activity
+LOCMI16598	LOCMI16598	cuticle protein	LOCMI16598	GO:0005198	structural molecule activity
+LOCMI04506	LOCMI04506	B2DBK0_9NEOP Cuticular protein CPR97	LOCMI04506	GO:0005198	structural molecule activity
+LOCMI11162	LOCMI11162	Q16LY3_AEDAE Oxidase/peroxidase	LOCMI11162	GO:0006950	response to stress
+LOCMI05775	LOCMI05775	Chorion peroxidase precursor, putative	LOCMI05775	GO:0006950	response to stress
+LOCMI10556	LOCMI10556	Q7Q347_ANOGA AGAP011479-PA (Fragment)	LOCMI10556	GO:0006950	response to stress
+LOCMI05040	LOCMI05040	Chorion peroxidase precursor, putative	LOCMI05040	GO:0006950	response to stress
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	LOCMI10884	GO:0006950	response to stress
+LOCMI13964	LOCMI13964	C3YD42_BRAFL Putative uncharacterized protein (Fragment)	LOCMI13964	GO:0055114	oxidation-reduction process
+LOCMI13448	LOCMI13448	PREDICTED: inositol oxygenase-like	LOCMI13448	GO:0055114	oxidation-reduction process
+LOCMI16173	LOCMI16173	cytochrome P450	LOCMI16173	GO:0055114	oxidation-reduction process
+LOCMI13963	LOCMI13963	Laccase2	LOCMI13963	GO:0055114	oxidation-reduction process
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	LOCMI10884	GO:0055114	oxidation-reduction process
+LOCMI11162	LOCMI11162	Q16LY3_AEDAE Oxidase/peroxidase	LOCMI11162	GO:0055114	oxidation-reduction process
+LOCMI05775	LOCMI05775	Chorion peroxidase precursor, putative	LOCMI05775	GO:0055114	oxidation-reduction process
+LOCMI16197	LOCMI16197	cytochrome P450	LOCMI16197	GO:0055114	oxidation-reduction process
+LOCMI13447	LOCMI13447	PREDICTED: inositol oxygenase-like	LOCMI13447	GO:0055114	oxidation-reduction process
+LOCMI13444	LOCMI13444	PREDICTED: inositol oxygenase-like	LOCMI13444	GO:0055114	oxidation-reduction process
+LOCMI13445	LOCMI13445	myo-inositol oxygenase	LOCMI13445	GO:0055114	oxidation-reduction process
+LOCMI16206	LOCMI16206	PREDICTED: similar to AGAP001039-PA	LOCMI16206	GO:0055114	oxidation-reduction process
+LOCMI05703	LOCMI05703	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	LOCMI05703	GO:0055114	oxidation-reduction process
+LOCMI05040	LOCMI05040	Chorion peroxidase precursor, putative	LOCMI05040	GO:0055114	oxidation-reduction process
+LOCMI05702	LOCMI05702	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	LOCMI05702	GO:0055114	oxidation-reduction process
+LOCMI16237	LOCMI16237	cytochrome P450 6a22	LOCMI16237	GO:0055114	oxidation-reduction process
+LOCMI05700	LOCMI05700	GI14867	LOCMI05700	GO:0055114	oxidation-reduction process
+LOCMI05701	LOCMI05701	GH12513	LOCMI05701	GO:0055114	oxidation-reduction process
+LOCMI16230	LOCMI16230	PREDICTED: similar to AGAP001039-PA	LOCMI16230	GO:0055114	oxidation-reduction process
+LOCMI13448	LOCMI13448	PREDICTED: inositol oxygenase-like	LOCMI13448	GO:0016491	oxidoreductase activity
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	LOCMI10884	GO:0016491	oxidoreductase activity
+LOCMI13304	LOCMI13304	PREDICTED: glucose dehydrogenase	LOCMI13304	GO:0016491	oxidoreductase activity
+LOCMI13444	LOCMI13444	PREDICTED: inositol oxygenase-like	LOCMI13444	GO:0016491	oxidoreductase activity
+LOCMI13445	LOCMI13445	myo-inositol oxygenase	LOCMI13445	GO:0016491	oxidoreductase activity
+LOCMI09826	LOCMI09826	4-hydroxyphenylpyruvate dioxygenase	LOCMI09826	GO:0016491	oxidoreductase activity
+LOCMI05702	LOCMI05702	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	LOCMI05702	GO:0016491	oxidoreductase activity
+LOCMI05703	LOCMI05703	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	LOCMI05703	GO:0016491	oxidoreductase activity
+LOCMI05700	LOCMI05700	GI14867	LOCMI05700	GO:0016491	oxidoreductase activity
+LOCMI05701	LOCMI05701	GH12513	LOCMI05701	GO:0016491	oxidoreductase activity
+LOCMI13964	LOCMI13964	C3YD42_BRAFL Putative uncharacterized protein (Fragment)	LOCMI13964	GO:0016491	oxidoreductase activity
+LOCMI06426	LOCMI06426	Iodotyrosine dehalogenase 1 precursor, putative	LOCMI06426	GO:0016491	oxidoreductase activity
+LOCMI13963	LOCMI13963	Laccase2	LOCMI13963	GO:0016491	oxidoreductase activity
+LOCMI16197	LOCMI16197	cytochrome P450	LOCMI16197	GO:0016491	oxidoreductase activity
+LOCMI16206	LOCMI16206	PREDICTED: similar to AGAP001039-PA	LOCMI16206	GO:0016491	oxidoreductase activity
+LOCMI00075	LOCMI00075	glucose dehydrogenase	LOCMI00075	GO:0016491	oxidoreductase activity
+LOCMI16173	LOCMI16173	cytochrome P450	LOCMI16173	GO:0016491	oxidoreductase activity
+LOCMI05040	LOCMI05040	Chorion peroxidase precursor, putative	LOCMI05040	GO:0016491	oxidoreductase activity
+LOCMI05775	LOCMI05775	Chorion peroxidase precursor, putative	LOCMI05775	GO:0016491	oxidoreductase activity
+LOCMI13447	LOCMI13447	PREDICTED: inositol oxygenase-like	LOCMI13447	GO:0016491	oxidoreductase activity
+LOCMI11162	LOCMI11162	Q16LY3_AEDAE Oxidase/peroxidase	LOCMI11162	GO:0016491	oxidoreductase activity
+LOCMI16237	LOCMI16237	cytochrome P450 6a22	LOCMI16237	GO:0016491	oxidoreductase activity
+LOCMI16230	LOCMI16230	PREDICTED: similar to AGAP001039-PA	LOCMI16230	GO:0016491	oxidoreductase activity

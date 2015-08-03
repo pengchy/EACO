@@ -1,0 +1,1 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name

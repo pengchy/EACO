@@ -1,0 +1,166 @@
+gSets	cluster	gNum	setDes
+GO:0000785	3	70	chromatin
+GO:0003689	7	5	DNA clamp loader activity
+GO:0003735	10	176	structural constituent of ribosome
+GO:0003743	11	22	translation initiation factor activity
+GO:0003746	12	15	translation elongation factor activity
+GO:0004003	17	13	ATP-dependent DNA helicase activity
+GO:0004252	23	146	serine-type endopeptidase activity
+GO:0004298	24	22	threonine-type endopeptidase activity
+GO:0004383	25	10	guanylate cyclase activity
+GO:0004550	28	6	nucleoside diphosphate kinase activity
+GO:0004721	31	36	phosphoprotein phosphatase activity
+GO:0004812	33	55	aminoacyl-tRNA ligase activity
+GO:0005097	35	29	Rab GTPase activator activity
+GO:0005328	39	19	neurotransmitter:sodium symporter activity
+GO:0005524	41	806	ATP binding
+GO:0005634	43	521	nucleus
+GO:0005663	7	5	DNA replication factor C complex
+GO:0005783	46	53	endoplasmic reticulum
+GO:0005789	47	27	endoplasmic reticulum membrane
+GO:0005839	24	22	proteasome core complex
+GO:0005840	10	177	ribosome
+GO:0005874	48	40	microtubule
+GO:0005887	50	60	integral component of plasma membrane
+GO:0006139	54	851	nucleobase-containing compound metabolic process
+GO:0006182	25	10	cGMP biosynthetic process
+GO:0006183	28	6	GTP biosynthetic process
+GO:0006228	28	6	UTP biosynthetic process
+GO:0006241	28	6	CTP biosynthetic process
+GO:0006333	3	73	chromatin assembly or disassembly
+GO:0006351	58	212	transcription, DNA-templated
+GO:0006355	58	201	regulation of transcription, DNA-templated
+GO:0006357	59	27	regulation of transcription from RNA polymerase II promoter
+GO:0006399	63	74	tRNA metabolic process
+GO:0006413	11	24	translational initiation
+GO:0006414	12	17	translational elongation
+GO:0006418	33	44	tRNA aminoacylation for protein translation
+GO:0006464	66	81	cellular protein modification process
+GO:0006470	31	36	protein dephosphorylation
+GO:0006508	68	422	proteolysis
+GO:0006511	69	63	ubiquitin-dependent protein catabolic process
+GO:0006662	72	15	glycerol ether metabolic process
+GO:0006753	73	127	nucleoside phosphate metabolic process
+GO:0006754	74	68	ATP biosynthetic process
+GO:0006796	73	173	phosphate-containing compound metabolic process
+GO:0006807	54	946	nitrogen compound metabolic process
+GO:0006814	77	22	sodium ion transport
+GO:0006826	78	9	iron ion transport
+GO:0006836	39	20	neurotransmitter transport
+GO:0006865	79	10	amino acid transport
+GO:0006879	78	7	cellular iron ion homeostasis
+GO:0007017	83	89	microtubule-based process
+GO:0007018	83	67	microtubule-based movement
+GO:0007165	86	463	signal transduction
+GO:0008033	91	28	tRNA processing
+GO:0008094	17	18	DNA-dependent ATPase activity
+GO:0008138	94	13	protein tyrosine/serine/threonine phosphatase activity
+GO:0008199	78	7	ferric iron binding
+GO:0008236	23	167	serine-type peptidase activity
+GO:0009108	103	7	coenzyme biosynthetic process
+GO:0009127	74	77	purine nucleoside monophosphate biosynthetic process
+GO:0009150	73	116	purine ribonucleotide metabolic process
+GO:0009152	74	87	purine ribonucleotide biosynthetic process
+GO:0009156	74	77	ribonucleoside monophosphate biosynthetic process
+GO:0009167	74	77	purine ribonucleoside monophosphate metabolic process
+GO:0009205	73	103	purine ribonucleoside triphosphate metabolic process
+GO:0009206	74	74	purine ribonucleoside triphosphate biosynthetic process
+GO:0012505	46	59	endomembrane system
+GO:0015031	108	183	protein transport
+GO:0015035	72	20	protein disulfide oxidoreductase activity
+GO:0015075	109	181	ion transmembrane transporter activity
+GO:0015081	39	21	sodium ion transmembrane transporter activity
+GO:0015171	79	10	amino acid transmembrane transporter activity
+GO:0015630	110	63	microtubule cytoskeleton
+GO:0016021	114	700	integral component of membrane
+GO:0016070	116	380	RNA metabolic process
+GO:0016301	118	330	kinase activity
+GO:0016462	120	484	pyrophosphatase activity
+GO:0016491	121	658	oxidoreductase activity
+GO:0016592	59	24	mediator complex
+GO:0016757	124	164	transferase activity, transferring glycosyl groups
+GO:0016758	124	122	transferase activity, transferring hexosyl groups
+GO:0016772	118	426	transferase activity, transferring phosphorus-containing groups
+GO:0016773	118	319	phosphotransferase activity, alcohol group as acceptor
+GO:0016829	25	14	lyase activity
+GO:0016887	130	238	ATPase activity
+GO:0017111	120	396	nucleoside-triphosphatase activity
+GO:0019219	58	230	regulation of nucleobase-containing compound metabolic process
+GO:0019538	133	1254	protein metabolic process
+GO:0019637	73	137	organophosphate metabolic process
+GO:0019725	134	38	cellular homeostasis
+GO:0019773	135	8	proteasome core complex, alpha-subunit complex
+GO:0022804	137	115	active transmembrane transporter activity
+GO:0022857	109	244	transmembrane transporter activity
+GO:0030001	77	31	metal ion transport
+GO:0030118	139	6	clathrin coat
+GO:0030130	139	5	clathrin coat of trans-Golgi network vesicle
+GO:0030132	139	5	clathrin coat of coated pit
+GO:0030286	140	15	dynein complex
+GO:0032313	35	29	regulation of Rab GTPase activity
+GO:0032550	41	1000	purine ribonucleoside binding
+GO:0032555	41	1000	purine ribonucleotide binding
+GO:0033013	146	11	tetrapyrrole metabolic process
+GO:0033014	146	10	tetrapyrrole biosynthetic process
+GO:0034470	91	34	ncRNA processing
+GO:0034645	147	571	cellular macromolecule biosynthetic process
+GO:0034660	63	80	ncRNA metabolic process
+GO:0035639	41	1000	purine ribonucleoside triphosphate binding
+GO:0036094	41	1121	small molecule binding
+GO:0042623	130	173	ATPase activity, coupled
+GO:0042626	137	96	ATPase activity, coupled to transmembrane movement of substances
+GO:0043039	33	48	tRNA aminoacylation
+GO:0043168	41	1074	anion binding
+GO:0043170	150	1703	macromolecule metabolic process
+GO:0043231	43	583	intracellular membrane-bounded organelle
+GO:0043412	66	91	macromolecule modification
+GO:0044085	48	50	cellular component biogenesis
+GO:0044248	157	107	cellular catabolic process
+GO:0044249	147	681	cellular biosynthetic process
+GO:0044260	150	1359	cellular macromolecule metabolic process
+GO:0044267	133	910	cellular protein metabolic process
+GO:0044281	158	273	small molecule metabolic process
+GO:0044425	114	745	membrane part
+GO:0044427	3	75	chromosomal part
+GO:0044430	110	90	cytoskeletal part
+GO:0044451	59	27	nucleoplasm part
+GO:0044459	50	65	plasma membrane part
+GO:0044711	74	106	single-organism biosynthetic process
+GO:0044765	164	610	single-organism transport
+GO:0045454	134	31	cell redox homeostasis
+GO:0046039	35	35	GTP metabolic process
+GO:0046128	73	106	purine ribonucleoside metabolic process
+GO:0046129	74	77	purine ribonucleoside biosynthetic process
+GO:0046872	165	1185	metal ion binding
+GO:0046914	165	926	transition metal ion binding
+GO:0050660	166	65	flavin adenine dinucleotide binding
+GO:0050662	166	74	coenzyme binding
+GO:0050896	86	600	response to stimulus
+GO:0051186	103	8	cofactor metabolic process
+GO:0051258	48	44	protein polymerization
+GO:0051603	69	77	proteolysis involved in cellular protein catabolic process
+GO:0051716	86	537	cellular response to stimulus
+GO:0055085	164	451	transmembrane transport
+GO:0055114	121	515	oxidation-reduction process
+GO:0070011	68	372	peptidase activity, acting on L-amino acid peptides
+GO:0071702	108	193	organic substance transport
+GO:0090304	116	507	nucleic acid metabolic process
+GO:0090407	74	106	organophosphate biosynthetic process
+GO:0098588	47	33	bounding membrane of organelle
+GO:1901135	73	128	carbohydrate derivative metabolic process
+GO:1901137	74	97	carbohydrate derivative biosynthetic process
+GO:1901265	41	1121	nucleoside phosphate binding
+GO:1901293	74	96	nucleoside phosphate biosynthetic process
+GO:1901564	158	263	organonitrogen compound metabolic process
+GO:1901566	74	101	organonitrogen compound biosynthetic process
+GO:1901575	157	107	organic substance catabolic process
+GO:1901576	147	681	organic substance biosynthetic process
+GO:1902494	140	18	catalytic complex
+IPR000175	39	19	Sodium:neurotransmitter symporter
+IPR000195	35	29	Rab-GAP/TBC domain
+IPR000217	48	35	Tubulin
+IPR000340	94	13	Dual specificity phosphatase, catalytic domain
+IPR000426	135	8	Proteasome, alpha-subunit, conserved site
+map00980	309	44	Metabolism of xenobiotics by cytochrome P450
+map00982	309	40	Drug metabolism - cytochrome P450
+map03010	10	139	Ribosome

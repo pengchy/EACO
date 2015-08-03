@@ -1,0 +1,217 @@
+GO-Elite ORA Results
+File:
+Table:
+colors:
+1/13/2015
+Locusta migratoria
+Pvalues = true
+Calculation Summary:
+83 Ensembl source identifiers supplied in the input file:Gegg-VS-Segg.down.txt
+83 source identifiers meeting the filter linked to a Ensembl ID.
+4 genes meeting the criterion linked to a term.
+8861 source identifiers in this dataset.
+8861 source identifiers linked to a Ensembl ID.
+1412 Genes linked to a term.
+The z score is based on an N of 1412 and a R of 4 distinct genes in all terms.
+
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP
+Ribosomal protein S16:IPR000307	1	1	1	100.0	100.0	18.7616630393	0.011	1.0
+Ribosomal protein S17:IPR000266	1	3	3	33.3333333333	100.0	10.7781468277	0.028	1.0
+Lipocalin/cytosolic fatty-acid binding protein:IPR000566	1	9	9	11.1111111111	100.0	6.12915391508	0.077	1.0
+Cytosolic fatty-acid binding:IPR000463	1	12	12	8.33333333333	100.0	5.26734680236	0.111	1.0
+Protease inhibitor I4, serpin:IPR000215	1	23	23	4.34782608696	100.0	3.69650309483	0.198	1.0
+tRNA 2-thiolation protein:IPR000541	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Zinc finger, TAZ-type:IPR000197	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+XPA:IPR000465	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Vasopressin V2 receptor:IPR000161	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Uroporphyrinogen decarboxylase (URO-D):IPR000257	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Thymidylate synthase:IPR000398	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribulose-phosphate 3-epimerase:IPR000056	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosome-binding factor A:IPR000238	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein S7e:IPR000554	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein S6:IPR000529	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein S28e:IPR000289	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein L9:IPR000244	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein L36:IPR000473	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein L34:IPR000271	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein L31e:IPR000054	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein L18e:IPR000039	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein L17:IPR000456	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein L16:IPR000114	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribosomal protein L15e:IPR000439	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Ribonucleotide reductase:IPR000358	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Retinoid X receptor:IPR000003	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+RNA polymerases, N/8kDa subunit:IPR000268	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+RHO protein GDP dissociation inhibitor:IPR000406	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Pyrimidine-nucleoside phosphorylase:IPR000053	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Pyridine nucleotide-disulphide oxidoreductase, class-II:IPR000103	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Prohibitin:IPR000163	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Phosphoribosylglycinamide synthetase:IPR000115	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Phosphoribosylaminoimidazole carboxylase, core:IPR000031	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Phosphatidate cytidylyltransferase:IPR000374	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+P-type trefoil:IPR000519	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Octanoyltransferase:IPR000544	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Nucleoside phosphatase GDA1/CD39:IPR000407	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Nitroreductase-like:IPR000415	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Mealworm beetle B protein:IPR000113	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+K-Cl co-transporter:IPR000076	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Inositol 1,4,5-trisphosphate-binding protein receptor:IPR000493	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Inhibin, beta B subunit:IPR000381	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Huntingtin:IPR000091	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+High mobility group, HMG-I/HMG-Y:IPR000116	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Heat shock factor (HSF)-type, DNA-binding:IPR000232	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Glycosyl transferase, family 3:IPR000312	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+GPCR, family 3, metabotropic glutamate receptor:IPR000162	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Fructose-1,6-bisphosphatase class 1/Sedoheputulose-1,7-bisphosphatase:IPR000146	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Formate-tetrahydrofolate ligase, FTHFS:IPR000559	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+FMN-dependent dehydrogenase:IPR000262	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+FAD-dependent glycerol-3-phosphate dehydrogenase:IPR000447	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Excinuclease ABC, C subunit, N-terminal:IPR000305	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+ER lumen protein retaining receptor:IPR000133	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+DNA helicase, UvrD/REP type:IPR000212	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Cytochrome c/c1 haem-lyase:IPR000511	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Cys/Met metabolism, pyridoxal phosphate-dependent enzyme:IPR000277	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Crustacean neurohormone CHH:IPR000346	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Cation-independent mannose-6-phosphate receptor:IPR000479	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Acute myeloid leukemia 1 protein (AML 1)/Runt:IPR000040	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Activin type II receptor:IPR000333	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+ATPase, F1 complex, gamma subunit:IPR000131	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+ATPase, F0 complex, subunit C:IPR000454	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+AP endonuclease, family 1:IPR000097	0	1	1	0.0	100.0	-0.0533001790889	1.0	1.0
+Urocanase:IPR000193	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Ubiquitin/SUMO-activating enzyme E1:IPR000011	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Tropomyosin:IPR000533	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Ribosomal protein S7:IPR000235	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Ribosomal protein S12e:IPR000530	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Ribosomal protein L44e:IPR000552	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Ribosomal protein L36e:IPR000509	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Ribosomal protein L30e:IPR000231	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Ribosomal protein L19/L19e:IPR000196	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Ribosomal protein L14b/L23e:IPR000218	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Pyrroline-5-carboxylate reductase:IPR000304	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Putative RNA methylase:IPR000241	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Protein phosphatase 2A, regulatory subunit PR55:IPR000009	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Primosome PriB/single-strand DNA-binding:IPR000424	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Phosphoinositide 3-kinase, ras-binding:IPR000341	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Phosphofructokinase domain:IPR000023	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Peptidyl-prolyl cis-trans isomerase, PpiC-type:IPR000297	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+NF-kappa-B/Rel/dorsal:IPR000451	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+High mobility group, HMG1/HMG2, subgroup:IPR000135	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Helix-hairpin-helix motif:IPR000445	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Glycoside hydrolase, family 39:IPR000514	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Glycoside hydrolase, clan GH-D:IPR000111	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+GRIP:IPR000237	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+GPCR, family 3:IPR000337	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+GPCR kinase:IPR000239	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+G-protein alpha subunit, group S:IPR000367	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+G-protein alpha subunit, group 12:IPR000469	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+FeS cluster biogenesis:IPR000361	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+DNA topoisomerase, type IA, core:IPR000380	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Copper type II, ascorbate-dependent monooxygenase, N-terminal:IPR000323	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Clathrin, heavy chain/VPS, 7-fold repeat:IPR000547	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Carboxyl transferase:IPR000022	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Bacterial surface antigen (D15):IPR000184	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Adenosylhomocysteinase:IPR000043	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+14-3-3 protein:IPR000308	0	2	2	0.0	100.0	-0.0754045611359	1.0	1.0
+Tubby, C-terminal:IPR000007	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Tektin:IPR000435	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+TGF-beta receptor/activin receptor, type I/II:IPR000472	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+RNA 3'-terminal phosphate cyclase-like:IPR000228	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Proteinase inhibitor I25, cystatin:IPR000010	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Phox/Bem1p:IPR000270	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Peptidase T2, asparaginase 2:IPR000246	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+POU-specific:IPR000327	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Oxidoreductase, molybdopterin-binding domain:IPR000572	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Ornithine/DAP/Arg decarboxylase:IPR000183	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Oligopeptide transporter:IPR000109	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Major sperm protein:IPR000535	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Kringle:IPR000001	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Helix-turn-helix motif, lambda-like repressor:IPR000047	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Fumarate lyase:IPR000362	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Frizzled protein:IPR000539	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Dynamin central domain:IPR000375	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+Calponin repeat:IPR000557	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+CDP-alcohol phosphatidyltransferase:IPR000462	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+ATPase, P-type cation exchange, beta subunit:IPR000402	0	3	3	0.0	100.0	-0.0923841156661	1.0	1.0
+UbiA prenyltransferase:IPR000537	0	4	4	0.0	100.0	-0.106713863472	1.0	1.0
+SWAP/Surp:IPR000061	0	4	4	0.0	100.0	-0.106713863472	1.0	1.0
+Ran binding protein 1:IPR000156	0	4	4	0.0	100.0	-0.106713863472	1.0	1.0
+Peptide chain release factor class I/class II:IPR000352	0	4	4	0.0	100.0	-0.106713863472	1.0	1.0
+EGF receptor, L domain:IPR000494	0	4	4	0.0	100.0	-0.106713863472	1.0	1.0
+DNA mismatch repair protein MutS, C-terminal:IPR000432	0	4	4	0.0	100.0	-0.106713863472	1.0	1.0
+Cell division/GTP binding protein:IPR000038	0	4	4	0.0	100.0	-0.106713863472	1.0	1.0
+Ubiquitin-activating enzyme repeat:IPR000127	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+Peptidase T1A, proteasome beta-subunit:IPR000243	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+Laminin B type IV:IPR000034	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+Integrin alpha chain:IPR000413	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+Inositol polyphosphate-related phosphatase:IPR000300	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+Gamma-glutamyltranspeptidase:IPR000101	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+Ets:IPR000418	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+Beige/BEACH:IPR000409	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+ATPase, alpha/beta subunit, nucleotide-binding domain:IPR000194	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+ATPase, V0 complex, proteolipid subunit C:IPR000245	0	5	5	0.0	100.0	-0.119352117525	1.0	1.0
+SEA:IPR000082	0	6	6	0.0	100.0	-0.130790180757	1.0	1.0
+Rap/ran-GAP:IPR000331	0	6	6	0.0	100.0	-0.130790180757	1.0	1.0
+Phosphatidic acid phosphatase type 2/haloperoxidase:IPR000326	0	6	6	0.0	100.0	-0.130790180757	1.0	1.0
+Leucine-rich repeat-containing N-terminal:IPR000372	0	6	6	0.0	100.0	-0.130790180757	1.0	1.0
+GPS domain:IPR000203	0	6	6	0.0	100.0	-0.130790180757	1.0	1.0
+EPS15 homology (EH):IPR000261	0	6	6	0.0	100.0	-0.130790180757	1.0	1.0
+Zinc finger, AN1-type:IPR000058	0	7	7	0.0	100.0	-0.141319806146	1.0	1.0
+Peptidase S8/S53, subtilisin/kexin/sedolisin:IPR000209	0	7	7	0.0	100.0	-0.141319806146	1.0	1.0
+Neutrophil cytosol factor 2 p67phox:IPR000108	0	7	7	0.0	100.0	-0.141319806146	1.0	1.0
+Histidine phosphatase superfamily, clade-2:IPR000560	0	7	7	0.0	100.0	-0.141319806146	1.0	1.0
+Death:IPR000488	0	7	7	0.0	100.0	-0.141319806146	1.0	1.0
+Cadherin, cytoplasmic domain:IPR000233	0	7	7	0.0	100.0	-0.141319806146	1.0	1.0
+Biotin/lipoyl attachment:IPR000089	0	7	7	0.0	100.0	-0.141319806146	1.0	1.0
+Amidase:IPR000120	0	7	7	0.0	100.0	-0.141319806146	1.0	1.0
+Acyltransferase ChoActase/COT/CPT:IPR000542	0	7	7	0.0	100.0	-0.141319806146	1.0	1.0
+Zinc finger, B-box:IPR000315	0	8	8	0.0	100.0	-0.151131020444	1.0	1.0
+Proteasome, alpha-subunit, conserved site:IPR000426	0	8	8	0.0	100.0	-0.151131020444	1.0	1.0
+Polyprenyl synthetase:IPR000092	0	8	8	0.0	100.0	-0.151131020444	1.0	1.0
+PAK-box/P21-Rho-binding:IPR000095	0	8	8	0.0	100.0	-0.151131020444	1.0	1.0
+Histone deacetylase superfamily:IPR000286	0	8	8	0.0	100.0	-0.151131020444	1.0	1.0
+PWWP:IPR000313	0	9	9	0.0	100.0	-0.160355771034	1.0	1.0
+Glycoside hydrolase, family 31:IPR000322	0	9	9	0.0	100.0	-0.160355771034	1.0	1.0
+Aminotransferase, class V/Cysteine desulfurase:IPR000192	0	9	9	0.0	100.0	-0.160355771034	1.0	1.0
+Zinc finger, ZZ-type:IPR000433	0	10	10	0.0	100.0	-0.169090095072	1.0	1.0
+Toll-Interleukin receptor:IPR000157	0	10	10	0.0	100.0	-0.169090095072	1.0	1.0
+Major intrinsic protein:IPR000425	0	10	10	0.0	100.0	-0.169090095072	1.0	1.0
+Regulator of G protein signalling:IPR000342	0	11	11	0.0	100.0	-0.177406468204	1.0	1.0
+PAS:IPR000014	0	11	11	0.0	100.0	-0.177406468204	1.0	1.0
+Mov34/MPN/PAD-1:IPR000555	0	11	11	0.0	100.0	-0.177406468204	1.0	1.0
+D111/G-patch:IPR000467	0	11	11	0.0	100.0	-0.177406468204	1.0	1.0
+Tetraspanin, subgroup:IPR000301	0	12	12	0.0	100.0	-0.185361177796	1.0	1.0
+Nuclear hormone receptor, ligand-binding, core:IPR000536	0	12	12	0.0	100.0	-0.185361177796	1.0	1.0
+Zinc finger, FYVE-type:IPR000306	0	13	13	0.0	100.0	-0.192998971236	1.0	1.0
+Ubiquitin-associated/translation elongation factor EF1B, N-terminal:IPR000449	0	13	13	0.0	100.0	-0.192998971236	1.0	1.0
+Sushi/SCR/CCP:IPR000436	0	13	13	0.0	100.0	-0.192998971236	1.0	1.0
+Phosphatidylinositol 3-/4-kinase, catalytic:IPR000403	0	13	13	0.0	100.0	-0.192998971236	1.0	1.0
+LDLR class B repeat:IPR000033	0	13	13	0.0	100.0	-0.192998971236	1.0	1.0
+Histone H3:IPR000164	0	13	13	0.0	100.0	-0.192998971236	1.0	1.0
+Dual specificity phosphatase, catalytic domain:IPR000340	0	13	13	0.0	100.0	-0.192998971236	1.0	1.0
+Coagulation factor 5/8 type, C-terminal:IPR000421	0	13	13	0.0	100.0	-0.192998971236	1.0	1.0
+Regulator of chromosome condensation, RCC1:IPR000408	0	14	14	0.0	100.0	-0.200356117468	1.0	1.0
+Ras-association:IPR000159	0	14	14	0.0	100.0	-0.200356117468	1.0	1.0
+NUDIX hydrolase domain:IPR000086	0	15	15	0.0	100.0	-0.207462497424	1.0	1.0
+GCN5-related N-acetyltransferase (GNAT) domain:IPR000182	0	15	15	0.0	100.0	-0.207462497424	1.0	1.0
+Forkhead-associated (FHA) domain:IPR000253	0	15	15	0.0	100.0	-0.207462497424	1.0	1.0
+Protein-tyrosine phosphatase, receptor/non-receptor type:IPR000242	0	16	16	0.0	100.0	-0.214343075219	1.0	1.0
+Histone H2B:IPR000558	0	16	16	0.0	100.0	-0.214343075219	1.0	1.0
+HECT:IPR000569	0	16	16	0.0	100.0	-0.214343075219	1.0	1.0
+Cysteine-rich flanking region, C-terminal domain:IPR000483	0	18	18	0.0	100.0	-0.227508192879	1.0	1.0
+Zinc finger, CCCH-type:IPR000571	0	19	19	0.0	100.0	-0.233826332218	1.0	1.0
+Sodium:neurotransmitter symporter:IPR000175	0	19	19	0.0	100.0	-0.233826332218	1.0	1.0
+SNF2-related:IPR000330	0	21	21	0.0	100.0	-0.246001784509	1.0	1.0
+HEAT:IPR000357	0	21	21	0.0	100.0	-0.246001784509	1.0	1.0
+Armadillo:IPR000225	0	21	21	0.0	100.0	-0.246001784509	1.0	1.0
+IQ motif, EF-hand binding site:IPR000048	0	24	24	0.0	100.0	-0.263271024178	1.0	1.0
+Rho GTPase-activating protein domain:IPR000198	0	26	26	0.0	100.0	-0.274218805039	1.0	1.0
+Glucose-methanol-choline oxidoreductase, N-terminal:IPR000172	0	27	27	0.0	100.0	-0.27954335331	1.0	1.0
+Rab-GAP/TBC domain:IPR000195	0	29	29	0.0	100.0	-0.289921273742	1.0	1.0
+Dbl homology (DH) domain:IPR000219	0	29	29	0.0	100.0	-0.289921273742	1.0	1.0
+Alpha/beta hydrolase fold-1:IPR000073	0	29	29	0.0	100.0	-0.289921273742	1.0	1.0
+Tubulin:IPR000217	0	35	35	0.0	100.0	-0.319197313278	1.0	1.0
+C2 calcium-dependent membrane targeting:IPR000008	0	52	52	0.0	100.0	-0.391493353015	1.0	1.0
+7TM GPCR, rhodopsin-like:IPR000276	0	83	83	0.0	100.0	-0.500344039924	1.0	1.0
+BTB/POZ-like:IPR000210	0	91	91	0.0	100.0	-0.525486378055	1.0	1.0
+RNA recognition motif domain:IPR000504	0	129	129	0.0	100.0	-0.634853768777	1.0	1.0

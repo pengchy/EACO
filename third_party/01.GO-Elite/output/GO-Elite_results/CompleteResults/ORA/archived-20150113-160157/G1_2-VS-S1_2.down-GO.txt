@@ -1,0 +1,596 @@
+GO-Elite ORA Results
+File:
+Table:
+Database: Based on OBO-Database version: 6/14/2011
+colors:
+1/13/2015
+Locusta migratoria
+Pvalues = true
+Calculation Summary:
+125 Ensembl source identifiers supplied in the input file:G1_2-VS-S1_2.down.txt
+125 source identifiers meeting the filter linked to a Ensembl ID.
+113 genes meeting the criterion linked to a term.
+8861 source identifiers in this dataset.
+8861 source identifiers linked to a Ensembl ID.
+8448 Genes linked to a term.
+The z score is based on an N of 8448 and a R of 113 distinct genes in all terms.
+
+Ontology-ID	Ontology Name	Ontology Type	Number Changed	Number Measured	Number in Ontology	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP
+GO:0016798	hydrolase activity, acting on glycosyl bonds	molecular_function	22	148	148	14.8648648649	100.0	14.4515724291	0.0	0.0192666666667
+GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds	molecular_function	22	148	148	14.8648648649	100.0	14.4515724291	0.0	0.0192666666667
+GO:0005975	carbohydrate metabolic process	biological_process	23	368	368	6.25	100.0	8.38736511478	0.0	0.0192666666667
+GO:0008289	lipid binding	molecular_function	6	58	58	10.3448275862	100.0	5.99152722073	0.0	0.0192666666667
+GO:0008152	metabolic process	biological_process	76	3442	3443	2.20801859384	99.970955562	5.7743611739	0.0	0.0192666666667
+GO:0008150	biological_process	biological_process	96	5087	5088	1.88716335758	99.9803459119	5.40918331763	0.0	0.0192666666667
+GO:0051540	metal cluster binding	molecular_function	4	35	35	11.4285714286	100.0	5.20720782221	0.0	0.0192666666667
+GO:0051536	iron-sulfur cluster binding	molecular_function	4	35	35	11.4285714286	100.0	5.20720782221	0.0	0.0192666666667
+GO:0009628	response to abiotic stimulus	biological_process	2	11	11	18.1818181818	100.0	4.86593654758	0.007	0.112388888889
+GO:0009408	response to heat	biological_process	2	11	11	18.1818181818	100.0	4.86593654758	0.007	0.112388888889
+GO:0009266	response to temperature stimulus	biological_process	2	11	11	18.1818181818	100.0	4.86593654758	0.007	0.112388888889
+GO:0016787	hydrolase activity	molecular_function	37	1419	1419	2.60747004933	100.0	4.56476735401	0.0	0.0192666666667
+GO:0003824	catalytic activity	molecular_function	68	3419	3420	1.98888563908	99.9707602339	4.29632275113	0.0	0.0192666666667
+GO:0044238	primary metabolic process	biological_process	52	2449	2450	2.12331563904	99.9591836735	4.0163950091	0.0	0.0192666666667
+GO:0017171	serine hydrolase activity	molecular_function	8	167	167	4.79041916168	100.0	3.9228750186	0.0005	0.0192666666667
+GO:0008236	serine-type peptidase activity	molecular_function	8	167	167	4.79041916168	100.0	3.9228750186	0.0005	0.0192666666667
+GO:0006605	protein targeting	biological_process	2	17	17	11.7647058824	100.0	3.74595062762	0.0285	0.350489361702
+GO:0004252	serine-type endopeptidase activity	molecular_function	7	146	146	4.79452054795	100.0	3.66765313652	0.005	0.0932258064516
+GO:0016491	oxidoreductase activity	molecular_function	18	658	658	2.73556231003	100.0	3.25053208052	0.003	0.0753913043478
+GO:0070011	peptidase activity, acting on L-amino acid peptides	molecular_function	12	372	372	3.22580645161	100.0	3.24218013245	0.007	0.112388888889
+GO:0008233	peptidase activity	molecular_function	12	372	372	3.22580645161	100.0	3.24218013245	0.007	0.112388888889
+GO:0055114	oxidation-reduction process	biological_process	15	515	515	2.91262135922	100.0	3.210597963	0.0045	0.0896896551724
+GO:0006508	proteolysis	biological_process	13	422	422	3.08056872038	100.0	3.19750101378	0.004	0.0856296296296
+GO:0055082	cellular chemical homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0055080	cation homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0055072	iron ion homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0055065	metal ion homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0050801	ion homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0048878	chemical homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0030003	cellular cation homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0008199	ferric iron binding	molecular_function	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0006879	cellular iron ion homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0006875	cellular metal ion homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0006873	cellular ion homeostasis	biological_process	1	7	7	14.2857142857	100.0	2.98312808077	0.104	0.765
+GO:0005215	transporter activity	molecular_function	16	631	631	2.53565768621	100.0	2.72324932199	0.018	0.247714285714
+GO:0006826	iron ion transport	biological_process	1	9	9	11.1111111111	100.0	2.55352277916	0.127	0.765
+GO:0000041	transition metal ion transport	biological_process	1	9	9	11.1111111111	100.0	2.55352277916	0.127	0.765
+GO:0004175	endopeptidase activity	molecular_function	8	266	266	3.00751879699	100.0	2.40891203623	0.0315	0.371571428571
+GO:0071705	nitrogen compound transport	biological_process	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0071702	organic substance transport	biological_process	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0046943	carboxylic acid transmembrane transporter activity	molecular_function	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0046942	carboxylic acid transport	biological_process	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0015849	organic acid transport	biological_process	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0015837	amine transport	biological_process	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0015171	amino acid transmembrane transporter activity	molecular_function	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0006865	amino acid transport	biological_process	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0005342	organic acid transmembrane transporter activity	molecular_function	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0005275	amine transmembrane transporter activity	molecular_function	1	10	10	10.0	100.0	2.38578809916	0.135	0.765
+GO:0016791	phosphatase activity	molecular_function	2	36	36	5.55555555556	100.0	2.20758427644	0.088	0.765
+GO:0016311	dephosphorylation	biological_process	2	36	36	5.55555555556	100.0	2.20758427644	0.0875	0.765
+GO:0006796	phosphate metabolic process	biological_process	2	36	36	5.55555555556	100.0	2.20758427644	0.0875	0.765
+GO:0006793	phosphorus metabolic process	biological_process	2	36	36	5.55555555556	100.0	2.20758427644	0.0875	0.765
+GO:0006470	protein dephosphorylation	biological_process	2	36	36	5.55555555556	100.0	2.20758427644	0.0875	0.765
+GO:0004721	phosphoprotein phosphatase activity	molecular_function	2	36	36	5.55555555556	100.0	2.20758427644	0.088	0.765
+GO:0008138	protein tyrosine/serine/threonine phosphatase activity	molecular_function	1	13	13	7.69230769231	100.0	1.995897352	0.163	0.888811320755
+GO:0005737	cytoplasm	cellular_component	14	634	634	2.20820189274	100.0	1.98400748531	0.0605	0.6358
+GO:0008237	metallopeptidase activity	molecular_function	4	120	120	3.33333333333	100.0	1.91662460125	0.0865	0.765
+GO:0006464	protein modification process	biological_process	3	81	81	3.7037037037	100.0	1.86253954399	0.1095	0.765
+GO:0009055	electron carrier activity	molecular_function	5	174	174	2.87356321839	100.0	1.78201891526	0.1065	0.765
+GO:0005506	iron ion binding	molecular_function	5	174	174	2.87356321839	100.0	1.78201891526	0.1085	0.765
+GO:0051234	establishment of localization	biological_process	19	992	992	1.91532258065	100.0	1.6859292436	0.1285	0.765
+GO:0006810	transport	biological_process	19	992	992	1.91532258065	100.0	1.6859292436	0.1285	0.765
+GO:0045184	establishment of protein localization	biological_process	5	183	183	2.73224043716	100.0	1.66027928386	0.1215	0.765
+GO:0015031	protein transport	biological_process	5	183	183	2.73224043716	100.0	1.66027928386	0.1215	0.765
+GO:0043412	macromolecule modification	biological_process	3	91	91	3.2967032967	100.0	1.63556246236	0.137	0.768796116505
+GO:0005783	endoplasmic reticulum	cellular_component	2	53	53	3.77358490566	100.0	1.54851797646	0.162	0.888811320755
+GO:0044444	cytoplasmic part	cellular_component	6	265	265	2.2641509434	100.0	1.33398694089	0.2445	1.0
+GO:0042578	phosphoric ester hydrolase activity	molecular_function	2	64	64	3.125	100.0	1.24939718392	0.2165	1.0
+GO:0050660	flavin adenine dinucleotide binding	molecular_function	2	65	65	3.07692307692	100.0	1.22532602284	0.221	1.0
+GO:0004725	protein tyrosine phosphatase activity	molecular_function	1	24	24	4.16666666667	100.0	1.2081018962	0.284	1.0
+GO:0046906	tetrapyrrole binding	molecular_function	4	167	167	2.39520958084	100.0	1.20159337656	0.214	1.0
+GO:0020037	heme binding	molecular_function	4	167	167	2.39520958084	100.0	1.20159337656	0.214	1.0
+GO:0046034	ATP metabolic process	biological_process	2	68	68	2.94117647059	100.0	1.15567757678	0.248	1.0
+GO:0006754	ATP biosynthetic process	biological_process	2	68	68	2.94117647059	100.0	1.15567757678	0.248	1.0
+GO:0043232	intracellular non-membrane-bounded organelle	cellular_component	6	285	285	2.10526315789	100.0	1.14758366703	0.28	1.0
+GO:0043228	non-membrane-bounded organelle	cellular_component	6	285	285	2.10526315789	100.0	1.14758366703	0.28	1.0
+GO:0019538	protein metabolic process	biological_process	21	1254	1254	1.67464114833	100.0	1.12581346579	0.304	1.0
+GO:0003735	structural constituent of ribosome	molecular_function	4	176	176	2.27272727273	100.0	1.09128298937	0.223	1.0
+GO:0030529	ribonucleoprotein complex	cellular_component	4	177	177	2.25988700565	100.0	1.07941721015	0.2245	1.0
+GO:0005840	ribosome	cellular_component	4	177	177	2.25988700565	100.0	1.07941721015	0.2245	1.0
+GO:0006357	regulation of transcription from RNA polymerase II promoter	biological_process	1	27	27	3.7037037037	100.0	1.07188433891	0.3365	1.0
+GO:0050662	coenzyme binding	molecular_function	2	74	74	2.7027027027	100.0	1.02666681292	0.2575	1.0
+GO:0048037	cofactor binding	molecular_function	2	74	74	2.7027027027	100.0	1.02666681292	0.2575	1.0
+GO:0009206	purine ribonucleoside triphosphate biosynthetic process	biological_process	2	74	74	2.7027027027	100.0	1.02666681292	0.274	1.0
+GO:0009205	purine ribonucleoside triphosphate metabolic process	biological_process	2	74	74	2.7027027027	100.0	1.02666681292	0.274	1.0
+GO:0009201	ribonucleoside triphosphate biosynthetic process	biological_process	2	74	74	2.7027027027	100.0	1.02666681292	0.274	1.0
+GO:0009199	ribonucleoside triphosphate metabolic process	biological_process	2	74	74	2.7027027027	100.0	1.02666681292	0.274	1.0
+GO:0009145	purine nucleoside triphosphate biosynthetic process	biological_process	2	74	74	2.7027027027	100.0	1.02666681292	0.274	1.0
+GO:0009144	purine nucleoside triphosphate metabolic process	biological_process	2	74	74	2.7027027027	100.0	1.02666681292	0.274	1.0
+GO:0009142	nucleoside triphosphate biosynthetic process	biological_process	2	74	74	2.7027027027	100.0	1.02666681292	0.274	1.0
+GO:0009141	nucleoside triphosphate metabolic process	biological_process	2	74	74	2.7027027027	100.0	1.02666681292	0.274	1.0
+GO:0030001	metal ion transport	biological_process	1	31	31	3.22580645161	100.0	0.91678185409	0.373	1.0
+GO:0006812	cation transport	biological_process	1	31	31	3.22580645161	100.0	0.91678185409	0.373	1.0
+GO:0016779	nucleotidyltransferase activity	molecular_function	2	81	81	2.46913580247	100.0	0.890719763393	0.3145	1.0
+GO:0009260	ribonucleotide biosynthetic process	biological_process	2	82	83	2.43902439024	98.7951807229	0.872404515742	0.3075	1.0
+GO:0009259	ribonucleotide metabolic process	biological_process	2	82	83	2.43902439024	98.7951807229	0.872404515742	0.3075	1.0
+GO:0009152	purine ribonucleotide biosynthetic process	biological_process	2	82	83	2.43902439024	98.7951807229	0.872404515742	0.3075	1.0
+GO:0009150	purine ribonucleotide metabolic process	biological_process	2	82	83	2.43902439024	98.7951807229	0.872404515742	0.3075	1.0
+GO:0016741	transferase activity, transferring one-carbon groups	molecular_function	2	87	87	2.29885057471	100.0	0.784481400856	0.3365	1.0
+GO:0008168	methyltransferase activity	molecular_function	2	87	87	2.29885057471	100.0	0.784481400856	0.3365	1.0
+GO:0043687	post-translational protein modification	biological_process	1	35	35	2.85714285714	100.0	0.784126579253	0.391	1.0
+GO:0006950	response to stress	biological_process	3	147	147	2.04081632653	100.0	0.748684443267	0.342	1.0
+GO:0072522	purine-containing compound biosynthetic process	biological_process	2	92	93	2.17391304348	98.9247311828	0.702068439836	0.3615	1.0
+GO:0044283	small molecule biosynthetic process	biological_process	2	92	93	2.17391304348	98.9247311828	0.702068439836	0.3615	1.0
+GO:0034654	nucleobase, nucleoside, nucleotide and nucleic acid biosynthetic process	biological_process	2	92	93	2.17391304348	98.9247311828	0.702068439836	0.3615	1.0
+GO:0034404	nucleobase, nucleoside and nucleotide biosynthetic process	biological_process	2	92	93	2.17391304348	98.9247311828	0.702068439836	0.3615	1.0
+GO:0009165	nucleotide biosynthetic process	biological_process	2	92	93	2.17391304348	98.9247311828	0.702068439836	0.3615	1.0
+GO:0006164	purine nucleotide biosynthetic process	biological_process	2	92	93	2.17391304348	98.9247311828	0.702068439836	0.3615	1.0
+GO:0006163	purine nucleotide metabolic process	biological_process	2	92	93	2.17391304348	98.9247311828	0.702068439836	0.3615	1.0
+GO:0065008	regulation of biological quality	biological_process	1	38	38	2.63157894737	100.0	0.69588250678	0.43	1.0
+GO:0042592	homeostatic process	biological_process	1	38	38	2.63157894737	100.0	0.69588250678	0.43	1.0
+GO:0019725	cellular homeostasis	biological_process	1	38	38	2.63157894737	100.0	0.69588250678	0.43	1.0
+GO:0043170	macromolecule metabolic process	biological_process	23	1519	1519	1.51415404872	100.0	0.661374521495	0.5515	1.0
+GO:0072521	purine-containing compound metabolic process	biological_process	2	95	96	2.10526315789	98.9583333333	0.65497901944	0.3745	1.0
+GO:0055086	nucleobase, nucleoside and nucleotide metabolic process	biological_process	2	95	96	2.10526315789	98.9583333333	0.65497901944	0.3745	1.0
+GO:0009117	nucleotide metabolic process	biological_process	2	95	96	2.10526315789	98.9583333333	0.65497901944	0.3745	1.0
+GO:0006753	nucleoside phosphate metabolic process	biological_process	2	95	96	2.10526315789	98.9583333333	0.65497901944	0.3745	1.0
+GO:0071844	cellular component assembly at cellular level	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0071822	protein complex subunit organization	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0065003	macromolecular complex assembly	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0051258	protein polymerization	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0043933	macromolecular complex subunit organization	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0043623	cellular protein complex assembly	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0034622	cellular macromolecular complex assembly	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0034621	cellular macromolecular complex subunit organization	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0022607	cellular component assembly	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0006461	protein complex assembly	biological_process	1	44	44	2.27272727273	100.0	0.541339392126	0.4685	1.0
+GO:0044271	cellular nitrogen compound biosynthetic process	biological_process	2	106	107	1.88679245283	99.0654205607	0.495290185552	0.4335	1.0
+GO:0018130	heterocycle biosynthetic process	biological_process	2	106	107	1.88679245283	99.0654205607	0.495290185552	0.4335	1.0
+GO:0046914	transition metal ion binding	molecular_function	14	926	926	1.51187904968	100.0	0.489226929816	0.652	1.0
+GO:0005694	chromosome	cellular_component	2	108	108	1.85185185185	100.0	0.468190205066	0.429	1.0
+GO:0044424	intracellular part	cellular_component	19	1289	1289	1.47401086113	100.0	0.463104754274	0.7245	1.0
+GO:0043229	intracellular organelle	cellular_component	12	792	792	1.51515151515	100.0	0.456890481854	0.7435	1.0
+GO:0043226	organelle	cellular_component	12	792	792	1.51515151515	100.0	0.456890481854	0.7435	1.0
+GO:0046483	heterocycle metabolic process	biological_process	2	110	111	1.81818181818	99.0990990991	0.441621953019	0.4515	1.0
+GO:0071842	cellular component organization at cellular level	biological_process	2	117	117	1.7094017094	100.0	0.352512944004	0.806	1.0
+GO:0071841	cellular component organization or biogenesis at cellular level	biological_process	2	117	117	1.7094017094	100.0	0.352512944004	0.806	1.0
+GO:0071840	cellular component organization or biogenesis	biological_process	2	117	117	1.7094017094	100.0	0.352512944004	0.806	1.0
+GO:0016043	cellular component organization	biological_process	2	117	117	1.7094017094	100.0	0.352512944004	0.806	1.0
+GO:0046872	metal ion binding	molecular_function	17	1185	1185	1.43459915612	100.0	0.313477215282	0.7915	1.0
+GO:0043169	cation binding	molecular_function	17	1185	1185	1.43459915612	100.0	0.313477215282	0.7915	1.0
+GO:0043167	ion binding	molecular_function	17	1185	1185	1.43459915612	100.0	0.313477215282	0.7915	1.0
+GO:0006886	intracellular protein transport	biological_process	2	121	121	1.65289256198	100.0	0.30407629241	0.802	1.0
+GO:0006396	RNA processing	biological_process	2	121	121	1.65289256198	100.0	0.30407629241	0.8085	1.0
+GO:0051649	establishment of localization in cell	biological_process	2	126	126	1.5873015873	100.0	0.245818787161	0.8145	1.0
+GO:0046907	intracellular transport	biological_process	2	126	126	1.5873015873	100.0	0.245818787161	0.8145	1.0
+GO:0005198	structural molecule activity	molecular_function	5	337	337	1.48367952522	100.0	0.238229748633	0.9975	1.0
+GO:0004222	metalloendopeptidase activity	molecular_function	1	62	62	1.61290322581	100.0	0.18938745581	0.5825	1.0
+GO:0003674	molecular_function	molecular_function	101	7504	7505	1.34594882729	99.9866755496	0.188440735156	0.969	1.0
+GO:0032991	macromolecular complex	cellular_component	8	574	574	1.393728223	100.0	0.121253335073	0.9985	1.0
+GO:0006412	translation	biological_process	4	289	289	1.38408304498	100.0	0.0699983328993	0.9845	1.0
+GO:0000785	chromatin	cellular_component	1	70	70	1.42857142857	100.0	0.0665307318691	0.6115	1.0
+GO:0051276	chromosome organization	biological_process	1	73	73	1.3698630137	100.0	0.0241022985556	0.625	1.0
+GO:0006996	organelle organization	biological_process	1	73	73	1.3698630137	100.0	0.0241022985556	0.625	1.0
+GO:0006333	chromatin assembly or disassembly	biological_process	1	73	73	1.3698630137	100.0	0.0241022985556	0.625	1.0
+GO:0006325	chromatin organization	biological_process	1	73	73	1.3698630137	100.0	0.0241022985556	0.625	1.0
+GO:0044427	chromosomal part	cellular_component	1	75	75	1.33333333333	100.0	-0.00322664963446	0.634	1.0
+GO:0006811	ion transport	biological_process	3	226	226	1.32743362832	100.0	-0.0134777686531	0.9725	1.0
+GO:0016788	hydrolase activity, acting on ester bonds	molecular_function	2	159	159	1.25786163522	100.0	-0.0883484759468	0.897	1.0
+GO:0051015	actin filament binding	molecular_function	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0044455	mitochondrial membrane part	cellular_component	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0044429	mitochondrial part	cellular_component	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0042440	pigment metabolic process	biological_process	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0042168	heme metabolic process	biological_process	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0016823	hydrolase activity, acting on acid carbon-carbon bonds, in ketonic substances	molecular_function	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0016822	hydrolase activity, acting on acid carbon-carbon bonds	molecular_function	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups	molecular_function	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0008092	cytoskeletal protein binding	molecular_function	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0006788	heme oxidation	biological_process	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0006778	porphyrin metabolic process	biological_process	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0005742	mitochondrial outer membrane translocase complex	cellular_component	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0004418	hydroxymethylbilane synthase activity	molecular_function	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0004392	heme oxygenase (decyclizing) activity	molecular_function	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0004334	fumarylacetoacetase activity	molecular_function	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0003779	actin binding	molecular_function	0	1	1	0.0	100.0	-0.116435770029	1.0	1.0
+GO:0016881	acid-amino acid ligase activity	molecular_function	1	84	84	1.19047619048	100.0	-0.117954106948	0.7005	1.0
+GO:0016879	ligase activity, forming carbon-nitrogen bonds	molecular_function	1	84	84	1.19047619048	100.0	-0.117954106948	0.7005	1.0
+GO:0044262	cellular carbohydrate metabolic process	biological_process	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0034706	sodium channel complex	cellular_component	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0034703	cation channel complex	cellular_component	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0034702	ion channel complex	cellular_component	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0022843	voltage-gated cation channel activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0022836	gated channel activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0022832	voltage-gated channel activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0019673	GDP-mannose metabolic process	biological_process	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0019318	hexose metabolic process	biological_process	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0016838	carbon-oxygen lyase activity, acting on phosphates	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0016836	hydro-lyase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0016423	tRNA (guanine) methyltransferase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0009225	nucleotide-sugar metabolic process	biological_process	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0008757	S-adenosylmethionine-dependent methyltransferase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0008446	GDP-mannose 4,6-dehydratase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0008175	tRNA methyltransferase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0008173	RNA methyltransferase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0008170	N-methyltransferase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0006430	lysyl-tRNA aminoacylation	biological_process	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0006269	DNA replication, synthesis of RNA primer	biological_process	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0006066	alcohol metabolic process	biological_process	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0006013	mannose metabolic process	biological_process	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0005996	monosaccharide metabolic process	biological_process	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0005272	sodium channel activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0005261	cation channel activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0005248	voltage-gated sodium channel activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0005244	voltage-gated ion channel activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0004824	lysine-tRNA ligase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0004809	tRNA (guanine-N2-)-methyltransferase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0004594	pantothenate kinase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0003874	6-pyruvoyltetrahydropterin synthase activity	molecular_function	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0001518	voltage-gated sodium channel complex	cellular_component	0	2	2	0.0	100.0	-0.16467479294	1.0	1.0
+GO:0006457	protein folding	biological_process	1	91	91	1.0989010989	100.0	-0.199273429283	0.7175	1.0
+GO:0046128	purine ribonucleoside metabolic process	biological_process	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0042278	purine nucleoside metabolic process	biological_process	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0034062	RNA polymerase activity	molecular_function	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0033865	nucleoside bisphosphate metabolic process	biological_process	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NADH or NADPH as one donor, and incorporation of one atom of oxygen	molecular_function	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0015937	coenzyme A biosynthetic process	biological_process	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0015936	coenzyme A metabolic process	biological_process	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0005801	cis-Golgi network	cellular_component	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0005672	transcription factor TFIIA complex	cellular_component	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0005667	transcription factor complex	cellular_component	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0004499	flavin-containing monooxygenase activity	molecular_function	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0004497	monooxygenase activity	molecular_function	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0003899	DNA-directed RNA polymerase activity	molecular_function	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0003896	DNA primase activity	molecular_function	0	3	3	0.0	100.0	-0.201696548814	1.0	1.0
+GO:0044249	cellular biosynthetic process	biological_process	6	486	487	1.23456790123	99.794661191	-0.203643414088	0.841	1.0
+GO:0009058	biosynthetic process	biological_process	6	486	487	1.23456790123	99.794661191	-0.203643414088	0.841	1.0
+GO:0046146	tetrahydrobiopterin metabolic process	biological_process	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0042559	pteridine-containing compound biosynthetic process	biological_process	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0042558	pteridine-containing compound metabolic process	biological_process	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0040029	regulation of gene expression, epigenetic	biological_process	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0019438	aromatic compound biosynthetic process	biological_process	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0016835	carbon-oxygen lyase activity	molecular_function	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	molecular_function	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0015020	glucuronosyltransferase activity	molecular_function	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0015018	galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity	molecular_function	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0008194	UDP-glycosyltransferase activity	molecular_function	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0006729	tetrahydrobiopterin biosynthetic process	biological_process	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0006306	DNA methylation	biological_process	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0006305	DNA alkylation	biological_process	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0006304	DNA modification	biological_process	0	4	4	0.0	100.0	-0.232912903901	1.0	1.0
+GO:0043231	intracellular membrane-bounded organelle	cellular_component	7	574	574	1.21951219512	100.0	-0.255068551296	0.853	1.0
+GO:0043227	membrane-bounded organelle	cellular_component	7	574	574	1.21951219512	100.0	-0.255068551296	0.853	1.0
+GO:0060090	binding, bridging	molecular_function	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0044433	cytoplasmic vesicle part	cellular_component	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0033170	protein-DNA loading ATPase activity	molecular_function	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0030674	protein binding, bridging	molecular_function	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0030132	clathrin coat of coated pit	cellular_component	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0030130	clathrin coat of trans-Golgi network vesicle	cellular_component	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0030125	clathrin vesicle coat	cellular_component	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0030120	vesicle coat	cellular_component	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0005663	DNA replication factor C complex	cellular_component	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0003689	DNA clamp loader activity	molecular_function	0	5	5	0.0	100.0	-0.260419963851	1.0	1.0
+GO:0072528	pyrimidine-containing compound biosynthetic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0072527	pyrimidine-containing compound metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0046131	pyrimidine ribonucleoside metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0046051	UTP metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0046039	GTP metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0046036	CTP metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0031167	rRNA methylation	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0030118	clathrin coat	cellular_component	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0016776	phosphotransferase activity, phosphate group as acceptor	molecular_function	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0016072	rRNA metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0009451	RNA modification	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0009220	pyrimidine ribonucleotide biosynthetic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0009218	pyrimidine ribonucleotide metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0009209	pyrimidine ribonucleoside triphosphate biosynthetic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0009208	pyrimidine ribonucleoside triphosphate metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0009148	pyrimidine nucleoside triphosphate biosynthetic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0009147	pyrimidine nucleoside triphosphate metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0008242	omega peptidase activity	molecular_function	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0008238	exopeptidase activity	molecular_function	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0006364	rRNA processing	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0006241	CTP biosynthetic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0006228	UTP biosynthetic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0006221	pyrimidine nucleotide biosynthetic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0006220	pyrimidine nucleotide metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0006213	pyrimidine nucleoside metabolic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0006183	GTP biosynthetic process	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0004550	nucleoside diphosphate kinase activity	molecular_function	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0001510	RNA methylation	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0000154	rRNA modification	biological_process	0	6	6	0.0	100.0	-0.285292672972	1.0	1.0
+GO:0016070	RNA metabolic process	biological_process	2	183	183	1.09289617486	100.0	-0.29130543717	0.9145	1.0
+GO:0051188	cofactor biosynthetic process	biological_process	0	7	7	0.0	100.0	-0.30816955882	1.0	1.0
+GO:0009108	coenzyme biosynthetic process	biological_process	0	7	7	0.0	100.0	-0.30816955882	1.0	1.0
+GO:0000049	tRNA binding	molecular_function	0	7	7	0.0	100.0	-0.30816955882	1.0	1.0
+GO:0051187	cofactor catabolic process	biological_process	0	8	8	0.0	100.0	-0.329466632471	1.0	1.0
+GO:0046356	acetyl-CoA catabolic process	biological_process	0	8	8	0.0	100.0	-0.329466632471	1.0	1.0
+GO:0044431	Golgi apparatus part	cellular_component	0	8	8	0.0	100.0	-0.329466632471	1.0	1.0
+GO:0019773	proteasome core complex, alpha-subunit complex	cellular_component	0	8	8	0.0	100.0	-0.329466632471	1.0	1.0
+GO:0019239	deaminase activity	molecular_function	0	8	9	0.0	88.8888888889	-0.329466632471	1.0	1.0
+GO:0009168	purine ribonucleoside monophosphate biosynthetic process	biological_process	0	8	9	0.0	88.8888888889	-0.329466632471	1.0	1.0
+GO:0009167	purine ribonucleoside monophosphate metabolic process	biological_process	0	8	9	0.0	88.8888888889	-0.329466632471	1.0	1.0
+GO:0009161	ribonucleoside monophosphate metabolic process	biological_process	0	8	9	0.0	88.8888888889	-0.329466632471	1.0	1.0
+GO:0009156	ribonucleoside monophosphate biosynthetic process	biological_process	0	8	9	0.0	88.8888888889	-0.329466632471	1.0	1.0
+GO:0009127	purine nucleoside monophosphate biosynthetic process	biological_process	0	8	9	0.0	88.8888888889	-0.329466632471	1.0	1.0
+GO:0009126	purine nucleoside monophosphate metabolic process	biological_process	0	8	9	0.0	88.8888888889	-0.329466632471	1.0	1.0
+GO:0009109	coenzyme catabolic process	biological_process	0	8	8	0.0	100.0	-0.329466632471	1.0	1.0
+GO:0006099	tricarboxylic acid cycle	biological_process	0	8	8	0.0	100.0	-0.329466632471	1.0	1.0
+GO:0006084	acetyl-CoA metabolic process	biological_process	0	8	8	0.0	100.0	-0.329466632471	1.0	1.0
+GO:0034645	cellular macromolecule biosynthetic process	biological_process	4	353	353	1.13314447592	100.0	-0.34156993655	0.8255	1.0
+GO:0009059	macromolecule biosynthetic process	biological_process	4	353	353	1.13314447592	100.0	-0.34156993655	0.8255	1.0
+GO:0048193	Golgi vesicle transport	biological_process	0	9	9	0.0	100.0	-0.349472838973	1.0	1.0
+GO:0030054	cell junction	cellular_component	0	9	9	0.0	100.0	-0.349472838973	1.0	1.0
+GO:0009119	ribonucleoside metabolic process	biological_process	0	9	9	0.0	100.0	-0.349472838973	1.0	1.0
+GO:0009116	nucleoside metabolic process	biological_process	0	9	9	0.0	100.0	-0.349472838973	1.0	1.0
+GO:0009072	aromatic amino acid family metabolic process	biological_process	0	9	9	0.0	100.0	-0.349472838973	1.0	1.0
+GO:0006888	ER to Golgi vesicle-mediated transport	biological_process	0	9	9	0.0	100.0	-0.349472838973	1.0	1.0
+GO:0005921	gap junction	cellular_component	0	9	9	0.0	100.0	-0.349472838973	1.0	1.0
+GO:0005911	cell-cell junction	cellular_component	0	9	9	0.0	100.0	-0.349472838973	1.0	1.0
+GO:0046488	phosphatidylinositol metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0046486	glycerolipid metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0046474	glycerophospholipid biosynthetic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0046068	cGMP metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0045017	glycerolipid biosynthetic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0044255	cellular lipid metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0043414	macromolecule methylation	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0033014	tetrapyrrole biosynthetic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0019637	organophosphate metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0016849	phosphorus-oxygen lyase activity	molecular_function	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0010181	FMN binding	molecular_function	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0009975	cyclase activity	molecular_function	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0009190	cyclic nucleotide biosynthetic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0009187	cyclic nucleotide metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0008654	phospholipid biosynthetic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0008610	lipid biosynthetic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0006661	phosphatidylinositol biosynthetic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0006650	glycerophospholipid metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0006644	phospholipid metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0006629	lipid metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0006506	GPI anchor biosynthetic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0006505	GPI anchor metabolic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0006497	protein lipidation	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0006182	cGMP biosynthetic process	biological_process	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0004383	guanylate cyclase activity	molecular_function	0	10	10	0.0	100.0	-0.368398544964	1.0	1.0
+GO:0033013	tetrapyrrole metabolic process	biological_process	0	11	11	0.0	100.0	-0.386402550862	1.0	1.0
+GO:0004114	3',5'-cyclic-nucleotide phosphodiesterase activity	molecular_function	0	11	11	0.0	100.0	-0.386402550862	1.0	1.0
+GO:0004112	cyclic-nucleotide phosphodiesterase activity	molecular_function	0	11	11	0.0	100.0	-0.386402550862	1.0	1.0
+GO:0006725	cellular aromatic compound metabolic process	biological_process	0	13	13	0.0	100.0	-0.420113656696	1.0	1.0
+GO:0004003	ATP-dependent DNA helicase activity	molecular_function	0	13	13	0.0	100.0	-0.420113656696	1.0	1.0
+GO:0003678	DNA helicase activity	molecular_function	0	13	13	0.0	100.0	-0.420113656696	1.0	1.0
+GO:0022403	cell cycle phase	biological_process	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0022402	cell cycle process	biological_process	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0016829	lyase activity	molecular_function	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0015935	small ribosomal subunit	cellular_component	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0006367	transcription initiation from RNA polymerase II promoter	biological_process	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0006352	transcription initiation, DNA-dependent	biological_process	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0004198	calcium-dependent cysteine-type endopeptidase activity	molecular_function	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0004197	cysteine-type endopeptidase activity	molecular_function	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0000279	M phase	biological_process	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0000087	M phase of mitotic cell cycle	biological_process	0	14	14	0.0	100.0	-0.43599839069	1.0	1.0
+GO:0030286	dynein complex	cellular_component	0	15	15	0.0	100.0	-0.451327967269	1.0	1.0
+GO:0018904	organic ether metabolic process	biological_process	0	15	15	0.0	100.0	-0.451327967269	1.0	1.0
+GO:0006732	coenzyme metabolic process	biological_process	0	15	15	0.0	100.0	-0.451327967269	1.0	1.0
+GO:0006662	glycerol ether metabolic process	biological_process	0	15	15	0.0	100.0	-0.451327967269	1.0	1.0
+GO:0003746	translation elongation factor activity	molecular_function	0	15	15	0.0	100.0	-0.451327967269	1.0	1.0
+GO:0003682	chromatin binding	molecular_function	0	15	15	0.0	100.0	-0.451327967269	1.0	1.0
+GO:0051186	cofactor metabolic process	biological_process	0	16	16	0.0	100.0	-0.466157159931	1.0	1.0
+GO:0032774	RNA biosynthetic process	biological_process	0	16	16	0.0	100.0	-0.466157159931	1.0	1.0
+GO:0006414	translational elongation	biological_process	0	17	17	0.0	100.0	-0.48053229754	1.0	1.0
+GO:0019205	nucleobase, nucleoside, nucleotide kinase activity	molecular_function	0	18	18	0.0	100.0	-0.49449298161	1.0	1.0
+GO:0009124	nucleoside monophosphate biosynthetic process	biological_process	0	18	19	0.0	94.7368421053	-0.49449298161	1.0	1.0
+GO:0009123	nucleoside monophosphate metabolic process	biological_process	0	18	19	0.0	94.7368421053	-0.49449298161	1.0	1.0
+GO:0008094	DNA-dependent ATPase activity	molecular_function	0	18	18	0.0	100.0	-0.49449298161	1.0	1.0
+GO:0046873	metal ion transmembrane transporter activity	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0022890	inorganic cation transmembrane transporter activity	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0015370	solute	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0015294	solute	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0015293	symporter activity	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0015291	secondary active transmembrane transporter activity	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0015081	sodium ion transmembrane transporter activity	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0015077	monovalent inorganic cation transmembrane transporter activity	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0005328	neurotransmitter	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0005326	neurotransmitter transporter activity	molecular_function	0	19	19	0.0	100.0	-0.5080733791	1.0	1.0
+GO:0034061	DNA polymerase activity	molecular_function	0	20	20	0.0	100.0	-0.521303212339	1.0	1.0
+GO:0016667	oxidoreductase activity, acting on a sulfur group of donors	molecular_function	0	20	20	0.0	100.0	-0.521303212339	1.0	1.0
+GO:0015036	disulfide oxidoreductase activity	molecular_function	0	20	20	0.0	100.0	-0.521303212339	1.0	1.0
+GO:0015035	protein disulfide oxidoreductase activity	molecular_function	0	20	20	0.0	100.0	-0.521303212339	1.0	1.0
+GO:0006836	neurotransmitter transport	biological_process	0	20	20	0.0	100.0	-0.521303212339	1.0	1.0
+GO:0003887	DNA-directed DNA polymerase activity	molecular_function	0	20	20	0.0	100.0	-0.521303212339	1.0	1.0
+GO:0022804	active transmembrane transporter activity	molecular_function	1	125	125	0.8	100.0	-0.527088042178	0.579	1.0
+GO:0032259	methylation	biological_process	0	21	21	0.0	100.0	-0.534208528523	1.0	1.0
+GO:0008324	cation transmembrane transporter activity	molecular_function	0	21	21	0.0	100.0	-0.534208528523	1.0	1.0
+GO:0006730	one-carbon metabolic process	biological_process	0	21	21	0.0	100.0	-0.534208528523	1.0	1.0
+GO:0070003	threonine-type peptidase activity	molecular_function	0	22	22	0.0	100.0	-0.546812305965	1.0	1.0
+GO:0015672	monovalent inorganic cation transport	biological_process	0	22	22	0.0	100.0	-0.546812305965	1.0	1.0
+GO:0006814	sodium ion transport	biological_process	0	22	22	0.0	100.0	-0.546812305965	1.0	1.0
+GO:0005839	proteasome core complex	cellular_component	0	22	22	0.0	100.0	-0.546812305965	1.0	1.0
+GO:0004298	threonine-type endopeptidase activity	molecular_function	0	22	22	0.0	100.0	-0.546812305965	1.0	1.0
+GO:0003743	translation initiation factor activity	molecular_function	0	22	22	0.0	100.0	-0.546812305965	1.0	1.0
+GO:0005875	microtubule associated complex	cellular_component	0	23	23	0.0	100.0	-0.559134937535	1.0	1.0
+GO:0016592	mediator complex	cellular_component	0	24	24	0.0	100.0	-0.571194620379	1.0	1.0
+GO:0006413	translational initiation	biological_process	0	24	24	0.0	100.0	-0.571194620379	1.0	1.0
+GO:0043234	protein complex	cellular_component	4	397	397	1.00755667506	100.0	-0.5863371936	0.645	1.0
+GO:0044451	nucleoplasm part	cellular_component	0	27	27	0.0	100.0	-0.605951291088	1.0	1.0
+GO:0044432	endoplasmic reticulum part	cellular_component	0	27	27	0.0	100.0	-0.605951291088	1.0	1.0
+GO:0044428	nuclear part	cellular_component	0	27	27	0.0	100.0	-0.605951291088	1.0	1.0
+GO:0031090	organelle membrane	cellular_component	0	27	27	0.0	100.0	-0.605951291088	1.0	1.0
+GO:0016459	myosin complex	cellular_component	0	27	27	0.0	100.0	-0.605951291088	1.0	1.0
+GO:0005789	endoplasmic reticulum membrane	cellular_component	0	27	27	0.0	100.0	-0.605951291088	1.0	1.0
+GO:0004527	exonuclease activity	molecular_function	0	27	27	0.0	100.0	-0.605951291088	1.0	1.0
+GO:0008081	phosphoric diester hydrolase activity	molecular_function	0	28	28	0.0	100.0	-0.617107232918	1.0	1.0
+GO:0008033	tRNA processing	biological_process	0	28	28	0.0	100.0	-0.617107232918	1.0	1.0
+GO:0065009	regulation of molecular function	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0060589	nucleoside-triphosphatase regulator activity	molecular_function	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0051336	regulation of hydrolase activity	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0050790	regulation of catalytic activity	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0043087	regulation of GTPase activity	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0033124	regulation of GTP catabolic process	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0033121	regulation of purine nucleotide catabolic process	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0032318	regulation of Ras GTPase activity	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0032313	regulation of Rab GTPase activity	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0031329	regulation of cellular catabolic process	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0030811	regulation of nucleotide catabolic process	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0030695	GTPase regulator activity	molecular_function	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0030234	enzyme regulator activity	molecular_function	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0009894	regulation of catabolic process	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0008047	enzyme activator activity	molecular_function	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0006140	regulation of nucleotide metabolic process	biological_process	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0005099	Ras GTPase activator activity	molecular_function	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0005097	Rab GTPase activator activity	molecular_function	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0005096	GTPase activator activity	molecular_function	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0005083	small GTPase regulator activity	molecular_function	0	29	29	0.0	100.0	-0.628067630114	1.0	1.0
+GO:0042625	ATPase activity, coupled to transmembrane movement of ions	molecular_function	0	30	30	0.0	100.0	-0.63884254833	1.0	1.0
+GO:0015662	ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism	molecular_function	0	30	30	0.0	100.0	-0.63884254833	1.0	1.0
+GO:0016874	ligase activity	molecular_function	1	139	139	0.719424460432	100.0	-0.639667432633	0.5995	1.0
+GO:0045454	cell redox homeostasis	biological_process	0	31	31	0.0	100.0	-0.6494412204	1.0	1.0
+GO:0030117	membrane coat	cellular_component	0	31	31	0.0	100.0	-0.6494412204	1.0	1.0
+GO:0016790	thiolester hydrolase activity	molecular_function	0	31	31	0.0	100.0	-0.6494412204	1.0	1.0
+GO:0004221	ubiquitin thiolesterase activity	molecular_function	0	31	31	0.0	100.0	-0.6494412204	1.0	1.0
+GO:0034470	ncRNA processing	biological_process	0	34	34	0.0	100.0	-0.680261467193	1.0	1.0
+GO:0031072	heat shock protein binding	molecular_function	0	34	34	0.0	100.0	-0.680261467193	1.0	1.0
+GO:0035556	intracellular signal transduction	biological_process	1	145	145	0.689655172414	100.0	-0.685037085797	0.602	1.0
+GO:0007264	small GTPase mediated signal transduction	biological_process	1	145	145	0.689655172414	100.0	-0.685037085797	0.602	1.0
+GO:0008135	translation factor activity, nucleic acid binding	molecular_function	0	37	37	0.0	100.0	-0.709765216917	1.0	1.0
+GO:0003777	microtubule motor activity	molecular_function	0	37	37	0.0	100.0	-0.709765216917	1.0	1.0
+GO:0016337	cell-cell adhesion	biological_process	0	40	40	0.0	100.0	-0.738110376735	0.6765	1.0
+GO:0007156	homophilic cell adhesion	biological_process	0	40	40	0.0	100.0	-0.738110376735	0.6765	1.0
+GO:0005874	microtubule	cellular_component	0	40	40	0.0	100.0	-0.738110376735	0.675	1.0
+GO:0006418	tRNA aminoacylation for protein translation	biological_process	0	44	44	0.0	100.0	-0.774320902661	0.669	1.0
+GO:0005634	nucleus	cellular_component	5	521	521	0.959692898273	100.0	-0.775097828254	0.5525	1.0
+GO:0008270	zinc ion binding	molecular_function	7	692	692	1.01156069364	100.0	-0.779130439859	0.5025	1.0
+GO:0043039	tRNA aminoacylation	biological_process	0	48	48	0.0	100.0	-0.808944343191	0.661	1.0
+GO:0043038	amino acid activation	biological_process	0	48	48	0.0	100.0	-0.808944343191	0.661	1.0
+GO:0008234	cysteine-type peptidase activity	molecular_function	0	48	48	0.0	100.0	-0.808944343191	0.6385	1.0
+GO:0044281	small molecule metabolic process	biological_process	2	264	265	0.757575757576	99.6226415094	-0.833440223169	0.425	1.0
+GO:0055085	transmembrane transport	biological_process	4	451	451	0.886917960089	100.0	-0.856254747677	0.4245	1.0
+GO:0016876	ligase activity, forming aminoacyl-tRNA and related compounds	molecular_function	0	55	55	0.0	100.0	-0.866284212942	0.6395	1.0
+GO:0016875	ligase activity, forming carbon-oxygen bonds	molecular_function	0	55	55	0.0	100.0	-0.866284212942	0.6395	1.0
+GO:0004812	aminoacyl-tRNA ligase activity	molecular_function	0	55	55	0.0	100.0	-0.866284212942	0.6395	1.0
+GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	molecular_function	0	58	58	0.0	100.0	-0.889755503799	0.6445	1.0
+GO:0031226	intrinsic to plasma membrane	cellular_component	0	60	60	0.0	100.0	-0.905073983163	0.6405	1.0
+GO:0005887	integral to plasma membrane	cellular_component	0	60	60	0.0	100.0	-0.905073983163	0.6405	1.0
+GO:0051082	unfolded protein binding	molecular_function	0	61	61	0.0	100.0	-0.912639502482	0.652	1.0
+GO:0044265	cellular macromolecule catabolic process	biological_process	0	63	63	0.0	100.0	-0.92759074751	0.624	1.0
+GO:0043632	modification-dependent macromolecule catabolic process	biological_process	0	63	63	0.0	100.0	-0.92759074751	0.624	1.0
+GO:0019941	modification-dependent protein catabolic process	biological_process	0	63	63	0.0	100.0	-0.92759074751	0.624	1.0
+GO:0009057	macromolecule catabolic process	biological_process	0	63	63	0.0	100.0	-0.92759074751	0.624	1.0
+GO:0006511	ubiquitin-dependent protein catabolic process	biological_process	0	63	63	0.0	100.0	-0.92759074751	0.624	1.0
+GO:0022892	substrate-specific transporter activity	molecular_function	1	181	181	0.552486187845	100.0	-0.929411691593	0.464	1.0
+GO:0022891	substrate-specific transmembrane transporter activity	molecular_function	1	181	181	0.552486187845	100.0	-0.929411691593	0.464	1.0
+GO:0006260	DNA replication	biological_process	0	64	64	0.0	100.0	-0.934979349557	0.6395	1.0
+GO:0003677	DNA binding	molecular_function	4	468	468	0.854700854701	100.0	-0.935591519884	0.426	1.0
+GO:0003723	RNA binding	molecular_function	1	183	183	0.546448087432	100.0	-0.941833677512	0.4545	1.0
+GO:0004518	nuclease activity	molecular_function	0	65	65	0.0	100.0	-0.942311761886	0.6415	1.0
+GO:0003774	motor activity	molecular_function	0	65	65	0.0	100.0	-0.942311761886	0.642	1.0
+GO:0007166	cell surface receptor linked signaling pathway	biological_process	1	184	184	0.54347826087	100.0	-0.948005966239	0.4765	1.0
+GO:0007018	microtubule-based movement	biological_process	0	67	67	0.0	100.0	-0.956813177197	0.634	1.0
+GO:0005509	calcium ion binding	molecular_function	1	188	188	0.531914893617	100.0	-0.972443788014	0.301	1.0
+GO:0044248	cellular catabolic process	biological_process	0	71	71	0.0	100.0	-0.98519587183	0.6275	1.0
+GO:0009056	catabolic process	biological_process	0	71	71	0.0	100.0	-0.98519587183	0.6275	1.0
+GO:0070035	purine NTP-dependent helicase activity	molecular_function	0	72	72	0.0	100.0	-0.992168833479	0.643	1.0
+GO:0008026	ATP-dependent helicase activity	molecular_function	0	72	72	0.0	100.0	-0.992168833479	0.643	1.0
+GO:0004386	helicase activity	molecular_function	0	72	72	0.0	100.0	-0.992168833479	0.643	1.0
+GO:0044459	plasma membrane part	cellular_component	0	74	74	0.0	100.0	-1.00597467654	0.638	1.0
+GO:0033554	cellular response to stress	biological_process	0	74	74	0.0	100.0	-1.00597467654	0.65	1.0
+GO:0016192	vesicle-mediated transport	biological_process	0	74	74	0.0	100.0	-1.00597467654	0.6335	1.0
+GO:0006974	response to DNA damage stimulus	biological_process	0	74	74	0.0	100.0	-1.00597467654	0.65	1.0
+GO:0006399	tRNA metabolic process	biological_process	0	74	74	0.0	100.0	-1.00597467654	0.621	1.0
+GO:0006281	DNA repair	biological_process	0	74	74	0.0	100.0	-1.00597467654	0.65	1.0
+GO:0032561	guanyl ribonucleotide binding	molecular_function	1	196	196	0.510204081633	100.0	-1.02016905323	0.3235	1.0
+GO:0019001	guanyl nucleotide binding	molecular_function	1	196	196	0.510204081633	100.0	-1.02016905323	0.3235	1.0
+GO:0005525	GTP binding	molecular_function	1	196	196	0.510204081633	100.0	-1.02016905323	0.3235	1.0
+GO:0051603	proteolysis involved in cellular protein catabolic process	biological_process	0	77	77	0.0	100.0	-1.02634733359	0.4325	1.0
+GO:0005622	intracellular	cellular_component	22	1994	1994	1.10330992979	100.0	-1.04185019487	0.3495	1.0
+GO:0034660	ncRNA metabolic process	biological_process	0	80	80	0.0	100.0	-1.0463375821	0.4315	1.0
+GO:2000112	regulation of cellular macromolecule biosynthetic process	biological_process	1	201	201	0.497512437811	100.0	-1.04926448488	0.3245	1.0
+GO:0051252	regulation of RNA metabolic process	biological_process	1	201	201	0.497512437811	100.0	-1.04926448488	0.3245	1.0
+GO:0031326	regulation of cellular biosynthetic process	biological_process	1	201	201	0.497512437811	100.0	-1.04926448488	0.3245	1.0
+GO:0010556	regulation of macromolecule biosynthetic process	biological_process	1	201	201	0.497512437811	100.0	-1.04926448488	0.3245	1.0
+GO:0009889	regulation of biosynthetic process	biological_process	1	201	201	0.497512437811	100.0	-1.04926448488	0.3245	1.0
+GO:0006355	regulation of transcription, DNA-dependent	biological_process	1	201	201	0.497512437811	100.0	-1.04926448488	0.3245	1.0
+GO:0006139	nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	biological_process	8	850	851	0.941176470588	99.8824911868	-1.0607830236	0.3565	1.0
+GO:0060255	regulation of macromolecule metabolic process	biological_process	1	205	205	0.487804878049	100.0	-1.07215835114	0.329	1.0
+GO:0010468	regulation of gene expression	biological_process	1	205	205	0.487804878049	100.0	-1.07215835114	0.329	1.0
+GO:0007017	microtubule-based process	biological_process	0	89	89	0.0	100.0	-1.10421974192	0.407	1.0
+GO:0090304	nucleic acid metabolic process	biological_process	2	315	315	0.634920634921	100.0	-1.10636121309	0.3175	1.0
+GO:0044430	cytoskeletal part	cellular_component	0	90	90	0.0	100.0	-1.11047232106	0.432	1.0
+GO:0050896	response to stimulus	biological_process	5	600	600	0.833333333333	100.0	-1.11548812254	0.2945	1.0
+GO:0043565	sequence-specific DNA binding	molecular_function	0	94	94	0.0	100.0	-1.13515288719	0.412	1.0
+GO:0016740	transferase activity	molecular_function	8	872	872	0.917431192661	100.0	-1.14043283926	0.276	1.0
+GO:0043492	ATPase activity, coupled to movement of substances	molecular_function	0	96	96	0.0	100.0	-1.14730276554	0.3955	1.0
+GO:0042626	ATPase activity, coupled to transmembrane movement of substances	molecular_function	0	96	96	0.0	100.0	-1.14730276554	0.3955	1.0
+GO:0022610	biological adhesion	biological_process	0	96	96	0.0	100.0	-1.14730276554	0.4	1.0
+GO:0016820	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances	molecular_function	0	96	96	0.0	100.0	-1.14730276554	0.3955	1.0
+GO:0015405	P-P-bond-hydrolysis-driven transmembrane transporter activity	molecular_function	0	96	96	0.0	100.0	-1.14730276554	0.3955	1.0
+GO:0015399	primary active transmembrane transporter activity	molecular_function	0	96	96	0.0	100.0	-1.14730276554	0.3955	1.0
+GO:0007155	cell adhesion	biological_process	0	96	96	0.0	100.0	-1.14730276554	0.4	1.0
+GO:0003924	GTPase activity	molecular_function	0	100	100	0.0	100.0	-1.17124148499	0.4015	1.0
+GO:0080090	regulation of primary metabolic process	biological_process	1	230	230	0.434782608696	100.0	-1.20834609655	0.23	1.0
+GO:0051171	regulation of nitrogen compound metabolic process	biological_process	1	230	230	0.434782608696	100.0	-1.20834609655	0.23	1.0
+GO:0031323	regulation of cellular metabolic process	biological_process	1	230	230	0.434782608696	100.0	-1.20834609655	0.23	1.0
+GO:0019219	regulation of nucleobase, nucleoside, nucleotide and nucleic acid metabolic process	biological_process	1	230	230	0.434782608696	100.0	-1.20834609655	0.23	1.0
+GO:0019222	regulation of metabolic process	biological_process	1	234	234	0.42735042735	100.0	-1.22914087528	0.231	1.0
+GO:0044446	intracellular organelle part	cellular_component	1	242	242	0.413223140496	100.0	-1.26999388142	0.2345	1.0
+GO:0044422	organelle part	cellular_component	1	242	242	0.413223140496	100.0	-1.26999388142	0.2345	1.0
+GO:0044267	cellular protein metabolic process	biological_process	8	910	910	0.879120879121	100.0	-1.27444265139	0.233	1.0
+GO:0022857	transmembrane transporter activity	molecular_function	1	244	244	0.409836065574	100.0	-1.28005968329	0.242	1.0
+GO:0022838	substrate-specific channel activity	molecular_function	0	122	122	0.0	100.0	-1.29538653614	0.277	1.0
+GO:0022803	passive transmembrane transporter activity	molecular_function	0	122	122	0.0	100.0	-1.29538653614	0.277	1.0
+GO:0016758	transferase activity, transferring hexosyl groups	molecular_function	0	122	122	0.0	100.0	-1.29538653614	0.273	1.0
+GO:0015267	channel activity	molecular_function	0	122	122	0.0	100.0	-1.29538653614	0.277	1.0
+GO:0005216	ion channel activity	molecular_function	0	122	122	0.0	100.0	-1.29538653614	0.277	1.0
+GO:0044106	cellular amine metabolic process	biological_process	0	132	132	0.0	100.0	-1.34824057199	0.282	1.0
+GO:0043436	oxoacid metabolic process	biological_process	0	132	132	0.0	100.0	-1.34824057199	0.282	1.0
+GO:0042180	cellular ketone metabolic process	biological_process	0	132	132	0.0	100.0	-1.34824057199	0.282	1.0
+GO:0019752	carboxylic acid metabolic process	biological_process	0	132	132	0.0	100.0	-1.34824057199	0.282	1.0
+GO:0009308	amine metabolic process	biological_process	0	132	132	0.0	100.0	-1.34824057199	0.282	1.0
+GO:0006520	cellular amino acid metabolic process	biological_process	0	132	132	0.0	100.0	-1.34824057199	0.282	1.0
+GO:0006082	organic acid metabolic process	biological_process	0	132	132	0.0	100.0	-1.34824057199	0.282	1.0
+GO:0003700	sequence-specific DNA binding transcription factor activity	molecular_function	0	132	132	0.0	100.0	-1.34824057199	0.2685	1.0
+GO:0001071	nucleic acid binding transcription factor activity	molecular_function	0	132	132	0.0	100.0	-1.34824057199	0.2685	1.0
+GO:0006259	DNA metabolic process	biological_process	0	134	134	0.0	100.0	-1.35857949606	0.269	1.0
+GO:0034641	cellular nitrogen compound metabolic process	biological_process	8	944	945	0.847457627119	99.8941798942	-1.39081787307	0.1865	0.971144144144
+GO:0006807	nitrogen compound metabolic process	biological_process	8	945	946	0.846560846561	99.8942917548	-1.39419330086	0.1865	0.971144144144
+GO:0044237	cellular metabolic process	biological_process	21	2048	2049	1.025390625	99.9511957052	-1.41294963227	0.209	1.0
+GO:0016757	transferase activity, transferring glycosyl groups	molecular_function	0	164	164	0.0	100.0	-1.50570379728	0.179	0.94919266055
+GO:0015075	ion transmembrane transporter activity	molecular_function	0	171	171	0.0	100.0	-1.53815196399	0.1775	0.94919266055
+GO:0042623	ATPase activity, coupled	molecular_function	0	173	173	0.0	100.0	-1.54730780807	0.1745	0.942626168224
+GO:0044260	cellular macromolecule metabolic process	biological_process	10	1175	1175	0.851063829787	100.0	-1.56453638136	0.1445	0.803086538462
+GO:0016772	transferase activity, transferring phosphorus-containing groups	molecular_function	2	426	426	0.469483568075	100.0	-1.60048615986	0.1255	0.765
+GO:0050877	neurological system process	biological_process	0	199	199	0.0	100.0	-1.66212450779	0.1225	0.765
+GO:0032501	multicellular organismal process	biological_process	0	199	199	0.0	100.0	-1.66212450779	0.1225	0.765
+GO:0007600	sensory perception	biological_process	0	199	199	0.0	100.0	-1.66212450779	0.1225	0.765
+GO:0003008	system process	biological_process	0	199	199	0.0	100.0	-1.66212450779	0.1225	0.765
+GO:0007165	signal transduction	biological_process	2	463	463	0.431965442765	100.0	-1.74468331046	0.0985	0.765
+GO:0004674	protein serine/threonine kinase activity	molecular_function	0	233	233	0.0	100.0	-1.80223675869	0.085	0.765
+GO:0004672	protein kinase activity	molecular_function	0	233	233	0.0	100.0	-1.80223675869	0.085	0.765
+GO:0016887	ATPase activity	molecular_function	0	238	238	0.0	100.0	-1.82202598628	0.078	0.765
+GO:0003676	nucleic acid binding	molecular_function	7	1004	1004	0.697211155378	100.0	-1.88155520153	0.092	0.765
+GO:0051716	cellular response to stimulus	biological_process	2	537	537	0.372439478585	100.0	-2.01178581764	0.0515	0.556592592593
+GO:0060089	molecular transducer activity	molecular_function	0	303	303	0.0	100.0	-2.06401779226	0.045	0.51
+GO:0004871	signal transducer activity	molecular_function	0	303	303	0.0	100.0	-2.06401779226	0.045	0.51
+GO:0016773	phosphotransferase activity, alcohol group as acceptor	molecular_function	0	319	319	0.0	100.0	-2.11989546848	0.0485	0.539096153846
+GO:0016301	kinase activity	molecular_function	0	330	330	0.0	100.0	-2.15759592498	0.052	0.556592592593
+GO:0065007	biological regulation	biological_process	3	720	720	0.416666666667	100.0	-2.24890708039	0.031	0.371571428571
+GO:0017111	nucleoside-triphosphatase activity	molecular_function	0	396	396	0.0	100.0	-2.37319473737	0.02	0.268837209302
+GO:0031224	intrinsic to membrane	cellular_component	2	700	700	0.285714285714	100.0	-2.52949432816	0.0245	0.314688888889
+GO:0016021	integral to membrane	cellular_component	2	700	700	0.285714285714	100.0	-2.52949432816	0.0245	0.314688888889
+GO:0050794	regulation of cellular process	biological_process	2	709	709	0.282087447109	100.0	-2.55596582887	0.0255	0.320413043478
+GO:0050789	regulation of biological process	biological_process	2	713	713	0.280504908836	100.0	-2.56767239348	0.011	0.163025641026
+GO:0016462	pyrophosphatase activity	molecular_function	0	484	484	0.0	100.0	-2.63812106613	0.0175	0.246707317073
+GO:0016818	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	molecular_function	0	488	488	0.0	100.0	-2.64966545633	0.0085	0.132783783784
+GO:0016817	hydrolase activity, acting on acid anhydrides	molecular_function	0	492	492	0.0	100.0	-2.66117129912	0.01	0.152105263158
+GO:0044425	membrane part	cellular_component	2	754	754	0.26525198939	100.0	-2.68569266555	0.0155	0.223975
+GO:0009987	cellular process	biological_process	26	3159	3160	0.82304526749	99.9683544304	-3.18147312463	0.0045	0.0896896551724
+GO:0016020	membrane	cellular_component	7	1478	1478	0.473612990528	100.0	-3.18301366767	0.005	0.0932258064516
+GO:0032559	adenyl ribonucleotide binding	molecular_function	0	806	806	0.0	100.0	-3.47537498615	0.0035	0.0778076923077
+GO:0030554	adenyl nucleotide binding	molecular_function	0	806	806	0.0	100.0	-3.47537498615	0.0035	0.0778076923077
+GO:0005524	ATP binding	molecular_function	0	806	806	0.0	100.0	-3.47537498615	0.0035	0.0778076923077
+GO:0044464	cell part	cellular_component	26	3281	3281	0.792441328863	100.0	-3.47548735308	0.0025	0.0656818181818
+GO:0005575	cellular_component	cellular_component	26	3284	3284	0.791717417783	100.0	-3.48270431594	0.0025	0.0656818181818
+GO:0035639	purine ribonucleoside triphosphate binding	molecular_function	1	1000	1000	0.1	100.0	-3.62803722336	0.002	0.0578
+GO:0032555	purine ribonucleotide binding	molecular_function	1	1000	1000	0.1	100.0	-3.62803722336	0.002	0.0578
+GO:0032553	ribonucleotide binding	molecular_function	1	1000	1000	0.1	100.0	-3.62803722336	0.002	0.0578
+GO:0017076	purine nucleotide binding	molecular_function	1	1000	1000	0.1	100.0	-3.62803722336	0.002	0.0578
+GO:0000166	nucleotide binding	molecular_function	1	1062	1062	0.0941619585687	100.0	-3.77218542682	0.001	0.036125
+GO:0005515	protein binding	molecular_function	6	1994	1994	0.300902708124	100.0	-4.61010659634	0.0	0.0192666666667
+GO:0005488	binding	molecular_function	39	4990	4990	0.781563126253	100.0	-5.34380199464	0.0	0.0192666666667

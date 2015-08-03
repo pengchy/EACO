@@ -1,0 +1,7 @@
+"","EUC","MAN","SUP","BIN","MIN","PE","KE","SP","GK","COS","TOM","KP","Desc"
+"GO:0046039",1,0,1,1,1,2,1,2,2,2,2,0,"GTP metabolic process"
+"MAP00330",1,1,1,1,1,2,1,2,2,2,2,0,"Arginine and proline metabolism"
+"MAP00520",1,1,1,2,1,1,2,1,1,1,1,0,"Amino sugar and nucleotide sugar metabolism"
+"MAP00562",1,1,1,2,1,1,2,1,1,1,1,0,"Inositol phosphate metabolism"
+"MAP04080",1,0,1,1,1,2,1,2,2,2,2,0,"Neuroactive ligand-receptor interaction"
+"MAP04391",0,0,1,2,0,1,2,1,1,1,1,0,"Hippo signaling pathway -fly"

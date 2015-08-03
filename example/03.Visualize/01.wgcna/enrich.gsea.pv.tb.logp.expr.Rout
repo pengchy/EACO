@@ -1,0 +1,181 @@
+
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-unknown-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> #reading data
+> library(WGCNA) 
+Loading required package: dynamicTreeCut
+Loading required package: flashClust
+
+Attaching package: 'flashClust'
+
+The following object is masked from 'package:stats':
+
+    hclust
+
+Loading required package: Hmisc
+Loading required package: grid
+Loading required package: lattice
+Loading required package: survival
+Loading required package: splines
+Loading required package: Formula
+
+Attaching package: 'Hmisc'
+
+The following objects are masked from 'package:base':
+
+    format.pval, round.POSIXt, trunc.POSIXt, units
+
+Loading required package: impute
+Loading required package: foreach
+Loading required package: doParallel
+Loading required package: iterators
+Loading required package: parallel
+Loading required package: reshape
+Loading required package: plyr
+
+Attaching package: 'plyr'
+
+The following objects are masked from 'package:Hmisc':
+
+    is.discrete, summarize
+
+
+Attaching package: 'reshape'
+
+The following objects are masked from 'package:plyr':
+
+    rename, round_any
+
+==========================================================================
+*
+*  Package WGCNA 1.36 loaded.
+*
+*    Important note: It appears that your system supports multi-threading,
+*    but it is not enabled within WGCNA in R. 
+*    To allow multi-threading within WGCNA with all available cores, use 
+*
+*          allowWGCNAThreads()
+*
+*    within R. Use disableWGCNAThreads() to disable threading if necessary.
+*    Alternatively, set the following environment variable on your system:
+*
+*          ALLOW_WGCNA_THREADS=<number_of_processors>
+*
+*    for example 
+*
+*          ALLOW_WGCNA_THREADS=24
+*
+*    To set the environment variable in linux bash shell, type 
+*
+*           export ALLOW_WGCNA_THREADS=24
+*
+*     before running R. Other operating systems or shells will
+*     have a similar command to achieve the same aim.
+*
+==========================================================================
+
+
+
+Attaching package: 'WGCNA'
+
+The following object is masked from 'package:stats':
+
+    cor
+
+> options(stringsAsFactors = FALSE)
+> expr <- read.table("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/enrich.gsea.pv.tb.logp",check.names=FALSE)
+> expr <- expr[apply(expr,1,function(x) any(x>0)),]
+> #output the filtered expression value
+> write.table(expr,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.after_filt",sep="\t",quote=FALSE)
+> datExpr0 <- as.data.frame(t(expr))
+> if(identical("y","n")){
++ 	gsg <- goodSamplesGenes(expr,verbos=3)
++ 	if (!gsg$allOK){
++ 		if (sum(!gsg$goodGenes)>0)
++ 			printFlush(paste("Removing genes:", paste(names(datExpr0)[!gsg$goodGenes], collapse = ", ")));
++ 		if (sum(!gsg$goodSamples)>0)
++ 			printFlush(paste("Removing samples:", paste(rownames(datExpr0)[!gsg$goodSamples], collapse = ", ")));
++ 		datExpr0 = datExpr0[gsg$goodSamples, gsg$goodGenes]
++ 	}
++ }
+> 
+> datExpr0.dimn <- dimnames(datExpr0)
+> datExpr0 <- log2(datExpr0+1)
+> datExpr0 <- t(scale(t(datExpr0),center=TRUE,scale=TRUE))
+> datExpr0 <- scale(datExpr0,center=TRUE,scale=TRUE)
+> dimnames(datExpr0) <- datExpr0.dimn
+> #checking data quality
+> if(identical("y","n")){
++ 	sampleTree = flashClust(dist(datExpr0), method = "average");
++ 	pdf("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.Sample_clustering_to_detect_outliers.pdf",height=9,width=12)
++ 	par(cex = 0.6);
++ 	par(mar = c(0,4,2,0))
++ 	plot(sampleTree, main = "Sample clustering to detect outliers", sub="", xlab="", cex.lab = 1.5,
++ 		cex.axis = 1.5, cex.main = 2)
++ 	dev.off()
++ }
+> datExpr <- datExpr0
+> #construct coexpression network
+> enableWGCNAThreads()
+Allowing parallel execution with up to 23 working processes.
+> powers = c(c(1:10), seq(from = 12, to=20, by=2))
+> sft = pickSoftThreshold(datExpr, powerVector = powers, verbose = 5)
+pickSoftThreshold: will use block size 6.
+ pickSoftThreshold: calculating connectivity for given powers...
+   ..working on genes 1 through 6 of 6
+   Power SFT.R.sq slope truncated.R.sq  mean.k. median.k.   max.k.
+1      1  0.00658 -3.63          0.119 1.760000  1.900000 2.290000
+2      2  0.09140  8.37          0.692 0.812000  0.972000 1.140000
+3      3  0.00719  1.64          0.803 0.425000  0.554000 0.608000
+4      4  0.04990 -3.06          0.660 0.238000  0.330000 0.343000
+5      5  0.07530 -3.09          0.682 0.139000  0.199000 0.202000
+6      6  0.10900 -3.14          0.660 0.083400  0.120000 0.124000
+7      7  0.14100 -3.10          0.640 0.050800  0.073200 0.076600
+8      8  0.17200 -3.02          0.617 0.031200  0.045000 0.047800
+9      9  0.19900 -2.90          0.597 0.019300  0.027800 0.029900
+10    10  0.22200 -2.76          0.579 0.012000  0.017200 0.018800
+11    12  0.09560 -1.69          0.678 0.004650  0.006610 0.007390
+12    14  0.11300 -1.59          0.661 0.001810  0.002550 0.002920
+13    16  0.13100 -1.50          0.635 0.000709  0.000986 0.001150
+14    18  0.14600 -1.40          0.613 0.000277  0.000381 0.000456
+15    20  0.15800 -1.31          0.592 0.000109  0.000148 0.000181
+> #select beta
+> pdf("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.Power_selection.pdf",height=5,width=9)
+> par(mfrow = c(1,2));
+> cex1 = 0.9; 
+> # Scale-free topology fit index as a function of the soft-thresholding power 
+> plot(sft$fitIndices[,1], -sign(sft$fitIndices[,3])*sft$fitIndices[,2],
++ xlab="Soft Threshold (power)",ylab="Scale Free Topology Model Fit,signed R^2",type="n",
++ main = paste("Scale independence"));
+> text(sft$fitIndices[,1], -sign(sft$fitIndices[,3])*sft$fitIndices[,2],
++ labels=powers,cex=cex1,col="red");
+> # this line corresponds to using an R^2 cut-off of h
+> abline(h=0.90,col="red")
+> # Mean connectivity as a function of the soft-thresholding power
+> plot(sft$fitIndices[,1], sft$fitIndices[,5],
++ xlab="Soft Threshold (power)",ylab="Mean Connectivity", type="n",
++ main = paste("Mean connectivity"))
+> text(sft$fitIndices[,1], sft$fitIndices[,5], labels=powers, cex=cex1,col="red")
+> dev.off()
+null device 
+          1 
+> save(datExpr,expr,sft,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/03.Visualize/01.wgcna/enrich.gsea.pv.tb.logp.expr.RData")
+> q('no')
+> proc.time()
+   user  system elapsed 
+  1.643   0.274   7.461 

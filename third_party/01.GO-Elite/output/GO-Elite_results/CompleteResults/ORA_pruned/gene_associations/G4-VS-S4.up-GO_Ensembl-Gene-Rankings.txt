@@ -1,0 +1,215 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI16282	LOCMI16282	E9IEY1_SOLIN Putative uncharacterized protein (Fragment)	6	0.315789473684	LOCMI16282	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // RNA binding // translation
+LOCMI15194	LOCMI15194	Elongation factor 1-beta'	6	0.315789473684	LOCMI15194	cytoplasm // intracellular // RNA binding // protein complex // translational elongation // translation
+LOCMI13355	LOCMI13355	PREDICTED: 40S ribosomal protein S18	6	0.315789473684	LOCMI13355	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // RNA binding // translation
+LOCMI10600	LOCMI10600	putative ribosomal protein S4e	6	0.315789473684	LOCMI10600	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // RNA binding // translation
+LOCMI06694	LOCMI06694	acidic ribosomal protein	6	0.315789473684	LOCMI06694	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translational elongation // translation
+LOCMI06602	LOCMI06602	60S ribosomal protein L9	6	0.315789473684	LOCMI06602	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // RNA binding // translation
+LOCMI04863	LOCMI04863	PREDICTED: 60S ribosomal protein L9	6	0.315789473684	LOCMI04863	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // RNA binding // translation
+LOCMI02121	LOCMI02121	PREDICTED: 40S ribosomal protein S9-like	6	0.315789473684	LOCMI02121	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // RNA binding // translation
+LOCMI16084	LOCMI16084	AGAP004616-PA	5	0.263157894737	LOCMI16084	cytoplasm // intracellular // nucleoside triphosphate metabolic process // protein complex // heterocycle metabolic process
+LOCMI16006	LOCMI16006	H+ transporting ATP synthase subunit e	5	0.263157894737	LOCMI16006	cytoplasm // intracellular // nucleoside triphosphate metabolic process // protein complex // heterocycle metabolic process
+LOCMI15979	LOCMI15979	GF16047	5	0.263157894737	LOCMI15979	cytoplasm // intracellular // nucleoside triphosphate metabolic process // protein complex // heterocycle metabolic process
+LOCMI15925	LOCMI15925	AGAP001138-PA	5	0.263157894737	LOCMI15925	cytoplasm // intracellular // nucleoside triphosphate metabolic process // protein complex // heterocycle metabolic process
+LOCMI15884	LOCMI15884	Q1HR38_AEDAE Hydrogen-transporting ATP synthase, G-subunit, putative	5	0.263157894737	LOCMI15884	cytoplasm // intracellular // nucleoside triphosphate metabolic process // protein complex // heterocycle metabolic process
+LOCMI15434	LOCMI15434	PREDICTED: 40S ribosomal protein S15	5	0.263157894737	LOCMI15434	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI15205	LOCMI15205	60S ribosomal protein L38	5	0.263157894737	LOCMI15205	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI14590	LOCMI14590	60S ribosomal protein L8	5	0.263157894737	LOCMI14590	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI13842	LOCMI13842	GL15397	5	0.263157894737	LOCMI13842	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI13626	LOCMI13626	60S ribosomal protein L12	5	0.263157894737	LOCMI13626	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI13569	LOCMI13569	Q4LAY4_9COLE Ribosomal protein S28e	5	0.263157894737	LOCMI13569	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI13545	LOCMI13545	60S ribosomal protein L8	5	0.263157894737	LOCMI13545	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI13397	LOCMI13397	Q4GXE5_JULON Ribosomal protein L24e	5	0.263157894737	LOCMI13397	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI13395	LOCMI13395	ribosomal protein L35	5	0.263157894737	LOCMI13395	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI13143	LOCMI13143	ribosomal protein L36e	5	0.263157894737	LOCMI13143	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI13033	LOCMI13033	PREDICTED: ATP synthase subunit epsilon, mitochondrial-like isoform 1	5	0.263157894737	LOCMI13033	cytoplasm // intracellular // nucleoside triphosphate metabolic process // protein complex // heterocycle metabolic process
+LOCMI12362	LOCMI12362	39S ribosomal protein L11, mitochondrial	5	0.263157894737	LOCMI12362	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI12288	LOCMI12288	60S ribosomal protein L44	5	0.263157894737	LOCMI12288	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI12177	LOCMI12177	40S ribosomal protein S15a	5	0.263157894737	LOCMI12177	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI11744	LOCMI11744	RecName: Full=40S ribosomal protein S13 gb|AAK92182.1|AF400210_1 ribosomal protein S13	5	0.263157894737	LOCMI11744	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI11496	LOCMI11496	PREDICTED: 40S ribosomal protein S19a-like	5	0.263157894737	LOCMI11496	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI11190	LOCMI11190	mitochondrial ribosomal protein, S18C, putative	5	0.263157894737	LOCMI11190	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI11068	LOCMI11068	ribosomal protein L36e	5	0.263157894737	LOCMI11068	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI10998	LOCMI10998	PREDICTED: prefoldin subunit 6-like	5	0.263157894737	LOCMI10998	cytoplasm // intracellular // protein folding // unfolded protein binding // protein complex
+LOCMI10621	LOCMI10621	ribosomal protein L31e	5	0.263157894737	LOCMI10621	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI10394	LOCMI10394	ribosomal protein L35	5	0.263157894737	LOCMI10394	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI10353	LOCMI10353	putative ribosomal protein S14	5	0.263157894737	LOCMI10353	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI10269	LOCMI10269	ubiquitin/ribosomal protein S27Ae fusion protein	5	0.263157894737	LOCMI10269	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI10036	LOCMI10036	ribosomal protein L22	5	0.263157894737	LOCMI10036	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09944	LOCMI09944	Probable prefoldin subunit 4	5	0.263157894737	LOCMI09944	cytoplasm // intracellular // protein folding // unfolded protein binding // protein complex
+LOCMI09756	LOCMI09756	PREDICTED: 60S ribosomal protein L30-like	5	0.263157894737	LOCMI09756	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09731	LOCMI09731	S20e ribosomal protein	5	0.263157894737	LOCMI09731	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09637	LOCMI09637	Q56FD3_LYSTE Ribosomal protein L13a	5	0.263157894737	LOCMI09637	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09605	LOCMI09605	putative ribosomal protein 49	5	0.263157894737	LOCMI09605	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09539	LOCMI09539	ribosomal protein S30	5	0.263157894737	LOCMI09539	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09452	LOCMI09452	60S ribosomal protein L38	5	0.263157894737	LOCMI09452	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09316	LOCMI09316	ribosomal protein S8	5	0.263157894737	LOCMI09316	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09269	LOCMI09269	PREDICTED: 40S ribosomal protein S16	5	0.263157894737	LOCMI09269	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09144	LOCMI09144	ribosomal protein L10	5	0.263157894737	LOCMI09144	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI09135	LOCMI09135	Q56FH5_LYSTE Ribosomal protein L8	5	0.263157894737	LOCMI09135	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI08559	LOCMI08559	GA15071	5	0.263157894737	LOCMI08559	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI08528	LOCMI08528	ribosomal protein L13	5	0.263157894737	LOCMI08528	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI08448	LOCMI08448	ribosomal protein L8e	5	0.263157894737	LOCMI08448	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI08029	LOCMI08029	60S ribosomal protein L38	5	0.263157894737	LOCMI08029	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI07886	LOCMI07886	B0WL56_CULQU 39S ribosomal protein L14, mitochondrial	5	0.263157894737	LOCMI07886	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI07867	LOCMI07867	ribosomal protein L14	5	0.263157894737	LOCMI07867	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI07717	LOCMI07717	40S ribosomal protein S24	5	0.263157894737	LOCMI07717	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI07539	LOCMI07539	PREDICTED: 60S ribosomal protein L15	5	0.263157894737	LOCMI07539	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI07471	LOCMI07471	ribosomal protein L6	5	0.263157894737	LOCMI07471	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI07458	LOCMI07458	mitochondrial ribosomal protein, L33	5	0.263157894737	LOCMI07458	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI07397	LOCMI07397	ribosomal protein L13	5	0.263157894737	LOCMI07397	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI07300	LOCMI07300	PREDICTED: ubiquitin-like protein FUBI-like	5	0.263157894737	LOCMI07300	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI07012	LOCMI07012	60S ribosomal protein L21	5	0.263157894737	LOCMI07012	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI06322	LOCMI06322	GF14155	5	0.263157894737	LOCMI06322	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI06257	LOCMI06257	PREDICTED: 40S ribosomal protein S5a-like	5	0.263157894737	LOCMI06257	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI06222	LOCMI06222	Q4GXD7_PLAAL Ribosomal protein L26e	5	0.263157894737	LOCMI06222	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI05642	LOCMI05642	putative ribosomal protein S23e	5	0.263157894737	LOCMI05642	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI05618	LOCMI05618	60S ribosomal protein L8	5	0.263157894737	LOCMI05618	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI05567	LOCMI05567	40S ribosomal protein S24	5	0.263157894737	LOCMI05567	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI05551	LOCMI05551	AGAP004818-PA	5	0.263157894737	LOCMI05551	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI05377	LOCMI05377	RecName: Full=40S ribosomal protein S3a gb|AAW57773.1| Parcxpwex01	5	0.263157894737	LOCMI05377	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI05214	LOCMI05214	ribosomal protein L35	5	0.263157894737	LOCMI05214	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI05114	LOCMI05114	ribosomal protein L35	5	0.263157894737	LOCMI05114	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI04836	LOCMI04836	ribosomal protein L19e	5	0.263157894737	LOCMI04836	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI04634	LOCMI04634	40S ribosomal protein S13	5	0.263157894737	LOCMI04634	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI04546	LOCMI04546	PREDICTED: prefoldin subunit 6-like	5	0.263157894737	LOCMI04546	cytoplasm // intracellular // protein folding // unfolded protein binding // protein complex
+LOCMI03823	LOCMI03823	ribosomal protein L19e	5	0.263157894737	LOCMI03823	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI03768	LOCMI03768	PREDICTED: 40S ribosomal protein S14a	5	0.263157894737	LOCMI03768	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI03500	LOCMI03500	60S ribosomal protein L44	5	0.263157894737	LOCMI03500	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI03326	LOCMI03326	40S ribosomal protein S11	5	0.263157894737	LOCMI03326	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI02753	LOCMI02753	A6YPG5_TRIIF 40S ribosomal protein S11	5	0.263157894737	LOCMI02753	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI02690	LOCMI02690	Q56FF3_LYSTE Ribosomal protein S15A	5	0.263157894737	LOCMI02690	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI02613	LOCMI02613	PREDICTED: 60S ribosomal protein L4-like	5	0.263157894737	LOCMI02613	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI02563	LOCMI02563	ribosomal protein L13	5	0.263157894737	LOCMI02563	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI02250	LOCMI02250	PREDICTED: 40S ribosomal protein S16	5	0.263157894737	LOCMI02250	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI02068	LOCMI02068	ribosomal protein S13	5	0.263157894737	LOCMI02068	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI01789	LOCMI01789	60S ribosomal protein L21	5	0.263157894737	LOCMI01789	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI01704	LOCMI01704	PREDICTED: ubiquitin-40S ribosomal protein S27a-like isoform 2	5	0.263157894737	LOCMI01704	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI01674	LOCMI01674	PREDICTED: 60S ribosomal protein L3-like	5	0.263157894737	LOCMI01674	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI01469	LOCMI01469	putative ribosomal protein S27	5	0.263157894737	LOCMI01469	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI01249	LOCMI01249	60S ribosomal protein L35a	5	0.263157894737	LOCMI01249	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI01110	LOCMI01110	PREDICTED: 40S ribosomal protein S26	5	0.263157894737	LOCMI01110	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI00692	LOCMI00692	prefoldin subunit, putative	5	0.263157894737	LOCMI00692	cytoplasm // intracellular // protein folding // unfolded protein binding // protein complex
+LOCMI00680	LOCMI00680	PREDICTED: 60S ribosomal protein L11-like	5	0.263157894737	LOCMI00680	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI00502	LOCMI00502	40S ribosomal protein S21, putative	5	0.263157894737	LOCMI00502	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI00164	LOCMI00164	ribosomal protein L35Ae	5	0.263157894737	LOCMI00164	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI00130	LOCMI00130	PREDICTED: 60S ribosomal protein L38-like	5	0.263157894737	LOCMI00130	cytoplasm // intracellular // ribonucleoprotein complex // structural constituent of ribosome // translation
+LOCMI15915	LOCMI15915	cytochrome c oxidase, subunit VIA, putative	4	0.210526315789	LOCMI15915	cytoplasm // intracellular // protein complex // oxidoreductase activity
+LOCMI15911	LOCMI15911	ATP synthase lipid-binding protein, mitochondrial	4	0.210526315789	LOCMI15911	intracellular // nucleoside triphosphate metabolic process // protein complex // heterocycle metabolic process
+LOCMI15334	LOCMI15334	proteasome subunit beta 7	4	0.210526315789	LOCMI15334	proteolysis involved in cellular protein catabolic process // intracellular // threonine-type peptidase activity // protein complex
+LOCMI12559	LOCMI12559	PREDICTED: translocon-associated protein subunit gamma-like	4	0.210526315789	LOCMI12559	cytoplasm // intracellular // protein targeting // protein complex
+LOCMI10952	LOCMI10952	Proteasome subunit beta type-3	4	0.210526315789	LOCMI10952	proteolysis involved in cellular protein catabolic process // intracellular // threonine-type peptidase activity // protein complex
+LOCMI07932	LOCMI07932	Q0E8V7_DROME CG34132	4	0.210526315789	LOCMI07932	cytoplasm // intracellular // protein targeting // protein complex
+LOCMI04853	LOCMI04853	signal recognition particle	4	0.210526315789	LOCMI04853	cytoplasm // intracellular // protein targeting // RNA binding
+LOCMI02554	LOCMI02554	PREDICTED: proteasome subunit alpha type-7-like	4	0.210526315789	LOCMI02554	proteolysis involved in cellular protein catabolic process // intracellular // threonine-type peptidase activity // protein complex
+LOCMI01417	LOCMI01417	PREDICTED: similar to proteasome subunit beta type 5,8	4	0.210526315789	LOCMI01417	proteolysis involved in cellular protein catabolic process // intracellular // threonine-type peptidase activity // protein complex
+LOCMI00611	LOCMI00611	calreticulin	4	0.210526315789	LOCMI00611	cytoplasm // intracellular // protein folding // unfolded protein binding
+LOCMI00586	LOCMI00586	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	4	0.210526315789	LOCMI00586	cytoplasm // intracellular // protein targeting // protein complex
+LOCMI00585	LOCMI00585	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	4	0.210526315789	LOCMI00585	cytoplasm // intracellular // protein targeting // protein complex
+LOCMI00466	LOCMI00466	B6ZAY6_HELAM Proteasome subunit beta 1	4	0.210526315789	LOCMI00466	proteolysis involved in cellular protein catabolic process // intracellular // threonine-type peptidase activity // protein complex
+LOCMI16102	LOCMI16102	vacuolar ATPase G subunit-like protein	3	0.157894736842	LOCMI16102	cytoplasm // intracellular // protein complex
+LOCMI16085	LOCMI16085	D6WQQ4_TRICA Putative uncharacterized protein	3	0.157894736842	LOCMI16085	cytoplasm // intracellular // oxidoreductase activity
+LOCMI16039	LOCMI16039	succinate dehydrogenase, putative	3	0.157894736842	LOCMI16039	cytoplasm // intracellular // cofactor metabolic process
+LOCMI16024	LOCMI16024	GH10285	3	0.157894736842	LOCMI16024	cytoplasm // intracellular // oxidoreductase activity
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	3	0.157894736842	LOCMI15980	cytoplasm // intracellular // oxidoreductase activity
+LOCMI15976	LOCMI15976	cytochrome c oxidase subunit VIIA putative	3	0.157894736842	LOCMI15976	cytoplasm // intracellular // oxidoreductase activity
+LOCMI15959	LOCMI15959	Cytochrome c oxidase subunit 5B, mitochondrial	3	0.157894736842	LOCMI15959	cytoplasm // intracellular // oxidoreductase activity
+LOCMI15952	LOCMI15952	D6WEW9_TRICA Putative uncharacterized protein	3	0.157894736842	LOCMI15952	cytoplasm // intracellular // oxidoreductase activity
+LOCMI15895	LOCMI15895	cytochrome c oxidase subunit VIIA putative	3	0.157894736842	LOCMI15895	cytoplasm // intracellular // oxidoreductase activity
+LOCMI15894	LOCMI15894	vacuolar ATP synthase subunit F	3	0.157894736842	LOCMI15894	nucleoside triphosphate metabolic process // protein complex // heterocycle metabolic process
+LOCMI15892	LOCMI15892	AGAP000849-PA	3	0.157894736842	LOCMI15892	cytoplasm // intracellular // oxidoreductase activity
+LOCMI15865	LOCMI15865	vacuolar H+-ATPase v1 sector subunit D	3	0.157894736842	LOCMI15865	nucleoside triphosphate metabolic process // protein complex // heterocycle metabolic process
+LOCMI15838	LOCMI15838	B0X2B1_CULQU Putative uncharacterized protein	3	0.157894736842	LOCMI15838	cytoplasm // intracellular // oxidoreductase activity
+LOCMI15795	LOCMI15795	PREDICTED: similar to NADH-ubiquinone oxidoreductase ashi subunit	3	0.157894736842	LOCMI15795	cytoplasm // intracellular // oxidoreductase activity
+LOCMI15760	LOCMI15760	D6WQQ4_TRICA Putative uncharacterized protein	3	0.157894736842	LOCMI15760	cytoplasm // intracellular // oxidoreductase activity
+LOCMI14937	LOCMI14937	PREDICTED: clathrin light chain-like	3	0.157894736842	LOCMI14937	cytoplasm // intracellular // protein complex
+LOCMI14075	LOCMI14075	Q66VG2_GECJA Histone H3	3	0.157894736842	LOCMI14075	intracellular // chromatin // cellular component organization or biogenesis
+LOCMI13837	LOCMI13837	tubulin alpha	3	0.157894736842	LOCMI13837	intracellular // protein complex // cellular component organization or biogenesis
+LOCMI13526	LOCMI13526	Histone H2B	3	0.157894736842	LOCMI13526	intracellular // chromatin // cellular component organization or biogenesis
+LOCMI09660	LOCMI09660	PREDICTED: tubulin beta-1 chain	3	0.157894736842	LOCMI09660	intracellular // protein complex // cellular component organization or biogenesis
+LOCMI08350	LOCMI08350	Histone H2B	3	0.157894736842	LOCMI08350	intracellular // chromatin // cellular component organization or biogenesis
+LOCMI07936	LOCMI07936	PREDICTED: histone H2A.V	3	0.157894736842	LOCMI07936	intracellular // chromatin // cellular component organization or biogenesis
+LOCMI07885	LOCMI07885	H2A	3	0.157894736842	LOCMI07885	intracellular // chromatin // cellular component organization or biogenesis
+LOCMI07650	LOCMI07650	Eukaryotic translation initiation factor 3 subunit K	3	0.157894736842	LOCMI07650	intracellular // RNA binding // translation
+LOCMI07464	LOCMI07464	PREDICTED: eukaryotic translation initiation factor 5A-like	3	0.157894736842	LOCMI07464	RNA binding // translational elongation // translation
+LOCMI01079	LOCMI01079	PREDICTED: eukaryotic translation initiation factor 5A-like isoform 2	3	0.157894736842	LOCMI01079	RNA binding // translational elongation // translation
+LOCMI00915	LOCMI00915	signal peptidase complex subunit 1-like protein	3	0.157894736842	LOCMI00915	cytoplasm // intracellular // protein complex
+LOCMI00625	LOCMI00625	PREDICTED: histone H2B.3-like	3	0.157894736842	LOCMI00625	intracellular // chromatin // cellular component organization or biogenesis
+LOCMI00119	LOCMI00119	heme oxygenase	3	0.157894736842	LOCMI00119	cofactor metabolic process // oxidoreductase activity // heterocycle metabolic process
+LOCMI16008	LOCMI16008	D6WXE2_TRICA Putative uncharacterized protein	2	0.105263157895	LOCMI16008	cytoplasm // intracellular
+LOCMI14604	LOCMI14604	C3XUB4_BRAFL Putative uncharacterized protein	2	0.105263157895	LOCMI14604	cytoplasm // intracellular
+LOCMI13660	LOCMI13660	Mitochondrial import inner membrane translocase subunit Tim22	2	0.105263157895	LOCMI13660	cytoplasm // intracellular
+LOCMI12838	LOCMI12838	Q1HQH5_AEDAE House keepingprotein, putative	2	0.105263157895	LOCMI12838	cytoplasm // intracellular
+LOCMI12123	LOCMI12123	Tubulin/FtsZ, GTPase domain	2	0.105263157895	LOCMI12123	protein complex // cellular component organization or biogenesis
+LOCMI11349	LOCMI11349	Q17EQ5_AEDAE Lupus la ribonucleoprotein	2	0.105263157895	LOCMI11349	intracellular // RNA binding
+LOCMI10395	LOCMI10395	Q06DG1_ANOFN Actin-related protein 2/3 complex subunit 5	2	0.105263157895	LOCMI10395	intracellular // cellular component organization or biogenesis
+LOCMI09474	LOCMI09474	High mobility group, HMG-I/HMG-Y IPR020478; AT hook-like	2	0.105263157895	LOCMI09474	intracellular // chromatin
+LOCMI09216	LOCMI09216	PREDICTED: eukaryotic translation initiation factor 2 subunit 2-like	2	0.105263157895	LOCMI09216	RNA binding // translation
+LOCMI08755	LOCMI08755	Transcription initiation factor IIA subunit 2	2	0.105263157895	LOCMI08755	intracellular // protein complex
+LOCMI08282	LOCMI08282	B4M5S3_DROVI Pcd	2	0.105263157895	LOCMI08282	cofactor metabolic process // heterocycle metabolic process
+LOCMI08222	LOCMI08222	Q17GS3_AEDAE Putative uncharacterized protein	2	0.105263157895	LOCMI08222	cofactor metabolic process // heterocycle metabolic process
+LOCMI07996	LOCMI07996	heat shock protein 60	2	0.105263157895	LOCMI07996	protein folding // unfolded protein binding
+LOCMI07939	LOCMI07939	proliferating cell nuclear antigen	2	0.105263157895	LOCMI07939	intracellular // protein complex
+LOCMI06570	LOCMI06570	Density-regulated protein	2	0.105263157895	LOCMI06570	RNA binding // translation
+LOCMI06183	LOCMI06183	ubiquitin carboxy-terminal hydrolase CG4265	2	0.105263157895	LOCMI06183	proteolysis involved in cellular protein catabolic process // intracellular
+LOCMI06123	LOCMI06123	B0W950_CULQU Putative uncharacterized protein	2	0.105263157895	LOCMI06123	cytoplasm // intracellular
+LOCMI06122	LOCMI06122	B0W950_CULQU Putative uncharacterized protein	2	0.105263157895	LOCMI06122	cytoplasm // intracellular
+LOCMI05713	LOCMI05713	G protein gamma subunit	2	0.105263157895	LOCMI05713	intracellular // protein complex
+LOCMI04165	LOCMI04165	GK25335	2	0.105263157895	LOCMI04165	intracellular // protein complex
+LOCMI03184	LOCMI03184	complement component	2	0.105263157895	LOCMI03184	cytoplasm // intracellular
+LOCMI03091	LOCMI03091	arp2/3 complex 21 kd subunit	2	0.105263157895	LOCMI03091	intracellular // cellular component organization or biogenesis
+LOCMI02404	LOCMI02404	PREDICTED: dipeptidyl peptidase 3-like	2	0.105263157895	LOCMI02404	cytoplasm // intracellular
+LOCMI02056	LOCMI02056	Q7QCF8_ANOGA AGAP002606-PA	2	0.105263157895	LOCMI02056	intracellular // protein complex
+LOCMI00924	LOCMI00924	Probable 26S proteasome non-ATPase regulatory subunit 3	2	0.105263157895	LOCMI00924	intracellular // protein complex
+LOCMI00523	LOCMI00523	putative nucleoside diphosphate kinase	2	0.105263157895	LOCMI00523	nucleoside triphosphate metabolic process // heterocycle metabolic process
+LOCMI00404	LOCMI00404	endoplasmin	2	0.105263157895	LOCMI00404	protein folding // unfolded protein binding
+LOCMI00324	LOCMI00324	B4NE95_DROWI GK25335	2	0.105263157895	LOCMI00324	intracellular // protein complex
+LOCMI00111	LOCMI00111	ubiquitin carboxy-terminal hydrolase CG4265	2	0.105263157895	LOCMI00111	proteolysis involved in cellular protein catabolic process // intracellular
+LOCMI17197	LOCMI17197	PREDICTED: protein mago nashi	1	0.0526315789474	LOCMI17197	intracellular
+LOCMI17142	LOCMI17142	Small nuclear ribonucleoprotein F	1	0.0526315789474	LOCMI17142	intracellular
+LOCMI16357	LOCMI16357	thioredoxin-like protein	1	0.0526315789474	LOCMI16357	oxidoreductase activity
+LOCMI16279	LOCMI16279	Peroxiredoxin 1	1	0.0526315789474	LOCMI16279	oxidoreductase activity
+LOCMI16274	LOCMI16274	Q7PZB4_ANOGA Thioredoxin-dependent peroxidase (AGAP011824-PA)	1	0.0526315789474	LOCMI16274	oxidoreductase activity
+LOCMI16255	LOCMI16255	AGAP001325-PA	1	0.0526315789474	LOCMI16255	oxidoreductase activity
+LOCMI16252	LOCMI16252	AGAP001325-PA	1	0.0526315789474	LOCMI16252	oxidoreductase activity
+LOCMI16173	LOCMI16173	cytochrome P450	1	0.0526315789474	LOCMI16173	oxidoreductase activity
+LOCMI16093	LOCMI16093	D6WV34_TRICA Putative uncharacterized protein	1	0.0526315789474	LOCMI16093	oxidoreductase activity
+LOCMI16062	LOCMI16062	GJ13165	1	0.0526315789474	LOCMI16062	oxidoreductase activity
+LOCMI16058	LOCMI16058	C1BMA6_OSMMO Ubiquinol-cytochrome c reductase complex 6.4 kDa protein	1	0.0526315789474	LOCMI16058	oxidoreductase activity
+LOCMI15992	LOCMI15992	D7EJQ8_TRICA Putative uncharacterized protein	1	0.0526315789474	LOCMI15992	oxidoreductase activity
+LOCMI15917	LOCMI15917	Q1HR18_AEDAE Mitochondrial ubiquinol-cytochrome c reductase hinge protein	1	0.0526315789474	LOCMI15917	oxidoreductase activity
+LOCMI15914	LOCMI15914	D6WRY0_TRICA Putative uncharacterized protein	1	0.0526315789474	LOCMI15914	oxidoreductase activity
+LOCMI15890	LOCMI15890	AGAP012188-PA	1	0.0526315789474	LOCMI15890	oxidoreductase activity
+LOCMI15872	LOCMI15872	delta-9 desaturase 1	1	0.0526315789474	LOCMI15872	oxidoreductase activity
+LOCMI15846	LOCMI15846	cytochrome c oxidase	1	0.0526315789474	LOCMI15846	oxidoreductase activity
+LOCMI15814	LOCMI15814	D6WBY0_TRICA Putative uncharacterized protein	1	0.0526315789474	LOCMI15814	oxidoreductase activity
+LOCMI15786	LOCMI15786	PREDICTED: cytochrome c oxidase subunit 7C, mitochondrial-like isoform 1	1	0.0526315789474	LOCMI15786	oxidoreductase activity
+LOCMI15207	LOCMI15207	transcription elongation factor B polypeptide 1	1	0.0526315789474	LOCMI15207	proteolysis involved in cellular protein catabolic process
+LOCMI14842	LOCMI14842	DNA polymerase epsilon subunit 3	1	0.0526315789474	LOCMI14842	intracellular
+LOCMI14762	LOCMI14762	PREDICTED: KH domain-containing, RNA-binding, signal transduction-associated protein 3-like isoform 1	1	0.0526315789474	LOCMI14762	RNA binding
+LOCMI14700	LOCMI14700	PREDICTED: von Hippel-Lindau disease tumor suppressor	1	0.0526315789474	LOCMI14700	intracellular
+LOCMI11986	LOCMI11986	A2I472_MACHI Putative GTP-binding nuclear protein Ran	1	0.0526315789474	LOCMI11986	intracellular
+LOCMI10619	LOCMI10619	PREDICTED: peptidyl-prolyl cis-trans isomerase-like	1	0.0526315789474	LOCMI10619	protein folding
+LOCMI10618	LOCMI10618	PREDICTED: peptidyl-prolyl cis-trans isomerase-like	1	0.0526315789474	LOCMI10618	protein folding
+LOCMI10612	LOCMI10612	RecName: Full=Protein transport protein Sec61 subunit gamma gb|AAP47228.1| Sec61p gamma subunit	1	0.0526315789474	LOCMI10612	protein targeting
+LOCMI10344	LOCMI10344	PREDICTED: peptidyl-prolyl cis-trans isomerase FKBP14-like	1	0.0526315789474	LOCMI10344	protein folding
+LOCMI09429	LOCMI09429	Signal recognition particle receptor subunit beta	1	0.0526315789474	LOCMI09429	intracellular
+LOCMI09020	LOCMI09020	B3GCD7_GRYPE Peptidyl-prolyl cis-trans isomerase (Fragment)	1	0.0526315789474	LOCMI09020	protein folding
+LOCMI08769	LOCMI08769	PREDICTED: peptidyl-prolyl cis-trans isomerase B-like	1	0.0526315789474	LOCMI08769	protein folding
+LOCMI07648	LOCMI07648	GE18863	1	0.0526315789474	LOCMI07648	translation
+LOCMI07339	LOCMI07339	Q17CT4_AEDAE GrpE protein homolog	1	0.0526315789474	LOCMI07339	protein folding
+LOCMI07118	LOCMI07118	GTP-binding protein Rheb-like protein	1	0.0526315789474	LOCMI07118	intracellular
+LOCMI07111	LOCMI07111	PREDICTED: trans-1,2-dihydrobenzene-1,2-diol dehydrogenase-like	1	0.0526315789474	LOCMI07111	oxidoreductase activity
+LOCMI06203	LOCMI06203	PREDICTED: similar to High mobility group protein DSP1 (Protein dorsal switch 1)	1	0.0526315789474	LOCMI06203	intracellular
+LOCMI05701	LOCMI05701	GH12513	1	0.0526315789474	LOCMI05701	oxidoreductase activity
+LOCMI05700	LOCMI05700	GI14867	1	0.0526315789474	LOCMI05700	oxidoreductase activity
+LOCMI04960	LOCMI04960	PREDICTED: RNA-binding protein pno1-like	1	0.0526315789474	LOCMI04960	RNA binding
+LOCMI04939	LOCMI04939	C4WRK9_ACYPI ACYPI010176 protein	1	0.0526315789474	LOCMI04939	oxidoreductase activity
+LOCMI03930	LOCMI03930	mct-1 protein	1	0.0526315789474	LOCMI03930	RNA binding
+LOCMI03668	LOCMI03668	PREDICTED: CDGSH iron-sulfur domain-containing protein 2 homolog	1	0.0526315789474	LOCMI03668	intracellular
+LOCMI03502	LOCMI03502	Q17M99_AEDAE Malic enzyme	1	0.0526315789474	LOCMI03502	oxidoreductase activity
+LOCMI03242	LOCMI03242	PREDICTED: carbonyl reductase	1	0.0526315789474	LOCMI03242	oxidoreductase activity
+LOCMI03230	LOCMI03230	PREDICTED: ribonucleotide reductase M2 polypeptide-like	1	0.0526315789474	LOCMI03230	oxidoreductase activity
+LOCMI02616	LOCMI02616	PREDICTED: LOW QUALITY PROTEIN: protein pelota-like	1	0.0526315789474	LOCMI02616	translation
+LOCMI02021	LOCMI02021	A0NEA9_ANOGA AGAP005393-PA	1	0.0526315789474	LOCMI02021	intracellular
+LOCMI01463	LOCMI01463	C-factor, putative	1	0.0526315789474	LOCMI01463	oxidoreductase activity

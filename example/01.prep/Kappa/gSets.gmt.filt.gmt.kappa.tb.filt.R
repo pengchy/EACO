@@ -1,0 +1,79 @@
+
+date()
+options(stringsAsFactors=FALSE)
+tmp <- scan("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt",what="character",sep="\n")
+gsets <- sapply(tmp,function(x) strsplit(x,"\t")[[1]][-c(1,2)])
+names(gsets) <- sapply(tmp,function(x) strsplit(x,"\t")[[1]][1])
+setDes <- sapply(tmp,function(x) strsplit(x,"\t")[[1]][2])
+names(setDes) <- names(gsets)
+
+kap <- read.table("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa/gSets.gmt.filt.gmt.kappa.tb",sep="\t")
+kap <- kap[kap[,1]!=kap[,2],]
+colnames(kap) <- c("Gset1","Gset2","Kappa","minRat","maxRat")
+if(identical("YES","NO")){
+	pdf("/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa//gSets.gmt.filt.gmt.kappa.tb.kap_min_maxrat.pairs.pdf")
+	pairs(kap[,3:5],pch=".")
+	dev.off()
+}
+kap.brk <- seq(0.5,1,0.025)
+kap.dt <- matrix(nr=length(kap.brk),nc=3)
+colnames(kap.dt) <- c("KappCut","setNum","distincG")
+rownames(kap.dt) <- paste("k.",kap.brk,sep="")
+kap.dt[,"KappCut"] <- kap.brk
+for(k in kap.brk){
+	filt.id <- apply(kap[kap[,3]>=k,1:2],1,function(x){
+			x1 <- as.character(x)
+			x1[which.min(c(length(gsets[[x1[1]]]),length(gsets[[x1[2]]])))]
+			})
+	remain.id <- setdiff(names(gsets),filt.id)
+	kap.dt[paste("k.",k,sep=""),"setNum"] <- length(remain.id)
+	kap.dt[paste("k.",k,sep=""),"distincG"] <- length(unique(as.character(unlist(gsets[remain.id]))))
+}
+write.table(kap.dt,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa//gSets.gmt.filt.gmt.kappa.tb.kappa_gradient.tb",sep="\t",row.names=FALSE)
+
+#filtering based on kappa value
+library(graph)
+dt.filt <- kap[kap[,3]>0.97,1:2]
+dt.net <- ftM2graphNEL(as.matrix(dt.filt[,1:2]))
+net.conn <- connComp(dt.net)
+out.res <- data.frame()
+delid <- vector("character")
+for(i in 1:length(net.conn)){
+	uni.nod <- unique(as.character(unlist(gsets[net.conn[[i]]])))
+	tmp.dt <- data.frame(cluster=rep(i,length(net.conn[[i]])),
+			ID=net.conn[[i]],
+			gNum=as.numeric(sapply(gsets[net.conn[[i]]],length)),
+			gNumRatio=signif(as.numeric(sapply(gsets[net.conn[[i]]],length))/length(uni.nod),digits=4),
+			Descrp=setDes[net.conn[[i]]])
+	if(dim(out.res)[1]==0){
+		out.res <- tmp.dt
+	}else{
+		out.res <- rbind(out.res,tmp.dt)
+	}
+	tmp.id <- as.character(tmp.dt[-which.max(sapply(tmp.dt[,"Descrp"],nchar)),"ID"])
+	if(length(delid)==0){
+		delid <- tmp.id
+	}else{
+		delid <- c(delid,tmp.id)
+	}
+}
+
+write.table(out.res,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa//gSets.gmt.filt.gmt.kapp.clst",sep="\t",quote=FALSE,row.names=FALSE)
+
+remain.id <- setdiff(names(gsets),delid)
+res.gmt <- data.frame(ID=remain.id,
+		descp=as.character(setDes[remain.id]),
+		gids=sapply(gsets[remain.id],function(x) paste(x,collapse="\t")))
+write.table(res.gmt,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa//gSets.gmt.filt.gmt.filtkappa.gmt",sep="\t",quote=FALSE,col.names=FALSE,row.names=FALSE)
+
+res.stat <- c(0,0)
+names(res.stat) <- c("gSetsNum","gNum")
+res.stat["gSetsNum"] <- length(remain.id)
+res.stat["gNum"] <- length(unique(as.character(unlist(gsets[remain.id]))))
+write.table(res.stat,file="/panfs/home/kang/yangpc/bin/EnrichPipeline/EACO_r20150101/example/01.prep//Kappa//gSets.gmt.filt.gmt.filtkappa.gmt.stat",sep="\t",quote=FALSE,col.names=FALSE)
+
+date()
+q('no')
+
+date()
+q('no')

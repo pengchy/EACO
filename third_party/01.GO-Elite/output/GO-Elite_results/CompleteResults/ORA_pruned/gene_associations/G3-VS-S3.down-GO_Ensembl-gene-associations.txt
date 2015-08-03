@@ -1,0 +1,102 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI15934	LOCMI15934	ATP-citrate synthase	LOCMI15934	GO:0005737	cytoplasm
+LOCMI00586	LOCMI00586	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	LOCMI00586	GO:0005737	cytoplasm
+LOCMI00585	LOCMI00585	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	LOCMI00585	GO:0005737	cytoplasm
+LOCMI08036	LOCMI08036	PREDICTED: similar to ribosomal protein L37e	LOCMI08036	GO:0005737	cytoplasm
+LOCMI12177	LOCMI12177	40S ribosomal protein S15a	LOCMI12177	GO:0005737	cytoplasm
+LOCMI12178	LOCMI12178	PREDICTED: ADP-ribosylation factor-like 6 interacting protein	LOCMI12178	GO:0005737	cytoplasm
+LOCMI03203	LOCMI03203	PREDICTED: importin subunit alpha-2-like	LOCMI03203	GO:0005737	cytoplasm
+LOCMI05642	LOCMI05642	putative ribosomal protein S23e	LOCMI05642	GO:0005737	cytoplasm
+LOCMI04634	LOCMI04634	40S ribosomal protein S13	LOCMI04634	GO:0005737	cytoplasm
+LOCMI15895	LOCMI15895	cytochrome c oxidase subunit VIIA putative	LOCMI15895	GO:0005737	cytoplasm
+LOCMI11744	LOCMI11744	RecName: Full=40S ribosomal protein S13 gb|AAK92182.1|AF400210_1 ribosomal protein S13	LOCMI11744	GO:0005737	cytoplasm
+LOCMI08029	LOCMI08029	60S ribosomal protein L38	LOCMI08029	GO:0005737	cytoplasm
+LOCMI15205	LOCMI15205	60S ribosomal protein L38	LOCMI15205	GO:0005737	cytoplasm
+LOCMI15981	LOCMI15981	CG12859	LOCMI15981	GO:0005737	cytoplasm
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	GO:0005737	cytoplasm
+LOCMI16024	LOCMI16024	GH10285	LOCMI16024	GO:0005737	cytoplasm
+LOCMI07932	LOCMI07932	Q0E8V7_DROME CG34132	LOCMI07932	GO:0005737	cytoplasm
+LOCMI16352	LOCMI16352	heat shock protein 20	LOCMI16352	GO:0009628	response to abiotic stimulus
+LOCMI06175	LOCMI06175	heat shock protein 20.7	LOCMI06175	GO:0009628	response to abiotic stimulus
+LOCMI05827	LOCMI05827	protein lethal, putative	LOCMI05827	GO:0009628	response to abiotic stimulus
+LOCMI00142	LOCMI00142	heat shock protein 20.5	LOCMI00142	GO:0009628	response to abiotic stimulus
+LOCMI15512	LOCMI15512	heat shock protein 20.7	LOCMI15512	GO:0009628	response to abiotic stimulus
+LOCMI15510	LOCMI15510	heat shock protein 20.5	LOCMI15510	GO:0009628	response to abiotic stimulus
+LOCMI00586	LOCMI00586	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	LOCMI00586	GO:0006605	protein targeting
+LOCMI00585	LOCMI00585	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	LOCMI00585	GO:0006605	protein targeting
+LOCMI03203	LOCMI03203	PREDICTED: importin subunit alpha-2-like	LOCMI03203	GO:0006605	protein targeting
+LOCMI07932	LOCMI07932	Q0E8V7_DROME CG34132	LOCMI07932	GO:0006605	protein targeting
+LOCMI12177	LOCMI12177	40S ribosomal protein S15a	LOCMI12177	GO:0003735	structural constituent of ribosome
+LOCMI12178	LOCMI12178	PREDICTED: ADP-ribosylation factor-like 6 interacting protein	LOCMI12178	GO:0003735	structural constituent of ribosome
+LOCMI05642	LOCMI05642	putative ribosomal protein S23e	LOCMI05642	GO:0003735	structural constituent of ribosome
+LOCMI04634	LOCMI04634	40S ribosomal protein S13	LOCMI04634	GO:0003735	structural constituent of ribosome
+LOCMI11744	LOCMI11744	RecName: Full=40S ribosomal protein S13 gb|AAK92182.1|AF400210_1 ribosomal protein S13	LOCMI11744	GO:0003735	structural constituent of ribosome
+LOCMI08036	LOCMI08036	PREDICTED: similar to ribosomal protein L37e	LOCMI08036	GO:0003735	structural constituent of ribosome
+LOCMI15205	LOCMI15205	60S ribosomal protein L38	LOCMI15205	GO:0003735	structural constituent of ribosome
+LOCMI08029	LOCMI08029	60S ribosomal protein L38	LOCMI08029	GO:0003735	structural constituent of ribosome
+LOCMI09430	LOCMI09430	xanthine dehydrogenase/oxidase	LOCMI09430	GO:0009055	electron carrier activity
+LOCMI15895	LOCMI15895	cytochrome c oxidase subunit VIIA putative	LOCMI15895	GO:0009055	electron carrier activity
+LOCMI05622	LOCMI05622	Q1HQU9_AEDAE Protein disulfide isomerase	LOCMI05622	GO:0009055	electron carrier activity
+LOCMI16357	LOCMI16357	thioredoxin-like protein	LOCMI16357	GO:0009055	electron carrier activity
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	LOCMI16195	GO:0009055	electron carrier activity
+LOCMI03203	LOCMI03203	PREDICTED: importin subunit alpha-2-like	LOCMI03203	GO:0005622	intracellular
+LOCMI06586	LOCMI06586	PREDICTED: protein max-like	LOCMI06586	GO:0005622	intracellular
+LOCMI07885	LOCMI07885	H2A	LOCMI07885	GO:0005622	intracellular
+LOCMI05642	LOCMI05642	putative ribosomal protein S23e	LOCMI05642	GO:0005622	intracellular
+LOCMI04634	LOCMI04634	40S ribosomal protein S13	LOCMI04634	GO:0005622	intracellular
+LOCMI15981	LOCMI15981	CG12859	LOCMI15981	GO:0005622	intracellular
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	GO:0005622	intracellular
+LOCMI00586	LOCMI00586	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	LOCMI00586	GO:0005622	intracellular
+LOCMI00585	LOCMI00585	Q2F5V6_BOMMO Translocase of inner mitochondrial membrane 8 homolog b	LOCMI00585	GO:0005622	intracellular
+LOCMI15895	LOCMI15895	cytochrome c oxidase subunit VIIA putative	LOCMI15895	GO:0005622	intracellular
+LOCMI11744	LOCMI11744	RecName: Full=40S ribosomal protein S13 gb|AAK92182.1|AF400210_1 ribosomal protein S13	LOCMI11744	GO:0005622	intracellular
+LOCMI07932	LOCMI07932	Q0E8V7_DROME CG34132	LOCMI07932	GO:0005622	intracellular
+LOCMI15205	LOCMI15205	60S ribosomal protein L38	LOCMI15205	GO:0005622	intracellular
+LOCMI08036	LOCMI08036	PREDICTED: similar to ribosomal protein L37e	LOCMI08036	GO:0005622	intracellular
+LOCMI15934	LOCMI15934	ATP-citrate synthase	LOCMI15934	GO:0005622	intracellular
+LOCMI12177	LOCMI12177	40S ribosomal protein S15a	LOCMI12177	GO:0005622	intracellular
+LOCMI12178	LOCMI12178	PREDICTED: ADP-ribosylation factor-like 6 interacting protein	LOCMI12178	GO:0005622	intracellular
+LOCMI11649	LOCMI11649	mitosis protein dim1	LOCMI11649	GO:0005622	intracellular
+LOCMI01686	LOCMI01686	Histone H2B	LOCMI01686	GO:0005622	intracellular
+LOCMI09659	LOCMI09659	B0G0U7_MONAT Beta1-tubulin	LOCMI09659	GO:0005622	intracellular
+LOCMI06735	LOCMI06735	Recombination repair protein, putative	LOCMI06735	GO:0005622	intracellular
+LOCMI08029	LOCMI08029	60S ribosomal protein L38	LOCMI08029	GO:0005622	intracellular
+LOCMI16024	LOCMI16024	GH10285	LOCMI16024	GO:0005622	intracellular
+LOCMI12177	LOCMI12177	40S ribosomal protein S15a	LOCMI12177	GO:0006412	translation
+LOCMI12178	LOCMI12178	PREDICTED: ADP-ribosylation factor-like 6 interacting protein	LOCMI12178	GO:0006412	translation
+LOCMI05642	LOCMI05642	putative ribosomal protein S23e	LOCMI05642	GO:0006412	translation
+LOCMI04634	LOCMI04634	40S ribosomal protein S13	LOCMI04634	GO:0006412	translation
+LOCMI11744	LOCMI11744	RecName: Full=40S ribosomal protein S13 gb|AAK92182.1|AF400210_1 ribosomal protein S13	LOCMI11744	GO:0006412	translation
+LOCMI08036	LOCMI08036	PREDICTED: similar to ribosomal protein L37e	LOCMI08036	GO:0006412	translation
+LOCMI15205	LOCMI15205	60S ribosomal protein L38	LOCMI15205	GO:0006412	translation
+LOCMI08029	LOCMI08029	60S ribosomal protein L38	LOCMI08029	GO:0006412	translation
+LOCMI03739	LOCMI03739	AGAP006221-PA	LOCMI03739	GO:0055114	oxidation-reduction process
+LOCMI03230	LOCMI03230	PREDICTED: ribonucleotide reductase M2 polypeptide-like	LOCMI03230	GO:0055114	oxidation-reduction process
+LOCMI16101	LOCMI16101	Q17M16_AEDAE Fatty acid synthase	LOCMI16101	GO:0055114	oxidation-reduction process
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	LOCMI16195	GO:0055114	oxidation-reduction process
+LOCMI15880	LOCMI15880	Q7QDK4_ANOGA AGAP003408-PA	LOCMI15880	GO:0055114	oxidation-reduction process
+LOCMI12279	LOCMI12279	Q1HPY0_BOMMO Zinc-containing alcohol dehydrogenase	LOCMI12279	GO:0055114	oxidation-reduction process
+LOCMI09430	LOCMI09430	xanthine dehydrogenase/oxidase	LOCMI09430	GO:0055114	oxidation-reduction process
+LOCMI09478	LOCMI09478	L-xylulose reductase	LOCMI09478	GO:0055114	oxidation-reduction process
+LOCMI16024	LOCMI16024	GH10285	LOCMI16024	GO:0055114	oxidation-reduction process
+LOCMI15867	LOCMI15867	aldose reductase, putative	LOCMI15867	GO:0055114	oxidation-reduction process
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	GO:0055114	oxidation-reduction process
+LOCMI03739	LOCMI03739	AGAP006221-PA	LOCMI03739	GO:0016491	oxidoreductase activity
+LOCMI16273	LOCMI16273	peroxiredoxin	LOCMI16273	GO:0016491	oxidoreductase activity
+LOCMI16263	LOCMI16263	E9IID8_SOLIN Putative uncharacterized protein (Fragment)	LOCMI16263	GO:0016491	oxidoreductase activity
+LOCMI05622	LOCMI05622	Q1HQU9_AEDAE Protein disulfide isomerase	LOCMI05622	GO:0016491	oxidoreductase activity
+LOCMI09478	LOCMI09478	L-xylulose reductase	LOCMI09478	GO:0016491	oxidoreductase activity
+LOCMI16357	LOCMI16357	thioredoxin-like protein	LOCMI16357	GO:0016491	oxidoreductase activity
+LOCMI15981	LOCMI15981	CG12859	LOCMI15981	GO:0016491	oxidoreductase activity
+LOCMI16279	LOCMI16279	Peroxiredoxin 1	LOCMI16279	GO:0016491	oxidoreductase activity
+LOCMI16101	LOCMI16101	Q17M16_AEDAE Fatty acid synthase	LOCMI16101	GO:0016491	oxidoreductase activity
+LOCMI16195	LOCMI16195	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	LOCMI16195	GO:0016491	oxidoreductase activity
+LOCMI15880	LOCMI15880	Q7QDK4_ANOGA AGAP003408-PA	LOCMI15880	GO:0016491	oxidoreductase activity
+LOCMI09430	LOCMI09430	xanthine dehydrogenase/oxidase	LOCMI09430	GO:0016491	oxidoreductase activity
+LOCMI15895	LOCMI15895	cytochrome c oxidase subunit VIIA putative	LOCMI15895	GO:0016491	oxidoreductase activity
+LOCMI12279	LOCMI12279	Q1HPY0_BOMMO Zinc-containing alcohol dehydrogenase	LOCMI12279	GO:0016491	oxidoreductase activity
+LOCMI01539	LOCMI01539	Short-chain dehydrogenase/reductase SDR	LOCMI01539	GO:0016491	oxidoreductase activity
+LOCMI03230	LOCMI03230	PREDICTED: ribonucleotide reductase M2 polypeptide-like	LOCMI03230	GO:0016491	oxidoreductase activity
+LOCMI16024	LOCMI16024	GH10285	LOCMI16024	GO:0016491	oxidoreductase activity
+LOCMI15867	LOCMI15867	aldose reductase, putative	LOCMI15867	GO:0016491	oxidoreductase activity
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	GO:0016491	oxidoreductase activity

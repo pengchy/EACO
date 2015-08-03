@@ -1,0 +1,302 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI16873	LOCMI16873	cytochrome P450	5	0.333333333333	LOCMI16873	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16264	LOCMI16264	PREDICTED: peroxidase-like isoform 1	5	0.333333333333	LOCMI16264	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16262	LOCMI16262	E0VA57_PEDHC Putative uncharacterized protein	5	0.333333333333	LOCMI16262	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16237	LOCMI16237	cytochrome P450 6a22	5	0.333333333333	LOCMI16237	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16236	LOCMI16236	cytochrome P450	5	0.333333333333	LOCMI16236	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16217	LOCMI16217	cytochrome P450 6BQ13	5	0.333333333333	LOCMI16217	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16210	LOCMI16210	cytochrome P450	5	0.333333333333	LOCMI16210	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16208	LOCMI16208	PREDICTED: probable cytochrome P450 6a13	5	0.333333333333	LOCMI16208	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16197	LOCMI16197	cytochrome P450	5	0.333333333333	LOCMI16197	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16194	LOCMI16194	RecName: Full=Cytochrome P450 4C1; AltName: Full=CYPIVC1 gb|AAA27819.1| cytochrome P450	5	0.333333333333	LOCMI16194	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16187	LOCMI16187	cytochrome P450 6BQ13	5	0.333333333333	LOCMI16187	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16179	LOCMI16179	cytochrome p450	5	0.333333333333	LOCMI16179	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16178	LOCMI16178	PREDICTED: probable cytochrome P450 49a1-like	5	0.333333333333	LOCMI16178	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16176	LOCMI16176	cytochrome P450	5	0.333333333333	LOCMI16176	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16175	LOCMI16175	cytochrome P450	5	0.333333333333	LOCMI16175	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16169	LOCMI16169	cytochrome P450	5	0.333333333333	LOCMI16169	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16156	LOCMI16156	RecName: Full=Cytochrome P450 6k1; AltName: Full=CYPVIK1 gb|AAK57914.1|AF281328_1 cytochrome P450 CYP6K1	5	0.333333333333	LOCMI16156	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16155	LOCMI16155	ecdysone 20 hydroxylase	5	0.333333333333	LOCMI16155	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16144	LOCMI16144	cytochrome P450	5	0.333333333333	LOCMI16144	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16138	LOCMI16138	PREDICTED: similar to cytochrome P450	5	0.333333333333	LOCMI16138	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16136	LOCMI16136	Cytochrome P450 4g15	5	0.333333333333	LOCMI16136	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI16124	LOCMI16124	cytochrome P-450, putative	5	0.333333333333	LOCMI16124	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI14948	LOCMI14948	PREDICTED: similar to peroxidasin	5	0.333333333333	LOCMI14948	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI11162	LOCMI11162	Q16LY3_AEDAE Oxidase/peroxidase	5	0.333333333333	LOCMI11162	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI11161	LOCMI11161	PREDICTED: chorion peroxidase-like	5	0.333333333333	LOCMI11161	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI10884	LOCMI10884	Chorion peroxidase precursor, putative	5	0.333333333333	LOCMI10884	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI08967	LOCMI08967	peroxidasin	5	0.333333333333	LOCMI08967	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI05775	LOCMI05775	Chorion peroxidase precursor, putative	5	0.333333333333	LOCMI05775	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI05040	LOCMI05040	Chorion peroxidase precursor, putative	5	0.333333333333	LOCMI05040	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI04667	LOCMI04667	Cytochrome P450 IPR008066; Cytochrome P450, E-class, group I, CYP1	5	0.333333333333	LOCMI04667	tetrapyrrole binding // electron carrier activity // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI01033	LOCMI01033	B0WXB4_CULQU Oxidase/peroxidase	5	0.333333333333	LOCMI01033	tetrapyrrole binding // response to stress // iron ion binding // oxidation-reduction process // oxidoreductase activity
+LOCMI17073	LOCMI17073	tryptophan 2,3-dioxygenase	3	0.2	LOCMI17073	aromatic amino acid family metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI16397	LOCMI16397	phenylalanine-tryptophan hydroxylase	3	0.2	LOCMI16397	aromatic amino acid family metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI16260	LOCMI16260	glutathione peroxidase 6 precursor, putative	3	0.2	LOCMI16260	response to stress // oxidation-reduction process // oxidoreductase activity
+LOCMI16251	LOCMI16251	Probable phospholipid hydroperoxide glutathione peroxidase	3	0.2	LOCMI16251	response to stress // oxidation-reduction process // oxidoreductase activity
+LOCMI16061	LOCMI16061	L-lactate dehydrogenase	3	0.2	LOCMI16061	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI15975	LOCMI15975	PREDICTED: predicted protein-like	3	0.2	LOCMI15975	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI15879	LOCMI15879	AGAP004786-PA	3	0.2	LOCMI15879	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI15836	LOCMI15836	sn-glycerol-3-phosphate dehydrogenase isoform 4	3	0.2	LOCMI15836	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI15324	LOCMI15324	PREDICTED: histone H2B.3-like	3	0.2	LOCMI15324	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI13541	LOCMI13541	unnamed protein product	3	0.2	LOCMI13541	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI13526	LOCMI13526	Histone H2B	3	0.2	LOCMI13526	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI13448	LOCMI13448	PREDICTED: inositol oxygenase-like	3	0.2	LOCMI13448	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI13447	LOCMI13447	PREDICTED: inositol oxygenase-like	3	0.2	LOCMI13447	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI13445	LOCMI13445	myo-inositol oxygenase	3	0.2	LOCMI13445	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI13444	LOCMI13444	PREDICTED: inositol oxygenase-like	3	0.2	LOCMI13444	carbohydrate metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI12024	LOCMI12024	histone H4	3	0.2	LOCMI12024	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI11532	LOCMI11532	GM13181	3	0.2	LOCMI11532	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI11377	LOCMI11377	histone H2A	3	0.2	LOCMI11377	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI11273	LOCMI11273	B9P9M4_POPTR Putative uncharacterized protein	3	0.2	LOCMI11273	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI11032	LOCMI11032	GD12842	3	0.2	LOCMI11032	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI08907	LOCMI08907	GG11021	3	0.2	LOCMI08907	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI08555	LOCMI08555	histone H2A	3	0.2	LOCMI08555	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI08350	LOCMI08350	Histone H2B	3	0.2	LOCMI08350	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI08311	LOCMI08311	PREDICTED: histone H3.2-like	3	0.2	LOCMI08311	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI06335	LOCMI06335	Histone H3c	3	0.2	LOCMI06335	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI06259	LOCMI06259	histone H2B	3	0.2	LOCMI06259	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI05750	LOCMI05750	histone h2a	3	0.2	LOCMI05750	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI05509	LOCMI05509	RecName: Full=Histone H2B.3 gb|AAC41557.1| histone H2B-3	3	0.2	LOCMI05509	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI05487	LOCMI05487	predicted protein	3	0.2	LOCMI05487	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI05311	LOCMI05311	histone H4	3	0.2	LOCMI05311	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI04013	LOCMI04013	histone H2A	3	0.2	LOCMI04013	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI03602	LOCMI03602	Q17ER9_AEDAE Histone H2B	3	0.2	LOCMI03602	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI03436	LOCMI03436	tyrosine 3-monooxygenase, putative	3	0.2	LOCMI03436	aromatic amino acid family metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI03330	LOCMI03330	histone H2B	3	0.2	LOCMI03330	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI02995	LOCMI02995	histone 3	3	0.2	LOCMI02995	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI02904	LOCMI02904	histone H2B type 1-N	3	0.2	LOCMI02904	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI02850	LOCMI02850	Histone H3c	3	0.2	LOCMI02850	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI02396	LOCMI02396	pale, isoform A	3	0.2	LOCMI02396	aromatic amino acid family metabolic process // oxidation-reduction process // oxidoreductase activity
+LOCMI01686	LOCMI01686	Histone H2B	3	0.2	LOCMI01686	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI01334	LOCMI01334	predicted protein	3	0.2	LOCMI01334	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI00917	LOCMI00917	GM19716	3	0.2	LOCMI00917	chromatin assembly or disassembly // chromatin // chromosome
+LOCMI17331	LOCMI17331	Q0Z942_TRICA Chitinase 7	2	0.133333333333	LOCMI17331	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI17185	LOCMI17185	PREDICTED: chitinase-like protein Idgf4-like	2	0.133333333333	LOCMI17185	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI17170	LOCMI17170	PREDICTED: chitinase-like protein Idgf4-like	2	0.133333333333	LOCMI17170	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI17127	LOCMI17127	PREDICTED: chitinase-like protein Idgf4-like isoform 1	2	0.133333333333	LOCMI17127	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI17048	LOCMI17048	chitinase 5 precursor	2	0.133333333333	LOCMI17048	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI16387	LOCMI16387	D7ELE5_TRICA Putative uncharacterized protein	2	0.133333333333	LOCMI16387	oxidation-reduction process // oxidoreductase activity
+LOCMI15906	LOCMI15906	PREDICTED: similar to GA11371-PA	2	0.133333333333	LOCMI15906	oxidation-reduction process // oxidoreductase activity
+LOCMI15873	LOCMI15873	Acyl-CoA Delta(11) desaturase	2	0.133333333333	LOCMI15873	oxidation-reduction process // oxidoreductase activity
+LOCMI15511	LOCMI15511	heat shock protein 20.6	2	0.133333333333	LOCMI15511	response to abiotic stimulus // response to stress
+LOCMI15510	LOCMI15510	heat shock protein 20.5	2	0.133333333333	LOCMI15510	response to abiotic stimulus // response to stress
+LOCMI15488	LOCMI15488	glycogen synthase	2	0.133333333333	LOCMI15488	carbohydrate metabolic process // oxidation-reduction process
+LOCMI15049	LOCMI15049	PREDICTED: dihydropyrimidine dehydrogenase	2	0.133333333333	LOCMI15049	oxidation-reduction process // oxidoreductase activity
+LOCMI14928	LOCMI14928	putative alcohol dehydrogenase	2	0.133333333333	LOCMI14928	oxidation-reduction process // oxidoreductase activity
+LOCMI14059	LOCMI14059	B7QI99_IXOSC Globin, putative	2	0.133333333333	LOCMI14059	tetrapyrrole binding // iron ion binding
+LOCMI13963	LOCMI13963	Laccase2	2	0.133333333333	LOCMI13963	oxidation-reduction process // oxidoreductase activity
+LOCMI09783	LOCMI09783	PREDICTED: putative fatty acyl-CoA reductase CG5065-like	2	0.133333333333	LOCMI09783	oxidation-reduction process // oxidoreductase activity
+LOCMI08955	LOCMI08955	PREDICTED: retinol dehydrogenase 11-like	2	0.133333333333	LOCMI08955	oxidation-reduction process // oxidoreductase activity
+LOCMI08954	LOCMI08954	PREDICTED: retinol dehydrogenase 11-like	2	0.133333333333	LOCMI08954	oxidation-reduction process // oxidoreductase activity
+LOCMI08784	LOCMI08784	PREDICTED: glutaredoxin-related protein 5, mitochondrial-like	2	0.133333333333	LOCMI08784	electron carrier activity // oxidoreductase activity
+LOCMI06775	LOCMI06775	beta-1,4-endoglucanase	2	0.133333333333	LOCMI06775	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI06773	LOCMI06773	beta-1,4-endoglucanase	2	0.133333333333	LOCMI06773	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI05827	LOCMI05827	protein lethal, putative	2	0.133333333333	LOCMI05827	response to abiotic stimulus // response to stress
+LOCMI05703	LOCMI05703	epsilon-trimethyllysine 2-oxoglutarate dioxygenase	2	0.133333333333	LOCMI05703	oxidation-reduction process // oxidoreductase activity
+LOCMI05288	LOCMI05288	putative alcohol dehydrogenase	2	0.133333333333	LOCMI05288	oxidation-reduction process // oxidoreductase activity
+LOCMI05015	LOCMI05015	malate dehydrogenase	2	0.133333333333	LOCMI05015	oxidation-reduction process // oxidoreductase activity
+LOCMI04519	LOCMI04519	PREDICTED: procollagen-lysine,2-oxoglutarate 5-dioxygenase 3-like	2	0.133333333333	LOCMI04519	oxidation-reduction process // oxidoreductase activity
+LOCMI03841	LOCMI03841	PREDICTED: dehydrogenase/reductase SDR family member 11-like	2	0.133333333333	LOCMI03841	oxidation-reduction process // oxidoreductase activity
+LOCMI03761	LOCMI03761	B0W8Y2_CULQU Uricase	2	0.133333333333	LOCMI03761	oxidation-reduction process // oxidoreductase activity
+LOCMI03383	LOCMI03383	beta-1,4-endoglucanase	2	0.133333333333	LOCMI03383	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI03281	LOCMI03281	Q16FH6_AEDAE Putative uncharacterized protein	2	0.133333333333	LOCMI03281	tetrapyrrole binding // iron ion binding
+LOCMI03021	LOCMI03021	Q17D83_AEDAE Putative uncharacterized protein	2	0.133333333333	LOCMI03021	oxidation-reduction process // oxidoreductase activity
+LOCMI02015	LOCMI02015	PREDICTED: chitinase-like protein Idgf4-like	2	0.133333333333	LOCMI02015	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI01741	LOCMI01741	cellulase	2	0.133333333333	LOCMI01741	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI01455	LOCMI01455	Glycoside hydrolase, family 1 IPR017853; Glycoside hydrolase, catalytic core	2	0.133333333333	LOCMI01455	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI01323	LOCMI01323	beta-1,4-endoglucanase	2	0.133333333333	LOCMI01323	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI01286	LOCMI01286	cellulase	2	0.133333333333	LOCMI01286	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI01266	LOCMI01266	putative alcohol dehydrogenase	2	0.133333333333	LOCMI01266	oxidation-reduction process // oxidoreductase activity
+LOCMI01242	LOCMI01242	PREDICTED: synaptic vesicle membrane protein VAT-1 homolog isoform 1	2	0.133333333333	LOCMI01242	oxidation-reduction process // oxidoreductase activity
+LOCMI00796	LOCMI00796	beta-1,4-endoglucanase	2	0.133333333333	LOCMI00796	carbohydrate metabolic process // hydrolase activity, acting on glycosyl bonds
+LOCMI17322	LOCMI17322	GK14160	1	0.0666666666667	LOCMI17322	structural molecule activity
+LOCMI17211	LOCMI17211	cuticular protein RR-1 motif 45 precursor	1	0.0666666666667	LOCMI17211	structural molecule activity
+LOCMI17206	LOCMI17206	B4P5B5_DROYA GE12453	1	0.0666666666667	LOCMI17206	structural molecule activity
+LOCMI17205	LOCMI17205	B2DBP1_9NEOP Cuticular protein CPR2	1	0.0666666666667	LOCMI17205	structural molecule activity
+LOCMI17181	LOCMI17181	B0ZYQ1_LEPDE Putative cuticle protein CP5	1	0.0666666666667	LOCMI17181	structural molecule activity
+LOCMI17141	LOCMI17141	Q2LZE6_DROPS GA10226	1	0.0666666666667	LOCMI17141	structural molecule activity
+LOCMI17132	LOCMI17132	Q7PM44_ANOGA Cuticular protein 78, RR-1 family (AGAP009876-PA)	1	0.0666666666667	LOCMI17132	structural molecule activity
+LOCMI16851	LOCMI16851	Q16PW8_AEDAE Pupal cuticle protein, putative	1	0.0666666666667	LOCMI16851	structural molecule activity
+LOCMI16834	LOCMI16834	PREDICTED: similar to Cuticular protein 62Bc CG1919-PA	1	0.0666666666667	LOCMI16834	structural molecule activity
+LOCMI16833	LOCMI16833	protein rtoA, putative	1	0.0666666666667	LOCMI16833	structural molecule activity
+LOCMI16819	LOCMI16819	Insect cuticle protein	1	0.0666666666667	LOCMI16819	structural molecule activity
+LOCMI16802	LOCMI16802	DrosGluCl, putative	1	0.0666666666667	LOCMI16802	transporter activity
+LOCMI16797	LOCMI16797	PREDICTED: similar to Shaker CG12348-PC	1	0.0666666666667	LOCMI16797	transporter activity
+LOCMI16781	LOCMI16781	adult cuticle protein, putative	1	0.0666666666667	LOCMI16781	structural molecule activity
+LOCMI16739	LOCMI16739	endocuticle structural glycoprotein SgAbd-8	1	0.0666666666667	LOCMI16739	structural molecule activity
+LOCMI16731	LOCMI16731	PREDICTED: endocuticle structural glycoprotein SgAbd-2-like	1	0.0666666666667	LOCMI16731	structural molecule activity
+LOCMI16721	LOCMI16721	TPAputative cuticle protein	1	0.0666666666667	LOCMI16721	structural molecule activity
+LOCMI16718	LOCMI16718	GA21674	1	0.0666666666667	LOCMI16718	structural molecule activity
+LOCMI16712	LOCMI16712	hexamerin-like protein 1	1	0.0666666666667	LOCMI16712	transporter activity
+LOCMI16677	LOCMI16677	Endocuticle structural glycoprotein SgAbd-8, putative	1	0.0666666666667	LOCMI16677	structural molecule activity
+LOCMI16673	LOCMI16673	Pro-resilin	1	0.0666666666667	LOCMI16673	structural molecule activity
+LOCMI16660	LOCMI16660	methionine-rich hexamerin-like protein 1	1	0.0666666666667	LOCMI16660	transporter activity
+LOCMI16641	LOCMI16641	TPA: putative cuticle protein	1	0.0666666666667	LOCMI16641	structural molecule activity
+LOCMI16640	LOCMI16640	E2BNC7_9HYME Cuticle protein 18.6, isoform A	1	0.0666666666667	LOCMI16640	structural molecule activity
+LOCMI16639	LOCMI16639	E0VEY8_PEDHC Cutile protein, putative	1	0.0666666666667	LOCMI16639	structural molecule activity
+LOCMI16638	LOCMI16638	GH17178	1	0.0666666666667	LOCMI16638	structural molecule activity
+LOCMI16637	LOCMI16637	PREDICTED: similar to Cuticular protein 62Bc CG1919-PA	1	0.0666666666667	LOCMI16637	structural molecule activity
+LOCMI16632	LOCMI16632	D6WIZ6_TRICA Putative uncharacterized protein	1	0.0666666666667	LOCMI16632	structural molecule activity
+LOCMI16630	LOCMI16630	putative cuticle protein CPR151	1	0.0666666666667	LOCMI16630	structural molecule activity
+LOCMI16629	LOCMI16629	protein rtoA, putative	1	0.0666666666667	LOCMI16629	structural molecule activity
+LOCMI16628	LOCMI16628	cuticle protein, putative	1	0.0666666666667	LOCMI16628	structural molecule activity
+LOCMI16627	LOCMI16627	protein rtoA, putative	1	0.0666666666667	LOCMI16627	structural molecule activity
+LOCMI16626	LOCMI16626	C0H6Y4_BOMMO Putative cuticle protein	1	0.0666666666667	LOCMI16626	structural molecule activity
+LOCMI16618	LOCMI16618	TPAputative cuticle protein	1	0.0666666666667	LOCMI16618	structural molecule activity
+LOCMI16610	LOCMI16610	Q7QIK6_ANOGA Cuticular protein 111, RR-3 family (AGAP006931-PA)	1	0.0666666666667	LOCMI16610	structural molecule activity
+LOCMI16609	LOCMI16609	D6WNV3_TRICA Putative uncharacterized protein	1	0.0666666666667	LOCMI16609	structural molecule activity
+LOCMI16606	LOCMI16606	cuticle protein, putative	1	0.0666666666667	LOCMI16606	structural molecule activity
+LOCMI16604	LOCMI16604	B4H6H2_DROPE GL15514	1	0.0666666666667	LOCMI16604	structural molecule activity
+LOCMI16602	LOCMI16602	cuticle protein	1	0.0666666666667	LOCMI16602	structural molecule activity
+LOCMI16600	LOCMI16600	RecName: Full=Cuticle protein 19; AltName: Full=LM-ACP 19; Short=LM-19 gb|AAB34514.1| Lm-ACP19=wing cuticle protein	1	0.0666666666667	LOCMI16600	structural molecule activity
+LOCMI16588	LOCMI16588	methionine-rich hexamerin-like protein 1	1	0.0666666666667	LOCMI16588	transporter activity
+LOCMI16435	LOCMI16435	RecName: Full=Peptidoglycan-recognition protein 2; AltName: Full=Hd-PGRP-2; Flags: Precursor dbj|BAD08317.1| peptidoglycan recognition protein-2	1	0.0666666666667	LOCMI16435	carbohydrate metabolic process
+LOCMI16434	LOCMI16434	D6WIN8_TRICA Putative uncharacterized protein	1	0.0666666666667	LOCMI16434	carbohydrate metabolic process
+LOCMI16431	LOCMI16431	D6WIN8_TRICA Putative uncharacterized protein	1	0.0666666666667	LOCMI16431	carbohydrate metabolic process
+LOCMI16369	LOCMI16369	GI12107	1	0.0666666666667	LOCMI16369	carbohydrate metabolic process
+LOCMI16366	LOCMI16366	putative peptidoglycan recognition protein LB	1	0.0666666666667	LOCMI16366	carbohydrate metabolic process
+LOCMI16348	LOCMI16348	GH16825	1	0.0666666666667	LOCMI16348	response to stress
+LOCMI16276	LOCMI16276	Q5DIE1_GRYOR Peroxiredoxin	1	0.0666666666667	LOCMI16276	oxidoreductase activity
+LOCMI16274	LOCMI16274	Q7PZB4_ANOGA Thioredoxin-dependent peroxidase (AGAP011824-PA)	1	0.0666666666667	LOCMI16274	oxidoreductase activity
+LOCMI16273	LOCMI16273	peroxiredoxin	1	0.0666666666667	LOCMI16273	oxidoreductase activity
+LOCMI16269	LOCMI16269	D6WCX5_TRICA Putative uncharacterized protein	1	0.0666666666667	LOCMI16269	oxidoreductase activity
+LOCMI16268	LOCMI16268	Peroxiredoxin-6	1	0.0666666666667	LOCMI16268	oxidoreductase activity
+LOCMI16267	LOCMI16267	E9IID8_SOLIN Putative uncharacterized protein (Fragment)	1	0.0666666666667	LOCMI16267	oxidoreductase activity
+LOCMI16063	LOCMI16063	fructose 1,6-bisphosphate aldolase	1	0.0666666666667	LOCMI16063	carbohydrate metabolic process
+LOCMI16029	LOCMI16029	phosphoglucomutase	1	0.0666666666667	LOCMI16029	carbohydrate metabolic process
+LOCMI15994	LOCMI15994	Q16F38_AEDAE Pyruvate kinase	1	0.0666666666667	LOCMI15994	carbohydrate metabolic process
+LOCMI15989	LOCMI15989	citrate synthase	1	0.0666666666667	LOCMI15989	carbohydrate metabolic process
+LOCMI15947	LOCMI15947	PREDICTED: pyruvate carboxylase, mitochondrial-like isoform 1	1	0.0666666666667	LOCMI15947	carbohydrate metabolic process
+LOCMI15924	LOCMI15924	PREDICTED: pyruvate kinase-like isoform 2	1	0.0666666666667	LOCMI15924	carbohydrate metabolic process
+LOCMI15911	LOCMI15911	ATP synthase lipid-binding protein, mitochondrial	1	0.0666666666667	LOCMI15911	transporter activity
+LOCMI15859	LOCMI15859	PREDICTED: glucosylceramidase-like	1	0.0666666666667	LOCMI15859	hydrolase activity, acting on glycosyl bonds
+LOCMI15795	LOCMI15795	PREDICTED: similar to NADH-ubiquinone oxidoreductase ashi subunit	1	0.0666666666667	LOCMI15795	oxidoreductase activity
+LOCMI15736	LOCMI15736	predicted protein	1	0.0666666666667	LOCMI15736	transporter activity
+LOCMI15719	LOCMI15719	hexamerin-like protein 1	1	0.0666666666667	LOCMI15719	transporter activity
+LOCMI15496	LOCMI15496	hexamerin-like protein 4	1	0.0666666666667	LOCMI15496	transporter activity
+LOCMI15495	LOCMI15495	hexamerin-like protein 2	1	0.0666666666667	LOCMI15495	transporter activity
+LOCMI15494	LOCMI15494	hexamerin-like protein 1	1	0.0666666666667	LOCMI15494	transporter activity
+LOCMI15486	LOCMI15486	juvenile hormone binding protein	1	0.0666666666667	LOCMI15486	transporter activity
+LOCMI15482	LOCMI15482	nuclear transcription factor Tfp1	1	0.0666666666667	LOCMI15482	transporter activity
+LOCMI15346	LOCMI15346	TPA: putative cuticle protein	1	0.0666666666667	LOCMI15346	structural molecule activity
+LOCMI15345	LOCMI15345	Q16XV3_AEDAE Cuticle protein, putative	1	0.0666666666667	LOCMI15345	structural molecule activity
+LOCMI15344	LOCMI15344	B4N5V1_DROWI GK17855	1	0.0666666666667	LOCMI15344	structural molecule activity
+LOCMI15328	LOCMI15328	Voltage-dependent L-type calcium channel, putative	1	0.0666666666667	LOCMI15328	transporter activity
+LOCMI15210	LOCMI15210	aquaporin	1	0.0666666666667	LOCMI15210	transporter activity
+LOCMI15206	LOCMI15206	aquaporin	1	0.0666666666667	LOCMI15206	transporter activity
+LOCMI15155	LOCMI15155	gastric caeca sugar transporter	1	0.0666666666667	LOCMI15155	transporter activity
+LOCMI14741	LOCMI14741	PREDICTED: transient receptor potential protein-like	1	0.0666666666667	LOCMI14741	transporter activity
+LOCMI14740	LOCMI14740	PREDICTED: similar to calmodulin-binding protein trpl	1	0.0666666666667	LOCMI14740	transporter activity
+LOCMI14139	LOCMI14139	Aquaporin AQPAe.a, putative	1	0.0666666666667	LOCMI14139	transporter activity
+LOCMI14106	LOCMI14106	Q0IEA9_AEDAE Sugar transporter	1	0.0666666666667	LOCMI14106	transporter activity
+LOCMI13992	LOCMI13992	Q171Z5_AEDAE Putative uncharacterized protein	1	0.0666666666667	LOCMI13992	carbohydrate metabolic process
+LOCMI13987	LOCMI13987	PREDICTED: 40S ribosomal protein S19a-like	1	0.0666666666667	LOCMI13987	structural molecule activity
+LOCMI13786	LOCMI13786	hexamerin-like protein 4	1	0.0666666666667	LOCMI13786	transporter activity
+LOCMI13783	LOCMI13783	hexamerin storage protein 3	1	0.0666666666667	LOCMI13783	transporter activity
+LOCMI13782	LOCMI13782	hexamerin storage protein 3	1	0.0666666666667	LOCMI13782	transporter activity
+LOCMI13707	LOCMI13707	Q4RX50_TETNG Chromosome 11 SCAF14979, whole genome shotgun sequence. (Fragment)	1	0.0666666666667	LOCMI13707	oxidoreductase activity
+LOCMI13706	LOCMI13706	39S ribosomal protein L47, mitochondrial	1	0.0666666666667	LOCMI13706	structural molecule activity
+LOCMI13628	LOCMI13628	PREDICTED: glucose dehydrogenase	1	0.0666666666667	LOCMI13628	oxidoreductase activity
+LOCMI13596	LOCMI13596	C3ZEA4_BRAFL Putative uncharacterized protein	1	0.0666666666667	LOCMI13596	transporter activity
+LOCMI13571	LOCMI13571	PREDICTED: collagen alpha-1(XXII) chain-like isoform 1	1	0.0666666666667	LOCMI13571	structural molecule activity
+LOCMI13412	LOCMI13412	zinc transporter	1	0.0666666666667	LOCMI13412	transporter activity
+LOCMI13353	LOCMI13353	B6RQP9_SITZE I-type lysozyme	1	0.0666666666667	LOCMI13353	hydrolase activity, acting on glycosyl bonds
+LOCMI13304	LOCMI13304	PREDICTED: glucose dehydrogenase	1	0.0666666666667	LOCMI13304	oxidoreductase activity
+LOCMI13224	LOCMI13224	GH17178	1	0.0666666666667	LOCMI13224	structural molecule activity
+LOCMI13090	LOCMI13090	GJ13982	1	0.0666666666667	LOCMI13090	transporter activity
+LOCMI13085	LOCMI13085	sugar transporter, putative	1	0.0666666666667	LOCMI13085	transporter activity
+LOCMI13084	LOCMI13084	GK17357	1	0.0666666666667	LOCMI13084	transporter activity
+LOCMI12795	LOCMI12795	B4NMT3_DROWI GK23202	1	0.0666666666667	LOCMI12795	carbohydrate metabolic process
+LOCMI12270	LOCMI12270	Large neutral amino acids transporter small subunit 2	1	0.0666666666667	LOCMI12270	transporter activity
+LOCMI12218	LOCMI12218	GJ14495	1	0.0666666666667	LOCMI12218	carbohydrate metabolic process
+LOCMI12178	LOCMI12178	PREDICTED: ADP-ribosylation factor-like 6 interacting protein	1	0.0666666666667	LOCMI12178	structural molecule activity
+LOCMI12129	LOCMI12129	predicted protein	1	0.0666666666667	LOCMI12129	transporter activity
+LOCMI12128	LOCMI12128	vitellogenin	1	0.0666666666667	LOCMI12128	transporter activity
+LOCMI12121	LOCMI12121	B0G0U7_MONAT Beta1-tubulin	1	0.0666666666667	LOCMI12121	structural molecule activity
+LOCMI11963	LOCMI11963	hexamerin-like protein 2	1	0.0666666666667	LOCMI11963	transporter activity
+LOCMI11961	LOCMI11961	hexamerin-like protein 2	1	0.0666666666667	LOCMI11961	transporter activity
+LOCMI11888	LOCMI11888	PREDICTED: facilitated trehalose transporter Tret1-like	1	0.0666666666667	LOCMI11888	transporter activity
+LOCMI11805	LOCMI11805	B4LP76_DROVI GJ21008	1	0.0666666666667	LOCMI11805	hydrolase activity, acting on glycosyl bonds
+LOCMI11744	LOCMI11744	RecName: Full=40S ribosomal protein S13 gb|AAK92182.1|AF400210_1 ribosomal protein S13	1	0.0666666666667	LOCMI11744	structural molecule activity
+LOCMI11717	LOCMI11717	Q17H61_AEDAE Putative uncharacterized protein	1	0.0666666666667	LOCMI11717	carbohydrate metabolic process
+LOCMI11714	LOCMI11714	B0W0L0_CULQU Putative uncharacterized protein	1	0.0666666666667	LOCMI11714	carbohydrate metabolic process
+LOCMI11713	LOCMI11713	Q16MN2_AEDAE Putative uncharacterized protein	1	0.0666666666667	LOCMI11713	carbohydrate metabolic process
+LOCMI11496	LOCMI11496	PREDICTED: 40S ribosomal protein S19a-like	1	0.0666666666667	LOCMI11496	structural molecule activity
+LOCMI11351	LOCMI11351	C0H6I4_BOMMO Putative cuticle protein	1	0.0666666666667	LOCMI11351	structural molecule activity
+LOCMI11204	LOCMI11204	PREDICTED: ATP-sensitive inward rectifier potassium channel 12-like	1	0.0666666666667	LOCMI11204	transporter activity
+LOCMI11147	LOCMI11147	hexamerin-like protein 2	1	0.0666666666667	LOCMI11147	transporter activity
+LOCMI10699	LOCMI10699	Sialidase	1	0.0666666666667	LOCMI10699	carbohydrate metabolic process
+LOCMI09973	LOCMI09973	GF14860	1	0.0666666666667	LOCMI09973	carbohydrate metabolic process
+LOCMI08914	LOCMI08914	B4KWW3_DROMO GI12007	1	0.0666666666667	LOCMI08914	carbohydrate metabolic process
+LOCMI08908	LOCMI08908	Tubulin alpha chain	1	0.0666666666667	LOCMI08908	structural molecule activity
+LOCMI08521	LOCMI08521	alpha-amylase	1	0.0666666666667	LOCMI08521	carbohydrate metabolic process
+LOCMI07530	LOCMI07530	GG20638	1	0.0666666666667	LOCMI07530	hydrolase activity, acting on glycosyl bonds
+LOCMI07191	LOCMI07191	C0H6M4_BOMMO Putative cuticle protein	1	0.0666666666667	LOCMI07191	structural molecule activity
+LOCMI07113	LOCMI07113	PREDICTED: similar to ATP-binding cassette transporter	1	0.0666666666667	LOCMI07113	transporter activity
+LOCMI07097	LOCMI07097	A8XAF1_CAEBR CBR-EMB-9 protein	1	0.0666666666667	LOCMI07097	structural molecule activity
+LOCMI07060	LOCMI07060	GI16821	1	0.0666666666667	LOCMI07060	structural molecule activity
+LOCMI07059	LOCMI07059	AGAP001668-PA	1	0.0666666666667	LOCMI07059	structural molecule activity
+LOCMI06714	LOCMI06714	Autophagy-related protein 12	1	0.0666666666667	LOCMI06714	response to stress
+LOCMI06694	LOCMI06694	acidic ribosomal protein	1	0.0666666666667	LOCMI06694	structural molecule activity
+LOCMI06624	LOCMI06624	PREDICTED: inward rectifier potassium channel 2-like	1	0.0666666666667	LOCMI06624	transporter activity
+LOCMI06618	LOCMI06618	PREDICTED: clavesin-1-like	1	0.0666666666667	LOCMI06618	transporter activity
+LOCMI06569	LOCMI06569	PREDICTED: calcium-transporting ATPase sarcoplasmic/endoplasmic reticulum type-like	1	0.0666666666667	LOCMI06569	transporter activity
+LOCMI06498	LOCMI06498	60S ribosomal protein L24, putative	1	0.0666666666667	LOCMI06498	structural molecule activity
+LOCMI06431	LOCMI06431	PREDICTED: aquaporin AQPcic-like isoform 1	1	0.0666666666667	LOCMI06431	transporter activity
+LOCMI06290	LOCMI06290	B0WZZ2_CULQU Putative uncharacterized protein	1	0.0666666666667	LOCMI06290	carbohydrate metabolic process
+LOCMI06254	LOCMI06254	AGAP007055-PA	1	0.0666666666667	LOCMI06254	transporter activity
+LOCMI06228	LOCMI06228	B0ZYQ1_LEPDE Putative cuticle protein CP5	1	0.0666666666667	LOCMI06228	structural molecule activity
+LOCMI05981	LOCMI05981	Coatomer subunit beta', putative	1	0.0666666666667	LOCMI05981	structural molecule activity
+LOCMI05874	LOCMI05874	chitin binding peritrophin-A, putative	1	0.0666666666667	LOCMI05874	carbohydrate metabolic process
+LOCMI05620	LOCMI05620	transferrin	1	0.0666666666667	LOCMI05620	iron ion binding
+LOCMI05479	LOCMI05479	cuticular protein CPR67A	1	0.0666666666667	LOCMI05479	structural molecule activity
+LOCMI05399	LOCMI05399	ADP,ATP carrier protein 2	1	0.0666666666667	LOCMI05399	transporter activity
+LOCMI05383	LOCMI05383	pupal cuticle protein	1	0.0666666666667	LOCMI05383	structural molecule activity
+LOCMI05217	LOCMI05217	B4KK66_DROMO GI17220	1	0.0666666666667	LOCMI05217	transporter activity
+LOCMI05065	LOCMI05065	PREDICTED: sterile alpha and TIR motif-containing protein 1-like	1	0.0666666666667	LOCMI05065	response to stress
+LOCMI04906	LOCMI04906	PREDICTED: maltase 1-like	1	0.0666666666667	LOCMI04906	carbohydrate metabolic process
+LOCMI04868	LOCMI04868	superoxide dismutase	1	0.0666666666667	LOCMI04868	oxidation-reduction process
+LOCMI04650	LOCMI04650	tubulin, alpha 1	1	0.0666666666667	LOCMI04650	structural molecule activity
+LOCMI04605	LOCMI04605	Defensin, invertebrate/fungal	1	0.0666666666667	LOCMI04605	response to stress
+LOCMI04602	LOCMI04602	PREDICTED: iron-sulfur cluster assembly 1 homolog, mitochondrial-like isoform 1	1	0.0666666666667	LOCMI04602	structural molecule activity
+LOCMI04373	LOCMI04373	Q6TAX6_9HYME Defensin	1	0.0666666666667	LOCMI04373	response to stress
+LOCMI04372	LOCMI04372	Q6TAX6_9HYME Defensin	1	0.0666666666667	LOCMI04372	response to stress
+LOCMI04297	LOCMI04297	PREDICTED: alpha-tocopherol transfer protein-like	1	0.0666666666667	LOCMI04297	transporter activity
+LOCMI04280	LOCMI04280	AGAP011937-PA	1	0.0666666666667	LOCMI04280	carbohydrate metabolic process
+LOCMI04030	LOCMI04030	PREDICTED: lysozyme 3-like	1	0.0666666666667	LOCMI04030	hydrolase activity, acting on glycosyl bonds
+LOCMI04008	LOCMI04008	ADP,ATP carrier protein 2	1	0.0666666666667	LOCMI04008	transporter activity
+LOCMI03909	LOCMI03909	mitochondrial import inner membrane translocase subunit Tim17-B, putative	1	0.0666666666667	LOCMI03909	transporter activity
+LOCMI03868	LOCMI03868	organic anion transporter	1	0.0666666666667	LOCMI03868	transporter activity
+LOCMI03770	LOCMI03770	B3P2V7_DROER Glucose dehydrogenase	1	0.0666666666667	LOCMI03770	oxidoreductase activity
+LOCMI03766	LOCMI03766	alpha-amylase	1	0.0666666666667	LOCMI03766	carbohydrate metabolic process
+LOCMI03672	LOCMI03672	MPA13 allergen	1	0.0666666666667	LOCMI03672	transporter activity
+LOCMI03534	LOCMI03534	RecName: Full=Lazarillo protein; Flags: Precursor gb|AAC46605.1| Lazarillo precursor	1	0.0666666666667	LOCMI03534	transporter activity
+LOCMI03486	LOCMI03486	B4L259_DROMO GI15372	1	0.0666666666667	LOCMI03486	oxidoreductase activity
+LOCMI03266	LOCMI03266	PREDICTED: transient receptor potential cation channel subfamily A member 1-like	1	0.0666666666667	LOCMI03266	transporter activity
+LOCMI03209	LOCMI03209	cuticle protein 2	1	0.0666666666667	LOCMI03209	structural molecule activity
+LOCMI03116	LOCMI03116	AGAP011936-PA	1	0.0666666666667	LOCMI03116	carbohydrate metabolic process
+LOCMI02963	LOCMI02963	structural constituent of cuticle, putative	1	0.0666666666667	LOCMI02963	structural molecule activity
+LOCMI02919	LOCMI02919	PREDICTED: glucose dehydrogenase	1	0.0666666666667	LOCMI02919	oxidoreductase activity
+LOCMI02653	LOCMI02653	Structural maintenance of chromosomes protein 1A	1	0.0666666666667	LOCMI02653	structural molecule activity
+LOCMI02529	LOCMI02529	alpha-amylase	1	0.0666666666667	LOCMI02529	carbohydrate metabolic process
+LOCMI02490	LOCMI02490	Short-chain dehydrogenase/reductase SDR	1	0.0666666666667	LOCMI02490	oxidoreductase activity
+LOCMI02025	LOCMI02025	Ryanodine receptor, putative	1	0.0666666666667	LOCMI02025	transporter activity
+LOCMI01986	LOCMI01986	PREDICTED: flexible cuticle protein 12	1	0.0666666666667	LOCMI01986	structural molecule activity
+LOCMI01885	LOCMI01885	GH12877p	1	0.0666666666667	LOCMI01885	structural molecule activity
+LOCMI01841	LOCMI01841	hexamerin-like protein 1	1	0.0666666666667	LOCMI01841	transporter activity
+LOCMI01723	LOCMI01723	sodium-dependent nutrient amino acid transporter, putative	1	0.0666666666667	LOCMI01723	transporter activity
+LOCMI01666	LOCMI01666	B4GDF1_DROPE GL11225	1	0.0666666666667	LOCMI01666	carbohydrate metabolic process
+LOCMI01594	LOCMI01594	GJ10054	1	0.0666666666667	LOCMI01594	carbohydrate metabolic process
+LOCMI01539	LOCMI01539	Short-chain dehydrogenase/reductase SDR	1	0.0666666666667	LOCMI01539	oxidoreductase activity
+LOCMI01469	LOCMI01469	putative ribosomal protein S27	1	0.0666666666667	LOCMI01469	structural molecule activity
+LOCMI01441	LOCMI01441	protein C20orf121, putative	1	0.0666666666667	LOCMI01441	transporter activity
+LOCMI01321	LOCMI01321	Q6TAX6_9HYME Defensin	1	0.0666666666667	LOCMI01321	response to stress
+LOCMI01274	LOCMI01274	PREDICTED: sodium/potassium-transporting ATPase subunit alpha-like	1	0.0666666666667	LOCMI01274	transporter activity
+LOCMI01251	LOCMI01251	PREDICTED: alpha-tocopherol transfer protein-like isoform 1	1	0.0666666666667	LOCMI01251	transporter activity
+LOCMI01214	LOCMI01214	N-acetylmuramoyl-L-alanine amidase, family 2 IPR015510; Peptidoglycan recognition protein	1	0.0666666666667	LOCMI01214	carbohydrate metabolic process
+LOCMI01110	LOCMI01110	PREDICTED: 40S ribosomal protein S26	1	0.0666666666667	LOCMI01110	structural molecule activity
+LOCMI00811	LOCMI00811	A7U8C9_TRICA Chitin deacetylase 1	1	0.0666666666667	LOCMI00811	carbohydrate metabolic process
+LOCMI00197	LOCMI00197	C1C2Q6_9MAXI Fumarylacetoacetase	1	0.0666666666667	LOCMI00197	aromatic amino acid family metabolic process
+LOCMI00112	LOCMI00112	B0X692_CULQU Beta-1,4-galactosyltransferase	1	0.0666666666667	LOCMI00112	carbohydrate metabolic process
+LOCMI00075	LOCMI00075	glucose dehydrogenase	1	0.0666666666667	LOCMI00075	oxidoreductase activity

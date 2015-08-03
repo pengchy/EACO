@@ -1,0 +1,39 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+LOCMI04395	LOCMI04395	MPA13-like protein	2	0.333333333333	LOCMI04395	Lipocalin/cytosolic fatty-acid binding protein:IPR000566 // Cytosolic fatty-acid binding:IPR000463
+LOCMI00208	LOCMI00208	Fatty acid-binding protein, muscle	2	0.333333333333	LOCMI00208	Lipocalin/cytosolic fatty-acid binding protein:IPR000566 // Cytosolic fatty-acid binding:IPR000463
+LOCMI00043	LOCMI00043	cellular retinoic acid binding protein	2	0.333333333333	LOCMI00043	Lipocalin/cytosolic fatty-acid binding protein:IPR000566 // Cytosolic fatty-acid binding:IPR000463
+LOCMI17120	LOCMI17120	Q7Q8D4_ANOGA AGAP008684-PA	1	0.166666666667	LOCMI17120	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI16771	LOCMI16771	transformer-2 sex-determining protein, putative	1	0.166666666667	LOCMI16771	RNA recognition motif domain:IPR000504
+LOCMI16707	LOCMI16707	RecName: Full=Heterogeneous nuclear ribonucleoprotein A1, A2/B1 homolog emb|CAA38481.1| mammalian A1, A2 /B1 hnRNP homologue	1	0.166666666667	LOCMI16707	RNA recognition motif domain:IPR000504
+LOCMI16692	LOCMI16692	RecName: Full=Heterogeneous nuclear ribonucleoprotein A1, A2/B1 homolog emb|CAA38481.1| mammalian A1, A2 /B1 hnRNP homologue	1	0.166666666667	LOCMI16692	RNA recognition motif domain:IPR000504
+LOCMI16691	LOCMI16691	D6WGJ2_TRICA Putative uncharacterized protein	1	0.166666666667	LOCMI16691	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI16631	LOCMI16631	RecName: Full=Heterogeneous nuclear ribonucleoprotein A1, A2/B1 homolog emb|CAA38481.1| mammalian A1, A2 /B1 hnRNP homologue	1	0.166666666667	LOCMI16631	RNA recognition motif domain:IPR000504
+LOCMI16374	LOCMI16374	B9VSZ6_BOMMO Rbp1-like RNA-binding protein PB	1	0.166666666667	LOCMI16374	RNA recognition motif domain:IPR000504
+LOCMI15119	LOCMI15119	PREDICTED: myelin expression factor 2-like	1	0.166666666667	LOCMI15119	RNA recognition motif domain:IPR000504
+LOCMI14327	LOCMI14327	GF19034	1	0.166666666667	LOCMI14327	RNA recognition motif domain:IPR000504
+LOCMI13577	LOCMI13577	RNA-binding protein-like	1	0.166666666667	LOCMI13577	RNA recognition motif domain:IPR000504
+LOCMI12951	LOCMI12951	squid, variant G	1	0.166666666667	LOCMI12951	RNA recognition motif domain:IPR000504
+LOCMI11818	LOCMI11818	Q5TVS6_ANOGA AGAP003501-PA (Fragment)	1	0.166666666667	LOCMI11818	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11816	LOCMI11816	Q5TVS6_ANOGA AGAP003501-PA (Fragment)	1	0.166666666667	LOCMI11816	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI11814	LOCMI11814	Q5TVS6_ANOGA AGAP003501-PA (Fragment)	1	0.166666666667	LOCMI11814	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI09768	LOCMI09768	PREDICTED: heterogeneous nuclear ribonucleoprotein A1, A2/B1 homolog	1	0.166666666667	LOCMI09768	RNA recognition motif domain:IPR000504
+LOCMI08072	LOCMI08072	GF18086	1	0.166666666667	LOCMI08072	Glycoside hydrolase, family 31:IPR000322
+LOCMI06003	LOCMI06003	Scaffold attachment factor B2, putative	1	0.166666666667	LOCMI06003	RNA recognition motif domain:IPR000504
+LOCMI04987	LOCMI04987	Q7QH37_ANOGA AGAP003500-PA	1	0.166666666667	LOCMI04987	Alpha/beta hydrolase fold-1:IPR000073
+LOCMI04397	LOCMI04397	GK14321	1	0.166666666667	LOCMI04397	Glycoside hydrolase, family 31:IPR000322
+LOCMI03791	LOCMI03791	fatty acid binding protein	1	0.166666666667	LOCMI03791	Cytosolic fatty-acid binding:IPR000463
+LOCMI03790	LOCMI03790	fatty acid binding protein	1	0.166666666667	LOCMI03790	Cytosolic fatty-acid binding:IPR000463
+LOCMI03788	LOCMI03788	RecName: Full=Fatty acid-binding protein, muscle; AltName: Full=M-FABP gb|AAK20174.1| muscle fatty acid binding protein	1	0.166666666667	LOCMI03788	Cytosolic fatty-acid binding:IPR000463
+LOCMI03579	LOCMI03579	B9SV61_RICCO Alpha-glucosidase, putative	1	0.166666666667	LOCMI03579	Glycoside hydrolase, family 31:IPR000322
+LOCMI03125	LOCMI03125	GK14321	1	0.166666666667	LOCMI03125	Glycoside hydrolase, family 31:IPR000322
+LOCMI02988	LOCMI02988	32 kDa apolipoprotein	1	0.166666666667	LOCMI02988	Lipocalin/cytosolic fatty-acid binding protein:IPR000566
+LOCMI02777	LOCMI02777	A7URL1_ANOGA AGAP007209-PB	1	0.166666666667	LOCMI02777	Tetraspanin, subgroup:IPR000301
+LOCMI02499	LOCMI02499	PREDICTED: CD63 antigen-like	1	0.166666666667	LOCMI02499	Tetraspanin, subgroup:IPR000301
+LOCMI02477	LOCMI02477	PREDICTED: CD63 antigen-like	1	0.166666666667	LOCMI02477	Tetraspanin, subgroup:IPR000301
+LOCMI02275	LOCMI02275	Heterogeneous nuclear ribonucleoprotein A1, putative	1	0.166666666667	LOCMI02275	RNA recognition motif domain:IPR000504
+LOCMI02243	LOCMI02243	tetraspanin 6	1	0.166666666667	LOCMI02243	Tetraspanin, subgroup:IPR000301
+LOCMI01929	LOCMI01929	PREDICTED: LOW QUALITY PROTEIN: heterogeneous nuclear ribonucleoprotein H-like	1	0.166666666667	LOCMI01929	RNA recognition motif domain:IPR000504
+LOCMI01592	LOCMI01592	RNA-binding protein-like	1	0.166666666667	LOCMI01592	RNA recognition motif domain:IPR000504
+LOCMI01239	LOCMI01239	B9VSZ6_BOMMO Rbp1-like RNA-binding protein PB	1	0.166666666667	LOCMI01239	RNA recognition motif domain:IPR000504
+LOCMI00614	LOCMI00614	ALY	1	0.166666666667	LOCMI00614	RNA recognition motif domain:IPR000504
+LOCMI00493	LOCMI00493	Cytosolic fatty-acid binding IPR011038; Calycin-like	1	0.166666666667	LOCMI00493	Cytosolic fatty-acid binding:IPR000463

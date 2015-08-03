@@ -1,0 +1,137 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name
+LOCMI03230	LOCMI03230	PREDICTED: ribonucleotide reductase M2 polypeptide-like	LOCMI03230	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI15707	LOCMI15707	glutathione S-transferase sigma 1	LOCMI15707	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI08143	LOCMI08143	A7RV33_NEMVE Predicted protein	LOCMI08143	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI04442	LOCMI04442	microsomal glutathione transferase	LOCMI04442	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI15698	LOCMI15698	glutathione S-transferase sigma 3	LOCMI15698	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI15694	LOCMI15694	glutathione S-transferase delta	LOCMI15694	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI15696	LOCMI15696	glutathione S-transferase sigma 1	LOCMI15696	Glutathione metabolism:map00480	Glutathione metabolism:map00480
+LOCMI16062	LOCMI16062	GJ13165	LOCMI16062	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16006	LOCMI16006	H+ transporting ATP synthase subunit e	LOCMI16006	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16008	LOCMI16008	D6WXE2_TRICA Putative uncharacterized protein	LOCMI16008	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16102	LOCMI16102	vacuolar ATPase G subunit-like protein	LOCMI16102	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15807	LOCMI15807	Similar to CG4692	LOCMI15807	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15826	LOCMI15826	GJ18263	LOCMI15826	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15795	LOCMI15795	PREDICTED: similar to NADH-ubiquinone oxidoreductase ashi subunit	LOCMI15795	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15980	LOCMI15980	ubiquinol-cytochrome c reductase complex	LOCMI15980	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15863	LOCMI15863	NADH dehydrogenase, putative	LOCMI15863	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15865	LOCMI15865	vacuolar H+-ATPase v1 sector subunit D	LOCMI15865	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16058	LOCMI16058	C1BMA6_OSMMO Ubiquinol-cytochrome c reductase complex 6.4 kDa protein	LOCMI16058	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16094	LOCMI16094	CG12859	LOCMI16094	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16093	LOCMI16093	D6WV34_TRICA Putative uncharacterized protein	LOCMI16093	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16039	LOCMI16039	succinate dehydrogenase, putative	LOCMI16039	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15895	LOCMI15895	cytochrome c oxidase subunit VIIA putative	LOCMI15895	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15894	LOCMI15894	vacuolar ATP synthase subunit F	LOCMI15894	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15892	LOCMI15892	AGAP000849-PA	LOCMI15892	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15958	LOCMI15958	NADH ubiquinone dehydrogenase	LOCMI15958	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15890	LOCMI15890	AGAP012188-PA	LOCMI15890	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15979	LOCMI15979	GF16047	LOCMI15979	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15952	LOCMI15952	D6WEW9_TRICA Putative uncharacterized protein	LOCMI15952	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15775	LOCMI15775	PREDICTED: NADH dehydrogenase	LOCMI15775	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15910	LOCMI15910	mitochondrial acyl carrier protein 1 isoform B	LOCMI15910	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15911	LOCMI15911	ATP synthase lipid-binding protein, mitochondrial	LOCMI15911	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15917	LOCMI15917	Q1HR18_AEDAE Mitochondrial ubiquinol-cytochrome c reductase hinge protein	LOCMI15917	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15914	LOCMI15914	D6WRY0_TRICA Putative uncharacterized protein	LOCMI15914	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15915	LOCMI15915	cytochrome c oxidase, subunit VIA, putative	LOCMI15915	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16074	LOCMI16074	GH11536	LOCMI16074	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15959	LOCMI15959	Cytochrome c oxidase subunit 5B, mitochondrial	LOCMI15959	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15786	LOCMI15786	PREDICTED: cytochrome c oxidase subunit 7C, mitochondrial-like isoform 1	LOCMI15786	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15830	LOCMI15830	AGAP007297-PA	LOCMI15830	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15992	LOCMI15992	D7EJQ8_TRICA Putative uncharacterized protein	LOCMI15992	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15858	LOCMI15858	GK15672	LOCMI15858	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15838	LOCMI15838	B0X2B1_CULQU Putative uncharacterized protein	LOCMI15838	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16086	LOCMI16086	GJ18263	LOCMI16086	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16084	LOCMI16084	AGAP004616-PA	LOCMI16084	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI11065	LOCMI11065	GK10846	LOCMI11065	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16037	LOCMI16037	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 11	LOCMI16037	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15966	LOCMI15966	AGAP001711-PA	LOCMI15966	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15884	LOCMI15884	Q1HR38_AEDAE Hydrogen-transporting ATP synthase, G-subunit, putative	LOCMI15884	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI13033	LOCMI13033	PREDICTED: ATP synthase subunit epsilon, mitochondrial-like isoform 1	LOCMI13033	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15760	LOCMI15760	D6WQQ4_TRICA Putative uncharacterized protein	LOCMI15760	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16024	LOCMI16024	GH10285	LOCMI16024	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI16023	LOCMI16023	GJ17901	LOCMI16023	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI15925	LOCMI15925	AGAP001138-PA	LOCMI15925	Oxidative phosphorylation:map00190	Oxidative phosphorylation:map00190
+LOCMI00915	LOCMI00915	signal peptidase complex subunit 1-like protein	LOCMI00915	Protein export:map03060	Protein export:map03060
+LOCMI04853	LOCMI04853	signal recognition particle	LOCMI04853	Protein export:map03060	Protein export:map03060
+LOCMI10612	LOCMI10612	RecName: Full=Protein transport protein Sec61 subunit gamma gb|AAP47228.1| Sec61p gamma subunit	LOCMI10612	Protein export:map03060	Protein export:map03060
+LOCMI09429	LOCMI09429	Signal recognition particle receptor subunit beta	LOCMI09429	Protein export:map03060	Protein export:map03060
+LOCMI13569	LOCMI13569	Q4LAY4_9COLE Ribosomal protein S28e	LOCMI13569	Ribosome:map03010	Ribosome:map03010
+LOCMI10600	LOCMI10600	putative ribosomal protein S4e	LOCMI10600	Ribosome:map03010	Ribosome:map03010
+LOCMI13545	LOCMI13545	60S ribosomal protein L8	LOCMI13545	Ribosome:map03010	Ribosome:map03010
+LOCMI05114	LOCMI05114	ribosomal protein L35	LOCMI05114	Ribosome:map03010	Ribosome:map03010
+LOCMI07886	LOCMI07886	B0WL56_CULQU 39S ribosomal protein L14, mitochondrial	LOCMI07886	Ribosome:map03010	Ribosome:map03010
+LOCMI05642	LOCMI05642	putative ribosomal protein S23e	LOCMI05642	Ribosome:map03010	Ribosome:map03010
+LOCMI03326	LOCMI03326	40S ribosomal protein S11	LOCMI03326	Ribosome:map03010	Ribosome:map03010
+LOCMI09605	LOCMI09605	putative ribosomal protein 49	LOCMI09605	Ribosome:map03010	Ribosome:map03010
+LOCMI09637	LOCMI09637	Q56FD3_LYSTE Ribosomal protein L13a	LOCMI09637	Ribosome:map03010	Ribosome:map03010
+LOCMI10269	LOCMI10269	ubiquitin/ribosomal protein S27Ae fusion protein	LOCMI10269	Ribosome:map03010	Ribosome:map03010
+LOCMI12288	LOCMI12288	60S ribosomal protein L44	LOCMI12288	Ribosome:map03010	Ribosome:map03010
+LOCMI10036	LOCMI10036	ribosomal protein L22	LOCMI10036	Ribosome:map03010	Ribosome:map03010
+LOCMI05567	LOCMI05567	40S ribosomal protein S24	LOCMI05567	Ribosome:map03010	Ribosome:map03010
+LOCMI05931	LOCMI05931	putative ribosomal protein S25	LOCMI05931	Ribosome:map03010	Ribosome:map03010
+LOCMI13842	LOCMI13842	GL15397	LOCMI13842	Ribosome:map03010	Ribosome:map03010
+LOCMI07867	LOCMI07867	ribosomal protein L14	LOCMI07867	Ribosome:map03010	Ribosome:map03010
+LOCMI02068	LOCMI02068	ribosomal protein S13	LOCMI02068	Ribosome:map03010	Ribosome:map03010
+LOCMI07012	LOCMI07012	60S ribosomal protein L21	LOCMI07012	Ribosome:map03010	Ribosome:map03010
+LOCMI08559	LOCMI08559	GA15071	LOCMI08559	Ribosome:map03010	Ribosome:map03010
+LOCMI03823	LOCMI03823	ribosomal protein L19e	LOCMI03823	Ribosome:map03010	Ribosome:map03010
+LOCMI06322	LOCMI06322	GF14155	LOCMI06322	Ribosome:map03010	Ribosome:map03010
+LOCMI13397	LOCMI13397	Q4GXE5_JULON Ribosomal protein L24e	LOCMI13397	Ribosome:map03010	Ribosome:map03010
+LOCMI11496	LOCMI11496	PREDICTED: 40S ribosomal protein S19a-like	LOCMI11496	Ribosome:map03010	Ribosome:map03010
+LOCMI02563	LOCMI02563	ribosomal protein L13	LOCMI02563	Ribosome:map03010	Ribosome:map03010
+LOCMI00502	LOCMI00502	40S ribosomal protein S21, putative	LOCMI00502	Ribosome:map03010	Ribosome:map03010
+LOCMI01249	LOCMI01249	60S ribosomal protein L35a	LOCMI01249	Ribosome:map03010	Ribosome:map03010
+LOCMI04863	LOCMI04863	PREDICTED: 60S ribosomal protein L9	LOCMI04863	Ribosome:map03010	Ribosome:map03010
+LOCMI09539	LOCMI09539	ribosomal protein S30	LOCMI09539	Ribosome:map03010	Ribosome:map03010
+LOCMI02613	LOCMI02613	PREDICTED: 60S ribosomal protein L4-like	LOCMI02613	Ribosome:map03010	Ribosome:map03010
+LOCMI13355	LOCMI13355	PREDICTED: 40S ribosomal protein S18	LOCMI13355	Ribosome:map03010	Ribosome:map03010
+LOCMI06222	LOCMI06222	Q4GXD7_PLAAL Ribosomal protein L26e	LOCMI06222	Ribosome:map03010	Ribosome:map03010
+LOCMI11190	LOCMI11190	mitochondrial ribosomal protein, S18C, putative	LOCMI11190	Ribosome:map03010	Ribosome:map03010
+LOCMI01469	LOCMI01469	putative ribosomal protein S27	LOCMI01469	Ribosome:map03010	Ribosome:map03010
+LOCMI15205	LOCMI15205	60S ribosomal protein L38	LOCMI15205	Ribosome:map03010	Ribosome:map03010
+LOCMI00680	LOCMI00680	PREDICTED: 60S ribosomal protein L11-like	LOCMI00680	Ribosome:map03010	Ribosome:map03010
+LOCMI16282	LOCMI16282	E9IEY1_SOLIN Putative uncharacterized protein (Fragment)	LOCMI16282	Ribosome:map03010	Ribosome:map03010
+LOCMI03768	LOCMI03768	PREDICTED: 40S ribosomal protein S14a	LOCMI03768	Ribosome:map03010	Ribosome:map03010
+LOCMI01674	LOCMI01674	PREDICTED: 60S ribosomal protein L3-like	LOCMI01674	Ribosome:map03010	Ribosome:map03010
+LOCMI12362	LOCMI12362	39S ribosomal protein L11, mitochondrial	LOCMI12362	Ribosome:map03010	Ribosome:map03010
+LOCMI05551	LOCMI05551	AGAP004818-PA	LOCMI05551	Ribosome:map03010	Ribosome:map03010
+LOCMI08528	LOCMI08528	ribosomal protein L13	LOCMI08528	Ribosome:map03010	Ribosome:map03010
+LOCMI09731	LOCMI09731	S20e ribosomal protein	LOCMI09731	Ribosome:map03010	Ribosome:map03010
+LOCMI02690	LOCMI02690	Q56FF3_LYSTE Ribosomal protein S15A	LOCMI02690	Ribosome:map03010	Ribosome:map03010
+LOCMI15434	LOCMI15434	PREDICTED: 40S ribosomal protein S15	LOCMI15434	Ribosome:map03010	Ribosome:map03010
+LOCMI07717	LOCMI07717	40S ribosomal protein S24	LOCMI07717	Ribosome:map03010	Ribosome:map03010
+LOCMI07539	LOCMI07539	PREDICTED: 60S ribosomal protein L15	LOCMI07539	Ribosome:map03010	Ribosome:map03010
+LOCMI07300	LOCMI07300	PREDICTED: ubiquitin-like protein FUBI-like	LOCMI07300	Ribosome:map03010	Ribosome:map03010
+LOCMI02121	LOCMI02121	PREDICTED: 40S ribosomal protein S9-like	LOCMI02121	Ribosome:map03010	Ribosome:map03010
+LOCMI06694	LOCMI06694	acidic ribosomal protein	LOCMI06694	Ribosome:map03010	Ribosome:map03010
+LOCMI09756	LOCMI09756	PREDICTED: 60S ribosomal protein L30-like	LOCMI09756	Ribosome:map03010	Ribosome:map03010
+LOCMI07458	LOCMI07458	mitochondrial ribosomal protein, L33	LOCMI07458	Ribosome:map03010	Ribosome:map03010
+LOCMI09269	LOCMI09269	PREDICTED: 40S ribosomal protein S16	LOCMI09269	Ribosome:map03010	Ribosome:map03010
+LOCMI01789	LOCMI01789	60S ribosomal protein L21	LOCMI01789	Ribosome:map03010	Ribosome:map03010
+LOCMI07471	LOCMI07471	ribosomal protein L6	LOCMI07471	Ribosome:map03010	Ribosome:map03010
+LOCMI00130	LOCMI00130	PREDICTED: 60S ribosomal protein L38-like	LOCMI00130	Ribosome:map03010	Ribosome:map03010
+LOCMI11068	LOCMI11068	ribosomal protein L36e	LOCMI11068	Ribosome:map03010	Ribosome:map03010
+LOCMI10394	LOCMI10394	ribosomal protein L35	LOCMI10394	Ribosome:map03010	Ribosome:map03010
+LOCMI13626	LOCMI13626	60S ribosomal protein L12	LOCMI13626	Ribosome:map03010	Ribosome:map03010
+LOCMI08029	LOCMI08029	60S ribosomal protein L38	LOCMI08029	Ribosome:map03010	Ribosome:map03010
+LOCMI02239	LOCMI02239	ribosomal protein L27Ae	LOCMI02239	Ribosome:map03010	Ribosome:map03010
+LOCMI04836	LOCMI04836	ribosomal protein L19e	LOCMI04836	Ribosome:map03010	Ribosome:map03010
+LOCMI14819	LOCMI14819	mitochondrial ribosomal protein, L23	LOCMI14819	Ribosome:map03010	Ribosome:map03010
+LOCMI09316	LOCMI09316	ribosomal protein S8	LOCMI09316	Ribosome:map03010	Ribosome:map03010
+LOCMI06257	LOCMI06257	PREDICTED: 40S ribosomal protein S5a-like	LOCMI06257	Ribosome:map03010	Ribosome:map03010
+LOCMI10621	LOCMI10621	ribosomal protein L31e	LOCMI10621	Ribosome:map03010	Ribosome:map03010
+LOCMI01110	LOCMI01110	PREDICTED: 40S ribosomal protein S26	LOCMI01110	Ribosome:map03010	Ribosome:map03010
+LOCMI04442	LOCMI04442	microsomal glutathione transferase	LOCMI04442	Metabolism of xenobiotics by cytochrome P450:map00980	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15707	LOCMI15707	glutathione S-transferase sigma 1	LOCMI15707	Metabolism of xenobiotics by cytochrome P450:map00980	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI08143	LOCMI08143	A7RV33_NEMVE Predicted protein	LOCMI08143	Metabolism of xenobiotics by cytochrome P450:map00980	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI07111	LOCMI07111	PREDICTED: trans-1,2-dihydrobenzene-1,2-diol dehydrogenase-like	LOCMI07111	Metabolism of xenobiotics by cytochrome P450:map00980	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15698	LOCMI15698	glutathione S-transferase sigma 3	LOCMI15698	Metabolism of xenobiotics by cytochrome P450:map00980	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15694	LOCMI15694	glutathione S-transferase delta	LOCMI15694	Metabolism of xenobiotics by cytochrome P450:map00980	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI15696	LOCMI15696	glutathione S-transferase sigma 1	LOCMI15696	Metabolism of xenobiotics by cytochrome P450:map00980	Metabolism of xenobiotics by cytochrome P450:map00980
+LOCMI02056	LOCMI02056	Q7QCF8_ANOGA AGAP002606-PA	LOCMI02056	Proteasome:map03050	Proteasome:map03050
+LOCMI02554	LOCMI02554	PREDICTED: proteasome subunit alpha type-7-like	LOCMI02554	Proteasome:map03050	Proteasome:map03050
+LOCMI01417	LOCMI01417	PREDICTED: similar to proteasome subunit beta type 5,8	LOCMI01417	Proteasome:map03050	Proteasome:map03050
+LOCMI00924	LOCMI00924	Probable 26S proteasome non-ATPase regulatory subunit 3	LOCMI00924	Proteasome:map03050	Proteasome:map03050
+LOCMI10952	LOCMI10952	Proteasome subunit beta type-3	LOCMI10952	Proteasome:map03050	Proteasome:map03050
+LOCMI15334	LOCMI15334	proteasome subunit beta 7	LOCMI15334	Proteasome:map03050	Proteasome:map03050
+LOCMI10141	LOCMI10141	PREDICTED: proteasome maturation protein-like	LOCMI10141	Proteasome:map03050	Proteasome:map03050

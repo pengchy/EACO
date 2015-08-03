@@ -1,0 +1,4 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols
+Inositol phosphate metabolism:map00562	4	38	38	10.5263157895	100.0	5.98753740476	0.0	0.03225	Ascorbate and aldarate metabolism:map00053	Ascorbate and aldarate metabolism:map00053	LOCMI13444|LOCMI13445|LOCMI13447|LOCMI13448
+Ascorbate and aldarate metabolism:map00053	4	40	40	10.0	100.0	5.80651378219	0.0005	0.03225	Inositol phosphate metabolism:map00562	Inositol phosphate metabolism:map00562	LOCMI13444|LOCMI13445|LOCMI13447|LOCMI13448
+Starch and sucrose metabolism:map00500	3	53	53	5.66037735849	100.0	3.47445590162	0.0385	0.82775	 	 	LOCMI03766|LOCMI04338|LOCMI08521
