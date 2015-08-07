@@ -41,6 +41,6 @@ the lowest level is choose and other levels are filtered. The results file is
 suffix "merg".
 
 Reference:
-1.  Chen S, Yang P, Jiang F, Wei Y, Ma Z, Kang L: De Novo Analysis of Transcriptome Dynamics in the Migratory Locust during the Development of Phase Traits. PLoS One 2010, 5(12):e15633.
-2.  Huang da, W., B.T. Sherman, and R.A. Lempicki. 2009. Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists. Nucleic Acids Res 37: 1-13.
-3.  Beissbarth, T. and T.P. Speed. 2004. GOstat: find statistically overrepresented Gene Ontologies within a group of genes. Bioinformatics 20: 1464-1465.
+*  Chen S, Yang P, Jiang F, Wei Y, Ma Z, Kang L: De Novo Analysis of Transcriptome Dynamics in the Migratory Locust during the Development of Phase Traits. PLoS One 2010, 5(12):e15633.
+*  Huang da, W., B.T. Sherman, and R.A. Lempicki. 2009. Bioinformatics enrichment tools: paths toward the comprehensive functional analysis of large gene lists. Nucleic Acids Res 37: 1-13.
+*  Beissbarth, T. and T.P. Speed. 2004. GOstat: find statistically overrepresented Gene Ontologies within a group of genes. Bioinformatics 20: 1464-1465.
